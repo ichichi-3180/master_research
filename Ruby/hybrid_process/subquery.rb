@@ -1,4 +1,5 @@
 #WebNDLauthoritiesでのサブクエリをハイブリッド化
+# endpoint → Web NDL authorities
 
 require 'sparql/client'
 sparql = SPARQL::Client.new("https://id.ndl.go.jp/auth/ndla/sparql", method: "get") #Web NDL authoritiesへ問い合わせるときには第2引数にmethod: "get"を指定する
