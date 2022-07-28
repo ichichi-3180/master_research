@@ -1,0 +1,7 @@
+# リテラルの言語タグを取得する
+# endpoint : http://ja.dbpedia.org/sparql
+
+select distinct (lang(?label)as ?langtag)
+where {
+    ?s <http://www.w3.org/2000/01/rdf-schema#label> ?label .
+}

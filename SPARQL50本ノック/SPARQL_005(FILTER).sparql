@@ -1,0 +1,9 @@
+# FILTERで指定した範囲の値にマッチするリソースを取得する
+# endpoint : http://ja.dbpedia.org/sparql
+
+select *
+where {
+    ?s <http://ja.dbpedia.org/property/生年> ?date .
+    filter (?date > "1950-01-01"^^xsd:date && ?date < "1959-12-31"^^xsd:date)
+}
+order by (?date)

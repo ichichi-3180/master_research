@@ -1,0 +1,11 @@
+# BINDで値を変数にバインドする
+# endpoint : http://ja.dbpedia.org/sparql
+
+select distinct ?name ?kamonStr
+where {
+    ?s <http://ja.dbpedia.org/property/家紋> ?page ;
+    <http://www.w3.org/2000/01/rdf-schema#label> ?name ;
+    <http://ja.dbpedia.org/property/家紋名称> ?kamon .
+    bind(if(isIRI(?kamon),STRAFTER(STR(?kamon), "resource/"), STR(?kamon))
+    AS ?kamonStr)
+}

@@ -1,0 +1,6 @@
+SELECT ?v
+WHERE{ 
+  ?s <http://example/p> ?v
+  FILTER(?v < 2)
+  FILTER (5 < ?v )
+}

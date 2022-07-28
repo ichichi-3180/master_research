@@ -1,0 +1,19 @@
+select distinct  ?name (
+    IF(
+        isIRI(?kamon), 
+        STRAFTER(STR(?kamon), "resource/"), 
+        STR(?kamon)
+    ) 
+    AS ?kamonStr)
+#IF文中解説
+#第1引数：isIRI関数で?kamonがIRIなのかリテラルなのかを判別
+#→IRIであれば(isIRIの結果がtrueならば)第2引数の処理へ、IRIでなければ(isIRIの結果がfalseならば)第3引数の処理へ
+
+#第2引数：STRAFTER関数で"resource/"以降の文字列を切り取る(STRAFTER関数は文字列リテラルを引数とするので、?kamonをSTR関数で文字列化)
+
+#第3引数：STR関数で?kamonを文字列化
+WHERE {
+    ?s <http://ja.dbpedia.org/property/家紋> ?page ;
+    <http://www.w3.org/2000/01/rdf-schema#label> ?name ;
+    <http://ja.dbpedia.org/property/家紋名称> ?kamon .
+}

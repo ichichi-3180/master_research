@@ -1,0 +1,5 @@
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+SELECT ?auth (count(?rel) as ?rcount) WHERE {
+    ?auth skos:relatedMatch ?rel .
+    FILTER (regex(?rel, "^http://id.ndl.go.jp/class/ndc10/"))
+} GROUP BY ?auth HAVING(count(?rel) >= 4)

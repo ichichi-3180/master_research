@@ -1,0 +1,13 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX http: <http://www.w3.org/2011/http#>
+
+# 複数のパターンの直積によりIRIを生成する
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dbpedia-owl: <http://dbpedia.org/ontology/>
+
+SELECT (IRI(CONCAT("http://ja.dbpedia.org/resource/Category:", ?x, ?label, ?y)) AS ?category)
+WHERE {
+    <http://ja.dbpedia.org/resource/スポーツ競技一覧> dbpedia-owl:wikiPageWikiLink/rdfs:label ?label .
+    VALUES ?x {"" "男子" "女子"}
+    VALUES ?y {"アニメ" "を題材とした作品"}
+}

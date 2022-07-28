@@ -1,0 +1,7 @@
+# クラスIRIのリスト
+# endpoint : any
+
+select distinct ?class
+where{
+    ?s a ?class .
+}

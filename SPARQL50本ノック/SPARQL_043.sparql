@@ -1,0 +1,49 @@
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX ja: <http://jena.hpl.hp.com/2005/11/Assembler#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+# スポーツを題材にしたアニメ作品の取得
+PREFIX dbpedia-owl: <http://dbpedia.org/ontology/>
+PREFIX dbpedia-ja: <http://ja.dbpedia.org/resource/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+SELECT DISTINCT ?title ?category
+WHERE{
+    ?s dcterms:subject ?category, ?categories;
+    rdfs:label ?title.
+    FILTER CONTAINS(STR(?categories), "アニメ")
+    {
+        SELECT ?category
+        WHERE{
+            {
+                dbpedia-ja:スポーツ競技一覧 dbpedia-owl:wikiPageWikiLink/rdfs:label ?label.
+                BIND (IRI(CONCAT("http://ja.dbpedia.org/resource/Category:"^^xsd:string, ?label, "アニメ"^^xsd:string)) AS ?category)
+            }
+            UNION
+            {
+                dbpedia-ja:スポーツ競技一覧 dbpedia-owl:wikiPageWikiLink/rdfs:label ?label.
+                BIND (IRI(CONCAT("http://ja.dbpedia.org/resource/Category:男子"^^xsd:string, ?label, "アニメ"^^xsd:string)) AS ?category)
+            }
+            UNION
+            {
+                dbpedia-ja:スポーツ競技一覧 dbpedia-owl:wikiPageWikiLink/rdfs:label ?label.
+                BIND (IRI(CONCAT("http://ja.dbpedia.org/resource/Category:女子"^^xsd:string, ?label, "アニメ"^^xsd:string)) AS ?category)
+            }
+            UNION
+            {
+                dbpedia-ja:スポーツ競技一覧 dbpedia-owl:wikiPageWikiLink/rdfs:label ?label.
+                BIND (IRI(CONCAT("http://ja.dbpedia.org/resource/Category:"^^xsd:string, ?label, "を題材とした作品"^^xsd:string)) AS ?category)
+            }
+            UNION
+            {
+                dbpedia-ja:スポーツ競技一覧 dbpedia-owl:wikiPageWikiLink/rdfs:label ?label.
+                BIND (IRI(CONCAT("http://ja.dbpedia.org/resource/Category:男子"^^xsd:string, ?label, "を題材とした作品"^^xsd:string)) AS ?category)
+            }
+            UNION
+            {
+                dbpedia-ja:スポーツ競技一覧 dbpedia-owl:wikiPageWikiLink/rdfs:label ?label.
+                BIND (IRI(CONCAT("http://ja.dbpedia.org/resource/Category:女子"^^xsd:string, ?label, "を題材とした作品"^^xsd:string)) AS ?category)
+            }
+        }
+    }
+}

@@ -1,0 +1,11 @@
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+SELECT ?pref ?code
+WHERE {
+?pref dcterms:subject <http://ja.dbpedia.org/resource/Category:日本の都道府県>. 
+?pref <http://ja.dbpedia.org/property/区分> ?category. 
+?pref <http://dbpedia.org/ontology/areaCode> ?code
+FILTER (regex(?category, "[都道府県]")) .
+FILTER (regex(?code, "^JP")) .
+}
+ORDER BY xsd:integer(STRAFTER(?code, "JP-"))

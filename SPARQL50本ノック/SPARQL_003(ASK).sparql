@@ -1,0 +1,7 @@
+# ASKでクエリパターンにマッチするか否かを調べる
+# クエリパターンにマッチするか否かをtrue/falseで返す
+# endpoint : any
+
+ask {
+    <http://example.com/foo> ?p ?o .
+}

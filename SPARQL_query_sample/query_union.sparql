@@ -1,0 +1,35 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+# PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+# PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+# PREFIX owl: <http://www.w3.org/2002/07/owl#>
+# PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+# PREFIX dbpj: <http://ja.dbpedia.org/resource/>
+# PREFIX dbp-owl: <http://dbpedia.org/ontology/>
+# PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+# SELECT ?film_name ?director
+# WHERE
+# {
+#  {
+#  ?film dbp-owl:director ?director.
+#  FILTER (?director = dbpj:ビートたけし)
+#  }
+#  UNION
+#  {
+#  ?film dbp-owl:director ?director.
+#  FILTER (?director =  dbpj:北野武)
+#  }
+#  ?film rdfs:label ?film_name.
+# }
+
+PREFIX dc10:  <http://purl.org/dc/elements/1.0/>
+PREFIX dc11:  <http://purl.org/dc/elements/1.1/>
+
+SELECT ?title
+WHERE  { 
+    { ?book dc10:title  ?title } 
+    UNION 
+    { ?book dc11:title  ?title } 
+}

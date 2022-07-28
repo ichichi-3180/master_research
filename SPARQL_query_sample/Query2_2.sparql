@@ -1,0 +1,3 @@
+SELECT distinct ?class where{
+  	?s a ?class.
+}

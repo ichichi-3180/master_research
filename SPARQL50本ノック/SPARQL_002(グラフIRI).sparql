@@ -1,0 +1,9 @@
+# グラフIRIのリストを取得する
+# endpoint : any
+
+select distinct ?g
+where {
+    graph ?g {
+        ?s ?p ?o .
+    }
+}

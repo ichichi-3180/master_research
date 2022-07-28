@@ -1,0 +1,3 @@
+SELECT distinct ?sub WHERE{
+  ?sub ?pred ?obj.
+}

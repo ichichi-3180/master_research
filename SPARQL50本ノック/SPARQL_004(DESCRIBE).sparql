@@ -1,0 +1,8 @@
+# DESCRIBEで指定したURIに関するデータを取得する
+# よくわからん
+# endpoint : http://ja.dbpedia.org/sparql
+
+describe ?s
+where {
+    ?s <http://www.w3.org/2000/01/rdf-schema#label> "ペタンク"@ja .
+}

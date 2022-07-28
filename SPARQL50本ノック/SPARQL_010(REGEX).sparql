@@ -1,0 +1,10 @@
+# REGEXで文字列を正規表現でマッチする
+# endpoint : http://ja.dbpedia.org/sparql
+
+SELECT ?s ?label
+WHERE {
+    ?s <http://www.w3.org/2000/01/rdf-schema#label> ?label .
+    FILTER REGEX(?label, "QL$", "i")
+}
+
+#REGEX関数の第３引数："i"→大文字小文字を問わない

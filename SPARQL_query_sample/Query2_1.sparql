@@ -1,0 +1,4 @@
+SELECT ?class (count(distinct?p) AS ?count) where{
+  	?s a ?class.
+  	?s ?p ?o.
+}GROUP BY ?class

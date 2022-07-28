@@ -1,0 +1,26 @@
+# 31本目を都道府県ごとに出力
+
+SELECT ?pref (COUNT(?mount) AS ?count) (GROUP_CONCAT(?name; SEPARATOR=', ') AS ?mountList)
+WHERE{
+    ?s a <http://dbpedia.org/ontology/AdministrativeRegion> ;
+    <http://www.w3.org/2000/01/rdf-schema#label> ?pref.
+    FILTER CONTAINS(?mountPref, STR(?pref))
+    {
+        SELECT ?mount ?name (GROUP_CONCAT(DISTINCT(?pref); SEPARATOR=', ') AS ?mountPref)
+        WHERE {
+            ?mount a <http://dbpedia.org/ontology/Mountain>;
+            <http://dbpedia.org/ontology/address> ?address;
+            <http://www.w3.org/2000/01/rdf-schema#label> ?name;
+            ^<http://dbpedia.org/ontology/wikiPageWikiLink> <http://ja.dbpedia.org/resource/日本の山一覧> .
+            BIND (REPLACE(STR(REPLACE(?address, "([（）]|藤津郡太良町・)", "")), "(京都府|[都道府県]).*$", "$1") as ?pref)
+            FILTER (REGEX(?pref, "[都道府県]"))
+            FILTER (!REGEX(?pref, "(同県|小県)"))
+        }
+        GROUP BY ?mount ?name
+        HAVING (COUNT(DISTINCT(?pref)) > 1)
+    }
+}
+GROUP BY ?pref
+ORDER BY DESC (COUNT(?mount))
+
+# 割と早く応答が返ってくる

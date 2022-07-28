@@ -1,0 +1,17 @@
+SELECT ?vocab (count(distinct(?class)) as ?num) (group_concat(distinct ?class; separator=',') as ?class_list) 
+
+WHERE { 
+
+  ?s a ?o . 
+
+  bind (str(?o) as ?str) 
+
+  bind (replace(?str, ".+[^a-zA-Z_0-9-]([a-zA-Z_][a-z0-9A-Z_-]*)$", "$1") as ?class) 
+
+  bind (strbefore(?str, ?class) as ?vocab) 
+
+} 
+
+GROUP BY (?vocab) 
+
+ORDER BY DESC(count(distinct(?class))) 

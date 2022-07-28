@@ -1,0 +1,16 @@
+# 複数の都道府県にまたがる日本の山のリストを取得
+SELECT ?s (COUNT(DISTINCT(?pref)) AS ?count) (GROUP_CONCAT(DISTINCT ?pref; SEPARATOR=', ') AS ?prefList)
+WHERE{
+    ?s a <http://dbpedia.org/ontology/Mountain>;
+    <http://dbpedia.org/ontology/address> ?address;
+    <http://www.w3.org/2000/01/rdf-schema#label> ?name;
+    ^<http://dbpedia.org/ontology/wikiPageWikiLink> <http://ja.dbpedia.org/resource/日本の山一覧> .
+    BIND (REPLACE(STR(REPLACE(?address, "([（）]|藤津郡太良町・)", "")), "(京都府|[都道府県]).*$", "$1") as ?pref)
+    FILTER (REGEX(?pref, "[都道府県]"))
+    FILTER (!REGEX(?pref, "(同県|小県)"))
+}
+GROUP BY ?s
+HAVING (COUNT(DISTINCT(?pref)) > 1)
+ORDER BY DESC (COUNT(DISTINCT(?pref)))
+
+# 応答あり(結構早い)

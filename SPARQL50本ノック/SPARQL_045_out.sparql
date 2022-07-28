@@ -1,0 +1,9 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dbpedia-owl: <http://dbpedia.org/ontology/>
+
+SELECT DISTINCT ?title ?category
+WHERE {
+    ?s <http://purl.org/dc/terms/subject> ?category, ?categories ;
+    rdfs:label ?title.
+    FILTER CONTAINS(STR(?categories), "アニメ")
+}

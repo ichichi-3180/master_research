@@ -1,0 +1,9 @@
+# select * where{
+#     ?s ?p ?o.
+# }
+
+select ?s ?p ?o where{
+    ?s a ?class.
+    ?s ?p ?o.
+}
+

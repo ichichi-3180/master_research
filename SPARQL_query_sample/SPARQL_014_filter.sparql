@@ -1,0 +1,8 @@
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX category-ja: <http://ja.dbpedia.org/resource/Category:>
+
+SELECT DISTINCT ?s WHERE{
+    ?s dcterms:subject ?volley;
+    dcterms:subject ?cat.
+    FILTER CONTAINS(STR(?cat), "アニメ作品")
+}

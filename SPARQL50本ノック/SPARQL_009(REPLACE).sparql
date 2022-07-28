@@ -1,0 +1,15 @@
+# REPLACEで文字列を正規表現で置換する
+# endpoint : http://ja.dbpedia.org/sparql
+
+select distinct ?name ?kamonStr
+where {
+    ?s <http://ja.dbpedia.org/property/家紋> ?page ;
+    <http://www.w3.org/2000/01/rdf-schema#label> ?name ;
+    <http://ja.dbpedia.org/property/家紋名称> ?kamon .
+    BIND (IF(isIRI(?kamon), REPLACE(STR(?kamon), ".+/resource/([^/]+)$" , "$1"), STR(?kamon))
+    AS ?kamonStr)
+}
+# 正規表現について
+# .+ : 任意の一文字を一回以上繰り返す、つまり１行全て
+# ([^/]+)$ : バックスラッシュが含まれない一文字の一回以上の繰り返しで終了する文字列←あってる？
+# $1 : 置換文字列

@@ -1,0 +1,15 @@
+PREFIX rdfs: <http://wwww.w3.org/2000/01/rdf-schema#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+SELECT ?article ?category
+WHERE {
+    ?article rdfs:label ?labelArticle.
+    ?category a skos:Concept ;
+    rdfs:label ?labelConcept.
+    FILTER (CONTAINS(STR(?category), "resource/Category:"))
+    FILTER (?article != ?category)
+    FILTER (?labelArticle = ?labelConcept)
+}
+ORDER BY ?labelArticle
+
+# no result

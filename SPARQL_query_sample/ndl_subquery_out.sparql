@@ -1,0 +1,6 @@
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+SELECT ?auth ?rcount ?upper (count(?srel) as ?srcount) WHERE {
+    ?auth skos:broader ?upper.
+    ?upper skos:relatedMatch ?srel .
+    FILTER (regex(?srel, "^http://id.ndl.go.jp/class/ndc10/"))
+}

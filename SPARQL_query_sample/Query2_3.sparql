@@ -1,0 +1,4 @@
+SELECT (count(distinct ?p) AS ?count) where{
+  	?s a <http://localhost/vocabulary/bench/Journal>.
+  	?s ?p ?o.
+}

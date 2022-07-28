@@ -1,0 +1,12 @@
+PREFIX ndl: <http://ndl.go.jp/dcndl/terms/>
+PREFIX xl: <http://www.w3.org/2008/05/skos-xl#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT DISTINCT ?n 
+where{
+    ?n rdf:type ?o1;
+    xl:prefLabel ?o2.
+    ?o2 xl:literalForm ?o3;
+    ndl:transcription ?o4.
+}
+
