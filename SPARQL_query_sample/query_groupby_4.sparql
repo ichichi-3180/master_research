@@ -1,0 +1,6 @@
+#リソースごとのプロパティ数を取得するクエリ
+
+select ?s (COUNT(?p) AS ?p_num) where{
+    ?s ?p ?o.
+}
+GROUP BY ?s

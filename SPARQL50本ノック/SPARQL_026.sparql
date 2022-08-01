@@ -1,0 +1,12 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?pref (count(?name) as ?count) (GROUP_CONCAT(?name; separator=',') as ?people)
+WHERE{
+    ?person <http://purl.org/dc/terms/subject> <http://ja.dbpedia.org/resource/Category:日本のオリンピック金メダリスト> ;
+    <http://purl.org/dc/terms/subject> ?bplace ;
+    <http://www.w3.org/2000/01/rdf-schema#label> ?name.
+    ?bplace <http://www.w3.org/2000/01/rdf-schema#label> ?pref.
+    FILTER REGEX(?pref, "[都道府県州国]出身の人物", "i")
+}
+GROUP BY (?pref)
+ORDER BY DESC (count(?person))

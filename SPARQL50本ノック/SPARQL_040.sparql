@@ -1,0 +1,8 @@
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+SELECT ?gchild (COUNT(?child)-1 AS ?depth)
+WHERE{
+    <http://ja.dbpedia.org/resource/Category:アニメ> ^skos:broader* ?child.
+    ?child ^skos:broader* ?gchild. 
+}
+GROUP BY ?gchild
+ORDER BY (COUNT(?child))

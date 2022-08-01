@@ -1,0 +1,6 @@
+select ?s (COUNT(?class) AS ?count) 
+where{
+    ?s a ?class.
+}
+GROUP BY ?class
+HAVING (COUNT(?class) > 14)

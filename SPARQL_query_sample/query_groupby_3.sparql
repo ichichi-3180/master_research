@@ -1,0 +1,7 @@
+#クラスごとのプロパティを取得するクエリ
+# ローカルのfusekiでエラー (Non-group key variable in SELECT: ?p)
+select ?class ?p where{
+    ?s a ?class;
+    ?p ?o.
+}
+GROUP BY ?class
