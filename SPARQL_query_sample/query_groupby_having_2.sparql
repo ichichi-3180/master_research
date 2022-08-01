@@ -1,7 +1,6 @@
 SELECT ?s (COUNT(?p) AS ?p_num)
 WHERE{
-    ?s a ?class;
-    ?p ?o.
+    ?s ?p ?o.
 }
 GROUP BY ?s
 HAVING (COUNT(?p) > 14)
