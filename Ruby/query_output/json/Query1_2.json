@@ -1,0 +1,18 @@
+[
+    "distinct",
+    [
+        "project",
+        [
+            "?sub"
+        ],
+        [
+            "bgp",
+            [
+                "triple",
+                "?sub",
+                "?pred",
+                "?obj"
+            ]
+        ]
+    ]
+]

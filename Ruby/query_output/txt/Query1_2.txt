@@ -1,0 +1,1 @@
+[:distinct, [:project, [#<RDF::Query::Variable:0x6b8(?sub)>], [:bgp, [:triple, #<RDF::Query::Variable:0x6b8(?sub)>, #<RDF::Query::Variable:0x6e0(?pred)>, #<RDF::Query::Variable:0x6cc(?obj)>]]]]
