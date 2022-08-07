@@ -9,7 +9,7 @@ file_path = "../../SPARQL_query_sample/ndl_subquery.sparql"
 file = File.open(file_path, "r")
 query = file.read
 result = sparql.query(query)
-p result.length
+p result.order_by(:auth).class
 
 
 #内側SPARQLクエリを読み込み
@@ -52,5 +52,5 @@ result_in.each{|r_in|
 # p result_in[0]
 p result_hybrid.order(:auth)[0]
 p result.order(:auth)[0]
-p result_hybrid.class
+# p result.to_json
 
