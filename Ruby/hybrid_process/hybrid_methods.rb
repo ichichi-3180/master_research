@@ -1,4 +1,5 @@
-def split_distinct(a)
+# sseArrayからDISTINCTを除いたsseArrayに分割するメソッド
+def get_except_distinct(a)
     if a.length == 1 then
         return a
     else
@@ -12,7 +13,7 @@ def split_distinct(a)
                     array.push(e)
                 end
             elsif e.class == Array then
-                array.push(split_distinct(e))
+                array.push(get_except_distinct(e))
             else
                 array.push(e)
             end
@@ -32,6 +33,7 @@ def get_limit_num(sparql)
     return result.length
 end
 
+#エンドポイントの返り値の上限を無視して、全てのパターンを取得するメソッド
 def ignore_limits(sparql, query)
     limit = get_limit_num(sparql) #エンドポイントの返り値の限界値を取得
     p "取得可能な限界値：" + limit.to_s
