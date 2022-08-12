@@ -1,0 +1,28 @@
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/00561464,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept,uri,,1.0
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/00561464,http://purl.org/dc/terms/modified,2017-04-03T14:10:25,literal,,1.0
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/00561464,http://purl.org/dc/terms/created,1980-06-20,literal,,1.0
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/00561464,http://www.w3.org/2004/02/skos/core#relatedMatch,http://id.ndl.go.jp/class/ndlc/NC37,uri,,0.9813561797205861
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/00561464,http://www.w3.org/2008/05/skos-xl#prefLabel,b0,bnode,,1.0
+bnode,b0,http://www.w3.org/2008/05/skos-xl#literalForm,電車,literal,,1.0
+bnode,b0,http://ndl.go.jp/dcndl/terms/transcription,デンシャ,literal,,0.9966411916467897
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/00561464,http://www.w3.org/2000/01/rdf-schema#label,電車,literal,,1.0
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/00561464,http://www.w3.org/2002/07/owl#sameAs,http://id.ndl.go.jp/auth/ndlsh/電車,uri,,0.9498612666114978
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/00561464,http://www.w3.org/2008/05/skos-xl#altLabel,b1,bnode,,0.8305992308815655
+bnode,b1,http://www.w3.org/2008/05/skos-xl#literalForm,Electric railroads--Cars,literal,,1.0
+bnode,b1,http://ndl.go.jp/dcndl/terms/transcription,,literal,,0
+bnode,b1,http://purl.org/dc/terms/description,,literal,,0
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/00561464,http://www.w3.org/2004/02/skos/core#broader,http://id.ndl.go.jp/auth/ndlsh/00572936,uri,http://www.w3.org/2004/02/skos/core#Concept,0.6705447110938032
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/00561464,http://purl.org/dc/terms/source,広辞苑 第5版,literal,,0.9397361631699362
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/00561464,http://www.w3.org/2004/02/skos/core#note,,literal,,0
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/00561464,http://www.w3.org/2004/02/skos/core#inScheme,http://id.ndl.go.jp/auth#topicalTerms,uri,,1.0
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/00561464,http://www.w3.org/2004/02/skos/core#closeMatch,http://id.loc.gov/authorities/subjects/sh85041946,uri,,0.6951759723506791
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/00561464,http://www.w3.org/2004/02/skos/core#related,,uri,http://www.w3.org/2004/02/skos/core#Concept,0
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/00561464,http://www.w3.org/2004/02/skos/core#narrower,,uri,http://www.w3.org/2004/02/skos/core#Concept,0
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/00561464,http://www.w3.org/2004/02/skos/core#exactMatch,,uri,,0
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/00561464,http://www.w3.org/2004/02/skos/core#historyNote,,literal,,0
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/00561464,http://www.w3.org/2000/01/rdf-schema#seeAlso,,uri,,0
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/00561464,http://xmlns.com/foaf/0.1/primaryTopic,,uri,http://xmlns.com/foaf/0.1/Organization,0
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/00561464,http://purl.org/dc/terms/source,新電車読本 / 新出茂雄 著,literal,,0.9397361631699362
+bnode,b0,http://ndl.go.jp/dcndl/terms/transcription,Densha,literal,,0.9966411916467897
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/00561464,http://www.w3.org/2004/02/skos/core#relatedMatch,http://id.ndl.go.jp/class/ndc10/536.5,uri,,0.9813561797205861
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/00561464,http://www.w3.org/2004/02/skos/core#relatedMatch,http://id.ndl.go.jp/class/ndc9/546.5,uri,,0.9813561797205861

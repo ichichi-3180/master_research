@@ -1,0 +1,5 @@
+n,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,o1,uri,,1.0,1
+n,http://xmlns.com/foaf/0.1/name,o2,literal,,1.0,1
+n,http://RDVocab.info/ElementsGr2/dateOfEstablishment,o3,literal,,1.0,1
+n,http://RDVocab.info/ElementsGr2/corporateHistory,o4,literal,,0.6666666666666666,1
+n,http://RDVocab.info/ElementsGr2/dateOfTermination,o5,literal,,0,0

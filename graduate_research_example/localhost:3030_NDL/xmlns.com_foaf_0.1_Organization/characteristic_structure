@@ -1,0 +1,15 @@
+digraph{
+        graph [rankdir = LR];
+    "http://xmlns.com/foaf/0.1/Organization"->URI1[label="http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+existprobab:1.0"]
+"http://xmlns.com/foaf/0.1/Organization"->LITERAL1[label="http://xmlns.com/foaf/0.1/name
+existprobab:1.0"]
+"http://xmlns.com/foaf/0.1/Organization"->LITERAL2[label="http://RDVocab.info/ElementsGr2/dateOfEstablishment
+existprobab:1.0"]
+"http://xmlns.com/foaf/0.1/Organization"->LITERAL3[label="http://RDVocab.info/ElementsGr2/corporateHistory
+existprobab:0.6666666666666666"]
+URI1[shape="ellipse"]
+LITERAL1[shape="box"]
+LITERAL2[shape="box"]
+LITERAL3[shape="box"]
+}

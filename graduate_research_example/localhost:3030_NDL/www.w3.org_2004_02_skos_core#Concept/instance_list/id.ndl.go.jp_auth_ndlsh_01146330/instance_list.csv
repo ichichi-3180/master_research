@@ -1,0 +1,28 @@
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/01146330,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept,uri,,1.0
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/01146330,http://purl.org/dc/terms/modified,2018-03-19T13:40:09,literal,,1.0
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/01146330,http://purl.org/dc/terms/created,2009-01-08,literal,,1.0
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/01146330,http://www.w3.org/2004/02/skos/core#relatedMatch,http://id.ndl.go.jp/class/ndlc/DA49,uri,,0.9813561797205861
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/01146330,http://www.w3.org/2008/05/skos-xl#prefLabel,b0,bnode,,1.0
+bnode,b0,http://www.w3.org/2008/05/skos-xl#literalForm,経済物理学,literal,,1.0
+bnode,b0,http://ndl.go.jp/dcndl/terms/transcription,ケイザイブツリガク,literal,,0.9966411916467897
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/01146330,http://www.w3.org/2000/01/rdf-schema#label,経済物理学,literal,,1.0
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/01146330,http://www.w3.org/2002/07/owl#sameAs,http://id.ndl.go.jp/auth/ndlsh/経済物理学,uri,,0.9498612666114978
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/01146330,http://www.w3.org/2008/05/skos-xl#altLabel,b1,bnode,,0.8305992308815655
+bnode,b1,http://www.w3.org/2008/05/skos-xl#literalForm,Econophysics,literal,,1.0
+bnode,b1,http://ndl.go.jp/dcndl/terms/transcription,,literal,,0
+bnode,b1,http://purl.org/dc/terms/description,,literal,,0
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/01146330,http://www.w3.org/2004/02/skos/core#broader,http://id.ndl.go.jp/auth/ndlsh/00565428,uri,http://www.w3.org/2004/02/skos/core#Concept,0.6705447110938032
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/01146330,http://purl.org/dc/terms/source,"経済物理学 / 青山秀明, 家富洋, 池田裕一, 相馬亘, 藤原義久 著",literal,,0.9397361631699362
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/01146330,http://www.w3.org/2004/02/skos/core#note,,literal,,0
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/01146330,http://www.w3.org/2004/02/skos/core#inScheme,http://id.ndl.go.jp/auth#topicalTerms,uri,,1.0
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/01146330,http://www.w3.org/2004/02/skos/core#closeMatch,http://id.loc.gov/authorities/subjects/sh2010005117,uri,,0.6951759723506791
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/01146330,http://www.w3.org/2004/02/skos/core#related,,uri,http://www.w3.org/2004/02/skos/core#Concept,0
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/01146330,http://www.w3.org/2004/02/skos/core#narrower,,uri,http://www.w3.org/2004/02/skos/core#Concept,0
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/01146330,http://www.w3.org/2004/02/skos/core#exactMatch,,uri,,0
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/01146330,http://www.w3.org/2004/02/skos/core#historyNote,,literal,,0
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/01146330,http://www.w3.org/2000/01/rdf-schema#seeAlso,,uri,,0
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/01146330,http://xmlns.com/foaf/0.1/primaryTopic,,uri,http://xmlns.com/foaf/0.1/Organization,0
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/01146330,http://purl.org/dc/terms/source,経済学辞典 第4版,literal,,0.9397361631699362
+bnode,b0,http://ndl.go.jp/dcndl/terms/transcription,Keizaibutsurigaku,literal,,0.9966411916467897
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/01146330,http://www.w3.org/2004/02/skos/core#relatedMatch,http://id.ndl.go.jp/class/ndc10/331.19,uri,,0.9813561797205861
+http://www.w3.org/2004/02/skos/core#Concept,http://id.ndl.go.jp/auth/ndlsh/01146330,http://www.w3.org/2004/02/skos/core#relatedMatch,http://id.ndl.go.jp/class/ndc9/331.19,uri,,0.9813561797205861

@@ -1,0 +1,5 @@
+http://xmlns.com/foaf/0.1/Organization,http://id.ndl.go.jp/auth/entity/00407066,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://xmlns.com/foaf/0.1/Organization,uri,,1.0
+http://xmlns.com/foaf/0.1/Organization,http://id.ndl.go.jp/auth/entity/00407066,http://xmlns.com/foaf/0.1/name,欧州連合,literal,,1.0
+http://xmlns.com/foaf/0.1/Organization,http://id.ndl.go.jp/auth/entity/00407066,http://RDVocab.info/ElementsGr2/dateOfEstablishment,1993,literal,,1.0
+http://xmlns.com/foaf/0.1/Organization,http://id.ndl.go.jp/auth/entity/00407066,http://RDVocab.info/ElementsGr2/corporateHistory,"1993年, 欧州共同体 (EC) を発展させて発足",literal,,0.6666666666666666
+http://xmlns.com/foaf/0.1/Organization,http://id.ndl.go.jp/auth/entity/00407066,http://RDVocab.info/ElementsGr2/dateOfTermination,,literal,,0

@@ -1,0 +1,10 @@
+
+        select distinct  ?o1 ?o2 ?o3 ?o4 ?o5 where{
+            ?n <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?o1.
+?n <http://xmlns.com/foaf/0.1/name> ?o2.
+?n <http://RDVocab.info/ElementsGr2/dateOfEstablishment> ?o3.
+?n <http://RDVocab.info/ElementsGr2/corporateHistory> ?o4.
+
+            filter (?n = <http://id.ndl.go.jp/auth/entity/00297324>)
+        }
+    
