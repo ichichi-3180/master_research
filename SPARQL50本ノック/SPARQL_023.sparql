@@ -1,0 +1,8 @@
+#DBpedia Japaneseから上位概念を持たないカテゴリを取得する
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+SELECT distinct ?s WHERE{
+    ?s a skos:Concept .
+    FILTER NOT EXISTS{?s skos:broader ?bc}
+    FILTER REGEX(STR(?s), 'dbpedia.org/resource/Category')
+}

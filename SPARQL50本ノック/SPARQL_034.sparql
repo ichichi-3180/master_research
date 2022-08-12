@@ -1,0 +1,9 @@
+#あるカテゴリの下位カテゴリに属する記事を取得する(DBpedia Japanese)
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+
+SELECT DISTINCT ?s ?category
+WHERE{
+    ?s dcterms:subject ?category.
+    <http://ja.dbpedia.org/resource/Category:アニメ> ^skos:broader+ ?category .
+}
