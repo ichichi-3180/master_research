@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata116,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata116,https://schema.org/address,山形県上山市葉山５－１０,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata116,https://schema.org/name,葉山舘,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata116,https://schema.org/description,葉山に抱かれ、洗練された純和風の老舗旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata116,http://ja.dbpedia.org/property/郵便番号,999-3242,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata116,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504955988,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata116,http://www.w3.org/2003/01/geo/wgs84_pos#long,137322443,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata116,https://schema.org/image,市街地から少し離れた蔵王連峰を一望する高台に静かに佇む、どこか懐かしい居心地のよさとモダンな感性が融合した宿です。源泉かけ流しの温泉と山形産食材にこだわったおもてなし料理をお愉しみください。,literal,,1.0

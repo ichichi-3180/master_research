@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido20,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido20,https://schema.org/address,北海道斜里郡斜里町ウトロ東３１８,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido20,https://schema.org/name,ホテル季風クラブ知床,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido20,https://schema.org/description,木の持つ温もりと大自然の恵みを味わい至福の時を堪能してください,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido20,http://ja.dbpedia.org/property/郵便番号,099-4355,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido20,http://www.w3.org/2003/01/geo/wgs84_pos#lat,522028322,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido20,http://www.w3.org/2003/01/geo/wgs84_pos#long,158670160,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido20,https://schema.org/image,全室オーシャンビュー！！春～夏は夕陽を冬は流氷で覆われます。2016年に増築した館内温泉でゆったり。木造りの貸し切り露天風呂あり。お夕食は和食膳とオイルフォンデュ、ご朝食はヘルシー和食膳。,literal,,1.0

@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Mie18,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Mie18,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature7,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Mie18,http://ja.dbpedia.org/property/読み仮名,とばぐらんどほてるおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Mie18,https://schema.org/address,三重県鳥羽市小浜町,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Mie18,https://schema.org/name,鳥羽グランドホテル温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Mie18,https://schema.org/description,電車で大阪から約2時間、名古屋から約1時間30分とアクセス抜群の鳥羽市。海と海幸と温泉と三拍子そろった温泉地。各宿泊施設ごとに泉質・効能が異なり、様々な楽しみ方がある。特に、海が見える絶景露天風呂などもあり、オススメのエリアだ。主な泉質は、炭酸水素塩泉など。主な効能は、神経痛、五十肩、皮膚病など。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Mie18,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Mie18,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

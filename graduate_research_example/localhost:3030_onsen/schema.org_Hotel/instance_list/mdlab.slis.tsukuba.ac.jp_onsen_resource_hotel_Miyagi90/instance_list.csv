@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi90,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi90,https://schema.org/address,宮城県大崎市鳴子温泉鬼首字小向原9-8,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi90,https://schema.org/name,ペンション　森りんこ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi90,https://schema.org/description,自然木が印象的な宿。ひと手間加えた料理は◎、天然温泉の貸切可,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi90,http://ja.dbpedia.org/property/郵便番号,989-6941,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi90,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506325526,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi90,http://www.w3.org/2003/01/geo/wgs84_pos#long,139624389,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi90,https://schema.org/image,リース、ドライフラワー、刺しゅうと手作りインテリアがいっぱい。吹き抜けのダイニングは、大きな柱、大きな窓が印象的。天然温泉のお風呂は家族風呂OKの貸切可。ひと手間加えたオリジナル料理が大好評。,literal,,1.0

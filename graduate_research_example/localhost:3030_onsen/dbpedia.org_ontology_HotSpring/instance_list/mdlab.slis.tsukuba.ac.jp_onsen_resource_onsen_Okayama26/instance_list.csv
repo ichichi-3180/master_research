@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama26,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama26,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature16,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama26,http://ja.dbpedia.org/property/読み仮名,そうじゃおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama26,https://schema.org/address,岡山県総社市井尻野,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama26,https://schema.org/name,総社温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama26,https://schema.org/description,国指定史跡の備中国分寺や画聖・雪舟が幼少時代に修行したといわれる宝福寺など吉備路観光の拠点に最適の温泉地。泉質はラジウム泉でリウマチ、神経痛に効能がある。岡山県を代表する名勝地の奇岩美と自然美が独特の景勝を醸し出す「豪渓」にも近く、秋の紅葉シーズンはもっともオススメの時期。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama26,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama26,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Toyama49,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Toyama49,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature0,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Toyama49,http://ja.dbpedia.org/property/読み仮名,くれはやまおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Toyama49,https://schema.org/address,富山県富山市呉羽町,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Toyama49,https://schema.org/name,呉羽山温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Toyama49,https://schema.org/description,JR富山駅から車で１０分の小高い呉羽山丘陵にある温泉地。春は桜が咲きほこり秋は見事な紅葉が楽しめるオアシス的存在。湯量豊富な単純温泉はよく温まり肌もしっとり、肩こり腰痛にも効果があると評判。また丘陵を散策するのもお忘れなく。癒し効果抜群の散歩道だ。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Toyama49,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Toyama49,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

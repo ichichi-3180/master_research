@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyagi8,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyagi8,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature0,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyagi8,http://ja.dbpedia.org/property/読み仮名,さくなみおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyagi8,https://schema.org/address,宮城県仙台市青葉区作並,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyagi8,https://schema.org/name,作並温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyagi8,https://schema.org/description,約１２８０年前に行基が発見した説、約８１０年前に源頼朝が発見したという説も残る歴史ある温泉郷。広瀬川源流の山間に温泉宿が点在し、日本の原風景を思わせる風情が漂う。仙台市街地から車で３０分のアクセスの良さで、地元はもちろん、全国から旅行客が訪れる。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyagi8,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyagi8,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

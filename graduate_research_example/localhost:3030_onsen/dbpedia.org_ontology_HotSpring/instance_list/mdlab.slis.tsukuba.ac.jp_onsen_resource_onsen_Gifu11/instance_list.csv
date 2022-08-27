@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu11,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu11,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature13,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu11,http://ja.dbpedia.org/property/読み仮名,しらかわごうひらせおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu11,https://schema.org/address,岐阜県大野郡白川村平瀬,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu11,https://schema.org/name,白川郷平瀬温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu11,https://schema.org/description,【世界文化遺産から一番近い温泉地】世界文化遺産に登録された、白川村荻町の合掌造り集落から車で１５分。静かな山間に佇む風情ある温泉地。源泉から湧き出る温泉は高温で「子宝の湯」としても有名な温泉。春～秋にかけては白川国立公園にもアクセスが便利。冬になれば雪景色を楽しみながらの温泉を楽しめる。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu11,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu11,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

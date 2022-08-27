@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima194,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima194,https://schema.org/address,福島県いわき市平下高久字南谷地１６－４,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima194,https://schema.org/name,いわき新舞子ハイツ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima194,https://schema.org/description,水平線の見える、癒しとくつろぎの宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima194,http://ja.dbpedia.org/property/郵便番号,970-0221,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima194,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507503608,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima194,http://www.w3.org/2003/01/geo/wgs84_pos#long,133275652,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima194,https://schema.org/image,すぐそこは太平洋。ハードな日常を癒やす大きな海、そして豊かな温泉。<BR>遊んでも、騒いでも、心からくつろげるやすらぎの宿です。,literal,,1.0

@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi51,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi51,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature13,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi51,http://ja.dbpedia.org/property/読み仮名,きつれがわおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi51,https://schema.org/address,栃木県さくら市喜連川,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi51,https://schema.org/name,喜連川温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi51,https://schema.org/description,喜連川は古い城下町で江戸時代は奥州街道の宿場として栄えた歴史を持つ。硫黄、塩分、鉄分を含む弱アルカリ泉は薄い茶色に塩味の良泉。2001年にオープンした、全国初の「温泉付き」道の駅や、喜連川第１温泉浴場、喜連川第２温泉浴場では、立ち寄りでも、温泉を楽しむことができる。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi51,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi51,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

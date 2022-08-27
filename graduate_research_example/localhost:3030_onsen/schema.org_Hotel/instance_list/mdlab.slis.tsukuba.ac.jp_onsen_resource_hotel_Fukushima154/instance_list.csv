@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima154,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima154,https://schema.org/address,福島県大沼郡金山町玉梨横井戸２７８６―１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima154,https://schema.org/name,玉梨温泉　恵比寿屋,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima154,https://schema.org/description,日本で珍しい天然炭酸温泉に入れる奥会津の秘湯,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima154,http://ja.dbpedia.org/property/郵便番号,968-0014,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima154,http://www.w3.org/2003/01/geo/wgs84_pos#lat,502372747,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima154,http://www.w3.org/2003/01/geo/wgs84_pos#long,134707328,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima154,https://schema.org/image,日本でも珍しい天然炭酸温泉「玉梨八町温泉」。奥会津の山奥に湧く秘湯です。春夏秋冬どの季節でも楽しめるだけの景色がここにはあります。都会で疲れ切った皆様方の身体を、芯から癒していくでしょう！！,literal,,1.0

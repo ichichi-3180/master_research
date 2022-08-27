@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita92,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita92,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita92,http://ja.dbpedia.org/property/読み仮名,てんのうおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita92,https://schema.org/address,秋田県南秋田郡天王町天王字江川上谷地109-2,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita92,https://schema.org/name,天王温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita92,https://schema.org/description,自然に恵まれ、産物に恵まれた福島に古くから栄えた飯坂穴原温泉は、摺上川のほとりに開けた温泉郷です。春は柔らかな陽ざしと新緑、夏は清流のすがすがしさを、秋は燃えるような紅葉の移ろい、冬は雪の静寂と、豊かな表情をみせて尽きることがありません。福島駅から車で３０分、飯坂温泉を抜けていくとあります。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita92,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita92,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido189,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido189,https://schema.org/address,登別市登別温泉町173番地,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido189,https://schema.org/name,御やど　清水屋,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido189,https://schema.org/description,旬の会席料理をお部屋でごゆっくりとお召し上がり下さい。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido189,http://ja.dbpedia.org/property/郵便番号,059-0551,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido189,http://www.w3.org/2003/01/geo/wgs84_pos#lat,508121597,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido189,http://www.w3.org/2003/01/geo/wgs84_pos#long,152978221,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido189,https://schema.org/image,お香が焚かれたロビー、風情のある露天風呂など、上品な雰囲気の純和風旅館。行き届いたサービスと一品一品運ばれてくる料理の評判が高く、リピーターも多い。食後は源泉100％の硫黄泉で身も心も大満足。,literal,,1.0

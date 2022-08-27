@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma102,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma102,http://ja.dbpedia.org/property/泉質,http://iris.slis.tsukuba.ac.jp:3050/onsen/data,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma102,http://ja.dbpedia.org/property/読み仮名,あかぎこうげんおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma102,https://schema.org/address,群馬県前橋市　苗ヶ島町1432-2,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma102,https://schema.org/name,赤城高原温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma102,https://schema.org/description,一軒宿「山屋蒼月」の庭園内にある「手の湯」「島の湯」の2つの源泉からブレンドされて供される温泉。まろやかな肌ざわりが特徴で、鉄イオンを含んだ湯は体を温め保温効果を持続させるメタケイ酸も多く含み、湯冷めしにくいと評判。関東平野の夜景を遠望する露天風呂が魅力。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma102,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma102,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

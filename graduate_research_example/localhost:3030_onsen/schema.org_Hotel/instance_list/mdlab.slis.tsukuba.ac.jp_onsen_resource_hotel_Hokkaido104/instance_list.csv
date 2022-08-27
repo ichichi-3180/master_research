@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido104,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido104,https://schema.org/address,北海道河東郡上士幌町糠平南区２３番地１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido104,https://schema.org/name,ぬかびら温泉郷コテージ　プライマルステージ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido104,https://schema.org/description,【お肌つるつる源泉掛け流しの湯】自然に囲まれた本格ログコテージ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido104,http://ja.dbpedia.org/property/郵便番号,080-1403,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido104,http://www.w3.org/2003/01/geo/wgs84_pos#lat,515502010,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido104,http://www.w3.org/2003/01/geo/wgs84_pos#long,156104171,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido104,https://schema.org/image,フィンランドパイン材使用のコテージは森と湖に囲まれ木の温もりいっぱい！まるで自分の別荘にいるかのような寛ぎの空間です♪各コテージに電子レンジ・炊飯器・ガスコンロ完備★自炊中心の施設です（＾＾）,literal,,1.0

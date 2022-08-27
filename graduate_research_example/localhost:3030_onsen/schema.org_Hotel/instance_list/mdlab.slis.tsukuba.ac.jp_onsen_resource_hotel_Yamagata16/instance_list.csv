@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata16,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata16,https://schema.org/address,山形県鶴岡市湯野浜１－１５－７,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata16,https://schema.org/name,温泉民宿　しらはま屋,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata16,https://schema.org/description,山形・湯野浜温泉の宿。源泉掛け流し風呂、海まで徒歩２分,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata16,http://ja.dbpedia.org/property/郵便番号,997-1201,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata16,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503131490,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata16,http://www.w3.org/2003/01/geo/wgs84_pos#long,139614267,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata16,https://schema.org/image,湯野浜温泉は古くから栄えた温泉地で東山温泉、上の山温泉とともに奥羽三楽郷の一つとして有名です。夏には山形最大の湯野浜海水浴場も賑わいます。夕食は新鮮な魚介類を使った自慢の料理をお楽しみ下さい,literal,,1.0

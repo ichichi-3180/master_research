@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Osaka6,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Osaka6,http://ja.dbpedia.org/property/泉質,http://iris.slis.tsukuba.ac.jp:3050/onsen/data,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Osaka6,http://ja.dbpedia.org/property/読み仮名,あまみおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Osaka6,https://schema.org/address,大阪府河内長野市天見158,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Osaka6,https://schema.org/name,天見温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Osaka6,https://schema.org/description,南北朝時代に開湯したと伝えられ、河内長野市内でも最古の温泉。高野街道沿いに湧出した温泉は、かつては高野山詣に訪れた人々で賑わい、病弱に苦しむ当地の老若男女がこぞって入浴したことから別名・極楽風呂と呼ばれるようになった。周辺は金剛山系の山々が広がり、閑静な環境が心を和ませてくれる穴場的温泉地。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Osaka6,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Osaka6,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

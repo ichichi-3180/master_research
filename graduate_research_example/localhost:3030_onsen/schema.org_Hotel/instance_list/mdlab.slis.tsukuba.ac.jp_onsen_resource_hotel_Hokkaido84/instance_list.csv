@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido84,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido84,https://schema.org/address,北海道上川郡上川町層雲峡公園まち,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido84,https://schema.org/name,湯元　銀泉閣,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido84,https://schema.org/description,100%源泉かけ流しの天然温泉宿！ボリューム満足のお食事も大人気♪,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido84,http://ja.dbpedia.org/property/郵便番号,078-1701,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido84,http://www.w3.org/2003/01/geo/wgs84_pos#lat,514621000,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido84,http://www.w3.org/2003/01/geo/wgs84_pos#long,157402415,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido84,https://schema.org/image,黒岳ロープウェイ迄徒歩２分の好立地。<BR>大雪山ならではの天然素材を使った料理と肌触りがやわらかな100%源泉掛け流しの天然温泉が自慢。<BR>全国約90店舗展開中のBBHホテルグループ！,literal,,1.0

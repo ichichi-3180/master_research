@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma37,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma37,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature13,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma37,http://ja.dbpedia.org/property/読み仮名,かわらゆおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma37,https://schema.org/address,群馬県吾妻郡長野原町川原湯,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma37,https://schema.org/name,川原湯温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma37,https://schema.org/description,源頼朝が発見してから800年以上の時を紡いできた名温泉。冬の「湯かけ祭り」は日本３大奇祭に挙げられ、下を流れる吾妻川の両側の切り立った岩は、関東の耶馬溪と言われるほどの名勝。川原湯温泉街のコンセプトは景色を見ながらブラブラ歩く温泉街。雄大な山々がそびえる一度は訪れてほしい温泉地。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma37,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma37,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

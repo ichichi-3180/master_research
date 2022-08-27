@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi12,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi12,https://schema.org/address,宮城県大崎市鳴子温泉新屋敷5,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi12,https://schema.org/name,伝統の宿　旅館すがわら,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi12,https://schema.org/description,無料貸切風呂４つ！囲炉裏が迎える老舗の宿で名湯時間♪,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi12,http://ja.dbpedia.org/property/郵便番号,989-6822,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi12,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506610488,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi12,http://www.w3.org/2003/01/geo/wgs84_pos#long,139481444,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi12,https://schema.org/image,創業140余年。日本温泉協会も４つ星をつけた自家源泉と、A5仙台牛料理や手作り会席で評判。お風呂はすべて源泉掛流しで２つの大浴場と露天、４つの無料貸切風呂へ注ぐ。美食と湯を楽しんで。,literal,,1.0

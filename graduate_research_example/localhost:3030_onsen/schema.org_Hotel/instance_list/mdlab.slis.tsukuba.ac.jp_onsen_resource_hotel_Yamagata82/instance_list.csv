@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata82,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata82,https://schema.org/address,山形県寒河江市元町１―３―１３,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata82,https://schema.org/name,美人の湯　寒河江温泉　ホテルシンフォニー本館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata82,https://schema.org/description,寒河江駅から徒歩3分。観光拠点にビジネスに最適。天然温泉あり,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata82,http://ja.dbpedia.org/property/郵便番号,991-0053,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata82,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504996785,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata82,http://www.w3.org/2003/01/geo/wgs84_pos#long,138128338,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata82,https://schema.org/image,ＪＲ寒河江駅から徒歩3分の好立地。館内には、食事処、スナックもあり大変便利。敷地内に60台分専用駐車場あり（無料）。温泉は深夜も入れるのでチェックインが遅くても利用できる。,literal,,1.0

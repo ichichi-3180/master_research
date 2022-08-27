@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima36,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima36,https://schema.org/address,福島市土湯温泉町字下隠台8番地,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima36,https://schema.org/name,渓流展望貸切露天の宿　奥土湯温泉峡　小滝温泉,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima36,https://schema.org/description,源泉かけ流しの展望露天風呂と客室露天風呂、囲炉裏風料理を満喫,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima36,http://ja.dbpedia.org/property/郵便番号,960-2157,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima36,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505164269,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima36,http://www.w3.org/2003/01/geo/wgs84_pos#long,135637525,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima36,https://schema.org/image,吾妻連峰の麓にたたずむ山峡の一軒宿。新館（弐番館）は10室全室が露天風呂付客室。<BR>最上階の渓流臨む貸切露天風呂か人気。お食事は多彩な岩魚料理と囲炉裏風会席をご堪能ください。,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata17,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata17,https://schema.org/address,鶴岡市湯野浜二丁目22-8,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata17,https://schema.org/name,ホテル満光園,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata17,https://schema.org/description,囲炉裏と餅つき、ごひいきでクチコミも１０００件超えました４星,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata17,http://ja.dbpedia.org/property/郵便番号,997-1201,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata17,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503144483,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata17,http://www.w3.org/2003/01/geo/wgs84_pos#long,139598461,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata17,https://schema.org/image,このたびの地震では、ご心配をお掛けいたしました。湯野浜温泉は被害も特に無かったようです。もちろん、当館も通常通り営業をいたしております。尚、当館は高台（海抜50ｍ）に位置しております。,literal,,1.0

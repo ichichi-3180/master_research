@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima62,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima62,https://schema.org/address,福島県二本松市岳温泉１－７,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima62,https://schema.org/name,mt.inn　マウントイン,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima62,https://schema.org/description,安達太良山でのアクティビティに興奮！ほんもの温泉の癒しに感動♪,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima62,http://ja.dbpedia.org/property/郵便番号,964-0074,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima62,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505294966,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima62,http://www.w3.org/2003/01/geo/wgs84_pos#long,135373557,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima62,https://schema.org/image,2019年4月に宿名を変えてリニューアルオープン！安達太良山の大自然に恵まれた岳温泉で、アクティビティを思いっきり愉しんた後は、源泉掛け流しの湯につかってリフレッシュしよう♪,literal,,1.0

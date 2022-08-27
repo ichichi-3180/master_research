@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi54,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi54,https://schema.org/address,宮城県仙台市太白区秋保町湯元字除２６－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi54,https://schema.org/name,仙台　秋保温泉　迎賓館　櫻離宮,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi54,https://schema.org/description,☆☆露天風呂付き客室☆☆磊々峡の静かなせせらぎに佇む離れ宿★,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi54,http://ja.dbpedia.org/property/郵便番号,982-0241,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi54,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506653807,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi54,http://www.w3.org/2003/01/geo/wgs84_pos#long,137587655,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi54,https://schema.org/image,和洋の長所が融和した、趣き異なる客室。　客室すべてに露天風呂と内風呂、自然が織りなす渓谷美、磊々峡の清流に隣接した、ホテル瑞鳳の離れ宿。こだわりのプライベート空間で、贅を尽くしたひととき。<BR>　,literal,,1.0

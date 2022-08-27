@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi31,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi31,https://schema.org/address,宮城県大崎市鳴子温泉字要害３８－５,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi31,https://schema.org/name,こはく湯の宿　中鉢,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi31,https://schema.org/description,源泉100％掛け流し★琥珀色の名湯は24時間入浴ＯＫ！清掃時を除く,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi31,http://ja.dbpedia.org/property/郵便番号,989-6711,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi31,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506721458,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi31,http://www.w3.org/2003/01/geo/wgs84_pos#long,139435615,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi31,https://schema.org/image,国道47号線沿いに建つ８室の湯宿。源泉100％混じりけなしの名湯は、湯小屋造りの露天と見事な梁が特徴的な男女別の内湯で。日帰り入浴もＯＫ！（但し露天は冬期間閉鎖）<BR>,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi43,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi43,https://schema.org/address,宮城県仙台市太白区秋保町湯元薬師28,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi43,https://schema.org/name,伝承千年の宿　佐勘,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi43,https://schema.org/description,～守り続けて千年～　世代を超えて愛される【いにしえの湯】,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi43,http://ja.dbpedia.org/property/郵便番号,982-0241,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi43,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506605283,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi43,http://www.w3.org/2003/01/geo/wgs84_pos#long,137609997,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi43,https://schema.org/image,仙台名物牛タンはじめ【陸奥の旨みたっぷりのご夕食♪】<BR>政宗公の愛した名湯【佐勘の湯巡り】<BR>リニューアルから“大好評♪”【佐勘名物◇朝食ビュッフェ】<BR>秋保観光に【レンタサイクル】仙台駅から約30分,literal,,1.0

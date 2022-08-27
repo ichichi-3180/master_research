@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita22,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita22,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature13,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita22,http://ja.dbpedia.org/property/読み仮名,とろこおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita22,https://schema.org/address,秋田県鹿角市八幡平,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita22,https://schema.org/name,トロコ温泉　(八幡平),literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita22,https://schema.org/description,十和田八幡平国立公園に指定される八幡平は、岩手・秋田の県境に標高１４００～１６００Mの山並みが広がる。新緑～紅葉の景色、冬はスキーと通年通して楽しめるリゾート地。岩手側麓の東八幡平エリアには、多数のホテルや旅館、ペンションなどがあり、各宿に地下から湧き出す硫黄泉（マグマの湯）が引かれている。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita22,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita22,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi91,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi91,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature1,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi91,http://ja.dbpedia.org/property/読み仮名,くりやまおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi91,https://schema.org/address,栃木県日光市野門１９９,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi91,https://schema.org/name,栗山温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi91,https://schema.org/description,平家落人ロマンが残り、村の７６％が国立公園なのが栗山村です。栗山村の温泉は秘湯としても有名で秋には山は紅葉で染まり春は山の緑が鮮やかです。また小さな集落が点在する鬼怒川沿いは豊かな自然に恵まれアウトドア派にも好評です。最近は自然を楽しんでゆったり温泉につかって帰るという人たちが増えてきています。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi91,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi91,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

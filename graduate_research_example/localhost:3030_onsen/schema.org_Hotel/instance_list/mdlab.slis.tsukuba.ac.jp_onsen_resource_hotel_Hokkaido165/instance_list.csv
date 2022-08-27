@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido165,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido165,https://schema.org/address,北海道虻田郡洞爺湖町洞爺湖温泉,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido165,https://schema.org/name,源泉の湯宿　洞爺ごきらく亭,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido165,https://schema.org/description,お安く泊まって源泉に入ろう！！1泊朝食付がなんと！4448円から,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido165,http://ja.dbpedia.org/property/郵便番号,049-5721,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido165,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506986588,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido165,http://www.w3.org/2003/01/geo/wgs84_pos#long,153225802,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido165,https://schema.org/image,源泉100％の温泉はリピーター多し!初めてのお客様にも大変好評です。<BR>ルスツまで車で30分、たくさん遊んだ後は温泉で温まる。。。2食付も5528円から承ります。,literal,,1.0

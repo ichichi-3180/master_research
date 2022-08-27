@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido171,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido171,https://schema.org/address,北海道虻田郡洞爺湖町洞爺湖温泉147,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido171,https://schema.org/name,洞爺湖温泉　北海ホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido171,https://schema.org/description,洞爺湖の恵みをお膳に。湖の漁業権を持つ唯一の温泉ホテル。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido171,http://ja.dbpedia.org/property/郵便番号,049-5721,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido171,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506928980,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido171,http://www.w3.org/2003/01/geo/wgs84_pos#long,153226380,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido171,https://schema.org/image,洞爺湖の四季折々の変化を感じることができ、源泉かけ流しの露天風呂から見る洞爺湖は格別。<BR>その時季折々の洞爺周辺の食材を使った料理や自家農園で作られた新鮮な野菜や果物でおもてなし。,literal,,1.0

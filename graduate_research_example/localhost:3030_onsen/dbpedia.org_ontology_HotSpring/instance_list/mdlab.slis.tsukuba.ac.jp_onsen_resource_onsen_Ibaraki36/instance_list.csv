@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki36,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki36,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki36,http://ja.dbpedia.org/property/読み仮名,きたうらほうらいおんせんつるるんのゆ,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki36,https://schema.org/address,茨城県行方郡北浦町山田3969,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki36,https://schema.org/name,北浦宝来温泉つるるんの湯,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki36,https://schema.org/description,近年、フィッシングベースとしても知られる北浦・霞ヶ浦。その北浦湖、山田入り江の湖畔にある温泉。日の出、日の入りには湖面は黄金の輝きを映し出す眺望と、それを取り囲む田園地帯の四季折々の自然が楽しめる。湯は宝来温泉独特の琥珀色で、泉質はメタケイ酸含有泉。お肌をすべすべに滑らかにする美肌効果が特徴。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki36,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki36,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido143,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido143,https://schema.org/address,北海道岩内郡岩内町野束２５８－９２,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido143,https://schema.org/name,コテージアリスの里,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido143,https://schema.org/description,一棟貸切コテージ展望風呂付きも選べる青い海と積丹半島一望！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido143,http://ja.dbpedia.org/property/郵便番号,045-0024,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido143,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505836256,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido143,http://www.w3.org/2003/01/geo/wgs84_pos#long,154624850,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido143,https://schema.org/image,展望露天風呂付などいろいろなコテージが選べる。5～12人収容可、設備充実でテラスでBBQもできる、出前メニュー充実、お寿司・お鍋などお好みでオーダーできる。無線LANも無料！,literal,,1.0

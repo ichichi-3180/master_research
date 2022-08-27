@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori13,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori13,https://schema.org/address,青森県青森市浅虫蛍谷２９３―１２,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori13,https://schema.org/name,ホテル秋田屋,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori13,https://schema.org/description,新鮮な魚介類を始めとする料理と眺めの良い展望風呂を楽しめる宿。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori13,http://ja.dbpedia.org/property/郵便番号,039-3501,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori13,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507113495,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori13,http://www.w3.org/2003/01/geo/wgs84_pos#long,147208356,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori13,https://schema.org/image,国道4号線沿いにある海沿いの宿。天気の良い日は展望浴場から素敵な夕日が眺められるよ。温泉の後は新鮮な魚介を使ったお料理を堪能しよう。お子様連れのファミリーも気軽に泊まれます♪全館Wi-Fi完備です,literal,,1.0

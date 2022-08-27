@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido31,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido31,https://schema.org/address,北海道網走市呼人２３番地３,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido31,https://schema.org/name,天都の宿　網走観光ホテル（BBHホテルグループ）,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido31,https://schema.org/description,網走湖が目の前★迫力のパノラマと自慢の北海の幸×温泉でほっこり,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido31,http://ja.dbpedia.org/property/郵便番号,099-2492,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido31,http://www.w3.org/2003/01/geo/wgs84_pos#lat,519224433,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido31,http://www.w3.org/2003/01/geo/wgs84_pos#long,158363856,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido31,https://schema.org/image,大浴場からは雄大な網走湖を眺められます。お料理は北海道の海の幸カニをはじめ知床牛も味わえます。「全国約120店舗展開中のBBHホテルグループ！」,literal,,1.0

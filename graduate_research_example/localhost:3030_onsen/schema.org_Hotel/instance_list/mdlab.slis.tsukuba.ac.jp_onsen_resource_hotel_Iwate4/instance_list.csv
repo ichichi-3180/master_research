@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate4,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate4,https://schema.org/address,岩手県花巻市湯口字志戸平１１－２,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate4,https://schema.org/name,游泉志だて,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate4,https://schema.org/description,全室に尽きる事なく溢れる源泉かけ流し露天風呂という“游”の恵み,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate4,http://ja.dbpedia.org/property/郵便番号,025-0244,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate4,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507653895,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate4,http://www.w3.org/2003/01/geo/wgs84_pos#long,141893800,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate4,https://schema.org/image,お部屋は全て源泉１００％掛け流し露天風呂付き客室の宿。思いのままに寛げるプライベートな空間の中で、自分らしい時間を見つけていただきたい。お食事は個室だいにんぐでゆったりお楽しみいただけます。,literal,,1.0

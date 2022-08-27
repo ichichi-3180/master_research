@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima42,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima42,https://schema.org/address,福島県福島市土湯温泉町字油畑３,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima42,https://schema.org/name,土湯温泉　山根屋旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima42,https://schema.org/description,土湯温泉一を誇る大浴場や２つの泉質を持つ源泉１００％かけ流し宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima42,http://ja.dbpedia.org/property/郵便番号,960-2157,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima42,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505176967,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima42,http://www.w3.org/2003/01/geo/wgs84_pos#long,135645265,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima42,https://schema.org/image,自慢の湯は二種類の温泉が楽しめるお風呂！美人の湯といわれる炭酸水素塩泉と単純温泉♪季節の食材を使った料理長おすすめの料理と湯治を♪,literal,,1.0

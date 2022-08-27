@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata85,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata85,https://schema.org/address,山形県天童市鎌田本町１－１－１４,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata85,https://schema.org/name,ホテル王将,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata85,https://schema.org/description,山形県天童温泉のランドマーク　ホテル王将　≪王将グループ≫,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata85,http://ja.dbpedia.org/property/郵便番号,994-0025,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata85,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505385285,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata85,http://www.w3.org/2003/01/geo/wgs84_pos#long,138082587,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata85,https://schema.org/image,牛希少黒毛和牛『天童牛』や『米沢牛』が味わうことができる宿。また、内陸にいながら王将グループ・女川温泉華夕美の『海鮮コース』もご用意！「太平洋から日本海まで…」ホテル王将でお楽しみください。,literal,,1.0

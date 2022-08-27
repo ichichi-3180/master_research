@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima155,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima155,https://schema.org/address,福島県大沼郡昭和村野尻廻り戸１１７８,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima155,https://schema.org/name,昭和温泉　しらかば荘　,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima155,https://schema.org/description,おかげさまでクチコミ総合4.5★奥会津の季節の恵を召し上がれ♪,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima155,http://ja.dbpedia.org/property/郵便番号,968-0102,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima155,http://www.w3.org/2003/01/geo/wgs84_pos#lat,502539291,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima155,http://www.w3.org/2003/01/geo/wgs84_pos#long,134468104,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima155,https://schema.org/image,昭和村唯一の温泉宿です。地元の新鮮な食材を使った料理と種類豊富に揃えた地酒をお楽しみください。天然温泉100％の湯に浸かってごゆっくりと疲れを癒し、自然の中で日常をわすれるひとときを・・・。,literal,,1.0

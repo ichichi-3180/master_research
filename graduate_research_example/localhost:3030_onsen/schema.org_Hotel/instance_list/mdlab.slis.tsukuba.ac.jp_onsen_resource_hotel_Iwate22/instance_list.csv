@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate22,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate22,https://schema.org/address,岩手県北上市和賀町岩崎新田８－７,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate22,https://schema.org/name,夏油温泉観光ホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate22,https://schema.org/description,流れ星に逢える宿　夏油温泉観光ホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate22,http://ja.dbpedia.org/property/郵便番号,024-0322,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate22,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507203930,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate22,http://www.w3.org/2003/01/geo/wgs84_pos#long,141154722,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate22,https://schema.org/image,ブナ原生林と夏油渓谷のせせらぎに包まれた東北最古の湯<BR>数億年の時を超えて湧き続ける伏流水、旬の山菜と岩魚の渓魚料理など大自然の恵みを堪能できます<BR><BR>,literal,,1.0

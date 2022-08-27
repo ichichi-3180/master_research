@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Mie51,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Mie51,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature1,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Mie51,http://ja.dbpedia.org/property/読み仮名,たどおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Mie51,https://schema.org/address,三重県桑名市多度町古野2692,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Mie51,https://schema.org/name,多度温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Mie51,https://schema.org/description,養老山系から湧き出る多度温泉は、アルカリ性単純泉で刺激が少なく肌にやさしいため、肌の弱い方や高齢者の方、小さいお子さんにも安心と評判な泉質です。また、ナトリウムと炭酸水素が比較的多く含まれるため、お肌をつるつるにするといわれて“美人の湯”が楽しめます！源泉100％掛け流しの個室露天風呂が人気です。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Mie51,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Mie51,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

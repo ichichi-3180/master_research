@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido105,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido105,https://schema.org/address,河東郡鹿追町字然別湖畔,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido105,https://schema.org/name,然別湖畔温泉ホテル風水,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido105,https://schema.org/description,雄大な大自然に囲まれた、神秘の湖「然別湖」の湖畔に佇む寛ぎの宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido105,http://ja.dbpedia.org/property/郵便番号,081-0344,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido105,http://www.w3.org/2003/01/geo/wgs84_pos#lat,515195263,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido105,http://www.w3.org/2003/01/geo/wgs84_pos#long,155775260,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido105,https://schema.org/image,移り変わる然別湖の季節を堪能。客室から眺める静かな湖面。早朝の静けさや夜の暗闇を目下に、空は満天の星空。ゆっくりとした時間をお過ごし頂けます。<BR>,literal,,1.0

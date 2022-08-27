@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima54,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima54,https://schema.org/address,福島県耶麻郡猪苗代町中ノ沢温泉,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima54,https://schema.org/name,磐梯ハイランドホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima54,https://schema.org/description,箕輪スキー場まで車10分！天然温泉100％のお風呂は24時間OK,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima54,http://ja.dbpedia.org/property/郵便番号,969-2752,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima54,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504774534,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima54,http://www.w3.org/2003/01/geo/wgs84_pos#long,135401153,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima54,https://schema.org/image,毎分1万リットルの湯量豊富な中ノ沢温泉街に佇む宿。<BR>胃腸に良いと言われる酸性硫黄泉を源泉100％掛け流しで楽しめる。<BR>スキー場へのアクセスも◎でお得にスキー・スノボを楽しみたい人におすすめ！,literal,,1.0

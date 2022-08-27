@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi3,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi3,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature13,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi3,http://ja.dbpedia.org/property/読み仮名,まぎおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi3,https://schema.org/address,山梨県大月市大月町真木,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi3,https://schema.org/name,真木温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi3,https://schema.org/description,都心から60分、富士山の玄関口にある効能自慢の温泉。世界的にも稀といわれるPH10.4の源泉は浸かっても飲んでも効能が高い名湯。都心から近い温泉でありながら、田園風景や山郷の静けさを満喫できる素朴な温泉地。真木川のせせらぎ沿いで、春は舞い散る桜吹雪に、夏は涼風が心地よく、秋の紅葉や初春の梅園も美しい。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi3,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi3,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

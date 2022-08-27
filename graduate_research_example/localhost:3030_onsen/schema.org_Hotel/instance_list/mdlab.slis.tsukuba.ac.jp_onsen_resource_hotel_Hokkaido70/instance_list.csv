@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido70,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido70,https://schema.org/address,北海道千歳市支笏湖温泉,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido70,https://schema.org/name,しこつ湖　鶴雅別荘　碧の座,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido70,https://schema.org/description,贅沢に優雅に支笏湖を一望し、最高のプライベートステイを愉しむ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido70,http://ja.dbpedia.org/property/郵便番号,066-0281,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido70,http://www.w3.org/2003/01/geo/wgs84_pos#lat,509071326,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido70,http://www.w3.org/2003/01/geo/wgs84_pos#long,153980862,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido70,https://schema.org/image,＜2019年5月オープン＞「碧の座」は、鶴雅グループのエグゼクティブクラス「座」シリーズにおける最高峰の日本旅館。全室支笏湖を臨む眺望を、プライベートな別荘として、憩いのひとときをお過ごしください,literal,,1.0

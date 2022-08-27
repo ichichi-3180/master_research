@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata13,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata13,https://schema.org/address,山形県鶴岡市湯野浜1-5-50,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata13,https://schema.org/name,亀や,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata13,https://schema.org/description,目の前が海！好みのスタイルで快適な時を過ごせる温泉宿。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata13,http://ja.dbpedia.org/property/郵便番号,997-1201,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata13,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503111309,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata13,http://www.w3.org/2003/01/geo/wgs84_pos#long,139587265,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata13,https://schema.org/image,伝統を大切にしつつ進化を続ける文化10年創業の老舗宿。和室、モダンな温泉付ツインとそれぞれ違った趣の旅スタイルを楽しめる。地の素材を使い、手間隙かけて作られる料理、海に沈む夕陽の美しさも魅力。,literal,,1.0

@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa26,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa26,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature5,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa26,http://ja.dbpedia.org/property/読み仮名,みうらまほろばおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa26,https://schema.org/address,神奈川県三浦市南下浦町上宮田,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa26,https://schema.org/name,三浦マホロバ温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa26,https://schema.org/description,三浦海岸の高台に建つリゾートホテル「マホロバマインズ三浦」に地下１５００メートルから湧き出ている温泉。大浴場には和風露天風呂がある（男女入替制）。温泉を使用したクアパークには気泡浴や蒸気浴、打たせ湯など様々な種類がとり揃い、屋内プールも併設。立ち寄り湯も可能なので、海水浴帰りの利用もおすすめ。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa26,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa26,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

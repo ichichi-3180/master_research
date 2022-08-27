@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido166,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido166,https://schema.org/address,北海道虻田郡洞爺湖町洞爺湖温泉２１番地,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido166,https://schema.org/name,洞爺湖万世閣ホテルレイクサイドテラス,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido166,https://schema.org/description,【口コミ評価総合4.0】大浴場「月の湯」リニューアルオープン！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido166,http://ja.dbpedia.org/property/郵便番号,049-5721,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido166,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506981555,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido166,http://www.w3.org/2003/01/geo/wgs84_pos#long,153227634,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido166,https://schema.org/image,2019年5月、大浴場「月の湯」が<BR>本場フィンランドの大型サウナストーブを導入し「我慢しないサウナ」が登場！<BR>インフィニティ露天風呂の「星の湯」と<BR>石窯焼ピッツァなど実演豊富なビュッフェも大人気！,literal,,1.0

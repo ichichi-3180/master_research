@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi72,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi72,https://schema.org/address,刈田郡蔵王町遠刈田温泉本町２１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi72,https://schema.org/name,たまや旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi72,https://schema.org/description,手作り創作懐石料理。温泉は御影石と檜の大浴場と無料の貸切風呂,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi72,http://ja.dbpedia.org/property/郵便番号,989-0913,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi72,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506094526,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi72,http://www.w3.org/2003/01/geo/wgs84_pos#long,137234762,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi72,https://schema.org/image,料理自慢の温泉宿！旬の素材が詰まったご夕食は、品数なんと１５種類以上！温泉は２４時間入浴可。貸切風呂も無料。家庭的な雰囲気でお寛ぎ頂けます。早割限定プラン配信中！,literal,,1.0

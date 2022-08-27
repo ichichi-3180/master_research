@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama22,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama22,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature13,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama22,http://ja.dbpedia.org/property/読み仮名,ゆのみねおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama22,https://schema.org/address,和歌山県東牟婁郡本宮町湯の峰,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama22,https://schema.org/name,湯の峰温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama22,https://schema.org/description,今からおよそ１８００年前に発見された日本最古の温泉と言われている。熊野詣の人々が湯垢離場にした歴史ある温泉。周りには歴史の重みを感じさせる旅館や民宿が並び、そばを流れる川の流れからは湯気が立ち上る。肌が滑らかになる成分が含まれる他リウマチ性疾患、皮膚病、神経痛に良い。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama22,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama22,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

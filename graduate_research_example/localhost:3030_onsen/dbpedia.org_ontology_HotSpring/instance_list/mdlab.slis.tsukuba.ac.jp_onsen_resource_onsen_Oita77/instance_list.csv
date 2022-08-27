@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Oita77,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Oita77,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Oita77,http://ja.dbpedia.org/property/読み仮名,おおざいおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Oita77,https://schema.org/address,大分県大分市大在北1丁目４－７,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Oita77,https://schema.org/name,大在温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Oita77,https://schema.org/description,自慢の温泉大浴場は泉質が炭酸水素塩泉で100％天然温泉。岩風呂のお湯は流し放しで、シャワーやカランも温泉が出ます。少し黄緑色ですが見た目は無色透明で、湯冷めしにくいといわれている。塩分を多く含む泉質で、汗が蒸発しにくい特徴があり、殺菌効果もあるといわれ、外傷治療にも効果があると評判。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Oita77,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Oita77,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

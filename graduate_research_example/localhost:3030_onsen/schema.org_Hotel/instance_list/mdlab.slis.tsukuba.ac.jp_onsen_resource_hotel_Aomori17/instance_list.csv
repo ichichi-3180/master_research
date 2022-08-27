@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori17,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori17,https://schema.org/address,青森県青森市浅虫山下２８１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori17,https://schema.org/name,浅虫温泉　辰巳館（たつみかん）,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori17,https://schema.org/description,玄関周りをリニューアル！夕食の評価は高評価♪,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori17,http://ja.dbpedia.org/property/郵便番号,039-3501,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori17,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507112489,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori17,http://www.w3.org/2003/01/geo/wgs84_pos#long,147188402,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori17,https://schema.org/image,　お天気が良ければ海側バルコニーから美しい陸奥湾の夕暮れを眺められる。大浴場は男女共自然石の岩風呂。小さな庭園風露天風呂も心地よい。夜は「庭ねぶた」も楽しめる（天候によりお休みの場合もあり）♪,literal,,1.0

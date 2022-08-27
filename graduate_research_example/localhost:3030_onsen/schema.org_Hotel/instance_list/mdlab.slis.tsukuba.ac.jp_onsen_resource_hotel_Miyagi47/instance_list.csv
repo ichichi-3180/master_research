@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi47,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi47,https://schema.org/address,宮城県仙台市太白区秋保町湯元字釜土東１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi47,https://schema.org/name,秋保温泉　茶寮宗園,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi47,https://schema.org/description,美食・温泉・建築「三つの美」を五感で楽しむ秋保温泉の上質な湯宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi47,http://ja.dbpedia.org/property/郵便番号,982-0241,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi47,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506617755,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi47,http://www.w3.org/2003/01/geo/wgs84_pos#long,137603764,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi47,https://schema.org/image,時間を感じない“何もしない”という贅沢。<BR>客室から眺められる美しい日本庭園、旬の味覚を満喫できる懐石料理。<BR>伊達家の御殿湯にもなった名湯・秋保温泉につかって、心を解きほぐすひと時を…。,literal,,1.0

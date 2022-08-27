@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima38,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima38,https://schema.org/address,福島県福島市土湯温泉町字堂ノ上７－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima38,https://schema.org/name,ＹＵＭＯＲＩ　ＯＮＳＥＮ　ＨＯＳＴＥＬ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima38,https://schema.org/description,2018年10月にオープン！福島初の温泉付きホステル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima38,http://ja.dbpedia.org/property/郵便番号,960-2157,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima38,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505176575,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima38,http://www.w3.org/2003/01/geo/wgs84_pos#long,135643091,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima38,https://schema.org/image,旅館をリノベーションして誕生した、温泉付きの新型ホステルです。大浴場と貸切風呂4カ所を完備。男女混合や女性専用ドミトリーなど新たな温泉滞在の楽しみ方を提案します！アクティビティを重視方も歓迎！,literal,,1.0

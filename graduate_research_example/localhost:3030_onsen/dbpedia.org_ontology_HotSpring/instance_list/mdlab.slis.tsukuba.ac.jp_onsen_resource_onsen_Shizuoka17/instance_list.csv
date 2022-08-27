@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka17,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka17,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature0,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka17,http://ja.dbpedia.org/property/読み仮名,つきがせおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka17,https://schema.org/address,静岡県田方郡天城湯ヶ島町月ヶ瀬,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka17,https://schema.org/name,月ヶ瀬温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka17,https://schema.org/description,古来より月が美しく見える場所として「月ヶ瀬」と呼ばれる。伊豆の清流狩野川沿いに位置し、3本の源泉を持つ。「聖の湯」の名をもつ温泉は若干とろみがあり、「化粧水に浸っているよう」と地元でも評判。早春は月ヶ瀬梅林の梅、秋は紅葉が楽しめる風光明媚な温泉地｡「知る人ぞ知る」秘湯といった風情は静かで落ち着ける,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka17,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka17,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

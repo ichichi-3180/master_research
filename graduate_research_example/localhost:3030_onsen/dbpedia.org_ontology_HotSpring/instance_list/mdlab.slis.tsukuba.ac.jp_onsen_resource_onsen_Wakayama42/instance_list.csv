@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama42,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama42,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama42,http://ja.dbpedia.org/property/読み仮名,りゅうもんざんおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama42,https://schema.org/address,和歌山県和歌山市美園町３丁目３６番,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama42,https://schema.org/name,龍門山温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama42,https://schema.org/description,和歌山県の北部分、京阪神から気軽に行ける紀北（和歌山市・海南市・岩出市・紀の川市・海草郡・伊都郡）。色々な温泉が多く点在。穏やかな黒潮の海や夕陽を眺める海エリア、四季折々の自然を満喫する山エリアなど魅力もさまざま。クエや伊勢エビ、あわび、ボタン鍋や紀州地鶏などご当地ならではの味覚も是非。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama42,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama42,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

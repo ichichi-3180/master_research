@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki13,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki13,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature13,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki13,http://ja.dbpedia.org/property/読み仮名,よこかわおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki13,https://schema.org/address,茨城県常陸太田市折橋町　１４０９,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki13,https://schema.org/name,横川温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki13,https://schema.org/description,常陸太田市に位置し、四季あざやかに渓谷にわく温泉として、連綿とした歴史を持ち「美人の湯」として知られ３００年の歴史を今も伝えています。袋田の滝、竜神大吊り橋にも程近く、しだれ桜、つつじ、しゃくなげ、ふじ、紅葉など、一年中四季折々の移り変わりが楽しめます。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki13,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki13,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

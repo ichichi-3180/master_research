@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima132,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima132,https://schema.org/address,福島県耶麻郡猪苗代町川桁天王坂２４１４,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima132,https://schema.org/name,ホテルリステル猪苗代　本館コンドミニアム　,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima132,https://schema.org/description,全室キッチン完備！中長期での滞在も可能！温泉も完備しております,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima132,http://ja.dbpedia.org/property/郵便番号,969-2696,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima132,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504548766,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima132,http://www.w3.org/2003/01/geo/wgs84_pos#long,135142446,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima132,https://schema.org/image,全てのお部屋がキッチンと調理器具を備えたコンドミニアムタイプです。猪苗代インターからもアクセス◎　ラベンダー＆フラワーフェスティバル開催中！　お得なクーポン配布中♪<BR><BR><BR><BR>,literal,,1.0

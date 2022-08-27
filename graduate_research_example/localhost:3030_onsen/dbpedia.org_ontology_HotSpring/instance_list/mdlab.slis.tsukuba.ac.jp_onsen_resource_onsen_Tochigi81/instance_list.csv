@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi81,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi81,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature1,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi81,http://ja.dbpedia.org/property/読み仮名,かぬまおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi81,https://schema.org/address,栃木県鹿沼市栃窪1255,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi81,https://schema.org/name,鹿沼温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi81,https://schema.org/description,栃木県宇都宮市から少し離れ、豊かな自然に囲まれた鹿沼温泉。泉質はアルカリ性単純温泉。四季折々の美しさを望める露天風呂の他、ハーブバス、マッサージバス、ミストサウナ、エステなど施設も充実している。敷地内にスポーツ施設があるため、運動した後の入浴もおすすめだ。地元の人にも愛される、日帰り温泉でもある。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi81,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi81,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

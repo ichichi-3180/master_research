@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata146,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata146,https://schema.org/address,山形県山形市蔵王温泉４８,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata146,https://schema.org/name,蔵王温泉　名湯舎　創　‐MEITOYA　SO‐,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata146,https://schema.org/description,「名湯」で心和み、楽しみを「創る」。蔵王に誕生した和モダン旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata146,http://ja.dbpedia.org/property/郵便番号,990-2301,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata146,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505445504,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata146,http://www.w3.org/2003/01/geo/wgs84_pos#long,137392788,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata146,https://schema.org/image,山形の温泉地に12の湯宿「高見屋グループ」。木造りの大浴場や野趣あふれる岩露天で温泉を満喫♪全室禁煙や色浴衣など女性に配慮☆ご夕食は旬の味覚膳+おばんざいバイキング！グループ宿の湯めぐりも無料！,literal,,1.0

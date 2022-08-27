@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido187,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido187,https://schema.org/address,北海道登別市登別温泉町２９番地,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido187,https://schema.org/name,ホテルゆもと登別,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido187,https://schema.org/description,硫黄泉など、4種類の異なる泉質をゆっくりとお楽しみいただけます,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido187,http://ja.dbpedia.org/property/郵便番号,059-0551,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido187,http://www.w3.org/2003/01/geo/wgs84_pos#lat,508130845,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido187,http://www.w3.org/2003/01/geo/wgs84_pos#long,152962656,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido187,https://schema.org/image,禁煙フロアは、階により客室タイプが変わります。<BR>5階【禁煙フロア】は、和室と和洋2ベッドルーム（48平米）<BR>7階【禁煙フロア】は、和洋2ベッドルーム（48平米・59平米）・和モダンルーム・和洋4ベッドルーム,literal,,1.0

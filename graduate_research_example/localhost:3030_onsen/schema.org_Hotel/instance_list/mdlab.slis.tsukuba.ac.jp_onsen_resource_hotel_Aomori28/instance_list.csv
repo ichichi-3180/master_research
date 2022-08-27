@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori28,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori28,https://schema.org/address,青森県十和田市大字法量字焼山６４－１２０,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori28,https://schema.org/name,十和田湖温泉　遊魚荘,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori28,https://schema.org/description,新鮮ニジマスフルコースを堪能！源泉かけ流し温泉のあるなごみの宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori28,http://ja.dbpedia.org/property/郵便番号,034-0303,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori28,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507604018,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori28,http://www.w3.org/2003/01/geo/wgs84_pos#long,146075772,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori28,https://schema.org/image,奥入瀬渓流まで車ですぐの立地、十和田・八甲田エリアの観光拠点としてご利用いただけます。名物のニジマス料理と24時間入れる天然温泉、2006年新築の綺麗な館内、そして女将の温かく優しい心遣いが魅力。,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima52,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima52,https://schema.org/address,福島県耶麻郡猪苗代町蚕養沼尻山甲２８５５－１６６,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima52,https://schema.org/name,御宿　万葉亭,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima52,https://schema.org/description,沢音を聞き、原生林を望む。極上の温泉で贅沢な時間を過ごす一軒宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima52,http://ja.dbpedia.org/property/郵便番号,969-2752,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima52,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504757846,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima52,http://www.w3.org/2003/01/geo/wgs84_pos#long,135396371,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima52,https://schema.org/image,御宿万葉亭は、【大人のための宿】へ2016年4月リニューアル<BR>時間を忘れるゆったりとした空間でお過ごしくださいませ。<BR><BR><BR>,literal,,1.0

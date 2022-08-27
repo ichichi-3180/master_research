@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima84,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima84,https://schema.org/address,福島県石川郡石川町大字母畑字樋田７５―１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima84,https://schema.org/name,母畑温泉　八幡屋,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima84,https://schema.org/description,人のぬくもり　里のぬくもり　お湯のぬくもり,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima84,http://ja.dbpedia.org/property/郵便番号,963-7831,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima84,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505691561,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima84,http://www.w3.org/2003/01/geo/wgs84_pos#long,133822285,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima84,https://schema.org/image,ただいま。お帰りなさい。と声を掛け合いたくなる山里の旅館です。旅館にいながらスタッフが作り上げる雰囲気にアットホームさを感じて頂けると思います。スタッフ一同笑顔でお出迎えさせて頂きます。,literal,,1.0

@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa66,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa66,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa66,http://ja.dbpedia.org/property/読み仮名,かなざわふじえおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa66,https://schema.org/address,石川県金沢市藤江南3丁目23番地1,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa66,https://schema.org/name,金沢藤江温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa66,https://schema.org/description,「金沢ゆめのゆ」の自家源泉。浸かった瞬間からツルツル感を感じられる効能豊かなナトリウム塩化物泉。体の芯から温まる金沢市内で人気の温泉。効能豊かな温泉は大浴場、露天風呂、炭酸風呂など様々な浴槽で楽しめます。「ホテルゆめのゆ」にご宿泊の方は無料でご利用いただけます。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa66,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa66,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

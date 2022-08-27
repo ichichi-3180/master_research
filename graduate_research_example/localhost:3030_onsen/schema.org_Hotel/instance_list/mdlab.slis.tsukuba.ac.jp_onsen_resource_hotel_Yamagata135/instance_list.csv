@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata135,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata135,https://schema.org/address,山形県山形市蔵王温泉１３,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata135,https://schema.org/name,吉田屋旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata135,https://schema.org/description,一人旅からご家族、グループ旅行まで！ペットも大歓迎の温泉旅館！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata135,http://ja.dbpedia.org/property/郵便番号,990-2301,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata135,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505440522,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata135,http://www.w3.org/2003/01/geo/wgs84_pos#long,137396479,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata135,https://schema.org/image,温泉情緒溢れる高湯通りに面し3つの共同浴場まで徒歩1分圏内！温泉好きはにはたまらない最高の立地です！24時間入浴可能で湯量豊富な内湯の他、外湯めぐりなど古き良き蔵王を堪能。全館無線LAN利用可能！,literal,,1.0

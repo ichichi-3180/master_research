@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima112,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima112,https://schema.org/address,福島県東白川郡塙町大字湯岐字立石２１番地,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima112,https://schema.org/name,湯遊ランドはなわ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima112,https://schema.org/description,浪漫ただよう安らぎの湯,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima112,http://ja.dbpedia.org/property/郵便番号,963-5533,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima112,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505748949,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima112,http://www.w3.org/2003/01/geo/wgs84_pos#long,132796732,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima112,https://schema.org/image,奥久慈の山並みに抱かれ豊かな自然に囲まれた当ホテル<BR>四季の美しさと優しい温もりの湯が元気と笑顔を分けてくれます,literal,,1.0

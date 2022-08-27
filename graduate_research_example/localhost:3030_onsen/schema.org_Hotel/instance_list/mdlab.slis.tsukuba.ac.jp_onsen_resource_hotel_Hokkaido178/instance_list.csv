@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido178,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido178,https://schema.org/address,北海道有珠郡壮瞥町壮瞥温泉１０３,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido178,https://schema.org/name,ホテル中の島,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido178,https://schema.org/description,源泉掛け流しの温泉！観光にビジネスにうれしい湖畔の宿。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido178,http://ja.dbpedia.org/property/郵便番号,052-0103,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido178,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507118967,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido178,http://www.w3.org/2003/01/geo/wgs84_pos#long,153196328,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido178,https://schema.org/image,自然に囲まれた閑静な洞爺湖畔の宿。都会の喧騒からはなれ、かけ流しの源泉と手料理でリフレッシュ。改装された落ち着いたお部屋でごゆっくりとお過ごしください。,literal,,1.0

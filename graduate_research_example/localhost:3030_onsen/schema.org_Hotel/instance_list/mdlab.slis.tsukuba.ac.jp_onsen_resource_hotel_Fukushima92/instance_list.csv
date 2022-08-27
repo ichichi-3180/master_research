@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima92,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima92,https://schema.org/address,福島県いわき市常磐湯本町三凾１９７－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima92,https://schema.org/name,スパホテルスミレ館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima92,https://schema.org/description,ペットと泊まれる温泉宿。素泊まり平日5550円。ビジネスや観光に,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima92,http://ja.dbpedia.org/property/郵便番号,972-8321,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima92,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507056617,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima92,http://www.w3.org/2003/01/geo/wgs84_pos#long,133223167,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima92,https://schema.org/image,ビジネスや観光に便利。いわきでは珍しいペット可客室あり。,literal,,1.0

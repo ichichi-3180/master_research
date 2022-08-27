@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita22,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita22,https://schema.org/address,秋田県鹿角市八幡平字熊沢国有林３１３３,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita22,https://schema.org/name,八幡平大沼茶屋湖,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita22,https://schema.org/description,大沼温泉　八幡平大沼茶屋湖,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita22,http://ja.dbpedia.org/property/郵便番号,018-5141,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita22,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506897286,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita22,http://www.w3.org/2003/01/geo/wgs84_pos#long,143934392,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita22,https://schema.org/image,温泉天国八幡平の標高９００ｍに建つ温泉宿です。眼前には景勝地大沼が開け、お湯と景色が身も心も癒します。,literal,,1.0

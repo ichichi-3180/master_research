@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi65,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi65,https://schema.org/address,宮城県刈田郡蔵王町遠刈田温泉字八山４番２１８,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi65,https://schema.org/name,Ｔロッジ遠刈田ＧＲＡＮ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi65,https://schema.org/description,表蔵王山麓に佇む別荘地「山水苑」の北欧風ロッジ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi65,http://ja.dbpedia.org/property/郵便番号,989-0916,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi65,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506194014,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi65,http://www.w3.org/2003/01/geo/wgs84_pos#long,137184954,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi65,https://schema.org/image,小高い丘の中腹に建つ北欧風ロッジ。リビングからは窓いっぱいに広がる森の景色。目の前の小川のせせらぎが耳に響く。静寂の中にでゆっくりと過ごす贅沢。ハイクオリティーなバケーションレンタル。,literal,,1.0

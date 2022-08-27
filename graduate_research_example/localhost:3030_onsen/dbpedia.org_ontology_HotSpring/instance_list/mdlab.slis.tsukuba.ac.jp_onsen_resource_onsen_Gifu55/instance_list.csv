@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu55,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu55,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature0,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu55,http://ja.dbpedia.org/property/読み仮名,おくみのながらがわおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu55,https://schema.org/address,岐阜県郡上市八幡町,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu55,https://schema.org/name,奥美濃長良川温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu55,https://schema.org/description,水と踊りの城下町郡上八幡。名水百選に選ばれた「宗祇水」は、町中を縦横に流れ、飲料水や生活用水としても利用されています。また、７月の上旬になると郡上踊りもはじまります。そんな郡上八幡にある「奥美濃長良川温泉」は、低張性弱アルカリ性の単純温泉。無色透明のお湯は、神経痛・筋肉痛・冷え性などの効能があります。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu55,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu55,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

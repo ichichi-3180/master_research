@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi21,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi21,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature16,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi21,http://ja.dbpedia.org/property/読み仮名,きらおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi21,https://schema.org/address,愛知県幡豆郡吉良町宮崎,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi21,https://schema.org/name,吉良温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi21,https://schema.org/description,吉良町はその名が示すように「忠臣蔵」の吉良氏ゆかりの地。海水浴場を目の前にした海岸沿いに宿が点在し、宮崎漁港で水揚げされた新鮮な海の幸がたっぷり味わえます。周辺では一年中釣りができ、3～5月には宮崎湾岸や梶島周辺での潮干狩りが有名。三河湾沿いの温泉では最も西に位置する温泉です。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi21,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi21,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita8,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita8,https://schema.org/address,秋田県能代市落合字亀谷地１－１１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita8,https://schema.org/name,湯らくの宿　のしろ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita8,https://schema.org/description,能代市内唯一の天然温泉の宿　２種類の大浴場と岩盤浴が楽しめます,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita8,http://ja.dbpedia.org/property/郵便番号,016-0014,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita8,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504063209,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita8,http://www.w3.org/2003/01/geo/wgs84_pos#long,144831445,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita8,https://schema.org/image,世界自然遺産　白神山地の麓にあり、日本海まで徒歩１０分　日替わりで２種類の大浴場（サウナ付・炭酸泉付）が楽しめ、岩盤浴も５００円でご利用可能♪<BR>『バイク用　屋根付き車庫あり』,literal,,1.0

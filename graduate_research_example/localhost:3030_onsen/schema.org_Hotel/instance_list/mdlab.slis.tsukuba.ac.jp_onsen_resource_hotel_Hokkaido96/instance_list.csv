@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido96,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido96,https://schema.org/address,空知郡上富良野町十勝岳温泉,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido96,https://schema.org/name,十勝岳温泉　カミホロ荘,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido96,https://schema.org/description,”富良野の奥座敷”自社農園食材を使った料理と絶景露天風呂の温泉宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido96,http://ja.dbpedia.org/property/郵便番号,071-0579,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido96,http://www.w3.org/2003/01/geo/wgs84_pos#lat,513514665,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido96,http://www.w3.org/2003/01/geo/wgs84_pos#long,156285859,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido96,https://schema.org/image,★温泉満足度85点以上の宿★　富良野・美瑛や旭山動物園などからもアクセス良好！標高1200mからの雲海・星空・夕焼けなど大自然の絶景を楽しもう♪,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi1,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi1,https://schema.org/address,宮城県大崎市鳴子温泉字星沼２０－９,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi1,https://schema.org/name,名湯秘湯うなぎ湯の宿　旬樹庵琢ひで,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi1,https://schema.org/description,【クチコミ風呂4.4】PH9.4の源泉かけ流しを８つの風呂で湯めぐり♪,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi1,http://ja.dbpedia.org/property/郵便番号,989-6832,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi1,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506464571,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi1,http://www.w3.org/2003/01/geo/wgs84_pos#long,139403355,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi1,https://schema.org/image,化粧水のような★トロり★トロり★とした肌ざわりの温泉『うなぎ湯』と、旬の食材を活かした田舎の贅沢を楽しむ料理。３つの源泉・８つの風呂で湯めぐりを楽しめる。<BR>■日本秘湯を守る会の宿■　,literal,,1.0

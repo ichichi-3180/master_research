@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori0,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori0,https://schema.org/address,青森県南津軽郡大鰐町大鰐上牡丹森３６－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori0,https://schema.org/name,星野リゾート　界　津軽,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori0,https://schema.org/description,２０１９年４月リニューアルオープン★津軽文化の光る宿で青森満喫,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori0,http://ja.dbpedia.org/property/郵便番号,038-0211,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori0,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506080029,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori0,http://www.w3.org/2003/01/geo/wgs84_pos#long,145832735,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori0,https://schema.org/image,古くから湯治場として親しまれてきた大鰐温泉に位置し、奥入瀬渓流や白神山地、弘前など、青森観光の拠点にも最適なロケーション。モダンな佇まいのなかにも津軽文化を感じ取ることのできる温泉宿です。,literal,,1.0

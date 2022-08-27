@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata63,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata63,https://schema.org/address,山形県尾花沢市銀山温泉,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata63,https://schema.org/name,旅館　松本,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata63,https://schema.org/description,銀山温泉。全１０室の静かな家庭的な宿、夕食はお部屋食か個室,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata63,http://ja.dbpedia.org/property/郵便番号,999-4333,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata63,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505923913,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata63,http://www.w3.org/2003/01/geo/wgs84_pos#long,138840971,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata63,https://schema.org/image,館内エレベータで移動楽々！お風呂は銀山温泉の天然100％の掛流しの湯が溢れる木造りの浴槽。銀山温泉街の中心にあります。,literal,,1.0

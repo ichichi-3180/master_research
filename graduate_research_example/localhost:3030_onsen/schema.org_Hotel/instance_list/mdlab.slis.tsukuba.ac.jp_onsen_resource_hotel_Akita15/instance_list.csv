@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita15,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita15,https://schema.org/address,秋田県男鹿市北浦湯本字中里８１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita15,https://schema.org/name,男鹿温泉　結いの宿　別邸　つばき,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita15,https://schema.org/description,温泉と料理の癒し“しずか美人のオーベルジュ”、全館Wi-Fi完備！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita15,http://ja.dbpedia.org/property/郵便番号,010-0687,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita15,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503090808,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita15,http://www.w3.org/2003/01/geo/wgs84_pos#long,143903121,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita15,https://schema.org/image,第44回「フ°ロが選ぶ日本のホテル旅館100選」“料理部門”では秋田県唯一、14年連続入賞！<BR>2本の源泉が流れる温泉と、男鹿の季節の山海の幸をつかった料理をお楽しみ下さいませ。,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata84,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata84,https://schema.org/address,山形県寒河江市久保１１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata84,https://schema.org/name,ホテルシンフォニーアネックス,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata84,https://schema.org/description,あったまりの温泉　月山と最上川、水と緑に囲まれたリゾートホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata84,http://ja.dbpedia.org/property/郵便番号,991-0041,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata84,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504934689,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata84,http://www.w3.org/2003/01/geo/wgs84_pos#long,138099623,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata84,https://schema.org/image,360°自然に囲まれた大パノラマが拡がるホテル。全室から最上川が眺められ、<BR>バラ風呂・貸切風呂など温泉設備も充実。<BR>高速からも寒河江ＳＡから１分で便利！,literal,,1.0

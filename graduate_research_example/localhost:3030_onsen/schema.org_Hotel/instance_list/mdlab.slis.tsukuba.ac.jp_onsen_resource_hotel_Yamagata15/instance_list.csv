@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata15,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata15,https://schema.org/address,山形県鶴岡市湯の浜1-6-4,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata15,https://schema.org/name,愉海亭　みやじま,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata15,https://schema.org/description,山形で一番海に近い宿！波音BGMと潮の香・・『海を愉しむ絶景宿』,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata15,http://ja.dbpedia.org/property/郵便番号,997-1201,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata15,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503108605,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata15,http://www.w3.org/2003/01/geo/wgs84_pos#long,139590275,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata15,https://schema.org/image,砂浜沿いに建つ唯一の宿。全室オーシャンビュー！展望露天＆大浴場では水平線が視界真っ直ぐに広がるロケーションの中で絶景温泉タイム。新鮮魚介の食事と共に絶景の旅♪【酒田・鶴岡エリア無料送迎可能】,literal,,1.0

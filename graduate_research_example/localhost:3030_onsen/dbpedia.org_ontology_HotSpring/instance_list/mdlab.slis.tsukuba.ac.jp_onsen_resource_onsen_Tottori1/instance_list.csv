@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tottori1,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tottori1,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature9,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tottori1,http://ja.dbpedia.org/property/読み仮名,とっとりおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tottori1,https://schema.org/address,鳥取県鳥取市永楽温泉町,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tottori1,https://schema.org/name,鳥取温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tottori1,https://schema.org/description,鳥取駅東側の繁華街に湧く温泉で､鳥取駅徒歩５分という県庁所在地市街地に湧く全国でも珍しい温泉。鳥取砂丘など鳥取観光の基地として利用するにはとても便利。泉質は無色透明の含芒硝食塩泉でリュウマチ、皮膚症に効果有り。１１月初旬～３月中旬の松葉がにの季節がとくにお勧め。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tottori1,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tottori1,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

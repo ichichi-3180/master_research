@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido56,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido56,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature0,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido56,http://ja.dbpedia.org/property/読み仮名,ぬかびらげんせんきょう,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido56,https://schema.org/address,北海道河東郡上士幌町糠平,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido56,https://schema.org/name,ぬかびら源泉郷,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido56,https://schema.org/description,東大雪の大自然に抱かれた糠平温泉は、1919(大正8)年に大雪山の原生林のなかで発見された。単純泉、弱食塩泉の湯は神経痛、胃腸病等に効能があり、宿泊施設の湯は全て源泉100%だ。カヌーやスキー、熱気球、ネイチャートレイン(小鳥の村遊歩道)での森林浴など、豊かな自然を満喫できるアウトドア体験も豊富。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido56,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido56,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

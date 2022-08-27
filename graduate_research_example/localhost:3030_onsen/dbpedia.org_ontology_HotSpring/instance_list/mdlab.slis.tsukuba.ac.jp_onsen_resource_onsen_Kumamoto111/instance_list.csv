@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto111,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto111,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature9,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto111,http://ja.dbpedia.org/property/読み仮名,みなみあそおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto111,https://schema.org/address,熊本県阿蘇郡南阿蘇村立野541-8,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto111,https://schema.org/name,南阿蘇温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto111,https://schema.org/description,九州のシンボルである阿蘇は世界一のカルデラ。阿蘇山周辺には、栃木温泉、内牧温泉、赤水温泉など火山のエネルギーの恩恵を受けた数多くの温泉が湧き出ている。草千里、大観望などの絶景スポット、テーマパークなどの見所も多く、九州を代表する観光地で一年中観光客が絶えない。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto111,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto111,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata97,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata97,https://schema.org/address,山形県山形市飯田５―１２―３,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata97,https://schema.org/name,飯田温泉,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata97,https://schema.org/description,山形駅から車で10分。自家源泉掛け流しの天然温泉ビジネス旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata97,http://ja.dbpedia.org/property/郵便番号,990-2332,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata97,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505183481,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata97,http://www.w3.org/2003/01/geo/wgs84_pos#long,137549173,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata97,https://schema.org/image,山形駅から車で10分。自家源泉掛け流しの天然温泉ビジネス旅館。<BR>24時間入浴可能です。泉質はメタケイ酸を多く含む美肌の湯。,literal,,1.0

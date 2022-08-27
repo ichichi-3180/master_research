@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima186,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima186,https://schema.org/address,福島県西白河郡西郷村真船馬立１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima186,https://schema.org/name,新甲子温泉　五峰荘,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima186,https://schema.org/description,首都圏から１時間半の秘湯♪源泉かけ流しと旬の美味食菜,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima186,http://ja.dbpedia.org/property/郵便番号,961-8071,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima186,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504141805,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima186,http://www.w3.org/2003/01/geo/wgs84_pos#long,133826538,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima186,https://schema.org/image,東北の玄関口「白河」からほど近く♪日光国立公園内に指定された静寂な宿。<BR>自家源泉かけ流しの６種の風呂は「美肌の湯」！<BR>食の自慢は朝食の温泉たまご♪こだわり抜かれた地産地消の郷土料理をどうぞ♪,literal,,1.0

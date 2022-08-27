@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kyoto20,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kyoto20,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature1,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kyoto20,http://ja.dbpedia.org/property/読み仮名,ふたつかおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kyoto20,https://schema.org/address,京都府竹野郡網野町三津,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kyoto20,https://schema.org/name,二塚温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kyoto20,https://schema.org/description,８００年以上の歴史を誇る二塚温泉。日本海に突き出た断崖に佇む一軒宿。日本海の潮騒をBGMに浸かる展望風呂は24時間入浴ＯＫ。時を追うごとに変わる日本海を目に浸かる温泉は無色透明のアルカリ単純泉。料理では、三津漁港に揚がる新鮮な魚介を始めとする海鮮料理が戴ける。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kyoto20,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kyoto20,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

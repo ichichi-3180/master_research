@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi66,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi66,https://schema.org/address,刈田郡蔵王町遠刈田温泉旭町１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi66,https://schema.org/name,旬菜湯宿　大忠,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi66,https://schema.org/description,蔵王食材の創作料理、源泉100％の湯、あなたの五感をもてなす宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi66,http://ja.dbpedia.org/property/郵便番号,989-0914,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi66,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506093575,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi66,http://www.w3.org/2003/01/geo/wgs84_pos#long,137233952,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi66,https://schema.org/image,蔵王の恵みを使った、個性的な会席料理と、源泉掛け流し100％の貸切風呂を含む５つのお風呂。書庫やＢＡＲ、滞在中に空きの来ない設備の数々。「あったらいいな」の、おもてなしが盛りだくさん。<BR>,literal,,1.0

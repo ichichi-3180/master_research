@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima130,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima130,https://schema.org/address,福島県耶麻郡猪苗代町見祢山１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima130,https://schema.org/name,フォレストリゾート　猪苗代　四季の里,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima130,https://schema.org/description,新たな気持ちで皆様をお迎えする！心をこめた温まるおもてなしの宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima130,http://ja.dbpedia.org/property/郵便番号,969-3102,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima130,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504372982,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima130,http://www.w3.org/2003/01/geo/wgs84_pos#long,135250985,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima130,https://schema.org/image,地下1500ｍから湧き出る自慢の濁り湯自家源泉と四季折々の和会席膳をご満喫下さい♪,literal,,1.0

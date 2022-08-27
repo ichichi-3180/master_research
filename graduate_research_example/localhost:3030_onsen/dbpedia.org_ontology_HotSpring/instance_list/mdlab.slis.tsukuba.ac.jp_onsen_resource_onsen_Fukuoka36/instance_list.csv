@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukuoka36,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukuoka36,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature1,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukuoka36,http://ja.dbpedia.org/property/読み仮名,てんねんおんせん　つきのしずく,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukuoka36,https://schema.org/address,福岡県大牟田市大字甘木甘木山1203-116,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukuoka36,https://schema.org/name,天然温泉　月の雫,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukuoka36,https://schema.org/description,福岡県南部にある大牟田市。古くは炭鉱町として栄え、今も多くの産業遺産が残る。この大牟田市の甘木山山頂にある大牟田ハイツに湧出している温泉。大牟田の街並みと有明海を望む絶景に、源泉100％かけ流しの湯を堪能できる。泉質は、お肌に優しいアルカリ性単純泉。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukuoka36,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukuoka36,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

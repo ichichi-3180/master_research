@@ -10,8 +10,8 @@ import pprint
 import csv
 import math
 
-endpoint = 'http://localhost:3030/NDL'
-# endpoint = 'http://localhost:3030/onsen' # inbound->Personクラス instance->HotSpringクラス
+# endpoint = 'http://localhost:3030/NDL'
+endpoint = 'http://localhost:3030/onsen' # inbound->Personクラス instance->HotSpringクラス
 # endpoint = 'http://localhost:3030/botanical' # inbound->Placeクラス instance->Plantクラス
 # endpoint = 'http://localhost:3030/vtuber' # inbound->Personクラス instance->VideoObjectクラス
 # endpoint = 'http://localhost:3030/omiyage'

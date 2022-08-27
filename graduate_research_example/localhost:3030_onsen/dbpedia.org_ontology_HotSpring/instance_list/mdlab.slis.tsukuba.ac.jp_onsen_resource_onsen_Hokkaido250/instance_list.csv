@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido250,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido250,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature1,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido250,http://ja.dbpedia.org/property/読み仮名,まるせっぷおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido250,https://schema.org/address,北海道紋別郡遠軽町丸瀬布上武利172番地,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido250,https://schema.org/name,丸瀬布温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido250,https://schema.org/description,丸瀬布温泉は遠軽町の山間にある。周りは森と渓谷に挟まれ、自然の中でのひと時を楽しめる。唯一の宿泊施設『マウレ山荘』は隠れ家的な一軒宿。リゾート＆スパとして、全国にファンが多い。自慢のアルカリ性単純の湯は肌にトロリとまとわりつき、保温性が高い。湯に浸かりながら肌をなでると、その泉質の良さに頷ける。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido250,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido250,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

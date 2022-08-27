@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shimane21,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shimane21,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature0,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shimane21,http://ja.dbpedia.org/property/読み仮名,ゆのつおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shimane21,https://schema.org/address,島根県迩摩郡温泉津町温泉津,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shimane21,https://schema.org/name,温泉津温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shimane21,https://schema.org/description,泉源は２つ有り、効能もそれぞれで微妙に異なる珍しい温泉。一つはその昔傷ついたタヌキが傷を癒している所を村人が見つけたという伝説が残る元湯。もう一つは明治５年の浜田地震で湧き出した薬師湯。昔ながらの温泉街の趣が温泉情緒を醸し出し、全国からの湯治客の足が絶える事はない。夏には近くの海岸で海水浴、ダイビングなどが楽しめる。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shimane21,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shimane21,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

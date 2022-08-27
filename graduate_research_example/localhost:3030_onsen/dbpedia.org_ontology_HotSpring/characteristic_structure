@@ -1,0 +1,20 @@
+digraph{
+        graph [rankdir = LR];
+    "http://dbpedia.org/ontology/HotSpring"->URI1[label="http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+existprobab:1.0"]
+"http://dbpedia.org/ontology/HotSpring"->"http://purl.org/net/hotspring/Quality"[label="http://ja.dbpedia.org/property/泉質
+existprobab:0.9509051856397668"]
+"http://dbpedia.org/ontology/HotSpring"->LITERAL1[label="http://ja.dbpedia.org/property/読み仮名
+existprobab:1.0"]
+"http://dbpedia.org/ontology/HotSpring"->LITERAL2[label="https://schema.org/address
+existprobab:0.9996931574102486"]
+"http://dbpedia.org/ontology/HotSpring"->LITERAL3[label="https://schema.org/name
+existprobab:1.0"]
+"http://dbpedia.org/ontology/HotSpring"->LITERAL4[label="https://schema.org/description
+existprobab:0.5477140227063516"]
+URI1[shape="ellipse"]
+LITERAL1[shape="box"]
+LITERAL2[shape="box"]
+LITERAL3[shape="box"]
+LITERAL4[shape="box"]
+}

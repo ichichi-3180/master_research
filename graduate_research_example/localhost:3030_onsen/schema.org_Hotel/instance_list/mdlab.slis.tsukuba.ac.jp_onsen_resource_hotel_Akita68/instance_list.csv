@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita68,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita68,https://schema.org/address,秋田県湯沢市皆瀬字湯元５０－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita68,https://schema.org/name,旅館　松葉館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita68,https://schema.org/description,小安峡温泉で唯一渓谷側にある宿で四季折々の大自然を満喫,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita68,http://ja.dbpedia.org/property/郵便番号,012-0183,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita68,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506405506,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita68,http://www.w3.org/2003/01/geo/wgs84_pos#long,140411601,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita68,https://schema.org/image,栗駒山で採れた旬の山菜や地元の食材をお部屋で味わうことができます。全8室から小安峡の大自然がながめられる静かな宿で、露天風呂に入って四季折々の温泉を満喫！,literal,,1.0

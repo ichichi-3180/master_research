@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido29,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido29,https://schema.org/address,北海道標津郡中標津町養老牛５１８,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido29,https://schema.org/name,湯宿だいいち,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido29,https://schema.org/description,源泉かけ流しの温泉でやすらぎのひとときを♪,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido29,http://ja.dbpedia.org/property/郵便番号,088-2684,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido29,http://www.w3.org/2003/01/geo/wgs84_pos#lat,521015780,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido29,http://www.w3.org/2003/01/geo/wgs84_pos#long,156906422,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido29,https://schema.org/image,養老牛温泉の老舗宿。川辺の露天風呂や木の香りあふれるひのき風呂など、情緒ある温泉が楽しめます。地元の食材をふんだんに使った料理も好評。自然に囲まれた空間で、ゆったりと時を過ごしてください。,literal,,1.0

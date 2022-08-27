@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa13,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa13,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature5,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa13,http://ja.dbpedia.org/property/読み仮名,しかのさとおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa13,https://schema.org/address,石川県羽咋郡志賀町矢蔵谷,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa13,https://schema.org/name,志賀の郷温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa13,https://schema.org/description,能登半島のほぼ中央、日本海を一望にする高台に広がる「志賀の郷リゾート」を中心とする温泉地。東京ドーム100個分以上の広大な敷地は緑でいっぱいの土地で、宿泊施設はもちろんテニスコートやゴルフ場などが揃う。湯量豊富で独特のぬめり感を持つ温泉は、肌がしっとりすると言われる別名「美肌の湯」。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa13,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa13,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

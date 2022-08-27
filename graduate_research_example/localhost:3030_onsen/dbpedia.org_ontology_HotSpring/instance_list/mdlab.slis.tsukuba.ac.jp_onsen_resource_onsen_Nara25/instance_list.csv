@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nara25,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nara25,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nara25,http://ja.dbpedia.org/property/読み仮名,かしはらのゆ,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nara25,https://schema.org/address,奈良県橿原市久米町652－2,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nara25,https://schema.org/name,かしはらの湯,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nara25,https://schema.org/description,万葉の歌に詠まれた大和三山に囲まれた地・橿原に湧き出る温泉。泉質は ナトリウム-塩化物温泉（高張性・弱アルカリ性・低温泉）で一般的適応症： 神経痛、筋肉痛、関節痛、運動麻痺、冷え性、病後回復期、疲労回復、健康増進など。又一般的禁忌症は急性疾患（特に熱のある場合）悪性腫瘍、重い心臓病など,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nara25,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nara25,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

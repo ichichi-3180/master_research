@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido169,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido169,https://schema.org/address,北海道虻田郡洞爺湖町洞爺湖温泉,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido169,https://schema.org/name,絶景の湯宿　洞爺湖畔亭,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido169,https://schema.org/description,露天風呂から見える絶景で非日常を体験しませんか♪,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido169,http://ja.dbpedia.org/property/郵便番号,049-5721,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido169,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506987442,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido169,http://www.w3.org/2003/01/geo/wgs84_pos#long,153228272,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido169,https://schema.org/image,6/1～夏のバイキングは「肉推し総選挙」！お肉を食べてスタミナをつけましょう！10月まで毎年恒例洞爺湖ロングラン花火大会開催中,literal,,1.0

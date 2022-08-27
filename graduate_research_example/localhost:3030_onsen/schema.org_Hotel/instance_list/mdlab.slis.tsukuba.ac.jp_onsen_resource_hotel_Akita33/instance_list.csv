@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita33,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita33,https://schema.org/address,秋田県仙北市田沢湖生保内字駒ヶ岳2,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita33,https://schema.org/name,田沢高原ホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita33,https://schema.org/description,館内からの眺望とヘルシーな手作り料理・かけ流しの温泉を満喫　,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita33,http://ja.dbpedia.org/property/郵便番号,014-1201,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita33,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506755159,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita33,http://www.w3.org/2003/01/geo/wgs84_pos#long,143195423,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita33,https://schema.org/image,家族で営む山の温泉宿。<BR>館内からの眺望と夕食は地元の母さんが作る健康でヘルシーな田舎手作り料理。<BR>源泉かけ流しの温泉。外湯は深さ１ｍのぬる湯。<BR>「建物ボロでも心あったか」で毎日励んでおります。,literal,,1.0

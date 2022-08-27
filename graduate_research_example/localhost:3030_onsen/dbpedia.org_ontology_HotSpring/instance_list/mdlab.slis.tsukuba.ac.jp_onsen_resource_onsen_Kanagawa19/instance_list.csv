@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa19,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa19,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature13,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa19,http://ja.dbpedia.org/property/読み仮名,ゆのはなざわおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa19,https://schema.org/address,神奈川県足柄下郡箱根町湯の花高原,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa19,https://schema.org/name,湯ノ花沢温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa19,https://schema.org/description,海抜935mと箱根17湯の中でも最も標高の高い場所にあるため、眼下には芦ノ湯、箱根外輪山の山並みに加え、晴れた日には小田原市内や三浦半島、房総半島まで見渡せる。また、「湯ノ花沢温泉」という名前の通り、自然湧泉から生じる「湯の花」が一面に広がっている沢がある。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa19,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa19,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

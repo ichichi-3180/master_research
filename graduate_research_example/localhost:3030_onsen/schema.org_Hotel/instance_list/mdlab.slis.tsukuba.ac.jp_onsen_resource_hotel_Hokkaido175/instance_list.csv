@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido175,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido175,https://schema.org/address,北海道虻田郡洞爺湖町洞爺湖温泉２９－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido175,https://schema.org/name,ザ　レイクビュー　ＴＯＹＡ　乃の風リゾート　,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido175,https://schema.org/description,“火・水・風”　洞爺の自然をイメージした夏限定ブッフェをお届け,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido175,http://ja.dbpedia.org/property/郵便番号,049-5721,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido175,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506970240,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido175,http://www.w3.org/2003/01/geo/wgs84_pos#long,153229064,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido175,https://schema.org/image,6～8月は“火・水・風”をテーマに期間限定ブッフェをご提供／月末月初のお日にち限定プラン登場／10月末まで毎夜20：45より花火大会が開催中！（※荒天時は中止）＜札幌駅・新千歳空港より送迎バス運行中＞,literal,,1.0

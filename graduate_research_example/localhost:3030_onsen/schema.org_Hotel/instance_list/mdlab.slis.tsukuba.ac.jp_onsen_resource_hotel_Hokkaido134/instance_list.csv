@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido134,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido134,https://schema.org/address,北海道小樽市朝里川温泉2丁目686-4,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido134,https://schema.org/name,小樽朝里川温泉ホテル武蔵亭,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido134,https://schema.org/description,小樽の新鮮な魚介類、朝里の山菜を堪能できる料理自慢の温泉宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido134,http://ja.dbpedia.org/property/郵便番号,047-0154,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido134,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507759499,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido134,http://www.w3.org/2003/01/geo/wgs84_pos#long,155322925,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido134,https://schema.org/image,小樽近海で獲れた旬の魚介や朝里の山の幸、自家菜園の野菜など、素材にこだわり、料理長が快心の料理でおもてなし。,literal,,1.0

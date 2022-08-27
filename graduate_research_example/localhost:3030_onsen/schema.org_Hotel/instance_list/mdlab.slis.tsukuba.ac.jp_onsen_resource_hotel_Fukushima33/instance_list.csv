@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima33,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima33,https://schema.org/address,福島県福島市桜本字木通沢４番地,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima33,https://schema.org/name,信夫温泉のんびり館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima33,https://schema.org/description,福島駅西口から一番近い秘湯　厚生労働大臣認定【日本料理人】の宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima33,http://ja.dbpedia.org/property/郵便番号,960-2251,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima33,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505237049,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima33,http://www.w3.org/2003/01/geo/wgs84_pos#long,135880612,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima33,https://schema.org/image,吊り橋のある一軒宿。肌にトロリとした感触のアルカリ硫黄泉。自然の山並を見晴らしながらの露天風呂でのんびりとした時間をお過ごしください。手間暇かけて造るお料理は全国的に評価されております。<BR>,literal,,1.0

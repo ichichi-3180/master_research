@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori21,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori21,https://schema.org/address,青森県上北郡東北町上北南４丁目３２－４８７,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori21,https://schema.org/name,モール温泉と炭酸泉の湯　上北さくら温泉,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori21,https://schema.org/description,モール泉とラムネ泉で全身エステ！地元産料理と温泉で癒しの旅を♪,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori21,http://ja.dbpedia.org/property/郵便番号,039-2405,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori21,http://www.w3.org/2003/01/geo/wgs84_pos#lat,508542201,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori21,http://www.w3.org/2003/01/geo/wgs84_pos#long,146609052,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori21,https://schema.org/image,【モール温泉】は約４０００万年前の亜炭の層を通過して湧出した肌に優しい「美人の湯」として有名です♪<BR>大浴場には【高濃度炭酸泉】も新設！<BR>源泉掛流し１００％の温泉と青森県産料理の家庭的なお宿♪<BR>,literal,,1.0

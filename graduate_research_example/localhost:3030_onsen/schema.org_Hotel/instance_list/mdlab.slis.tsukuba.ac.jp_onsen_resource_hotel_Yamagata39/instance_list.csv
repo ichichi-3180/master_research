@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata39,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata39,https://schema.org/address,山形県最上郡大蔵村大字南山５２２,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata39,https://schema.org/name,西本屋旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata39,https://schema.org/description,湯治を面白く、もっと豊かに。名物「金魚湯」をご堪能あれ！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata39,http://ja.dbpedia.org/property/郵便番号,996-0301,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata39,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504608541,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata39,http://www.w3.org/2003/01/geo/wgs84_pos#long,138974552,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata39,https://schema.org/image,金魚を眺められる金魚湯、カルデラを模した岩風呂、好きな音楽を聴ける貸切音泉、<BR>また体にやさしい山里の手料理で心底すこやかに。<BR>のんびり何にも追われない。<BR>湯治、暇という贅沢。,literal,,1.0

@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori74,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori74,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori74,http://ja.dbpedia.org/property/読み仮名,さわさとのゆ,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori74,https://schema.org/address,青森県八戸市東白山台1-1-1,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori74,https://schema.org/name,さわ里の湯,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori74,https://schema.org/description,港・八戸市では良質なナトリウム・カルシウム塩化物泉が多く、慢性消化器病・冷え性・疲労回復をはじめ、神経痛、関節痛、筋肉痛に効き、保温効果にすぐれ健康と美容に良いといわれる泉質を楽しめる。港町ならではの朝市などの観光を楽しめるのも魅力の一つ。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori74,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori74,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

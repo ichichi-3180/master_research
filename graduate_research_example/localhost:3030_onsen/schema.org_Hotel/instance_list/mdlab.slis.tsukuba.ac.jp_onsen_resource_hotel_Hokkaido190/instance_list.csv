@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido190,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido190,https://schema.org/address,登別市登別温泉100番地,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido190,https://schema.org/name,名湯の宿パークホテル雅亭,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido190,https://schema.org/description,源泉の上に建つからこその濃いお湯を、思う存分贅沢にかけ流しで,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido190,http://ja.dbpedia.org/property/郵便番号,059-0551,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido190,http://www.w3.org/2003/01/geo/wgs84_pos#lat,508122943,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido190,http://www.w3.org/2003/01/geo/wgs84_pos#long,152974862,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido190,https://schema.org/image,今では数少ない源泉の上に建ち、本物のお湯を楽しめる温泉自慢の宿。かけ流しの贅沢なお湯で登別温泉の醍醐味を存分にお楽しみください。,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima201,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima201,https://schema.org/address,福島県耶麻郡猪苗代町字葉山７１０５－２６１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima201,https://schema.org/name,レイクビュー猪苗代荘,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima201,https://schema.org/description,眼下に広がる猪苗代湖と癒しの温泉！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima201,http://ja.dbpedia.org/property/郵便番号,969-3102,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima201,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504348396,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima201,http://www.w3.org/2003/01/geo/wgs84_pos#long,135253448,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima201,https://schema.org/image,雄大な猪苗代湖の眺望と自慢の温泉で癒しのひと時をお過ごしください。,literal,,1.0

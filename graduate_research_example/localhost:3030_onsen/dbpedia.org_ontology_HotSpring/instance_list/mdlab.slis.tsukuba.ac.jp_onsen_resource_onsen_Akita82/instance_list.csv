@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita82,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita82,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature7,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita82,http://ja.dbpedia.org/property/読み仮名,なんごうおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita82,https://schema.org/address,秋田県平鹿郡山内村南郷字大払川,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita82,https://schema.org/name,南郷温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita82,https://schema.org/description,秋田県南に位置し、秋の宮温泉郷、小安峡温泉、泥湯温泉ほか、一軒宿の温泉も点在している。それぞれ個性的な泉質で湯量も豊富な源泉が多い。他にも激しく蒸気や湯を噴き出す小安峡大噴湯や川原毛地獄など温泉に関わるみどころも多い。また横手のやきそば、湯沢の稲庭うどんなど麺グルメも楽しめる。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita82,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita82,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

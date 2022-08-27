@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi27,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi27,https://schema.org/address,宮城県大崎市鳴子温泉鷲の巣９０－１８,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi27,https://schema.org/name,旅館なんぶ屋,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi27,https://schema.org/description,常連の８割が女性♪手作り料理とほっできる空間。なごみ系、15室,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi27,http://ja.dbpedia.org/property/郵便番号,989-6811,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi27,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506662379,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi27,http://www.w3.org/2003/01/geo/wgs84_pos#long,139468300,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi27,https://schema.org/image,ふるさと風情漂う｢鳴子御殿湯駅｣より徒歩３分。笑顔の素敵な女将と、ほがらかな女性スタッフがもてなす湯の宿。前菜からデザートまで手作りのお食事と清潔感あふれる美肌の温泉を心ゆくまで・・・。,literal,,1.0

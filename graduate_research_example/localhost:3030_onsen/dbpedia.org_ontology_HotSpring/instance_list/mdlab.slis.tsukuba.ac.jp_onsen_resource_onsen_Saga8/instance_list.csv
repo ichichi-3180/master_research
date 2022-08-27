@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saga8,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saga8,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature5,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saga8,http://ja.dbpedia.org/property/読み仮名,うれしのおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saga8,https://schema.org/address,佐賀県藤津郡嬉野町下宿乙,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saga8,https://schema.org/name,嬉野温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saga8,https://schema.org/description,九州屈指の名泉として知られ、源泉は１７ヶ所で湯量も豊富。食塩と炭酸を含有したアルカリ性の湯は良質で、汲み上げ時の温度は約１００度ある。江戸時代の嬉野温泉は長崎街道の宿場町として栄え、今でも嬉野川の清流に沿って60軒余の宿が建つ。嬉野温泉の名物はお茶と、とろける温泉湯豆腐。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saga8,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saga8,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

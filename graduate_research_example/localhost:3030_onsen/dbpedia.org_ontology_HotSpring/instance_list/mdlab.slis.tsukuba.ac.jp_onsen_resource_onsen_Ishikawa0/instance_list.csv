@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa0,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa0,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature9,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa0,http://ja.dbpedia.org/property/読み仮名,やましろおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa0,https://schema.org/address,石川県加賀市山代温泉,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa0,https://schema.org/name,山代温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa0,https://schema.org/description,昔、高僧･行基が傷口を湧き水で癒す烏を見て、その湧き水が温泉だったことが山代温泉の始まり。それ以来「からすの湯」と呼び親しまれた。１３００余年の歴史を持ち、北大路魯山人や与謝野晶子が愛した伝統と文化の香りのする名湯。源泉64度の含石泉･食塩･芒硝泉の３つの泉質をもつ。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa0,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa0,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

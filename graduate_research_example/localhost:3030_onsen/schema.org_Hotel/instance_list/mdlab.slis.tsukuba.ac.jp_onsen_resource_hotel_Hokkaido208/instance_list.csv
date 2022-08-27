@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido208,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido208,https://schema.org/address,北海道久遠郡せたな町大成区貝取澗３８８番地,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido208,https://schema.org/name,国民宿舎　あわび山荘,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido208,https://schema.org/description,夕食はお部屋食でごゆっくり。温泉は源泉１００％掛け流し!(^^)!,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido208,http://ja.dbpedia.org/property/郵便番号,043-0515,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido208,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503647648,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido208,http://www.w3.org/2003/01/geo/wgs84_pos#long,151871364,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido208,https://schema.org/image,※重要なお知らせ※<BR>長年ご愛顧いただきましたあわび山荘は令和元年１０月２０日をもって、あわび山荘の宿泊を閉鎖いたします。ネット予約は８月末日までとなります。以降は電話でのご予約となります。,literal,,1.0

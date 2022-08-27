@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido24,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido24,https://schema.org/address,北海道目梨郡羅臼町湯の沢町７番地３,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido24,https://schema.org/name,ホテル峰の湯,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido24,https://schema.org/description,秘境知床に沸く天然温泉と『魚の城下町羅臼』の魚介を楽しめる宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido24,http://ja.dbpedia.org/property/郵便番号,086-1822,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido24,http://www.w3.org/2003/01/geo/wgs84_pos#lat,522620927,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido24,http://www.w3.org/2003/01/geo/wgs84_pos#long,158502905,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido24,https://schema.org/image,○車の移動で羅臼港まで5分、羅臼岳登山口まで3分、羅臼湖入口まで15分。羅臼の自然を満喫できる好立地。,literal,,1.0

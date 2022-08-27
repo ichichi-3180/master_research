@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi91,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi91,https://schema.org/address,宮城県柴田郡川崎町大字前川六方山３－１７１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi91,https://schema.org/name,Ｔロッジ青根,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi91,https://schema.org/description,表蔵王山麓の閑静な別荘地に佇む、あなたのための一棟。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi91,http://ja.dbpedia.org/property/郵便番号,989-1501,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi91,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505999162,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi91,http://www.w3.org/2003/01/geo/wgs84_pos#long,137351991,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi91,https://schema.org/image,静かな森の中の別荘で、バケーションレンタル。ご家族、カップル、気の合う仲間と日常を離れゆっくり流れる時間をお楽しみください。十和田石を使った浴槽の温泉、薪ストーブなど整った設備で別荘ライフを！,literal,,1.0

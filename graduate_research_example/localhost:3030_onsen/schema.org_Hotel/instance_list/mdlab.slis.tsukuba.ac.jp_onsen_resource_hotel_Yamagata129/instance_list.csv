@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata129,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata129,https://schema.org/address,山形市蔵王温泉878-5,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata129,https://schema.org/name,ル・ベール蔵王,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata129,https://schema.org/description,地産地消にこだわる山形の旬の味をお届けします。全室バストイレ付,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata129,http://ja.dbpedia.org/property/郵便番号,990-2301,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata129,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505448082,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata129,http://www.w3.org/2003/01/geo/wgs84_pos#long,137387251,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata129,https://schema.org/image,地元食材の和食会席、「山形牛」をご賞味下さい♪<BR>1～5名様まで客室タイプ色々。源泉かけ流し天然温泉24時間入浴OK♪<BR>「源七露天の湯」まで徒歩1分！<BR>,literal,,1.0

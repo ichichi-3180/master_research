@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima98,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima98,https://schema.org/address,いわき市常磐藤原町蕨平50,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima98,https://schema.org/name,スパリゾートハワイアンズ　ウイルポート,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima98,https://schema.org/description,ウォーターパークにいちばん近いホテル！２２時間ロングステイ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima98,http://ja.dbpedia.org/property/郵便番号,972-8326,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima98,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506948584,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima98,http://www.w3.org/2003/01/geo/wgs84_pos#long,133167547,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima98,https://schema.org/image,地中海のリビエラをイメーシ゛したリゾートホテル。館内は明るく、太陽の光が降り注ぐ船をモチーフとしたキャビンと呼ばれる客室。唯一レジャー施設の中にあるホテル。,literal,,1.0

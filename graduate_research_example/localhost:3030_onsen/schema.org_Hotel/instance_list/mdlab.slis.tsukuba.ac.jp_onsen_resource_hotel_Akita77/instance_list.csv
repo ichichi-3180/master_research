@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita77,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita77,https://schema.org/address,秋田県仙北郡美郷町金沢東根仏沢２１０―１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita77,https://schema.org/name,千畑温泉サン・アール,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita77,https://schema.org/description,周囲を緑に囲まれた宿。天然温泉と郷土料理ベースの和会席を堪能。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita77,http://ja.dbpedia.org/property/郵便番号,019-1522,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita77,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506239981,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita77,http://www.w3.org/2003/01/geo/wgs84_pos#long,141950005,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita77,https://schema.org/image,喧騒を離れてのんびり過ごしたいお客様にオススメ。自慢の温泉を開放感のある、<BR>大浴場と露天風呂で楽しんだ後は、旬の食材を楽しめる和会席に舌鼓。<BR>車で約10分の場所には、秋田県屈指のラベンダー園も。,literal,,1.0

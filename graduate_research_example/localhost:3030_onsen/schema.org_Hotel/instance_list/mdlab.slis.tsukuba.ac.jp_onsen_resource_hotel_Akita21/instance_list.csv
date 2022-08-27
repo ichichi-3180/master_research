@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita21,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita21,https://schema.org/address,秋田県鹿角市八幡平字湯瀬湯端４３番地,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita21,https://schema.org/name,四季彩り　秋田づくし　湯瀬ホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita21,https://schema.org/description,じゃらんnet『泊まって良かった宿大賞(総合)』第2位☆,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita21,http://ja.dbpedia.org/property/郵便番号,018-5141,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita21,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507022834,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita21,http://www.w3.org/2003/01/geo/wgs84_pos#long,144432662,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita21,https://schema.org/image,おかげ様でじゃらんnet『泊まって良かった宿大賞(総合)』第2位！<BR>秋田の四季を五感で感じる、「四季彩り　秋田づくし」の宿、湯瀬ホテル。,literal,,1.0

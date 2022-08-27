@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima128,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima128,https://schema.org/address,耶麻郡猪苗代町字不動33-13,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima128,https://schema.org/name,ヒーリングイン　ホワイトペンション,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima128,https://schema.org/description,　【じゃらんアワード★泊まって良かった宿大賞★2部門W受賞】,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima128,http://ja.dbpedia.org/property/郵便番号,969-3287,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima128,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504221631,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima128,http://www.w3.org/2003/01/geo/wgs84_pos#long,135219957,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima128,https://schema.org/image,【じゃらんアワード★泊まって良かった宿大賞★W受賞】「ガーデン露天」「檜風呂」「死海風呂」4ヶ所6種類のお風呂を無料貸切♪【部屋付露天風呂】や【岩盤浴】も人気の宿★週末は近隣県民のお得プラン有！,literal,,1.0

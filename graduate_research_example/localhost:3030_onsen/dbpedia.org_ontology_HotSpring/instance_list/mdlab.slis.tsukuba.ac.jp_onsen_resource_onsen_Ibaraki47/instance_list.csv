@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki47,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki47,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki47,http://ja.dbpedia.org/property/読み仮名,ひぬまおんせん　びじんのゆ,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki47,https://schema.org/address,茨城県鉾田市箕輪3604,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki47,https://schema.org/name,涸沼温泉　美人の湯,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki47,https://schema.org/description,雄大な涸沼の景色を一望できる大パノラマ。化粧水につかるようなツルツルした湯感をお愉しみください。泉質にはナトリウムも含まれているため、筋肉痛や関節痛、慢性の皮膚病にも効能があるとされている。水戸駅から車で約30分と立地もよい。日帰り温泉も受け付けている。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki47,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki47,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

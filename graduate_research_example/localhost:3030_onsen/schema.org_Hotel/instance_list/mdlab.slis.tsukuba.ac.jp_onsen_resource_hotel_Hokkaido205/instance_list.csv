@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido205,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido205,https://schema.org/address,北海道山越郡長万部町温泉町４０３－１０,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido205,https://schema.org/name,温泉旅館もりかわ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido205,https://schema.org/description,貸切風呂も可！泉質の良い長万部の温泉で静かに癒されよう！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido205,http://ja.dbpedia.org/property/郵便番号,049-3521,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido205,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505363699,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido205,http://www.w3.org/2003/01/geo/wgs84_pos#long,153049921,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido205,https://schema.org/image,全室LANケーブルあり！インターネット接続ができるのがうれしい！<BR>昭和30年、偶然に噴出した長万部温泉。時間帯や条件で貸し切りにしてくれる事もあるので、家族でゆっくりと源泉を楽しみたい時にぴったり,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido173,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido173,https://schema.org/address,北海道虻田郡洞爺湖町洞爺湖温泉６番地,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido173,https://schema.org/name,洞爺温泉ホテル華美,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido173,https://schema.org/description,★今だけ★アンケート回答でポイント付与率UPキャンペーン開催中♪,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido173,http://ja.dbpedia.org/property/郵便番号,049-5721,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido173,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506990902,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido173,http://www.w3.org/2003/01/geo/wgs84_pos#long,153226108,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido173,https://schema.org/image,洞爺湖畔沿☆2016年12月に全館リニューアル。自慢は洞爺湖を一望できるお部屋（和室）からの景色とお湯。　4月28日からは洞爺湖ロングラン花火大会を目の前で楽しめる。,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori33,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori33,https://schema.org/address,青森県青森市荒川八甲田山中,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori33,https://schema.org/name,ＨＯＴＥＬ　Ｊｏｇａｋｕｒａ（ホテル城ヶ倉）,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori33,https://schema.org/description,じゃらん評価★★★★★４．９　（H25.7.26現在）の夕食を満喫♪,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori33,http://ja.dbpedia.org/property/郵便番号,030-0111,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori33,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507025170,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori33,http://www.w3.org/2003/01/geo/wgs84_pos#long,146352482,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori33,https://schema.org/image,八甲田山系に佇む北欧風リゾートホテル。夕食は会席料理、朝食はバイキング式。旬の新鮮食材を料理長が趣向をこらし、独自の世界観で調理。四季折々のブナ原生林を眺めながら至福の時間をお愉しみ下さい。,literal,,1.0

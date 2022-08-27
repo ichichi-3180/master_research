@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate72,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate72,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate72,http://ja.dbpedia.org/property/読み仮名,いちのせきおんせんささやちびぞうおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate72,https://schema.org/address,岩手県一関市赤萩字笹谷396-6,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate72,https://schema.org/name,一関温泉笹谷ちびぞう源泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate72,https://schema.org/description,岩手県、宮城県、秋田県の県境に位置し、高山植物の宝庫である栗駒山、国の名勝天然記念物である厳美渓など自然に恵まれた温泉郷である。国道３４２号線沿いに温泉宿が点在し、また周辺には一関市博物館やサハラガラスパークなど観光関連施設が充実している。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate72,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate72,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

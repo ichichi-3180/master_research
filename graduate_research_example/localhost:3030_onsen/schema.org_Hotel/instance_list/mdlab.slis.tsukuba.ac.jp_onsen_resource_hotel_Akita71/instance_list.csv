@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita71,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita71,https://schema.org/address,秋田県湯沢市皆瀬字湯元１００－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita71,https://schema.org/name,小安峡温泉　湯の宿　元湯くらぶ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita71,https://schema.org/description,自然の静寂に包まれ、やすらぎのひと時を,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita71,http://ja.dbpedia.org/property/郵便番号,012-0183,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita71,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506395198,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita71,http://www.w3.org/2003/01/geo/wgs84_pos#long,140411284,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita71,https://schema.org/image,栗駒山麓のいで湯と客室総数12室ののんびりとやすらげる温泉宿。<BR>大浴場（内湯２、露天２）貸切湯3つ、足湯１つ。温泉を存分に楽しめ、地元の食材に拘った手料理が並びます。<BR>,literal,,1.0

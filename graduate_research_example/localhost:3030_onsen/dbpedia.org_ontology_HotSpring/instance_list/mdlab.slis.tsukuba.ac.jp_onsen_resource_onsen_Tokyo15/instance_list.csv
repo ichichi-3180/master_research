@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokyo15,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokyo15,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature0,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokyo15,http://ja.dbpedia.org/property/読み仮名,みはらやまおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokyo15,https://schema.org/address,東京都大島町泉津字木積場,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokyo15,https://schema.org/name,三原山温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokyo15,https://schema.org/description,東京の島々。伊豆七島は富士火山帯にあって、各島で様々な温泉を楽しむ事ができる。村営や町営の無料の温泉、料金をとっても２００～３００円程度。波打ち際を埋める岩の間から湯が湧き出している所や高台にあり夕日を眺めながら入浴できる所ありと、その大半が絶好のロケーションの露天風呂。まさに大自然の中の天然温泉。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokyo15,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokyo15,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

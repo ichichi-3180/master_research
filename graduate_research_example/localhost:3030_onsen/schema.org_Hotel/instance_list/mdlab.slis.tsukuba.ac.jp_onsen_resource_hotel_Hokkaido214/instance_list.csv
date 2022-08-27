@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido214,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido214,https://schema.org/address,北海道亀田郡七飯町東大沼４２,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido214,https://schema.org/name,東大沼温泉　旅館　留の湯,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido214,https://schema.org/description,お江戸の時代から渾々と５つの源泉４つの湯殿１００％掛け流しの湯,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido214,http://ja.dbpedia.org/property/郵便番号,041-1351,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido214,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506665021,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido214,http://www.w3.org/2003/01/geo/wgs84_pos#long,151280625,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido214,https://schema.org/image,江戸時代安政年間から自噴するお湯を楽しめる「安政の湯」など異なる源泉を持つ４つの湯殿。すべて源泉１００％掛け流し、いつでも新鮮、いいお湯が皆様をお待ちしております。,literal,,1.0

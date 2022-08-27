@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto17,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto17,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature0,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto17,http://ja.dbpedia.org/property/読み仮名,きくちおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto17,https://schema.org/address,熊本県菊池市隈府,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto17,https://schema.org/name,菊池温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto17,https://schema.org/description,熊本の奥座敷として約４０軒の旅館・ホテルが立ち並ぶ。昭和２９年に湧出した比較的新しい温泉。泉質は弱アルカリ単純泉であり、美容、神経痛、リュウマチに効果がある。別名「乙女の肌」といわれ入浴後は肌がすべすべになるといわれる。日本名水百選の１つ「菊池渓谷」では、避暑や紅葉など四季折々の風情を味わえる。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto17,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto17,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

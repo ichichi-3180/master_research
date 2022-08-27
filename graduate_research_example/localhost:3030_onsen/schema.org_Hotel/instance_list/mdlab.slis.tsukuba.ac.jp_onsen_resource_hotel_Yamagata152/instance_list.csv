@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata152,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata152,https://schema.org/address,山形県南陽市赤湯１０１４,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata152,https://schema.org/name,赤湯温泉　大正ロマン香る癒しの宿　丹波館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata152,https://schema.org/description,大正ロマン香る源泉掛け流しの天然温泉と米沢牛の美味しさに舌鼓！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata152,http://ja.dbpedia.org/property/郵便番号,999-2211,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata152,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504616635,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata152,http://www.w3.org/2003/01/geo/wgs84_pos#long,136970739,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata152,https://schema.org/image,明治元年創業当時の造りのレトロな大正ロマン香る癒しの空間で、源泉掛け流し天然温泉と山形が誇る米沢牛の美味しさをご堪能ください。ウォシュレットトイレや全室無線ＬＡＮ完備でビジネスにも便利！,literal,,1.0

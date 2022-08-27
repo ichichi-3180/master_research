@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki9,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki9,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature11,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki9,http://ja.dbpedia.org/property/読み仮名,ゆのあみおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki9,https://schema.org/address,茨城県北茨城市関南町,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki9,https://schema.org/name,湯の網温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki9,https://schema.org/description,元禄時代に怪我をした鹿が傷を癒していたのを発見されたことから、地元の人からは「鹿の湯」と呼ばれるようになった。国内有数の含泉（赤茶色）で、効能は慢性婦人病・切り傷、神経痛、冷え性、等々。湯を求めて遠くから、また何度も利用されるお客様も多い。静かな里山の温泉。海からも近く新鮮な魚介が楽しめる。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki9,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki9,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

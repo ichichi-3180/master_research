@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi42,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi42,https://schema.org/address,宮城県仙台市太白区秋保町湯元除３３―１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi42,https://schema.org/name,仙台・秋保温泉　ホテル華乃湯,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi42,https://schema.org/description,自然に囲まれた絶景の湯めぐりと無農薬野菜を取り入れた美食の宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi42,http://ja.dbpedia.org/property/郵便番号,982-0241,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi42,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506667006,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi42,http://www.w3.org/2003/01/geo/wgs84_pos#long,137584979,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi42,https://schema.org/image,じゃらんnetランキング2018　売れた宿大賞　宮城県　51～100室部門　3位。仙台市中心部から車で約30分。秋保産無農薬野菜を中心の創作・和イタリアンバイキングも人気。全客室無料Ｗi-Ｆi接続。,literal,,1.0

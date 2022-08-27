@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido197,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido197,https://schema.org/address,登別市登別温泉町５５番地,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido197,https://schema.org/name,第一滝本館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido197,https://schema.org/description,創業161年×1500坪圧巻の大浴場×わんちゃんと宿泊できるお部屋有,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido197,http://ja.dbpedia.org/property/郵便番号,059-0595,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido197,http://www.w3.org/2003/01/geo/wgs84_pos#lat,508133582,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido197,http://www.w3.org/2003/01/geo/wgs84_pos#long,152972031,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido197,https://schema.org/image,☆2019年7月南館リニューアルオープン☆<BR>日本の10泉質の半分がここだけで　-　圧巻の1500坪の大浴場を心行くまでご堪能ください,literal,,1.0

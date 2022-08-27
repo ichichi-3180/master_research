@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima71,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima71,https://schema.org/address,福島県郡山市熱海町熱海５－３９,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima71,https://schema.org/name,ほのぼのするお宿　湯のやど　楽山,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima71,https://schema.org/description,全20室～ホッとできる小さなお宿。熱々かまど料理が自慢！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima71,http://ja.dbpedia.org/property/郵便番号,963-1309,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima71,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504936699,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima71,http://www.w3.org/2003/01/geo/wgs84_pos#long,134957431,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima71,https://schema.org/image,＼ほっ／とくつろげる湯のやど楽山。自慢のかまど料理「おばんざい」は食べ放題でお腹も満腹♪<BR>大きな岩の露天風呂「かくれんぼ」の湯でからだもポッカポカ。<BR>是非、楽山へお越しください。,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata144,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata144,https://schema.org/address,山形県山形市蔵王温泉字川原４２－５,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata144,https://schema.org/name,お食事処・お泊まり処・お湯処ろばた,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata144,https://schema.org/description,限定３室の隠れ家的宿　美味しい食事と自家源泉掛流しの温泉が◎,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata144,http://ja.dbpedia.org/property/郵便番号,990-2301,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata144,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505441159,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata144,http://www.w3.org/2003/01/geo/wgs84_pos#long,137392767,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata144,https://schema.org/image,蔵王温泉が発祥といわれているジンギスカンや、新鮮な旬の素材や山菜・郷土料理が自慢の宿。しかも敷地内にある自家源泉から湧き出るフレッシュな温泉が貸切風呂・足湯として楽しめる。,literal,,1.0

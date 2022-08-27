@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido155,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido155,https://schema.org/address,北海道磯谷郡蘭越町昆布町１１４番地,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido155,https://schema.org/name,蘭越町交流促進センター　幽泉閣,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido155,https://schema.org/description,ニセコ連峰、羊蹄山を一望できる『美人の湯』宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido155,http://ja.dbpedia.org/property/郵便番号,048-1302,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido155,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506163810,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido155,http://www.w3.org/2003/01/geo/wgs84_pos#long,154063513,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido155,https://schema.org/image,源泉かけ流しの湯は、弱アルカリ性で肌がツルツルになると評判。国道5号線・JR昆布駅傍で好立地！地場山菜などを使用した料理と、「美人の湯」で心も体もリフレッシュ！足湯やパークゴルフ場の利用も好評！,literal,,1.0

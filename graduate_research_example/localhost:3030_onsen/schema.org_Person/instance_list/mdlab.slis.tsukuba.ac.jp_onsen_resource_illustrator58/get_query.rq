@@ -1,0 +1,8 @@
+
+        select distinct  ?o1 ?o2 ?o3 where{
+            ?n <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?o1.
+?n <https://schema.org/name> ?o2.
+
+            filter (?n = <https://mdlab.slis.tsukuba.ac.jp/onsen/resource/illustrator58>)
+        }
+    

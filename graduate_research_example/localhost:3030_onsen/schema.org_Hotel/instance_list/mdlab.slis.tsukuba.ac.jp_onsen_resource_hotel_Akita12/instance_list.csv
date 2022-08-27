@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita12,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita12,https://schema.org/address,秋田県男鹿市北浦湯本草木原６３－２,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita12,https://schema.org/name,男鹿　萬盛閣,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita12,https://schema.org/description,新鮮な海の幸は「網元」ならでは！思う存分、魚を食らう!!,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita12,http://ja.dbpedia.org/property/郵便番号,010-0687,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita12,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503080720,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita12,http://www.w3.org/2003/01/geo/wgs84_pos#long,143891308,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita12,https://schema.org/image,男鹿温泉郷「網元」の宿。底曳船「萬盛丸」で捕獲した日本海男鹿・採れたての魚を食べられる。まさに「網元」ならではの日本海料理！夕食は部屋食。温泉は源泉かけ流し。男鹿温泉で唯一貸切露天風呂あり。,literal,,1.0

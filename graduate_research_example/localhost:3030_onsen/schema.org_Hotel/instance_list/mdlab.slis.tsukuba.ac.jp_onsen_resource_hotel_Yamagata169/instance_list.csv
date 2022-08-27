@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata169,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata169,https://schema.org/address,山形県米沢市関字清水裏３９３１－４,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata169,https://schema.org/name,別邸　山の季　-　YAMANOKI　-,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata169,https://schema.org/description,オールインクルーシブ×米沢牛。静かな秘湯で過ごす、最高の贅沢。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata169,http://ja.dbpedia.org/property/郵便番号,992-1472,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata169,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504441260,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata169,http://www.w3.org/2003/01/geo/wgs84_pos#long,136005353,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata169,https://schema.org/image,山形の温泉地に12の湯宿「高見屋グループ」。秘湯白布に佇む優雅な旅館。半個室ダイニングで味わう米沢牛と山形の美食。滞在中のドリンクが全て無料のオールインクルーシブ。貸切風呂や湯めぐりも無料。,literal,,1.0

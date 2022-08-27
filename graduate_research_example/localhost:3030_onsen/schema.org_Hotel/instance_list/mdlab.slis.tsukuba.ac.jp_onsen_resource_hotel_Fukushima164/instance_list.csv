@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima164,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima164,https://schema.org/address,福島県会津若松市大戸町芦牧字下夕平１０５０,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima164,https://schema.org/name,芦ノ牧温泉　芦ノ牧プリンスホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima164,https://schema.org/description,四季を楽しむ会津旅！料理と笑顔溢れる接客が自慢！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima164,http://ja.dbpedia.org/property/郵便番号,969-5147,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima164,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503698809,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima164,http://www.w3.org/2003/01/geo/wgs84_pos#long,134506974,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima164,https://schema.org/image,会津芦ノ牧温泉の雄大な渓谷に囲まれた宿。地元の食材を使ったバランス良い料理と大自然の中の天然温泉が自慢。ファミリーやグループでもオススメ！,literal,,1.0

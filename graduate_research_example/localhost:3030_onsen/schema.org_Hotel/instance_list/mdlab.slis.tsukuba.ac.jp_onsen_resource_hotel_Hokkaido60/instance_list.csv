@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido60,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido60,https://schema.org/address,北海道釧路市阿寒町阿寒湖温泉５丁目３番２号,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido60,https://schema.org/name,温泉民宿山口,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido60,https://schema.org/description,源泉100％かけ流し、24時間入浴OK。心も体も温まる温泉自慢の民宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido60,http://ja.dbpedia.org/property/郵便番号,085-0467,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido60,http://www.w3.org/2003/01/geo/wgs84_pos#lat,518737520,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido60,http://www.w3.org/2003/01/geo/wgs84_pos#long,156355755,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido60,https://schema.org/image,【心も体も温まる温泉民宿！】24時間入浴可能な源泉１００％掛け流し温泉と、北海道の旬の味覚を取り入れた家庭料理をご堪能ください！阿寒湖観光の立地もよし！休前日割増無しのリーズナブルな旅を応援♪,literal,,1.0

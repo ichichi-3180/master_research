@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saitama24,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saitama24,http://ja.dbpedia.org/property/泉質,http://iris.slis.tsukuba.ac.jp:3050/onsen/data,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saitama24,http://ja.dbpedia.org/property/読み仮名,ちちぶ　おがのおんせん　たかねのゆ,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saitama24,https://schema.org/address,埼玉県秩父郡小鹿野町小鹿野1853,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saitama24,https://schema.org/name,秩父　小鹿野温泉　高根の湯,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saitama24,https://schema.org/description,今から25年ほど前、護岸砂防工事中に発見された源泉は、地元で“お高根さま”と呼ばれ、古くから信仰のある「高根神社」の名前から「高根鉱泉」と名付けられたそう。縁起のよいお湯に入れば、ご利益があるかもしれません。無病息災・五穀豊穣・子孫繁栄などに良いと言われています。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saitama24,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saitama24,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

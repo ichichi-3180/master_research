@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata20,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata20,https://schema.org/address,山形県鶴岡市湯野浜１－２６－４,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata20,https://schema.org/name,はまあかり　潮音閣,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata20,https://schema.org/description,プロが選ぶ日本の旅館１００選　日本の小宿賞を頂きました！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata20,http://ja.dbpedia.org/property/郵便番号,997-1201,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata20,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503125938,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata20,http://www.w3.org/2003/01/geo/wgs84_pos#long,139606073,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata20,https://schema.org/image,しゃぶしゃぶ・お刺身・紅ズワイカニが1人にまるごと1パイ付！出来るだけ安く、良質な素材をご提供し、価格据え置きで頑張っています！　◆飲み放題付のご宴会も可能です♪お気軽にお問い合わせください<BR>,literal,,1.0

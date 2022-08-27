@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kagoshima87,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kagoshima87,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature1,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kagoshima87,http://ja.dbpedia.org/property/読み仮名,ざいほうおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kagoshima87,https://schema.org/address,鹿児島県垂水市新観堂,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kagoshima87,https://schema.org/name,財宝温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kagoshima87,https://schema.org/description,桜島の南側「垂水市」に位置する垂水温泉。鹿児島市内からの所要時間はフェリーで40分ほど。錦江湾の桜島や、鹿児島市街地、開聞岳までを一望できる眺望が自慢の温泉だ。泉質はさまざまで、神経痛や筋肉痛、五十肩、運動機能障害、疲労回復などに効果があるといわれている。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kagoshima87,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kagoshima87,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

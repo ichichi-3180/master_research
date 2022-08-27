@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima199,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima199,https://schema.org/address,福島県耶麻郡猪苗代町字葉山7105-270,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima199,https://schema.org/name,猪苗代観光ホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima199,https://schema.org/description,磐梯高原に佇むスポーツ・レジャー施設充実のホテル。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima199,http://ja.dbpedia.org/property/郵便番号,969-3102,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima199,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504338340,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima199,http://www.w3.org/2003/01/geo/wgs84_pos#long,135251306,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima199,https://schema.org/image,洋風の外観（レンガ造り）に和室中心の旅館。眼下に猪苗代湖を望み、冬はゲレンデのすぐ横。交通の便もたいへん良く観光の拠点としても御利用下さい。,literal,,1.0

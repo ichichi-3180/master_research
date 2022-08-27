@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita29,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita29,https://schema.org/address,秋田県仙北市田沢湖田沢字先達沢国有林内,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita29,https://schema.org/name,孫六温泉,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita29,https://schema.org/description,懐しさを感じさせる湯宿で、和の風情を楽しみ、天然温泉に癒される,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita29,http://ja.dbpedia.org/property/郵便番号,014-1204,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita29,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506585590,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita29,http://www.w3.org/2003/01/geo/wgs84_pos#long,143249233,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita29,https://schema.org/image,湯治湯の風情を今に残す温泉宿。大自然を肌で感じられる野趣味ある露天風呂が自慢。４つある源泉はそれぞれ効能が異なり、山の薬湯として親しまれている。,literal,,1.0

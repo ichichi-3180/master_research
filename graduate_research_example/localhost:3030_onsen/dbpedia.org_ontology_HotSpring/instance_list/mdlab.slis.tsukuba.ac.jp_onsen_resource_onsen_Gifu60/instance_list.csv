@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu60,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu60,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature1,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu60,http://ja.dbpedia.org/property/読み仮名,げろおおえどおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu60,https://schema.org/address,岐阜県下呂市森2458,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu60,https://schema.org/name,下呂大江戸温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu60,https://schema.org/description,日本三名泉のひとつである歴史ある温泉です。敷地内の自家源泉より汲みあげる泉質は、アルカリ性単純温泉。無色透明、とてもまろやかなお湯。お肌に優しくからんで、絹のようにスベスベにしてくれます。薬師如来の化身が白鷺の姿で舞い降りた【白鷺伝説】も残る飛騨の山々に囲まれたロケーションもお勧めです。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu60,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu60,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido220,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido220,https://schema.org/address,北海道函館市恵山岬町６１－２,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido220,https://schema.org/name,ホテル　恵風,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido220,https://schema.org/description,函館の東端「新日本百名山-恵山」の麓、太平洋を望む絶景の岬の宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido220,http://ja.dbpedia.org/property/郵便番号,041-0605,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido220,http://www.w3.org/2003/01/geo/wgs84_pos#lat,508262318,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido220,http://www.w3.org/2003/01/geo/wgs84_pos#long,150522154,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido220,https://schema.org/image,JR函館駅、函館空港、函館市内～無料送迎バス運行中！<BR>朝食は近くの漁場で水揚げされたばかりの新鮮なお刺身バイキング♪<BR>温泉は炭酸水素塩泉とナトリウム塩化塩泉、2つの源泉をお楽しみください！,literal,,1.0

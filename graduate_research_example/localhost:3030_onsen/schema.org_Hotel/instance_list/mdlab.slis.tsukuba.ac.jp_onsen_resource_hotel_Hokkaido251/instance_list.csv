@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido251,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido251,https://schema.org/address,北海道函館市松風町１－１０,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido251,https://schema.org/name,スーパーホテル函館　天然温泉　漁火の湯,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido251,https://schema.org/description,JDパワー顧客満足度調査で５年連続満足度NO．1受賞！！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido251,http://ja.dbpedia.org/property/郵便番号,040-0035,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido251,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506652430,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido251,http://www.w3.org/2003/01/geo/wgs84_pos#long,150363908,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido251,https://schema.org/image,市電「松風町」、空港バス「大森町」から徒歩2分☆近くにコンビニ２店、ドラッグストア１店♪国内132店舗のロハスなスーパーホテル☆有機JAS認定野菜使用のサラダ☆健康朝食無料☆全室、健康イオン水♪☆,literal,,1.0

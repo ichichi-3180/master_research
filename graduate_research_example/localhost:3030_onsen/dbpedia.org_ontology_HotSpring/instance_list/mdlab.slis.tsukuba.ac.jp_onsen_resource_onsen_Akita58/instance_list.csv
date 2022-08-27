@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita58,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita58,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature13,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita58,http://ja.dbpedia.org/property/読み仮名,きさかたおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita58,https://schema.org/address,秋田県由利郡象潟町才ノ神,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita58,https://schema.org/name,象潟温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita58,https://schema.org/description,南に別名出羽富士といわれる鳥海山、西に夕陽絶景の日本海があり、雄大な景色が楽しめるエリア。なかでも鳥海ブルーラインから日本海を望む眺望がすばらしい。温泉は一軒宿が点在し、それぞれ個性的な泉質の湯が湧出している。食で言えば、７～８月に旬を迎える象潟名物の天然の岩ガキがおすすめ。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita58,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita58,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

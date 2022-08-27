@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate23,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate23,https://schema.org/address,岩手県北上市和賀町岩崎１－１０３,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate23,https://schema.org/name,水神温泉　湯元東館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate23,https://schema.org/description,北上の奥座敷でみちのく名湯に浸り、季節を彩る懐石を愉しむ湯宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate23,http://ja.dbpedia.org/property/郵便番号,024-0321,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate23,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507549292,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate23,http://www.w3.org/2003/01/geo/wgs84_pos#long,141253331,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate23,https://schema.org/image,ゆっくりと身体の芯から名湯を味わい、季節替わりの「あずまかん懐石」に舌鼓♪世界遺産“平泉”まで60分圏内で観光拠点にもオススメ！当館は、千貫石温泉湯元東館の姉妹施設です。,literal,,1.0

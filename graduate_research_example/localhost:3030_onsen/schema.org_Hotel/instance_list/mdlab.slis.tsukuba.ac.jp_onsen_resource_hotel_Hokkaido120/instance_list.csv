@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido120,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido120,https://schema.org/address,北海道沙流郡日高町富岡４４４－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido120,https://schema.org/name,沙流川温泉　ひだか高原荘,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido120,https://schema.org/description,日高山脈の麓　自然いっぱいの静かな一軒宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido120,http://ja.dbpedia.org/property/郵便番号,055-2315,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido120,http://www.w3.org/2003/01/geo/wgs84_pos#lat,512817771,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido120,http://www.w3.org/2003/01/geo/wgs84_pos#long,154319410,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido120,https://schema.org/image,広々としたキャンプ場や公園がすぐそばにあり清流沙流川での川遊びもできる。日高国際スキー場に隣接していて外に出るとすぐゲレンデという便利さ。夜は澄みきった空気の中美しい星空を仰ぐのはおすすめ。,literal,,1.0

@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba65,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba65,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba65,http://ja.dbpedia.org/property/読み仮名,やまだおんせん　やまゆりのゆ,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba65,https://schema.org/address,千葉県香取市西田部1309-34,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba65,https://schema.org/name,山田温泉　やまゆりの湯,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba65,https://schema.org/description,千葉県北総地域では数少ない天然温泉(加温循環ろ過)の一つで、地元の住人にも古くから利用されている。鉄分を含んだナトリウム塩化物強塩泉の泉質で、温泉色は薄褐色を帯びた特徴を持つ。周辺には江戸情緒あふれる佐原の街並みや香取神宮があり、また魚の街「銚子」や、歴史ある町「成田」へもアクセス良好。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba65,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba65,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

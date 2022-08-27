@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama13,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama13,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature13,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama13,http://ja.dbpedia.org/property/読み仮名,すさみおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama13,https://schema.org/address,和歌山県西牟婁郡すさみ町周参見,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama13,https://schema.org/name,すさみ温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama13,https://schema.org/description,野口雨情が絶賛して、長く滞在したことで知られている「すさみ温泉」は、気候が温暖でおだやかな和歌山県すさみ町にあり、すさみ湾に面している。無色透明の硫黄泉で、肌の新陳代謝を活発にする紅葉があり、みずみずしいお肌を作る美人の湯として女性に人気が高い。すさみ名物のイノブタ料理も是非、味わってみたい。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama13,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama13,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

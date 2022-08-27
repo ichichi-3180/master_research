@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita31,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita31,https://schema.org/address,秋田県仙北市田沢湖生保内字駒ヶ岳２－１３９,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita31,https://schema.org/name,ロッジアイリス,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita31,https://schema.org/description,木々の温もり感じる田沢湖高原の１軒宿！！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita31,http://ja.dbpedia.org/property/郵便番号,014-1201,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita31,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506762241,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita31,http://www.w3.org/2003/01/geo/wgs84_pos#long,143208367,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita31,https://schema.org/image,１泊２食７，０００円から泊まれる宿！<BR>季節色豊かなお料理が好評です。<BR>自慢の総青森ヒバの内湯と岩露天湯で温泉三昧！！,literal,,1.0

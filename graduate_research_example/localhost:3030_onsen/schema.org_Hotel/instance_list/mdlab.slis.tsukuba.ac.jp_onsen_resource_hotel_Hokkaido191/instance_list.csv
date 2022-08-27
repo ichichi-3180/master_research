@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido191,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido191,https://schema.org/address,北海道登別市登別温泉162,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido191,https://schema.org/name,登別温泉郷　滝乃家,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido191,https://schema.org/description,滝の音を聞きながら、時を重ねた旅の宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido191,http://ja.dbpedia.org/property/郵便番号,059-0551,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido191,http://www.w3.org/2003/01/geo/wgs84_pos#lat,508121823,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido191,http://www.w3.org/2003/01/geo/wgs84_pos#long,152968071,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido191,https://schema.org/image,四季折々に彩を変える樹木に囲まれた露天風呂。風情あふれる日本庭園。割烹の味と技を受け継ぐ和風料理の数々をゆっくりお楽しみ下さい。<BR>,literal,,1.0

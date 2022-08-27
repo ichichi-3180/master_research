@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima56,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima56,https://schema.org/address,福島県二本松市岳温泉１丁目５番地,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima56,https://schema.org/name,陽日の郷あづま館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima56,https://schema.org/description,有機減農薬、無添加のビュッフェと源泉かけ流し酸性泉の宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima56,http://ja.dbpedia.org/property/郵便番号,964-0074,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima56,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505295010,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima56,http://www.w3.org/2003/01/geo/wgs84_pos#long,135376214,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima56,https://schema.org/image,檜と岩の2つの露天風呂、サウナ付大浴場はいずれも源泉掛け流しの酸性泉。胃腸病、皮膚病、神経痛に効能がある。地元食材を中心に旬の素材を使った夕食はビュッフェと和食膳。屋内プールも人気　,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata103,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata103,https://schema.org/address,山形県上山市葉山４－２１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata103,https://schema.org/name,旅館　三恵,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata103,https://schema.org/description,全15室の小さな居心地のよい家庭的な温泉旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata103,http://ja.dbpedia.org/property/郵便番号,999-3242,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata103,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504956647,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata103,http://www.w3.org/2003/01/geo/wgs84_pos#long,137321442,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata103,https://schema.org/image,主が採る山菜や自家農園の野菜などを使った手作りの料理と源泉100％かけ流しの温泉が自慢の宿です。広々とした人気の貸切風呂は何回入っても無料です！東北最大級遊園地リナワールドまで車で約10分です。,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori45,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori45,https://schema.org/address,青森県黒石市大字沖浦字青荷沢滝ノ上１－７,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori45,https://schema.org/name,ランプの宿　青荷温泉,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori45,https://schema.org/description,夜は「ランプ」だけ。電気も電波も届かない「圏外の宿」,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori45,http://ja.dbpedia.org/property/郵便番号,036-0402,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori45,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506639282,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori45,http://www.w3.org/2003/01/geo/wgs84_pos#long,146047088,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori45,https://schema.org/image,山の中の一軒宿。夜は、ほぅっと灯されるランプの明かりだけ。季節の移ろい、4つの湯めぐりと、旬の田舎料理。素朴で、穏やかな時間が流れています。何もないという環境こそが、贅沢に感じて頂けるはず。,literal,,1.0

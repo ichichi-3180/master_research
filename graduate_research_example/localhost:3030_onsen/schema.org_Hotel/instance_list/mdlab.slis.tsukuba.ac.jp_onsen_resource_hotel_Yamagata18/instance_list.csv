@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata18,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata18,https://schema.org/address,山形県鶴岡市下川字東海林場358-3,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata18,https://schema.org/name,ホテルテトラリゾート鶴岡(旧海麓園）,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata18,https://schema.org/description,日本海を眺望でき、源泉賭け流しの温泉と海・山の幸が自慢の宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata18,http://ja.dbpedia.org/property/郵便番号,997-1117,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata18,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503148448,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata18,http://www.w3.org/2003/01/geo/wgs84_pos#long,139615322,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata18,https://schema.org/image,源泉１００％の温泉が心を潤し、地産地消の特色を生かした料理で山形の文化を味わえます。<BR>JR羽越本線『鶴岡駅』より車で20分/庄内空港より車で約10分。<BR>事前の予約で送迎も行います。,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata76,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata76,https://schema.org/address,山形県東根市温泉町１－１４－８,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata76,https://schema.org/name,さくらんぼ東根温泉　よし田川別館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata76,https://schema.org/description,樹齢二千年の古代檜大浴場とファミリー・カップルに人気の貸切風呂,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata76,http://ja.dbpedia.org/property/郵便番号,999-3702,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata76,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505426385,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata76,http://www.w3.org/2003/01/geo/wgs84_pos#long,138431492,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata76,https://schema.org/image,季節の流れのほとりで、心やすらぐおもてなしの湯宿。樹齢二千年の古代檜を使った大浴場。ファミリー、カップルにもご好評の広々貸切風呂。お子様連れも安心してさくらんぼ東根温泉を満喫していただけます。,literal,,1.0

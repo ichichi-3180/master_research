@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita84,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita84,http://ja.dbpedia.org/property/泉質,http://iris.slis.tsukuba.ac.jp:3050/onsen/data,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita84,http://ja.dbpedia.org/property/読み仮名,にかほおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita84,https://schema.org/address,秋田県由利郡仁賀保町三森,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita84,https://schema.org/name,仁賀保温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita84,https://schema.org/description,日本海から鳥海山麓まで細長く延びるにかほ市にある一軒宿の温泉で、西に日本海、南に鳥海山を望む景勝の地。湯量たっぷりの天然温泉を湛えた総檜造りの大浴場と露天風呂から日本海が望まれる。季節により、日本海に沈む茜色の夕日を眺めることができる。夕食は日本海秋田沖の新鮮な海の幸が膳を賑わしてくれる。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita84,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Akita84,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

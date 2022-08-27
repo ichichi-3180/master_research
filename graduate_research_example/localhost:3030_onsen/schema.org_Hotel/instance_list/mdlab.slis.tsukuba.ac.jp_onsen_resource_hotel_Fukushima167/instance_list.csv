@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima167,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima167,https://schema.org/address,福島県南会津郡下郷町湯野上字居平乙７９５,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima167,https://schema.org/name,会津湯野上温泉　民宿橋本屋,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima167,https://schema.org/description,気遣い無用の昔ながらのユニークな民宿は館主も名物親父！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima167,http://ja.dbpedia.org/property/郵便番号,969-5206,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima167,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503658734,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima167,http://www.w3.org/2003/01/geo/wgs84_pos#long,134253877,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima167,https://schema.org/image,しっとりとした風情が漂う湯野上温泉郷にある昔ながらの気楽な民宿です。<BR>旦那自ら山へ行き、採ってきた山菜・きのこは絶品！湯野上の山の幸を知り尽くした旦那が作る、自慢の料理をお楽しみください。,literal,,1.0

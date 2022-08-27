@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate21,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate21,https://schema.org/address,岩手県北上市和賀町岩崎新田国有林内,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate21,https://schema.org/name,夏油高原スキー場スキーヤーズベット　兎森の湯,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate21,https://schema.org/description,スキー場ゲレンデまで徒歩0分！夏油高原温泉スキーヤーズベット,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate21,http://ja.dbpedia.org/property/郵便番号,024-0322,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate21,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507287131,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate21,http://www.w3.org/2003/01/geo/wgs84_pos#long,141246772,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate21,https://schema.org/image,夏油高原温泉兎森の湯,literal,,1.0

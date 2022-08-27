@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita40,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita40,https://schema.org/address,秋田県仙北市田沢湖生保内字下高野８０－６８,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita40,https://schema.org/name,駒ヶ岳温泉,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita40,https://schema.org/description,水沢温泉郷の自然あふれる隠れ宿。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita40,http://ja.dbpedia.org/property/郵便番号,014-1201,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita40,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506722288,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita40,http://www.w3.org/2003/01/geo/wgs84_pos#long,143122581,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita40,https://schema.org/image,田沢湖駅より車で15分。2つの渓流に挟まれた眺望、田沢湖名物の山の芋鍋（味噌味）食後に地蕎麦をご賞味ください。もちろん、自家源泉掛け流し！,literal,,1.0

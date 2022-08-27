@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima173,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima173,https://schema.org/address,福島県南会津郡下郷町湯野上大島乙６３番地,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima173,https://schema.org/name,ホテル大島,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima173,https://schema.org/description,【接客クチコミ4.6☆獲得】会津の真心と伝統を守る和風のホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima173,http://ja.dbpedia.org/property/郵便番号,969-5206,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima173,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503635016,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima173,http://www.w3.org/2003/01/geo/wgs84_pos#long,134284247,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima173,https://schema.org/image,アクセスに便利★湯野上温泉駅のすぐ近く！<BR>鉄道ファンにはたまらない♪トレインビュー和室からは会津鉄道もお楽しみいただけます！<BR>宿泊者無料の展望貸切露天風呂もあり★,literal,,1.0

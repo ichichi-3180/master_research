@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori5,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori5,https://schema.org/address,青森県下北郡風間浦村大字下風呂字下風呂８１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori5,https://schema.org/name,下風呂温泉　かどや旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori5,https://schema.org/description,乳白色の天然温泉100％掛け流しの湯が自慢！料理ももちろん◎！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori5,http://ja.dbpedia.org/property/郵便番号,039-4501,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori5,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507946936,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori5,http://www.w3.org/2003/01/geo/wgs84_pos#long,149268628,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori5,https://schema.org/image,本州最北端の下風呂温泉郷・山手にある全14室の宿。下北ならではの海鮮料理とおもてなし・天然温泉でホッと一息！,literal,,1.0

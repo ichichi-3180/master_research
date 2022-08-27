@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido137,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido137,https://schema.org/address,北海道小樽市朝里川温泉2丁目676-1,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido137,https://schema.org/name,小樽朝里クラッセホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido137,https://schema.org/description,寛ぎと癒しのキャンドルリゾート♪地元食材のお料理や温泉が自慢！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido137,http://ja.dbpedia.org/property/郵便番号,047-0154,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido137,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507760431,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido137,http://www.w3.org/2003/01/geo/wgs84_pos#long,155314259,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido137,https://schema.org/image,豊かな自然に囲まれた、くつろぎと癒しの空間には無数のキャンドルが。地元食材のお料理や温泉・スパ・スポーツを楽しめるエイジングケアリゾート。満月の夜には、ロビーで「満月コンサート」を無料開催中！,literal,,1.0

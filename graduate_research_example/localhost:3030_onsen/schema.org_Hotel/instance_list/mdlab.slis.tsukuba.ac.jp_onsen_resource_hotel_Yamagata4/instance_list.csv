@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata4,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata4,https://schema.org/address,山形県鶴岡市湯温海字湯之尻８３－３,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata4,https://schema.org/name,高見屋別邸　久遠　-KUON-,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata4,https://schema.org/description,庄内の魅力を体感、山海の幸を贅沢に味わう湯宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata4,http://ja.dbpedia.org/property/郵便番号,999-7204,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata4,http://www.w3.org/2003/01/geo/wgs84_pos#lat,502577330,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata4,http://www.w3.org/2003/01/geo/wgs84_pos#long,139011702,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata4,https://schema.org/image,山形の温泉地に12の湯宿「高見屋グループ」。開湯千年の歴史あるあつみ温泉に誕生した、モダンなデザイナーズ旅館。柔らかなあつみの湯に癒され、食の都・庄内を堪能するお食事、広々とした客室で寛ぎの滞在,literal,,1.0

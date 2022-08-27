@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido157,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido157,https://schema.org/address,北海道磯谷郡蘭越町湯里162番地,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido157,https://schema.org/name,ペンション＆コテージ　風みどり,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido157,https://schema.org/description,和室中心の閑静な宿。グループなら自炊できるコテージがいい！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido157,http://ja.dbpedia.org/property/郵便番号,048-1321,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido157,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506209910,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido157,http://www.w3.org/2003/01/geo/wgs84_pos#long,154152911,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido157,https://schema.org/image,アンヌプリの麓、湯里温泉郷にある閑静な宿<BR>グループ・ペット同伴なら自炊ができて、BBQコーナー有りのコテージがおススメです。<BR>建物からは、沼越しにアンヌプリ連山の雄大な姿が一望できます。,literal,,1.0

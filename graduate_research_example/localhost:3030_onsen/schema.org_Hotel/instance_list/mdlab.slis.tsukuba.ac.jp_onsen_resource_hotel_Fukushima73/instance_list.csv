@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima73,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima73,https://schema.org/address,福島県郡山市熱海町熱海５丁目４３番地,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima73,https://schema.org/name,健康温泉　水林亭,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima73,https://schema.org/description,リーズナブルでも心を込めておもてなし。磐梯熱海で唯一の健康温泉,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima73,http://ja.dbpedia.org/property/郵便番号,963-1309,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima73,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504934640,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima73,http://www.w3.org/2003/01/geo/wgs84_pos#long,134960872,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima73,https://schema.org/image,高級な温泉宿が立ち並ぶ磐梯熱海温泉郷の中で、リーズナブルな料金でも心を込めておもてなしをする温泉宿です。磐梯熱海で唯一の健康をテーマにした水林亭では玄米食プランをご用意しております。,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita52,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita52,https://schema.org/address,秋田県大仙市強首字上野台２８－７,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita52,https://schema.org/name,強首温泉　こわくびホテル　,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita52,https://schema.org/description,ドレスのお宿。田園風景の広がる自然豊かな田舎の静かな宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita52,http://ja.dbpedia.org/property/郵便番号,019-2335,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita52,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505084168,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita52,http://www.w3.org/2003/01/geo/wgs84_pos#long,142338893,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita52,https://schema.org/image,豊かな自然と田園風景の中にあり、静かな落着く環境。約1000着のドレスがあり、夫婦・親子又は女性一人でのドレスアップ写真が格安で撮影でき持ち帰れるサービスが好評。記念日や思い出作りに最高。,literal,,1.0

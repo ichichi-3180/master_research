@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata118,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata118,https://schema.org/address,山形県山形市蔵王温泉字中森８７８－２６,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata118,https://schema.org/name,ＳＡＮＧＯＲＯ　ＯＮＳＥＮ　ＬＯＤＧＥ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata118,https://schema.org/description,一棟貸し切り6万円！　蔵王の自然を満喫。家族やグループに最適！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata118,http://ja.dbpedia.org/property/郵便番号,990-2301,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata118,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505445562,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata118,http://www.w3.org/2003/01/geo/wgs84_pos#long,137387672,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata118,https://schema.org/image,広いリビングが魅力。10～20名様程度でご利用いただけ、1組様貸切のため、気兼ねなくご利用いただけます。お子様連れのご家族、ご友人の集まり、合宿、サークル、子供会等、様々な用途でお使いください。,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita75,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita75,https://schema.org/address,秋田県仙北市田沢湖町卒田早稲田430,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita75,https://schema.org/name,あきた芸術村　温泉ゆぽぽ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita75,https://schema.org/description,角館駅より車で約10分、送迎バス（要予約）も運行しております！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita75,http://ja.dbpedia.org/property/郵便番号,014-1192,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita75,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506253658,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita75,http://www.w3.org/2003/01/geo/wgs84_pos#long,142591003,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita75,https://schema.org/image,秋田県の観光拠点、小京都「角館」と神秘の湖「田沢湖」の中間点にあり、旅館のほか、わらび劇場、和食レストラン、田沢湖ビールレストラン、体験工房などがある複合施設。お客様の遊び心を刺激します！,literal,,1.0

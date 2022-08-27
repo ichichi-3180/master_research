@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate24,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate24,https://schema.org/address,岩手県胆沢郡金ケ崎町永沢石持沢６－２８４,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate24,https://schema.org/name,永岡温泉　夢の湯,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate24,https://schema.org/description,豊富な源泉かけ流し、体の芯から温まる温泉。ゴルフ場まで徒歩２分,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate24,http://ja.dbpedia.org/property/郵便番号,029-4504,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate24,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507604789,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate24,http://www.w3.org/2003/01/geo/wgs84_pos#long,141001552,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate24,https://schema.org/image,毎分７２０リットル湧き出る豊富な源泉をかけ流しにし、「加温・加水・循環無し」の、純粋な温泉を愉しめる宿。貸切風呂もあり、ご家族・ご夫婦で温泉をゆっくり堪能。【世界遺産平泉】まで車で３０分。,literal,,1.0

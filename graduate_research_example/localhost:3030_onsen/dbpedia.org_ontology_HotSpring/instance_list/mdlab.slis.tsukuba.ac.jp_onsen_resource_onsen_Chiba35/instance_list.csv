@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba35,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba35,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba35,http://ja.dbpedia.org/property/読み仮名,いわいゆもとおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba35,https://schema.org/address,千葉県安房郡富山町久枝494,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba35,https://schema.org/name,岩井湯元温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba35,https://schema.org/description,岩井海岸のそばにある岩井湯元温泉。綱元の宿として人気の宿の温泉は湯量も豊富。新鮮な地魚は綱元ならではの美味しい食べ方が出来る。やわらかなお湯は、しっとりとした肌ざわりで、体の芯まで温まると評判の女性に人気の美肌の湯とも言われる。貸切露天や内湯も楽しめる。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba35,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba35,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

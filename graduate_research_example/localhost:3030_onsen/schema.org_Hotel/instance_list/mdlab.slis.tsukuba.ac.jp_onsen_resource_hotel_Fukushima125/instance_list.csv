@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima125,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima125,https://schema.org/address,福島県耶麻郡猪苗代町磐根字佐賀地２５５７,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima125,https://schema.org/name,国民宿舎さぎの湯,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima125,https://schema.org/description,天然温泉100％かけ流し！大自然に囲まれた静かな宿。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima125,http://ja.dbpedia.org/property/郵便番号,969-3286,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima125,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504194274,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima125,http://www.w3.org/2003/01/geo/wgs84_pos#long,135260243,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima125,https://schema.org/image,磐梯山の国立公園にあり、溢れる湯と静かさに癒される宿。温泉は単純温泉（高塩泉）かけ流しです。猪苗代湖やスキー場にも近く観光にも便利。磐梯登山。美しい自然と湯を求めて旅行する国民の為の旅館です。,literal,,1.0

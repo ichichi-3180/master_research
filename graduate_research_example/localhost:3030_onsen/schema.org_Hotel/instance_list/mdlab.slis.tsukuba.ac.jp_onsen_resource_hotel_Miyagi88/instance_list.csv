@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi88,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi88,https://schema.org/address,宮城県白石市小原字湯元９,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi88,https://schema.org/name,ホテルいづみや,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi88,https://schema.org/description,自然厳選からのやわらかないでゆ、四季美しい自然、心癒される宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi88,http://ja.dbpedia.org/property/郵便番号,989-0233,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi88,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506034748,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi88,http://www.w3.org/2003/01/geo/wgs84_pos#long,136727702,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi88,https://schema.org/image,南蔵王の山々に囲まれ、全室が白石川の渓流に面した閑静な宿。よそにはない豊富な湯量、澄んだ泉質。大きくきれいな大浴場、庭園内の露天風呂でせせらぎを聞き、手足を伸ばして湯につかる。しあわせ実感,literal,,1.0

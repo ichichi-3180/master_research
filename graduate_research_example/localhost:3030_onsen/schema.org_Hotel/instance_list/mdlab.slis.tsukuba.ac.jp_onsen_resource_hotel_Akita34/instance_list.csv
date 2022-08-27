@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita34,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita34,https://schema.org/address,秋田県仙北市田沢湖生保内駒ケ岳２－３１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita34,https://schema.org/name,湯治湯坊　旬樹庵　ハイランドホテル山荘,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita34,https://schema.org/description,天然温泉を満喫、お風呂と朝ご飯が自慢の宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita34,http://ja.dbpedia.org/property/郵便番号,014-1201,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita34,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506761470,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita34,http://www.w3.org/2003/01/geo/wgs84_pos#long,143203337,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita34,https://schema.org/image,周辺には自然があり、ゆっくりと旅をしたい方におすすめ。夕食に出るキリタンポ鍋と、炭火で焼いた岩魚の塩焼きは絶品。自慢の岩風呂と新設の半露天風呂をじっくりお楽しみいただけます。,literal,,1.0

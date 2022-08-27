@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima180,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima180,https://schema.org/address,福島県岩瀬郡天栄村大字湯本字居平１４,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima180,https://schema.org/name,源泉亭　湯口屋旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima180,https://schema.org/description,自家源泉かけ流しの茅葺湯宿。囲炉裏を囲んで心からのおもてなし,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima180,http://ja.dbpedia.org/property/郵便番号,962-0621,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima180,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503981060,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima180,http://www.w3.org/2003/01/geo/wgs84_pos#long,134192402,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima180,https://schema.org/image,天栄村で唯一、国の登録有形文化財に指定された、かやぶき建物。1200年の歴史を誇る岩瀬湯本温泉は、療養温泉として医師もすすめるほど。囲炉裏で味わう女将自慢の山水料理は、品数豊富で素朴な美味しさ。,literal,,1.0

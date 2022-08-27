@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama38,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama38,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature3,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama38,http://ja.dbpedia.org/property/読み仮名,みやもとむさしおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama38,https://schema.org/address,岡山県美作市宮本字九反田101-3,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama38,https://schema.org/name,宮本武蔵温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama38,https://schema.org/description,約１２００年前に白鷺が傷を癒している所を円仁法師が見つけたとされる別名「鷺の湯」とも言われる古湯で、美作三湯の中でもっとも京阪神地区に近く、観光客の足が絶えることはない。泉質はナトリウム、カルシウム塩化物泉で消化器病や神経痛などに効能を発揮するほか、美肌造りの湯としても知られており女性に人気の温泉地だ。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama38,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama38,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

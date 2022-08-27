@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido72,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido72,https://schema.org/address,千歳市幌美内7番地,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido72,https://schema.org/name,丸駒温泉旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido72,https://schema.org/description,水位も湯温も支笏湖の水で変わる！100年受け継ぐ伝統の秘湯,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido72,http://ja.dbpedia.org/property/郵便番号,066-0287,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido72,http://www.w3.org/2003/01/geo/wgs84_pos#lat,508731028,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido72,http://www.w3.org/2003/01/geo/wgs84_pos#long,153999383,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido72,https://schema.org/image,大正4年創業の湖畔の一軒宿。大浴場は支笏湖をすべて見渡せるパノラマウインドウ！季節の情緒をお楽しみ下さい。<BR>,literal,,1.0

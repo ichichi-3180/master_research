@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata65,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata65,https://schema.org/address,山形県尾花沢市銀山新畑中山５２２,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata65,https://schema.org/name,滝と蕎麦の宿　瀧見館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata65,https://schema.org/description,銀山温泉の料理旅館　瀧見館　眺望の露天風呂と自家製手打ち蕎麦の宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata65,http://ja.dbpedia.org/property/郵便番号,999-4333,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata65,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505922507,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata65,http://www.w3.org/2003/01/geo/wgs84_pos#long,138835760,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata65,https://schema.org/image,銀山温泉の高台にある瀧見館は、木立に囲まれ眼下に滝を望む眺望のロケーション。<BR>絶景の露天風呂と眺望の客室、斬新な山形料理と自家製手打ち蕎麦が自慢です。,literal,,1.0

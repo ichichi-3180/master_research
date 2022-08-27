@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido64,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido64,https://schema.org/address,北海道上川郡東川町旭岳温泉,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido64,https://schema.org/name,旭岳温泉　ホテルベアモンテ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido64,https://schema.org/description,旭岳ロープウェィ徒歩３分！源泉かけ流しと手作りバイキングが自慢,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido64,http://ja.dbpedia.org/property/郵便番号,071-1472,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido64,http://www.w3.org/2003/01/geo/wgs84_pos#lat,514089250,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido64,http://www.w3.org/2003/01/geo/wgs84_pos#long,157134060,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido64,https://schema.org/image,旭岳ロープウェイ徒歩3分！一番近いホテルです。<BR>源泉100％かけ流し天然温泉で寛ぎのひと時を・・・。<BR>季節毎に様々な姿を見せる雄大な大自然をお楽しみください。,literal,,1.0

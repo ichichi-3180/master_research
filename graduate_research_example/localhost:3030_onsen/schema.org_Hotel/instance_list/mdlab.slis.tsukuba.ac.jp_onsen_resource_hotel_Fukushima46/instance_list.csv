@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima46,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima46,https://schema.org/address,福島県耶麻郡猪苗代町若宮上ノ湯甲２９８５,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima46,https://schema.org/name,森の旅亭　マウント磐梯,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima46,https://schema.org/description,極上の源泉が湯殿に注がれる、ブナ林に囲まれた高原の一軒宿へ。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima46,http://ja.dbpedia.org/property/郵便番号,969-2751,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima46,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504940009,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima46,http://www.w3.org/2003/01/geo/wgs84_pos#long,135555334,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima46,https://schema.org/image,湯に遊び、森に憩う。ゆったりと流れる時間の中で、四季折々の磐梯の自然と極上の温泉でおくつろぎください。<BR>心よりお待ち申し上げております。,literal,,1.0

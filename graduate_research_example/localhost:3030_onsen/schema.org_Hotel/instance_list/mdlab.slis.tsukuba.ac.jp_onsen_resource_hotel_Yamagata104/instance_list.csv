@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata104,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata104,https://schema.org/address,山形県上山市新湯１―２３,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata104,https://schema.org/name,果実の山　あづま屋（かみのやま　あづまや）,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata104,https://schema.org/description,お肉専門の旅館がプロデュース★山形牛を楽しむ為の【創作肉料理】,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata104,http://ja.dbpedia.org/property/郵便番号,999-3141,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata104,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504995100,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata104,http://www.w3.org/2003/01/geo/wgs84_pos#long,137355152,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata104,https://schema.org/image,東北唯一の【山形牛の専門旅館】お手頃な価格でお肉を楽しむだめだけに設計した創作料理！<BR>新進気鋭の若手料理長が選ぶ！山形牛・米沢牛を最高の調理法で。<BR>基本のお料理プランはすべて牛肉を楽しむ設計！,literal,,1.0

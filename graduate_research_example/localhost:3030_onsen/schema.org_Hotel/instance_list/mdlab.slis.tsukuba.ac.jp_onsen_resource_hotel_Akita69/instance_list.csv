@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita69,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita69,https://schema.org/address,秋田県湯沢市皆瀬字湯元１２１－５,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita69,https://schema.org/name,旅館　多郎兵衛,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita69,https://schema.org/description,湯守り十二代ならではの格調高い、湯と味を心ゆくまで,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita69,http://ja.dbpedia.org/property/郵便番号,012-0183,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita69,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506393448,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita69,http://www.w3.org/2003/01/geo/wgs84_pos#long,140414762,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita69,https://schema.org/image,湯守り１２代。天然秋田杉を使用した大浴場と４つの趣の異なる温泉、女将自らこだわりの食材で作る手作り料理が自慢のお宿。秋田訛りのおもてなしを心ゆくまで。　大噴湯まで徒歩５分　全室WiFi完備<BR>,literal,,1.0

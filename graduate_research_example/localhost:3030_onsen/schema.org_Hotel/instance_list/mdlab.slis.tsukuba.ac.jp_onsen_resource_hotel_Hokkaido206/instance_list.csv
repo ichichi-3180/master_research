@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido206,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido206,https://schema.org/address,北海道山越郡長万部町字長万部４０３番地,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido206,https://schema.org/name,ホテル　四国屋,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido206,https://schema.org/description,2011年7月じゃらんネット初参画♪◆１００％かけながし温泉,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido206,http://ja.dbpedia.org/property/郵便番号,049-3521,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido206,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505364758,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido206,http://www.w3.org/2003/01/geo/wgs84_pos#long,153050955,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido206,https://schema.org/image,先代が四国出身であることがその名の由来。日帰り温泉も行っている長万部温泉１００％掛け流しの宿。お食事は季節に応じた旬のものをご提供。,literal,,1.0

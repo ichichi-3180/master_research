@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima16,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima16,https://schema.org/address,福島県福島市飯坂町湯野上川原２－４,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima16,https://schema.org/name,伊東園ホテル飯坂叶や,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima16,https://schema.org/description,飯坂温泉　”摺上川”沿いに佇む　伊東園ホテルズの宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima16,http://ja.dbpedia.org/property/郵便番号,960-0211,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima16,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505637109,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima16,http://www.w3.org/2003/01/geo/wgs84_pos#long,136200202,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima16,https://schema.org/image,伊東園ホテル飯坂叶や！！　バイキング会場にライブキッチンと２つの貸切風呂が登場！！<BR>客室の内装も新しくなり”全客室禁煙”です。摺上川沿いに立地し四季折々の風景が見られます。<BR>,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata153,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata153,https://schema.org/address,山形県南陽市赤湯９８８,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata153,https://schema.org/name,赤湯温泉　丹泉ホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata153,https://schema.org/description,温まりの美肌の湯、赤湯温泉で米沢牛に舌鼓を！小型犬も歓迎です。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata153,http://ja.dbpedia.org/property/郵便番号,999-2211,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata153,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504620362,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata153,http://www.w3.org/2003/01/geo/wgs84_pos#long,136971282,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata153,https://schema.org/image,保温保湿に優れた美肌の湯赤湯温泉の老舗旅館です。朝食はつきたて餅が食べ放題！夕食の米沢牛・三元豚料理も自慢です。またペットと泊まれる宿（小型犬）で一人旅も歓迎！全館Wi-Fi対応しました。,literal,,1.0

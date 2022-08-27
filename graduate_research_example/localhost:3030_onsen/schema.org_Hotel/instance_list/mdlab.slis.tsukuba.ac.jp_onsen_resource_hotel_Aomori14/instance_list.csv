@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori14,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori14,https://schema.org/address,青森県青森市大字浅虫字蛍谷２５,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori14,https://schema.org/name,宿屋　つばき,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori14,https://schema.org/description,3つの貸切風呂と８種類の鍋料理がお薦め。ビジネスのご利用も。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori14,http://ja.dbpedia.org/property/郵便番号,039-3501,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori14,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507114200,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori14,http://www.w3.org/2003/01/geo/wgs84_pos#long,147194804,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori14,https://schema.org/image,浅虫温泉駅より徒歩1分。３つの貸切風呂と大浴場。料理は８つの鍋料理がお薦めです。全館Wi-Fi使用できます。ベットのお部屋もございます。ビジネスのお客様にも是非ご利用下さいませ。,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata108,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata108,https://schema.org/address,山形県上山市葉山4-15,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata108,https://schema.org/name,はたごの心　橋本屋,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata108,https://schema.org/description,うさぎが迎える和モダン空間　　Ryokan　to　free　yourself,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata108,http://ja.dbpedia.org/property/郵便番号,999-3242,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata108,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504958328,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata108,http://www.w3.org/2003/01/geo/wgs84_pos#long,137322854,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata108,https://schema.org/image,新たな個室ダイニングが誕生しました<BR>すべてのプラン・すべてのお客様がご夕食ご朝食を個室でゆっくりと。<BR>お二人で・ご友人と・お子様と一緒にご家族と・・<BR>個室ダイニングで旅の思い出をどうぞ♪,literal,,1.0

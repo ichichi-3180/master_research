@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima9,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima9,https://schema.org/address,福島県福島市飯坂町西堀切３３,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima9,https://schema.org/name,旅館なりた,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima9,https://schema.org/description,心と心のふれあいの宿。家庭的な雰囲気と手料理サービスが好評。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima9,http://ja.dbpedia.org/property/郵便番号,960-0201,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima9,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505624727,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima9,http://www.w3.org/2003/01/geo/wgs84_pos#long,136192685,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima9,https://schema.org/image,温かい接客を心がけています。静かな環境にあり、果物狩り（さくらんぼ、桃、なし、りんご）にも車で10分と便利。泉質は弱アルカリ性単純温泉です。,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima79,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima79,https://schema.org/address,福島県郡山市熱海町熱海３－１９８,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima79,https://schema.org/name,かんぽの宿郡山,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima79,https://schema.org/description,磐梯熱海の名湯を満喫する温泉旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima79,http://ja.dbpedia.org/property/郵便番号,963-1380,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima79,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504997542,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima79,http://www.w3.org/2003/01/geo/wgs84_pos#long,134911383,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima79,https://schema.org/image,福島県のほぼ中央、磐梯熱海温泉に位置。磐越自動車道磐梯熱海ＩＣからお車で約5分の近さ。バリアフリー客室完備。当宿では２０１５年春に新たに誕生した自家源泉が大変ご好評いただいております。,literal,,1.0

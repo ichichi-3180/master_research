@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima152,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima152,https://schema.org/address,福島県大沼郡三島町大字名入字上赤谷２４３７,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima152,https://schema.org/name,宮下温泉ふるさと荘,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima152,https://schema.org/description,宮下温泉　ふるさと荘,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima152,http://ja.dbpedia.org/property/郵便番号,969-7402,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima152,http://www.w3.org/2003/01/geo/wgs84_pos#lat,502749752,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima152,http://www.w3.org/2003/01/geo/wgs84_pos#long,134906546,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima152,https://schema.org/image,「日本で最も美しい村」連合に加盟の三島町♪<BR>奥会津の清流只見川沿いで、天然の温泉と素朴な景観を満喫。<BR>ゆっくりくつろげる宿です。,literal,,1.0

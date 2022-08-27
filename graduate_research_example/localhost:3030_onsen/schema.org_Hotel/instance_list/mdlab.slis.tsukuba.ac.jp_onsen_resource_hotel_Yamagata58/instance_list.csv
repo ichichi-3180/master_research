@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata58,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata58,https://schema.org/address,山形県最上郡最上町大字富沢８５０,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata58,https://schema.org/name,おふろ好きの宿　旅館　しゃくなげ荘,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata58,https://schema.org/description,貸切露天で笑いましょう≪露天４内湯２≫全貸切専用★何度でも◎,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata58,http://ja.dbpedia.org/property/郵便番号,999-6105,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata58,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506001621,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata58,http://www.w3.org/2003/01/geo/wgs84_pos#long,139345953,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata58,https://schema.org/image,一日四組様を大切におもてなしの湯宿。<BR>露天風呂４内湯２、何度でも自由に貸切無料で２４時間入り放題<BR>お風呂にいっぱい入るとお腹がすくよね♪<BR>料理は山海幸の和膳心入る手造りで味もボリュームも大満足,literal,,1.0

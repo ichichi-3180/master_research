@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata124,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata124,https://schema.org/address,山形県山形市蔵王温泉５４,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata124,https://schema.org/name,深山荘　高見屋　　－MIYAMASO　TAKAMIYA－,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata124,https://schema.org/description,300年の伝統と趣き。老舗の風格と極上の湯。非日常に包まれる時間,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata124,http://ja.dbpedia.org/property/郵便番号,990-2301,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata124,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505444241,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata124,http://www.w3.org/2003/01/geo/wgs84_pos#long,137397113,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata124,https://schema.org/image,山形の温泉地に12の湯宿「高見屋グループ」。創業300年の歴史を誇る蔵王の老舗旅館。館内七つの湯舟に掛け流す極上の湯。希少な蔵王牛を堪能する「華の会席膳」。全室禁煙・12歳以下の受入不可。,literal,,1.0

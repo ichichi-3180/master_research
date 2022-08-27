@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi6,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi6,https://schema.org/address,宮城県大崎市鳴子温泉字車湯５４－６,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi6,https://schema.org/name,ホテル亀屋（HMIホテルグループ）,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi6,https://schema.org/description,温泉東の横綱鳴子温泉には11種の温泉が湧出。亀屋は名物「黒湯」！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi6,http://ja.dbpedia.org/property/郵便番号,989-6821,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi6,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506628608,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi6,http://www.w3.org/2003/01/geo/wgs84_pos#long,139482592,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi6,https://schema.org/image,初めて経験する方はちょっと驚く亀屋の「黒湯」、おなじみ客には長く愛されてきた亀屋の「黒湯」。鳴子の多様な泉質が楽しめる鳴子のシンボル外湯「滝の湯」の入浴券もプレゼント中です。,literal,,1.0

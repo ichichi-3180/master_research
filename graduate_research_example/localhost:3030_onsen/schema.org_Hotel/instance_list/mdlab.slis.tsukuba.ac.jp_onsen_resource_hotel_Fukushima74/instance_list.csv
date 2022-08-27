@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima74,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima74,https://schema.org/address,福島県郡山市熱海町熱海４－３９,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima74,https://schema.org/name,紅葉館　　きらくや,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima74,https://schema.org/description,お仕着せ夕食、過剰サービスを無くしたリーズナブル新業態温泉旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima74,http://ja.dbpedia.org/property/郵便番号,963-1309,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima74,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504984149,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima74,http://www.w3.org/2003/01/geo/wgs84_pos#long,134923607,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima74,https://schema.org/image,磐梯熱海駅より徒歩2分<BR>WiFiは全客室で利用可能<BR>【貸切り風呂・ぬる湯・大浴場・露天風呂】掃除時間を除き24時間温泉三昧<BR>グループ内で夕食の注文が異なる時は『夕食別』を予約後電話で追加して下さい。,literal,,1.0

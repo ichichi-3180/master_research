@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Toyama59,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Toyama59,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Toyama59,http://ja.dbpedia.org/property/読み仮名,あろーざおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Toyama59,https://schema.org/address,富山県南砺市才川七荒山9-5,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Toyama59,https://schema.org/name,アローザ温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Toyama59,https://schema.org/description,アローザスキー場目の前！「野草の宿 来夢（クルム）」敷地内から湧きあがる湯量豊富な温泉。“富山県のスイス”と言われるアローザ村、大自然のパノラマ、砺波平野を一望できる。露天風呂、うたせ湯、水風呂、ジャグジー、サウナあり。24時間利用可能（9時半～11時清掃、サウナ利用は8時半～21時半）。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Toyama59,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Toyama59,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

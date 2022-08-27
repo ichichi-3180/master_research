@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima27,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima27,https://schema.org/address,福島県福島市飯坂町字中ノ内１－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima27,https://schema.org/name,飯坂温泉　あづま荘,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima27,https://schema.org/description,旬の食材をたっぷり使った和風会席と飯坂の名湯を楽しむ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima27,http://ja.dbpedia.org/property/郵便番号,960-0201,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima27,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505620602,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima27,http://www.w3.org/2003/01/geo/wgs84_pos#long,136206399,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima27,https://schema.org/image,福島県産の地元素材をふんだんに使った和風会席膳をご提供します。奥飯坂の自然に囲まれた湯の里で、ジェット風呂、泡風呂、サウナを併設した浴場の単純泉の温泉をお楽しみください。,literal,,1.0

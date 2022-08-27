@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima121,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima121,https://schema.org/address,福島県耶麻郡北塩原村大塩中島字道北５１１１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima121,https://schema.org/name,塩姫の宿　大塩裏磐梯温泉　ホテル観山,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima121,https://schema.org/description,『会津山塩発祥の地』大塩裏磐梯温泉■語り部の宿■,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima121,http://ja.dbpedia.org/property/郵便番号,966-0402,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima121,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503971379,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima121,http://www.w3.org/2003/01/geo/wgs84_pos#long,135597724,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima121,https://schema.org/image,『出会い、語り合い、楽しいふれあいがある宿』がモットー。<BR>会津山塩で有名な大塩裏磐梯温泉に立地。渓流のせせらぎをＢＧＭに楽しめる大野天風呂と新鮮な料理、地酒をお楽しみ下さい。,literal,,1.0

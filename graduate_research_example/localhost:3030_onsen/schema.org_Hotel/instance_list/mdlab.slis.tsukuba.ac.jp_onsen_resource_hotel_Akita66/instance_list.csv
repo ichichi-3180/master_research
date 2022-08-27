@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita66,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita66,https://schema.org/address,秋田県湯沢市高松字泥湯沢２５,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita66,https://schema.org/name,泥湯温泉　奥山旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita66,https://schema.org/description,風情たっぷり秘境の湯宿。3種の源泉からかけ流しの泥湯温泉。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita66,http://ja.dbpedia.org/property/郵便番号,019-0404,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita66,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506215579,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita66,http://www.w3.org/2003/01/geo/wgs84_pos#long,140357244,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita66,https://schema.org/image,深山に立ち上る源泉の湯気。山あいにぽつり、手つかずの自然と溶け込むように湧く、秘境の出湯です。大露天風呂や岩風呂など、趣の異なる三つの湯で、四季折々の景色と共ににごり湯をお楽しみ下さい！,literal,,1.0

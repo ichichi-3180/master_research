@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima97,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima97,https://schema.org/address,福島県いわき市常磐湯本町吹谷39,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima97,https://schema.org/name,心やわらぐ宿　岩惣,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima97,https://schema.org/description,源泉かけ流し、寛ぎ　和らげる　宿。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima97,http://ja.dbpedia.org/property/郵便番号,972-8321,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima97,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507058568,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima97,http://www.w3.org/2003/01/geo/wgs84_pos#long,133217248,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima97,https://schema.org/image,泉質が自慢の天然温泉を　展望大浴場で、源泉かけ流しの効能をご堪能ください<BR>尚、お食事は、簡単な朝食のみをお選び頂けますが、ラウンジでの提供となります<BR>お部屋でゆっくりくつろぐことができます<BR>,literal,,1.0

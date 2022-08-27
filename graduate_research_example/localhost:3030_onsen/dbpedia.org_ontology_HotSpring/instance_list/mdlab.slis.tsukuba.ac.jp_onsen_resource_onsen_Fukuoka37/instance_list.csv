@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukuoka37,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukuoka37,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature1,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukuoka37,http://ja.dbpedia.org/property/読み仮名,あきづきおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukuoka37,https://schema.org/address,福岡県朝倉市秋月１０５８,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukuoka37,https://schema.org/name,秋月温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukuoka37,https://schema.org/description,福岡県朝倉市秋月にある一軒宿「清流庵」に湧き出る温泉。Ｐｈ９．７のアルカリ性単純泉で、美肌の湯と呼ばれるしっとりヌルヌルした泉質です。無色透明、無臭。掛け流し（加温）の温泉は、大浴場のほか、全客室にある露天風呂で堪能できます。春は桜、秋は紅葉を眺めながら入る温泉は贅沢気分を独り占めできます。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukuoka37,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukuoka37,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

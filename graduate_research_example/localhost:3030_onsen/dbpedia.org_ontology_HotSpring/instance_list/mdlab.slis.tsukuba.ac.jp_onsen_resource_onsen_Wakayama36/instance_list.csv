@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama36,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama36,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature5,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama36,http://ja.dbpedia.org/property/読み仮名,だるまゆ,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama36,https://schema.org/address,和歌山県海草郡紀美野町滝の川７３,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama36,https://schema.org/name,だるま湯,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama36,https://schema.org/description,高野山麗の紀美野町。空気が澄み、星空の美しい町。大自然に恵まれた貴志川の源流部近く、だるま渓谷の景勝の地に湧く。源泉水は、１Kg中の溶存物質（蒸発残留物）が1566mgと豊富ゆえ、療養温泉と指定されている。飲用の適応症は慢性消化器病、糖尿病、痛風、肝臓病など。アトピー性皮膚炎の患者に人気の療養泉。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama36,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama36,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

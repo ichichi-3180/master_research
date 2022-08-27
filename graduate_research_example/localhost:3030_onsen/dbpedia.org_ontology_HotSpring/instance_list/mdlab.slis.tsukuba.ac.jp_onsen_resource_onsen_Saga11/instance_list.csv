@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saga11,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saga11,http://ja.dbpedia.org/property/泉質,http://iris.slis.tsukuba.ac.jp:3050/onsen/data,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saga11,http://ja.dbpedia.org/property/読み仮名,たらたけざきおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saga11,https://schema.org/address,佐賀県藤津郡太良町,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saga11,https://schema.org/name,太良竹崎温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saga11,https://schema.org/description,日本最大の干潟を持つ有明海沿いの国道に、カニと温泉をうたった旅館が十数件並ぶ。有明海のプランクトンで育って格別に美味しいとされる竹崎カニを１年中味わうことができる。泉質はナトリウム炭酸水素塩泉で無色透明、神経痛や皮膚病に効くとされる。冬場には国道沿いにカキ小屋が登場し、冬の風物詩となっている。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saga11,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saga11,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

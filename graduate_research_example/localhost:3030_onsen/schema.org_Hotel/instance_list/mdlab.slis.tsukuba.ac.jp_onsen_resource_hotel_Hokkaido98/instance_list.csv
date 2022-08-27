@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido98,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido98,https://schema.org/address,北海道空知郡上富良野町十勝岳温泉,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido98,https://schema.org/name,十勝岳温泉　湯元　凌雲閣,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido98,https://schema.org/description,北海道で一番空に近い温泉宿。季節ごとに移り変わる絶景露天が格別,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido98,http://ja.dbpedia.org/property/郵便番号,071-0500,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido98,http://www.w3.org/2003/01/geo/wgs84_pos#lat,513527824,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido98,http://www.w3.org/2003/01/geo/wgs84_pos#long,156280231,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido98,https://schema.org/image,2種類の源泉100％の温泉を引いており、夕食は「かみふらのポーク」をメインとしております。<BR>＊天然温泉の為現在湯量が安定しておりません。露天風呂がご利用頂けずお客様にはご迷惑をおかけしております。,literal,,1.0

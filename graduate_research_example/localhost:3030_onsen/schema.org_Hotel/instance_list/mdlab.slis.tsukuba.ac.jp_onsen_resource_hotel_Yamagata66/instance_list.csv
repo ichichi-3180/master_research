@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata66,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata66,https://schema.org/address,山形県尾花沢市銀山新畑４４５,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata66,https://schema.org/name,銀山温泉　旅館　永澤平八,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata66,https://schema.org/description,大正ロマンの街並、温泉は貸切露天で,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata66,http://ja.dbpedia.org/property/郵便番号,999-4333,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata66,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505925091,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata66,http://www.w3.org/2003/01/geo/wgs84_pos#long,138839405,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata66,https://schema.org/image,木造三層造りの、趣深い客室等大正ロマンを肌で感じる大正１４年築の宿。夕食は、地物食材の旬の味覚を。<BR>（※仕入れ状況、季節に応じて料理の変更がございます）,literal,,1.0

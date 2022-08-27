@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba47,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba47,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature7,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba47,http://ja.dbpedia.org/property/読み仮名,ふくすいけいりゅうのゆ,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba47,https://schema.org/address,千葉県夷隅郡大多喜町小田代618,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba47,https://schema.org/name,福水渓流の湯,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba47,https://schema.org/description,房総半島の真中に位置し、都心から近い自然豊かな養老渓谷は岩肌を蝕して滝とし、青淵・急流となり両岸は特徴ある横縞模様の懸崖、奇岩怪石、洞穴となって房総には珍しい渓谷美を競っている。マイナスイオンをたっぷりあびて、温泉に浸かり、リフレッシュするにはぴったりだ。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba47,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba47,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

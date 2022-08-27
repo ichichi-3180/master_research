@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi29,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi29,https://schema.org/address,宮城県大崎市鳴子温泉川渡３８－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi29,https://schema.org/name,湯あみの宿　ぬまくら,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi29,https://schema.org/description,源泉からの1日の総湧出量12万リットル！源泉かけ流しの湯を楽しむ9室の宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi29,http://ja.dbpedia.org/property/郵便番号,989-6711,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi29,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506769950,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi29,http://www.w3.org/2003/01/geo/wgs84_pos#long,139421352,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi29,https://schema.org/image,バリアフリーの館内が特徴的な家庭的な湯宿。温泉掘削から100年の歴史ある自家源泉から湧く温泉は、館内すべてのお風呂で！この時期は男女別の大浴場の大きな窓から、雪景色のお庭を眺めて雪見風呂を。,literal,,1.0

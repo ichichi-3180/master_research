@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima20,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima20,https://schema.org/address,福島県福島市飯坂町湯野字上川原１－12,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima20,https://schema.org/name,くつろぎの宿　　華滝,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima20,https://schema.org/description,清流摺上川のほとりに佇む心やすまるくつろぎの宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima20,http://ja.dbpedia.org/property/郵便番号,960-0211,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima20,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505634380,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima20,http://www.w3.org/2003/01/geo/wgs84_pos#long,136204728,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima20,https://schema.org/image,檜の香りが漂う露天風呂でひと休み。歴史ある名湯です。渓流沿いで自然美を楽しみながらゆったりとお過ごしください◇飯坂温泉の四季をたっぷりご堪能ください。,literal,,1.0

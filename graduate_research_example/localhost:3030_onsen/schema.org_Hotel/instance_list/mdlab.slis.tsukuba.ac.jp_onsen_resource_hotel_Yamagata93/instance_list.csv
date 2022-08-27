@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata93,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata93,https://schema.org/address,山形県天童市鎌田１－８－３５,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata93,https://schema.org/name,雅びの宿　花月楼,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata93,https://schema.org/description,ありがとうございます、皆様のおかげで開湯百周年、昔ながらの旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata93,http://ja.dbpedia.org/property/郵便番号,994-0024,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata93,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505397069,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata93,http://www.w3.org/2003/01/geo/wgs84_pos#long,138089104,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata93,https://schema.org/image,庭園を眺める２階建の純和風の小さな宿（鉄筋コンクリートの建物で安心安全、エレベーター完備で館内移動も楽々）。露天風呂付き客室、貸切風呂（有料）、客室有線LANあり。自家農園野菜果物も提供。,literal,,1.0

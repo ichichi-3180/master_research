@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima24,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima24,https://schema.org/address,福島市飯坂町湯野字切湯ノ上11,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima24,https://schema.org/name,湯葉と貸切の湯　新亀,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima24,https://schema.org/description,全客室から渓流を眺める…少し熱めの源泉かけ流し！飯坂温泉の宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima24,http://ja.dbpedia.org/property/郵便番号,960-0211,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima24,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505651056,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima24,http://www.w3.org/2003/01/geo/wgs84_pos#long,136184162,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima24,https://schema.org/image,奥州三名湯…歴史ある飯坂温泉。自慢の”熱め”の湯を源泉かけ流し<BR>貸し切り《無料》でご利用いただけます。<BR>夕食は口の中でとろける黒毛和牛のしゃぶしゃぶ・国産和牛ステーキをお好みチョイス♪,literal,,1.0

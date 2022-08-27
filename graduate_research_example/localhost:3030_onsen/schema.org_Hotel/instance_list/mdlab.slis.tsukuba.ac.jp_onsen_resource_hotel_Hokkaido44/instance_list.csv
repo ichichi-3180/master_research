@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido44,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido44,https://schema.org/address,北海道川上郡弟子屈町サワンチサップ６－８,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido44,https://schema.org/name,ワッカヌプリ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido44,https://schema.org/description,1棟貸切の贅沢な空間　屈斜路湖畔の宿ワッカヌプリ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido44,http://ja.dbpedia.org/property/郵便番号,088-3464,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido44,http://www.w3.org/2003/01/geo/wgs84_pos#lat,519827608,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido44,http://www.w3.org/2003/01/geo/wgs84_pos#long,157110634,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido44,https://schema.org/image,ワッカヌプリは一棟貸切の宿です。洋室と和室それぞれに源泉掛け流しのお風呂と、湖畔に露天風呂ががありいつでも新鮮なお湯をお楽しみいただけます。道東の旬の食材を活かした料理もお楽しみください。<BR><BR>,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima22,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima22,https://schema.org/address,福島県福島市飯坂町字鍋沢４－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima22,https://schema.org/name,祭屋　湯左衛門,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima22,https://schema.org/description,祭り情緒と露天風呂三昧の宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima22,http://ja.dbpedia.org/property/郵便番号,960-0201,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima22,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505629059,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima22,http://www.w3.org/2003/01/geo/wgs84_pos#long,136205333,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima22,https://schema.org/image,対岸の山を眺めながらの三種類の露天風呂がお客様からご好評をいただいております。<BR>日常の疲れをのんびりゆったり温泉に入りながら癒してください。,literal,,1.0

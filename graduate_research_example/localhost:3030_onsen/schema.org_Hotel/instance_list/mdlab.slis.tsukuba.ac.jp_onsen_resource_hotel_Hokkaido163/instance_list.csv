@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido163,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido163,https://schema.org/address,北海道虻田郡洞爺湖町清水．,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido163,https://schema.org/name,ザ・ウィンザーホテル洞爺リゾート＆スパ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido163,https://schema.org/description,天空の最高級リゾート＜北海道唯一　ミシュラン５つ星獲得ホテル＞,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido163,http://ja.dbpedia.org/property/郵便番号,049-5722,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido163,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506750492,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido163,http://www.w3.org/2003/01/geo/wgs84_pos#long,153328422,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido163,https://schema.org/image,■標高625m　ポロモイ山山頂に位置<BR>■唯一洞爺湖と内浦湾を眼下に望む。運が良ければ神秘的な雲海に感動<BR>■ミシュラン星レストラン2店舗<BR>■スパ、ゴルフ、乗馬、スキーなど一年中楽しめるアクティビティ,literal,,1.0

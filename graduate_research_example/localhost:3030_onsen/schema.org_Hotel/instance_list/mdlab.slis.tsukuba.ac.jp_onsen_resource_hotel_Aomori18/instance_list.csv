@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori18,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori18,https://schema.org/address,青森県青森市浅虫蛍谷２０８－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori18,https://schema.org/name,浅虫温泉　旅館すみれ荘,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori18,https://schema.org/description,ほっと寛げる隠れ湯宿♪旬のお料理と岩盤浴で癒しの旅♪,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori18,http://ja.dbpedia.org/property/郵便番号,039-3501,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori18,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507118700,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori18,http://www.w3.org/2003/01/geo/wgs84_pos#long,147190548,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori18,https://schema.org/image,浅虫温泉の裏通りに静かに佇む純和風旅館。とれたて魚介類を中心に、品数豊富な美味しいお料理をお部屋でごゆっくりどうぞ♪ラジウム鉱石100％自慢の岩盤浴もぜひお楽しみください♪,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata170,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata170,https://schema.org/address,山形県米沢市大字関１５３７,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata170,https://schema.org/name,本場米沢牛と３ｍの滝湯の宿　白布温泉　東屋,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata170,https://schema.org/description,湯量豊富な天然自噴の名湯！本物の米沢牛と優しいおもてなしが自慢,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata170,http://ja.dbpedia.org/property/郵便番号,992-1472,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata170,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504442818,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata170,http://www.w3.org/2003/01/geo/wgs84_pos#long,135997493,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata170,https://schema.org/image,７００年来変わらず湯船から大量に溢れ続ける壮大な掛流しは圧巻！四季折々表情の変わる露天風呂も魅力です。選りすぐりの本場米沢牛を味わい、寛ぎの空間と素朴なおもてなしで癒しのひと時を♪,literal,,1.0

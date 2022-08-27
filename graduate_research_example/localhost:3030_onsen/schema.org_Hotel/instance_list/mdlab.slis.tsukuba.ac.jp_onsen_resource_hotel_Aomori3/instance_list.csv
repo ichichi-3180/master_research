@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori3,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori3,https://schema.org/address,青森県南津軽郡大鰐町大鰐湯野川原８,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori3,https://schema.org/name,温泉民宿ヤマニ分館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori3,https://schema.org/description,創業80年、歴史あるお宿で24Ｈ天然温泉、温かい家庭料理を堪能,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori3,http://ja.dbpedia.org/property/郵便番号,038-0211,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori3,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506080040,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori3,http://www.w3.org/2003/01/geo/wgs84_pos#long,145864040,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori3,https://schema.org/image,閑静な佇まいのお宿で、お庭の眺めが素敵。廊下・柱は綺麗に磨かれ、湯治場としの歴史を感じさせる。低料金で自家栽培の無農薬野菜をふんだんに使った家庭料理や、24Ｈ天然温泉で至福の時間を満喫できる。,literal,,1.0

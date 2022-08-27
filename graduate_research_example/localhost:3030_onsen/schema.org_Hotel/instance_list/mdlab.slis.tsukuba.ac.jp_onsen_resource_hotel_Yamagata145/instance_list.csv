@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata145,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata145,https://schema.org/address,山形県山形市蔵王温泉９０４－８,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata145,https://schema.org/name,ＫＫＲ蔵王　白銀荘（国家公務員共済組合連合会蔵王保養所）,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata145,https://schema.org/description,蔵王ロープウェイ目の前！蔵王牛や郷土料理〔源泉掛流し〕公共の宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata145,http://ja.dbpedia.org/property/郵便番号,990-2301,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata145,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505433090,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata145,http://www.w3.org/2003/01/geo/wgs84_pos#long,137384753,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata145,https://schema.org/image,ＫＫＲ宿泊施設は国家公務員共済組合連合会が組合員等の利用を目的として運営しています。組合員等の方は、チェックインの際に組合員証等をご提示ください。★一般のお客様もご利用いただけます★,literal,,1.0

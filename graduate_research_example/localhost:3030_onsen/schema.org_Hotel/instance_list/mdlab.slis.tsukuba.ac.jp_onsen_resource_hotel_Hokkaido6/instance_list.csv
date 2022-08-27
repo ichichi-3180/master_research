@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido6,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido6,https://schema.org/address,北海道中川郡音威子府村咲来９１９,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido6,https://schema.org/name,音威子府住民保養センター　天塩川温泉,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido6,https://schema.org/description,天塩川を望む露天風呂で癒しと憩いの空間を,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido6,http://ja.dbpedia.org/property/郵便番号,098-2502,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido6,http://www.w3.org/2003/01/geo/wgs84_pos#lat,512130716,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido6,http://www.w3.org/2003/01/geo/wgs84_pos#long,160768114,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido6,https://schema.org/image,緑豊かな森林と悠々たる天塩川の流れに抱かれて、今日も訪れる人の心と体を温める湯治客癒しの空間。大正初期に発見された良質の湯は、道北エリアの観光拠点として平成の今も人々に愛され続けている。,literal,,1.0

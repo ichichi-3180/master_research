@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori72,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori72,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori72,http://ja.dbpedia.org/property/読み仮名,ろまんとぴあおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori72,https://schema.org/address,青森県弘前市水木在家字桜井113-2,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori72,https://schema.org/name,ロマントピア温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori72,https://schema.org/description,東北自動車道｢大鰐弘前IC｣からアップルロードを経由し３０分弱の所に佇む一軒宿。毎分360リットルの豊富な湧出量を誇る温泉はお肌に優しいナトリウム泉。露天風呂からは津軽富士と慕われる秀峰・岩木山や四季折々の自然を堪能しながら湯浴みでき津軽の隠れた名湯。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori72,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori72,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

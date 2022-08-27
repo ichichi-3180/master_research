@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido86,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido86,https://schema.org/address,北海道上川郡上川町層雲峡温泉,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido86,https://schema.org/name,層雲閣グランドホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido86,https://schema.org/description,層雲峡一の温泉とダイナミックな峡谷★層雲峡の歴史を司るホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido86,http://ja.dbpedia.org/property/郵便番号,078-1792,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido86,http://www.w3.org/2003/01/geo/wgs84_pos#lat,514647365,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido86,http://www.w3.org/2003/01/geo/wgs84_pos#long,157408045,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido86,https://schema.org/image,【バイキングが生まれ変わりました】<BR>季節毎の逸品メニューがパワーアップ！＜道産食材を使用したメイン料理＞<BR>飲み放題には話題のトルネードビールが登場！<BR><BR>◆峡谷露天風呂　～絶景！層雲峡一の湯量,literal,,1.0

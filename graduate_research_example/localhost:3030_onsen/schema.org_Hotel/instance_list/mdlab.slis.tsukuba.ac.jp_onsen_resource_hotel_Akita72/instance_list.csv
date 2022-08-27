@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita72,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita72,https://schema.org/address,秋田県湯沢市皆瀬字小湯ノ上５－１２,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita72,https://schema.org/name,山の民宿　鳳,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita72,https://schema.org/description,大自然の四季を望める展望風呂がある山の民宿。ネット環境も充実！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita72,http://ja.dbpedia.org/property/郵便番号,012-0183,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita72,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506422970,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita72,http://www.w3.org/2003/01/geo/wgs84_pos#long,140397534,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita72,https://schema.org/image,山間にたたずむ小さな民宿。客室や浴場からは大自然を満喫できる。食事は山の幸を使ったお料理を。オプションで地場産皆瀬牛などもお選びいただけます。さらにネット環境も充実！ビジネスマンにも便利な宿。,literal,,1.0

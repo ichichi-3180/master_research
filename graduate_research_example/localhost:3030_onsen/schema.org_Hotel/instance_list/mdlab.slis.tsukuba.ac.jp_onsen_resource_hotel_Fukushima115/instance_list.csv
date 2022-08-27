@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima115,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima115,https://schema.org/address,福島県喜多方市熱塩加納町熱塩字北平田甲347-2,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima115,https://schema.org/name,熱塩温泉　創作料理が自慢の宿　山形屋,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima115,https://schema.org/description,喜多方の奥座敷。６００年の湯と熱塩の食が田舎流のおもてなし,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima115,http://ja.dbpedia.org/property/郵便番号,966-0101,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima115,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503598915,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima115,http://www.w3.org/2003/01/geo/wgs84_pos#long,135822692,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima115,https://schema.org/image,歴史ある熱塩の湯を大浴場と露天、森林浴しながらの足浴で。日本最初の炭の低温サウナは体の中からリフレッシュ。地元の無農薬・有機農作物を中心にした創作料理が山形屋流おもてなし。,literal,,1.0

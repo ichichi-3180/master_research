@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima60,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima60,https://schema.org/address,福島県二本松市岳温泉２－８,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima60,https://schema.org/name,櫟平ホテル～くぬぎだいらほてる～,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima60,https://schema.org/description,酸性泉の温泉でじ～んわり★湯上りの風が心地良い高原の旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima60,http://ja.dbpedia.org/property/郵便番号,964-0074,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima60,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505304374,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima60,http://www.w3.org/2003/01/geo/wgs84_pos#long,135368350,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima60,https://schema.org/image,眼下には鏡ヶ池が広がる開放感が心地良い宿。珍しい酸性泉の温泉と薬草露天風呂を楽しめる。生ピアノが響く水上ダイニング「時空の舟」では、夜は幻想的な雰囲気で、朝は高原の清々しさの中でのお食事を☆彡,literal,,1.0

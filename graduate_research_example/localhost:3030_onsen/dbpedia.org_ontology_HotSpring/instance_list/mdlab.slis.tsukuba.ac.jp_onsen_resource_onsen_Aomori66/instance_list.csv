@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori66,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori66,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature5,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori66,http://ja.dbpedia.org/property/読み仮名,たしろおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori66,https://schema.org/address,青森県中津軽郡西目屋村大字田代字稲元168,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori66,https://schema.org/name,田代温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori66,https://schema.org/description,津軽・こけしの里『黒石温泉郷』は車で弘前～３０分、黒石IC～１０分。山すそに建ち並ぶひとかたまりの温泉宿「落合」、秀峰岩木山も望める「板留」、共同浴場を囲むひなびた客舎と呼ばれる湯治用の宿「温湯」、ランプの郷愁が格別な「青荷」から成る。また林檎づくしの宿アップルランド「南田温泉」は弘前～１５分。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori66,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori66,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

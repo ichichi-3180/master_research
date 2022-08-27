@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima122,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima122,https://schema.org/address,福島県耶麻郡北塩原村桧原長峰,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima122,https://schema.org/name,磐梯桧原湖畔ホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima122,https://schema.org/description,桧原湖の西湖畔で雄大な磐梯山とゆったり温泉,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima122,http://ja.dbpedia.org/property/郵便番号,966-0401,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima122,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504190208,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima122,http://www.w3.org/2003/01/geo/wgs84_pos#long,135575534,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima122,https://schema.org/image,桧原湖の半島に包まれる様に佇むホテル。天然温泉や地元の旬の味をじっくりと満喫。館内いたる所から裏磐梯の自然の表情もみられます。,literal,,1.0

@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokushima5,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokushima5,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature11,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokushima5,http://ja.dbpedia.org/property/読み仮名,ふいごおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokushima5,https://schema.org/address,徳島県吉野川市山川町久宗,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokushima5,https://schema.org/name,ふいご温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokushima5,https://schema.org/description,徳島県北西部に位置する秘境ムード満点の温泉地。山里に一軒宿が点在している。山々と清流を眺める大浴場、露天風呂を備え、秋には紅葉、冬には雪見など季節の移り変わりごとに違った表情を見れる。泉質は各宿異なり、アルカリ単純泉、硫黄泉などを持つ。祖谷のかずら橋、吉野川ラフティングなど温泉以外の遊び方もできる。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokushima5,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokushima5,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

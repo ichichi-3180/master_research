@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kagoshima86,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kagoshima86,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kagoshima86,http://ja.dbpedia.org/property/読み仮名,あまみおんせん　あまみのゆ,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kagoshima86,https://schema.org/address,鹿児島県大島郡瀬戸内町蘇刈９７０,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kagoshima86,https://schema.org/name,奄美温泉　奄美の湯,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kagoshima86,https://schema.org/description,鹿児島市から南に約３８０ｋｍ、美しい海に囲まれた鹿児島県の離島「奄美大島」に2016年、温泉が誕生した。 ダイビングやシュノーケルで遊んだ後に、奄美大島の大自然がもたらす温泉で身体を休められると評判。海だけでなく森や川などの手つかずの自然が魅力で、トレッキングや星空観察など年間を通して楽しめる。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kagoshima86,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kagoshima86,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate30,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate30,https://schema.org/address,岩手県一関市厳美町字宝竜１４７－５,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate30,https://schema.org/name,かんぽの宿一関,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate30,https://schema.org/description,みちのく紀行を楽しんだあとは、多彩な入浴設備でリラックス,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate30,http://ja.dbpedia.org/property/郵便番号,021-0101,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate30,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507847201,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate30,http://www.w3.org/2003/01/geo/wgs84_pos#long,140183450,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate30,https://schema.org/image,藤原三代の栄華が刻まれた平原の近くに位置し、黄金文化の象徴である中尊寺金色堂や日本最古の浄土庭園が見事な毛通寺。景勝地にも近く、歴史と観光豊かな自然の中での散策が楽しめます。,literal,,1.0

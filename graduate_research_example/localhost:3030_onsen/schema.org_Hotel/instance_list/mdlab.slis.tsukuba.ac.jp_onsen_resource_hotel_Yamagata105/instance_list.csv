@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata105,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata105,https://schema.org/address,山形県上山市高松２８３,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata105,https://schema.org/name,三木屋(さぎや),literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata105,https://schema.org/description,源泉かけ流し、蔵王を望む露天風呂。　純和風の総平屋造り。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata105,http://ja.dbpedia.org/property/郵便番号,999-3243,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata105,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504965799,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata105,http://www.w3.org/2003/01/geo/wgs84_pos#long,137321593,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata105,https://schema.org/image,ゆったり過ごしたい方にお薦め。純和風の客室は全て庭に面し、四季折々の花を楽しむことが出来る。お食事は４名様まで朝夕共にお部屋出し、気兼ねなくゆっくりと味わえる。,literal,,1.0

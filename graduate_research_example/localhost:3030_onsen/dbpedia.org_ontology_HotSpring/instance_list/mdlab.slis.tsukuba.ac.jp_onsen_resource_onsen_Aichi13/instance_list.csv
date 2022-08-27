@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi13,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi13,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature16,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi13,http://ja.dbpedia.org/property/読み仮名,あかひきおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi13,https://schema.org/address,愛知県南設楽郡鳳来町大野中楠,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi13,https://schema.org/name,赤引温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi13,https://schema.org/description,鳳来峡の一軒宿。その昔、弘法大師がこの地を訪れた時に発見したという伝説の弘法湯が始まり。名前の由来は伊勢神宮に奉納されていた赤引の糸がこの地で生産されていたことから。春には満開の桜並木と深緑の渓谷美、初夏には蛍の群生も見ることができる。秋の紅葉、冬の味覚しし鍋と四季折々、様々な表情が楽しめる。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi13,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi13,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

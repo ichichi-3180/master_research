@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hyogo45,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hyogo45,http://ja.dbpedia.org/property/泉質,http://iris.slis.tsukuba.ac.jp:3050/onsen/data,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hyogo45,http://ja.dbpedia.org/property/読み仮名,さんらいずおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hyogo45,https://schema.org/address,兵庫県南あわじ市広田広田1466-1,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hyogo45,https://schema.org/name,サンライズ温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hyogo45,https://schema.org/description,アクセス良好。京阪神からフェリーやバスで気軽に訪れることができる淡路島。明石海峡大橋を渡ってのドライブにも最適。島には中心都市・洲本に湧く洲本温泉、岩屋温泉、淡路島一宮温泉、南淡温泉、うずしお温泉などの温泉がある。春は菜の花等花がいっぱい花の島、夏の海水浴や、釣り等で自然を満喫できる。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hyogo45,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hyogo45,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

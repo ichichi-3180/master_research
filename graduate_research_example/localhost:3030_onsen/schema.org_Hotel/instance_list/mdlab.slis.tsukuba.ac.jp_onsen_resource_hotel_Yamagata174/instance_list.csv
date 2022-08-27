@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata174,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata174,https://schema.org/address,山形県酒田市飯森山３丁目１７番地２６,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata174,https://schema.org/name,かんぽの宿　酒田,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata174,https://schema.org/description,鳥海山の雄大な景色を一望できる高台の宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata174,http://ja.dbpedia.org/property/郵便番号,998-0055,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata174,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503354038,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata174,http://www.w3.org/2003/01/geo/wgs84_pos#long,140017674,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata174,https://schema.org/image,鳥海山の雄大な景色を一望できる高台の宿。全天候型スポーツ施設「スワンドーム」をはじめ、天然温泉の露天風呂など6種類の大浴室が自慢。庄内の旬の食材を使った会席料理と和洋バイキングの朝食で大満足！,literal,,1.0

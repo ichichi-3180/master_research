@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita36,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita36,https://schema.org/address,秋田県仙北市田沢湖生保内字駒ケ岳２－３２,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita36,https://schema.org/name,プラザホテル山麓荘,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita36,https://schema.org/description,田沢湖高原の大自然にある宿　天然温泉と酵素風呂が人気です。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita36,http://ja.dbpedia.org/property/郵便番号,014-1201,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita36,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506768290,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita36,http://www.w3.org/2003/01/geo/wgs84_pos#long,143206264,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita36,https://schema.org/image,秋田駒ヶ岳の麓・田沢湖高原の天然温泉が源泉掛け流しでおたのしみいただけます。また、酵素風呂は美肌・デトックス効果に優れ、特に女性のお客様に人気を博しております。,literal,,1.0

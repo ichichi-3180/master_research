@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido142,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido142,https://schema.org/address,北海道岩内郡岩内町野束４９１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido142,https://schema.org/name,いわない温泉　おかえりなさい,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido142,https://schema.org/description,岩内港を望む源泉掛け流しの宿。前浜産の魚介料理が人気。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido142,http://ja.dbpedia.org/property/郵便番号,045-0024,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido142,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505865721,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido142,http://www.w3.org/2003/01/geo/wgs84_pos#long,154626765,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido142,https://schema.org/image,新鮮な魚介を心ゆくまで堪能☆アワビや毛ガニ付プランが大好評です♪<BR>岩内港を望む大浴場と海の幸をリーズナブルな料金で満喫できる、くつろぎの宿。,literal,,1.0

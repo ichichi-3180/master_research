@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido48,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido48,https://schema.org/address,北海道川上郡弟子屈町桜丘１－２－１７,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido48,https://schema.org/name,温泉民宿　摩湖,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido48,https://schema.org/description,摩周温泉　旅を愛する人の宿♪天然温泉で疲れをいやしませんか？,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido48,http://ja.dbpedia.org/property/郵便番号,088-3213,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido48,http://www.w3.org/2003/01/geo/wgs84_pos#lat,520044797,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido48,http://www.w3.org/2003/01/geo/wgs84_pos#long,156519572,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido48,https://schema.org/image,摩周湖に魅せられて移住した旅人夫婦による宿です。摩周湖で２００泊野宿した宿主が摩周湖とその周辺のお勧めスポットをご紹介します。温泉でくつろいだ後は、旅について語り合いませんか？　,literal,,1.0

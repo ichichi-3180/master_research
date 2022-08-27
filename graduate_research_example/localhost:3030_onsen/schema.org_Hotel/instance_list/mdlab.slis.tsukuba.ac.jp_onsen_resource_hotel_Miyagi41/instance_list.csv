@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi41,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi41,https://schema.org/address,宮城県仙台市太白区秋保町湯元字鹿乙４,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi41,https://schema.org/name,ＫＹＯＵ　ＢＡＲＬＯＵＮＧＥ＆ＩＮＮ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi41,https://schema.org/description,秋保温泉の新しい隠れ宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi41,http://ja.dbpedia.org/property/郵便番号,982-0241,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi41,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506590976,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi41,http://www.w3.org/2003/01/geo/wgs84_pos#long,137616050,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi41,https://schema.org/image,秋保温泉の隠れ宿「KYOU　BAR　LOUNGE　&　INN　」<BR>素泊まり・シングルルームでローコストステイを。,literal,,1.0

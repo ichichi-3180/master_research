@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima26,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima26,https://schema.org/address,福島県福島市飯坂町湯野字湯ノ上１８,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima26,https://schema.org/name,飯坂温泉　展望露天風呂の宿　湯乃家,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima26,https://schema.org/description,飯坂温泉駅より徒歩２分　最上階ひのき造展望露天風呂より箱庭一望,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima26,http://ja.dbpedia.org/property/郵便番号,960-0211,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima26,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505652921,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima26,http://www.w3.org/2003/01/geo/wgs84_pos#long,136180763,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima26,https://schema.org/image,飯坂温泉駅・コンビニから徒歩2分とアクセス便利！飯坂唯一の最上階総ひのき造り展望露天風呂からは信達平野・奥羽山脈・阿武隈山系を一望。天気の良い夜には星空も最高です！,literal,,1.0

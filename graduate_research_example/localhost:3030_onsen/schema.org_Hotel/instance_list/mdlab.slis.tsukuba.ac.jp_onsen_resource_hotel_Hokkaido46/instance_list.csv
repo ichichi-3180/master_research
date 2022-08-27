@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido46,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido46,https://schema.org/address,北海道川上郡弟子屈町美里4丁目7-10,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido46,https://schema.org/name,ペンション　Birao,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido46,https://schema.org/description,貸切出来る露天風呂で星空を楽しめる宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido46,http://ja.dbpedia.org/property/郵便番号,088-3215,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido46,http://www.w3.org/2003/01/geo/wgs84_pos#lat,520016656,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido46,http://www.w3.org/2003/01/geo/wgs84_pos#long,156560333,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido46,https://schema.org/image,アルカリ単純泉の天然温泉が自慢の宿。貸切露天風呂（無料）が人気。<BR>目の前を川が流れ、夜には摩周大橋がライトアップされる。そんな幻想的な夜を自家源泉かけ流しの貸切露天風呂で楽しもう,literal,,1.0

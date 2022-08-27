@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido90,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido90,https://schema.org/address,北海道上川郡新得町屈足トムラウシ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido90,https://schema.org/name,トムラウシ温泉国民宿舎東大雪荘,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido90,https://schema.org/description,トムラウシ山懐に佇む秘境の一軒宿。露天風呂からの眺めは最高。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido90,http://ja.dbpedia.org/property/郵便番号,081-0154,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido90,http://www.w3.org/2003/01/geo/wgs84_pos#lat,514365254,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido90,http://www.w3.org/2003/01/geo/wgs84_pos#long,156447465,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido90,https://schema.org/image,トムラウシ温泉は、国内最後の秘境といわれた東大雪の中西部に位置しています。手つかずの自然、悠久の大地の恵みを満喫してください。,literal,,1.0

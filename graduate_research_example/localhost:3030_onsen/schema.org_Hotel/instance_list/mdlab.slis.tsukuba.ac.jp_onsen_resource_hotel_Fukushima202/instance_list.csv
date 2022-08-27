@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima202,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima202,https://schema.org/address,福島県耶麻郡磐梯町更科清水平６８３８番地６８,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima202,https://schema.org/name,星野リゾート　磐梯山温泉ホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima202,https://schema.org/description,磐梯山の麓、猪苗代湖を眼下に望むスタイリッシュな高原リゾート,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima202,http://ja.dbpedia.org/property/郵便番号,969-3396,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima202,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504140795,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima202,http://www.w3.org/2003/01/geo/wgs84_pos#long,135335292,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima202,https://schema.org/image,山麓の自然を活かしたアクティビティや会津文化体験イベントが満載。食事は打ち立て蕎麦や名物「わっぱ飯」など会津の食文化を楽しめるビュッフェ。4月より、会津の盆踊りを体験できるイベントが新登場！,literal,,1.0

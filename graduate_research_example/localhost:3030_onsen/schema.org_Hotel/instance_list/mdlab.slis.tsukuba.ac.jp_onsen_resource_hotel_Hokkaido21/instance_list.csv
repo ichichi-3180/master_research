@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido21,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido21,https://schema.org/address,北海道斜里郡斜里町ウトロ東３,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido21,https://schema.org/name,知床ノーブルホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido21,https://schema.org/description,【客室★4.1】全室バルコニー付＆3点分離タイプ！露天風呂付客室も,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido21,http://ja.dbpedia.org/property/郵便番号,099-4355,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido21,http://www.w3.org/2003/01/geo/wgs84_pos#lat,521990621,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido21,http://www.w3.org/2003/01/geo/wgs84_pos#long,158645116,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido21,https://schema.org/image,■アパ　パートナーホテルズ加盟店■全室バルコニー付＆バス・トイレセパレートタイプのお部屋♪海側客室やレストラン、露天風呂からオホーツク海に沈む美しい夕日をお楽しみいただけます。,literal,,1.0

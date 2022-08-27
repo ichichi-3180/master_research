@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi5,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi5,https://schema.org/address,宮城県大崎市鳴子温泉字星沼２８－２,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi5,https://schema.org/name,仙庄館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi5,https://schema.org/description,朝食も夕食もゆっくりお部屋食♪自慢の自家源泉と絶景露天を満喫☆,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi5,http://ja.dbpedia.org/property/郵便番号,989-6832,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi5,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506457373,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi5,http://www.w3.org/2003/01/geo/wgs84_pos#long,139397303,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi5,https://schema.org/image,四季折々の彩りを魅せる原生林や、美しい満月を湯あみしながら楽しめる絶景露天で人気の湯宿♪<BR>個人客からグループ利用まで楽しめる多彩なプランでお客さまをおもてなし。,literal,,1.0

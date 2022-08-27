@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima83,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima83,https://schema.org/address,福島県田村郡三春町尼ヶ谷127,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima83,https://schema.org/name,若松屋旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima83,https://schema.org/description,天然温泉のラジウム泉でほっこり。地のもの料理で満足の時間…,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima83,http://ja.dbpedia.org/property/郵便番号,963-7745,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima83,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505776851,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima83,http://www.w3.org/2003/01/geo/wgs84_pos#long,134756842,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima83,https://schema.org/image,いわきの海の幸、地元の山の幸が盛り込まれた和食膳。ボリュームがあり、料理によって料金が変わるお得さで親しまれている温泉宿。広い岩風呂で温泉三昧。ラジウム小浴場も人気。地元で有名な穴場宿。,literal,,1.0

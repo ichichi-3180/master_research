@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita18,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita18,https://schema.org/address,秋田県男鹿市北浦湯本字草木原５０－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita18,https://schema.org/name,セイコーグランドホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita18,https://schema.org/description,湯量豊富な温泉と日本海の旬の海幸をお楽しみ下さい！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita18,http://ja.dbpedia.org/property/郵便番号,010-0687,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita18,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503085508,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita18,http://www.w3.org/2003/01/geo/wgs84_pos#long,143889173,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita18,https://schema.org/image,★全館無料Wi-Fi完備　★姉妹ホテル館の湯めぐりが好評♪<BR>雄大な自然となまはげの郷「男鹿半島」へようこそ！<BR>源泉掛け流しの大浴場は温泉郷内屈指の広さ♪<BR>お部屋も広いので大家族に人気です(^o^)／,literal,,1.0

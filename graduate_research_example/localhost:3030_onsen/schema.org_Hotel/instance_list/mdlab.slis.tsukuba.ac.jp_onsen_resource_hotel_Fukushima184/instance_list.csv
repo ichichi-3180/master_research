@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima184,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima184,https://schema.org/address,福島県岩瀬郡天栄村湯本下二俣２２―１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima184,https://schema.org/name,旅館ふじや,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima184,https://schema.org/description,源泉かけ流しの天然温泉と主人自ら採取した山の幸料理が自慢の宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima184,http://ja.dbpedia.org/property/郵便番号,962-0621,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima184,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503967603,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima184,http://www.w3.org/2003/01/geo/wgs84_pos#long,134059083,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima184,https://schema.org/image,原生林に覆われた山あいの二岐温泉は、紅葉の美しさはもちろん、新緑の清々しさ、夏の爽やかさなど、四季を通して自然を満喫して頂けます。お食事は春は山菜、秋にはきのこ料理と山の幸をふんだんに使用。,literal,,1.0

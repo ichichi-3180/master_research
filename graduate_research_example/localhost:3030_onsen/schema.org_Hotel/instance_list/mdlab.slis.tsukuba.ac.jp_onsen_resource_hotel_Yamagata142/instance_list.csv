@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata142,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata142,https://schema.org/address,山形県山形市蔵王温泉８７８－１２,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata142,https://schema.org/name,蔵王つららぎの宿　花ゆらん,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata142,https://schema.org/description,高台に佇む、蔵王の大自然と美しい夕陽を望める癒やしの宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata142,http://ja.dbpedia.org/property/郵便番号,990-2301,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata142,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505445144,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata142,http://www.w3.org/2003/01/geo/wgs84_pos#long,137386578,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata142,https://schema.org/image,蔵王の大自然に囲まれ、竜山岳や温泉街が一望できる高台に佇む宿。<BR>夕陽を望み、星空を仰ぎ見る源泉かけ流しのお風呂。<BR>女将自らが手がける山菜料理や山形牛に舌鼓。,literal,,1.0

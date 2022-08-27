@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate1,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate1,https://schema.org/address,岩手県花巻市湯口字大沢181,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate1,https://schema.org/name,千二百年　湯めぐりの里　大沢温泉「山水閣」,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate1,https://schema.org/description,220年前からの湯治屋と併設して湯めぐりが楽しめる♪貸切風呂無料,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate1,http://ja.dbpedia.org/property/郵便番号,025-0244,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate1,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507670391,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate1,http://www.w3.org/2003/01/geo/wgs84_pos#long,141958596,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate1,https://schema.org/image,宮沢賢治など多くの文人に愛されてきた宿。純和風の山水閣は貸切風呂が無料。山水閣のほか自炊部湯治屋の温泉が楽しめ５か所の湯巡りができます。自慢のトロトロのお湯をご堪能下さい。,literal,,1.0

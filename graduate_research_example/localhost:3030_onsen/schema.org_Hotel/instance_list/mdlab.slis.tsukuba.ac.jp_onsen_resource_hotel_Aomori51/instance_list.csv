@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori51,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori51,https://schema.org/address,青森県弘前市大字百沢字寺沢１６３－２,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori51,https://schema.org/name,温泉旅館　清明館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori51,https://schema.org/description,源泉かけ流しの温泉　手づくり料理がおもてなし！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori51,http://ja.dbpedia.org/property/郵便番号,036-1343,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori51,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505248190,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori51,http://www.w3.org/2003/01/geo/wgs84_pos#long,146223249,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori51,https://schema.org/image,岩木山登山や岩木山神社への観光、岩木運動公園、百沢スキー場と近場には、自然にかこまれた施設が充実している。疲れには源泉かけ流しの温泉と手作り料理（季節によって山菜料理）でおもてなし,literal,,1.0

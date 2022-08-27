@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido126,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido126,https://schema.org/address,北海道美唄市東明町３区,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido126,https://schema.org/name,青の洞窟温泉　ピパの湯　ゆ～りん館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido126,https://schema.org/description,☆★　肌なじみのよいとろみのある美肌の湯が自慢の温泉宿　★☆,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido126,http://ja.dbpedia.org/property/郵便番号,072-0808,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido126,http://www.w3.org/2003/01/geo/wgs84_pos#lat,510822541,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido126,http://www.w3.org/2003/01/geo/wgs84_pos#long,156027380,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido126,https://schema.org/image,見晴らしの良い高台にある温泉。お食事は、季節ごとに旬のものを使用し、味と彩りをお楽しみいただけます。札幌と旭川の中間に位置し、美唄インターのすぐそばなので、観光の中継地点としても大変便利です。,literal,,1.0

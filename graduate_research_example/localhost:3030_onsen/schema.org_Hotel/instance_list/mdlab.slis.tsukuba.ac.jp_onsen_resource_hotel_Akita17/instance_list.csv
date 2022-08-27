@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita17,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita17,https://schema.org/address,秋田県男鹿市北浦湯本字草木原２１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita17,https://schema.org/name,男鹿観光ホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita17,https://schema.org/description,地上２５ｍ展望温泉から望む景色がベスト！★全客室Wi-Fi無料★,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita17,http://ja.dbpedia.org/property/郵便番号,010-0687,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita17,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503085688,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita17,http://www.w3.org/2003/01/geo/wgs84_pos#long,143892730,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita17,https://schema.org/image,★全館無料Wi-Fi完備　★姉妹ホテルの無料湯めぐり特典あり<BR>四季折々の男鹿の大自然の先に水平線を眺めながら、のんびり♪<BR>地上25ｍの景観！展望浴場【満天の湯】、自然の癒し！露天風呂付【樹海の湯】。,literal,,1.0

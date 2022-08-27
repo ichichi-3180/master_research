@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido195,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido195,https://schema.org/address,北海道登別市登別温泉町134番地,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido195,https://schema.org/name,花鐘亭はなや,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido195,https://schema.org/description,登別温泉でも珍しい源泉掛流し硫黄温泉を堪能できます。全２１室,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido195,http://ja.dbpedia.org/property/郵便番号,059-0551,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido195,http://www.w3.org/2003/01/geo/wgs84_pos#lat,508143273,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido195,http://www.w3.org/2003/01/geo/wgs84_pos#long,152949399,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido195,https://schema.org/image,こじんまりしつつも寛ぎを。お部屋食で召し上がる会席料理はご希望により１階会食場のテーブル席でもご堪能可能です。日々の頑張りを癒しにどうぞお気軽にお越し下さい。従業員一同お待ち申し上げます。,literal,,1.0

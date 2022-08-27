@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido132,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido132,https://schema.org/address,北海道札幌市南区小金湯２４番地,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido132,https://schema.org/name,湯元　旬の御宿まつの湯,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido132,https://schema.org/description,豊かな自然に囲まれた一軒宿　泉質は肌に優しい単純硫黄泉,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido132,http://ja.dbpedia.org/property/郵便番号,061-2274,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido132,http://www.w3.org/2003/01/geo/wgs84_pos#lat,508408298,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido132,http://www.w3.org/2003/01/geo/wgs84_pos#long,154677493,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido132,https://schema.org/image,定山渓温泉のお隣小金湯温泉。泉質は定山渓とは異なる肌に優しい単純硫黄泉です。露天風呂からは四季折々の景色を楽しむ事が出来ます。お食事は朝夕食共にお部屋食にてご提供させて頂いております。,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori25,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori25,https://schema.org/address,青森県十和田市奥瀬字栃久保２３１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori25,https://schema.org/name,星野リゾート　奥入瀬渓流ホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori25,https://schema.org/description,国立公園内にある奥入瀬渓流沿いに佇む、国内唯一のリゾートホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori25,http://ja.dbpedia.org/property/郵便番号,034-0398,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori25,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507548180,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori25,http://www.w3.org/2003/01/geo/wgs84_pos#long,146065635,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori25,https://schema.org/image,大自然が演出する非日常体験。巨大な窓に奥入瀬の森が絵画の様に映しだされるロビー、渓流を望む開放的な露天風呂、こだわりのお料理に舌鼓。季節で移ろう自然を、心静かに楽しむ極上の滞在をお約束します。,literal,,1.0

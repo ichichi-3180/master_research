@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata25,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata25,https://schema.org/address,山形県鶴岡市由良３丁目１６－３１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata25,https://schema.org/name,由良温泉　八乙女　,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata25,https://schema.org/description,眺望絶景の一軒宿で寛ぐひとときを,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata25,http://ja.dbpedia.org/property/郵便番号,999-7464,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata25,http://www.w3.org/2003/01/geo/wgs84_pos#lat,502903839,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata25,http://www.w3.org/2003/01/geo/wgs84_pos#long,139398162,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata25,https://schema.org/image,地元日本海の由良漁港より、新鮮な魚介類をご堪能いただけます。しかも、屋上には日本海を全眺できる露天風呂も設置。,literal,,1.0

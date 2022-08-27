@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama10,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama10,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature0,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama10,http://ja.dbpedia.org/property/読み仮名,まがおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama10,https://schema.org/address,岡山県真庭市仲間,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama10,https://schema.org/name,真賀温泉　(湯原),literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama10,https://schema.org/description,山陽と山陰を結ぶ宿場町として栄え、今もその面影を色濃く残している湯原温泉は湯量が多く、良質で肌ざわりもなめらか。四季折々の風情が楽しめるこの温泉には湯治客の姿が絶える事はない。入浴無料で２４時間入浴できる「砂湯」は旭川の川床から湧き出る名勝の露天風呂。この露天風呂は全国露天風呂番付の西の横綱と評されている。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama10,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama10,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

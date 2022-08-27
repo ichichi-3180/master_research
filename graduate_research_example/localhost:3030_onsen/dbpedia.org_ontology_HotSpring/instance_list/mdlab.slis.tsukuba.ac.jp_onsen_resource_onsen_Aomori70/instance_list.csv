@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori70,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori70,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori70,http://ja.dbpedia.org/property/読み仮名,おだがわおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori70,https://schema.org/address,青森県北津軽郡金木町大字嘉瀬字端山崎２６７－５６７,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori70,https://schema.org/name,小田川温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori70,https://schema.org/description,本州の北端、津軽半島の中心に位置する金木町の温泉。同町には太宰治記念館「斜陽館」や歴史民族資料館、日本桜の名所100選の「芦野公園」などがあり、冬場は「地吹雪体験」や「ストーブ列車」が活躍して観光客を和ませている。広大な津軽平野の中に佇む小田川温泉は、ナトリウム塩化物泉で効能は切り傷や火傷、慢性皮膚病など。飲用もでき慢性便秘などに効能。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori70,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori70,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

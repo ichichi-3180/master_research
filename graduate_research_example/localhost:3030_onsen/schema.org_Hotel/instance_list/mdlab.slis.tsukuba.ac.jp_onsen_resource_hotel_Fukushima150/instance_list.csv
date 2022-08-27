@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima150,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima150,https://schema.org/address,福島県河沼郡柳津町柳津字諏訪町甲６１―２,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima150,https://schema.org/name,柳津温泉　つきみが丘町民センター,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima150,https://schema.org/description,豊富な天然温泉&大浴場からの眺望は最高！温泉浴を満喫。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima150,http://ja.dbpedia.org/property/郵便番号,969-7201,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima150,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503019571,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima150,http://www.w3.org/2003/01/geo/wgs84_pos#long,135098974,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima150,https://schema.org/image,只見川を望むお部屋でのんびり寛ぐ…。<BR>天然温泉につかって疲れを癒し、自慢のお食事に舌鼓。<BR>どこか懐かしさを感じられる風景の中、ご家族・ご友人同士で<BR>過ごす癒しの休日はいかがですか？,literal,,1.0

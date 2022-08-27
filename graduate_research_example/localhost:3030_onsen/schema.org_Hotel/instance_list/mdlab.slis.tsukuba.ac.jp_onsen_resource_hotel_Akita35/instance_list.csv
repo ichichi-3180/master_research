@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita35,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita35,https://schema.org/address,秋田県仙北市田沢湖生保内字駒ヶ岳２－１６,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita35,https://schema.org/name,ホテルグランド天空(旧ウェルハートピア田沢湖）,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita35,https://schema.org/description,全室から水深日本一の田沢湖が眺望出来る静かな宿　,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita35,http://ja.dbpedia.org/property/郵便番号,014-1201,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita35,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506755969,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita35,http://www.w3.org/2003/01/geo/wgs84_pos#long,143206545,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita35,https://schema.org/image,四季豊かな高原を楽しむ、こころを満たす時間がここにあります<BR><BR><BR><BR>,literal,,1.0

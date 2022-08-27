@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima131,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima131,https://schema.org/address,福島県耶麻郡猪苗代町リステルパーク内,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima131,https://schema.org/name,ホテルリステル猪苗代ウイングタワー,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima131,https://schema.org/description,じゃらん　OF　THE　YEAR　売れた宿大賞・泊まって良かった宿大賞受賞,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima131,http://ja.dbpedia.org/property/郵便番号,969-2696,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima131,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504551924,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima131,http://www.w3.org/2003/01/geo/wgs84_pos#long,135141146,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima131,https://schema.org/image,じゃらんOF　THE　YEAR　2017　東北エリア　トリプル受賞(301室以上部門)<BR>売れた宿大賞　第3位!泊まって良かった宿大賞　総合第2位＆夕食第1位!<BR>ラベンダー＆フラワーフェス開催中！　お得なクーポン発行中<BR>,literal,,1.0

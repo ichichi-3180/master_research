@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido153,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido153,https://schema.org/address,北海道磯谷郡蘭越町湯里６８０,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido153,https://schema.org/name,月美の宿　紅葉音　,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido153,https://schema.org/description,1日12組様だけのくつろぎの宿。源泉かけ流し、料理も満足,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido153,http://ja.dbpedia.org/property/郵便番号,048-1321,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido153,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506164631,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido153,http://www.w3.org/2003/01/geo/wgs84_pos#long,154317179,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido153,https://schema.org/image,古い湯治宿を改装した奥ニセコ一軒宿<BR>美肌の湯と抜群の景観の露天風呂付客室<BR>北海道の山海の味覚をふんだんに盛り込んだ料理を個室でゆったり<BR>＜女性にはアメニティも充実＞,literal,,1.0

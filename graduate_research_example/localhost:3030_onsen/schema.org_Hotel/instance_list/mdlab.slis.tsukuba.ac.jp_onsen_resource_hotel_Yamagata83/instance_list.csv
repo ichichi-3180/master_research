@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata83,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata83,https://schema.org/address,山形県寒河江市本町２－１－２３,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata83,https://schema.org/name,割烹旅館　吉本　,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata83,https://schema.org/description,創業大正１１年　彩り鮮やかな料理と掛け流しの温泉に心癒される,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata83,http://ja.dbpedia.org/property/郵便番号,991-0031,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata83,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505009293,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata83,http://www.w3.org/2003/01/geo/wgs84_pos#long,138138832,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata83,https://schema.org/image,歴史ある山形県・寒河江温泉の割烹旅館。地元名産のバラを使った豪華な「バラ風呂」を不定期に実施中。お肌ツルツル、心も癒される温泉に浸った後は山形の旬の味覚が満載の和食会席を楽しんで。,literal,,1.0

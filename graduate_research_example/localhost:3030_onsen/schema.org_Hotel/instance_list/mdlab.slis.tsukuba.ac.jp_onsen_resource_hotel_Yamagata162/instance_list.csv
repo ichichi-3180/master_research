@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata162,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata162,https://schema.org/address,山形県米沢市小野川町２４３６,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata162,https://schema.org/name,小野川温泉　湯杜　匠味庵　山川,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata162,https://schema.org/description,★湯×味★美人の湯で癒されて…ここでしか味わえない美食の時間♪,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata162,http://ja.dbpedia.org/property/郵便番号,992-0076,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata162,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504210798,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata162,http://www.w3.org/2003/01/geo/wgs84_pos#long,136359583,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata162,https://schema.org/image,山形の温泉地に12の湯宿「高見屋グループ」。米沢の名湯「小野川温泉」で創業百年を迎える老舗旅館。源泉掛け流しの「美人の湯」で癒されて、米沢牛をここでしか味わえないオリジナル名物料理でご賞味あれ♪,literal,,1.0

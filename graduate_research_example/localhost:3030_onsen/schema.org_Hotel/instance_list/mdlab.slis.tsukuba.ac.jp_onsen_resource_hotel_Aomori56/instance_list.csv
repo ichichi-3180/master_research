@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori56,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori56,https://schema.org/address,青森県西津軽郡鰺ケ沢町大字舞戸町下富田２６－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori56,https://schema.org/name,鰺ヶ沢温泉　水軍の宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori56,https://schema.org/description,中世浪漫の「隠れ宿」■温泉露天風呂付客室は大人の休日に最適,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori56,http://ja.dbpedia.org/property/郵便番号,038-2761,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori56,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504807478,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori56,http://www.w3.org/2003/01/geo/wgs84_pos#long,146777595,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori56,https://schema.org/image,北前船の寄港地として藩政時代から栄えた港町「鰺ヶ沢」。当館は『安東水軍』が栄た頃の趣ある建屋と日本海の旬菜を生かした料理が自慢。中でも地魚の炭火焼は絶品です！温泉露天風呂付客室は特別な日に♪,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata127,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata127,https://schema.org/address,山形県山形市蔵王温泉６番地,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata127,https://schema.org/name,蔵王温泉　すゞのや　,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata127,https://schema.org/description,湯遊び♪山遊び♪白濁の源泉掛流しの風呂が評判！全館無線LAN可,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata127,http://ja.dbpedia.org/property/郵便番号,990-2301,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata127,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505441886,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata127,http://www.w3.org/2003/01/geo/wgs84_pos#long,137397865,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata127,https://schema.org/image,無線LAN対応♪お一人旅も大歓迎！白濁の源泉かけ流しのお風呂と宿目の前の上湯はじめ周辺に点在する計3つの共同浴場で湯めぐりが楽しめる。地場食材たっぷりの大鍋料理と白濁の温泉を満喫！,literal,,1.0

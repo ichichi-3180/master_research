@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita28,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita28,https://schema.org/address,秋田県仙北市田沢湖田沢字先達沢国有林５０,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita28,https://schema.org/name,大釜温泉,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita28,https://schema.org/description,山間の秘湯・乳頭温泉で湯治の旅を。自慢の温泉は24時間入浴OK！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita28,http://ja.dbpedia.org/property/郵便番号,014-1204,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita28,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506881434,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita28,http://www.w3.org/2003/01/geo/wgs84_pos#long,143285740,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita28,https://schema.org/image,小学校の校舎を移築・改造したユニークな宿。<BR>乳頭温泉は全国人気温泉地にランクインする有名な温泉です！<BR>温泉ファンをうならせるほどの泉質は絶品。露天・内湯ともに男女別になっています。,literal,,1.0

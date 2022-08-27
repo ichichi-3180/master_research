@@ -1,0 +1,3 @@
+http://purl.org/net/hotspring/Indication,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,uri,,1.0
+http://purl.org/net/hotspring/Indication,https://schema.org/name,literal,,1.0
+http://purl.org/net/hotspring/Indication,http://purl.org/net/hotspring/usage,literal,,1.0

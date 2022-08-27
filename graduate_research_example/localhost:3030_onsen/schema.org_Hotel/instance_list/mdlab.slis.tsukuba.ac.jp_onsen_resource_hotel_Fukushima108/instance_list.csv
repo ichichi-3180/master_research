@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima108,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima108,https://schema.org/address,いわき市常磐湯本町吹谷58,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima108,https://schema.org/name,雨情の宿　新つた,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima108,https://schema.org/description,【全室禁煙の宿】「絶対お得な」夏休み家族旅行応援プラン追加♪,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima108,http://ja.dbpedia.org/property/郵便番号,972-8321,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima108,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507057290,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima108,http://www.w3.org/2003/01/geo/wgs84_pos#long,133212888,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima108,https://schema.org/image,当館は「夏休みの家族旅行」全力で応援します！絶対にお得な３つの新プランを追加しました♪<BR>夏休みのご旅行は新つたで決まり！！,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido52,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido52,https://schema.org/address,北海道釧路市阿寒町阿寒湖温泉1丁目6の1,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido52,https://schema.org/name,阿寒の森鶴雅リゾート花ゆう香,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido52,https://schema.org/description,源泉かけ流し！阿寒の森と湖にたたずむ、カジュアルリゾート,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido52,http://ja.dbpedia.org/property/郵便番号,085-0467,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido52,http://www.w3.org/2003/01/geo/wgs84_pos#lat,518769113,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido52,http://www.w3.org/2003/01/geo/wgs84_pos#long,156353251,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido52,https://schema.org/image,阿寒湖に佇む、華やぎと安らぎの時間を愉しむリゾートホテル！レストランでは、地場自消にこだわった心づくしの美味しいお料理をビュッフェスタイルでご用意。姉妹館・鶴雅の大浴場もご利用ＯＫ！,literal,,1.0

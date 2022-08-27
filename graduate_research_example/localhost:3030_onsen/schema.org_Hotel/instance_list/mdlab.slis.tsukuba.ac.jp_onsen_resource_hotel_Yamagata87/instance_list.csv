@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata87,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata87,https://schema.org/address,山形県天童市鎌田本町2丁目4-51,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata87,https://schema.org/name,おいしい山形牛が食べられるお宿　天童グランドホテル舞鶴荘,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata87,https://schema.org/description,業界40年だからできる価格！A5・A4等級の山形牛の旨さ比べてケロ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata87,http://ja.dbpedia.org/property/郵便番号,994-0025,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata87,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505392558,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata87,http://www.w3.org/2003/01/geo/wgs84_pos#long,138077204,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata87,https://schema.org/image,熟練の職人が自らの目で見極めたA5・A4等級の山形牛を一頭丸ごと買い付け。私達が自信を持って美味しいと思える山形牛を納得のいく価格で競り落とし、できるだけ手頃な価格で最高の山形牛をご提供いたします,literal,,1.0

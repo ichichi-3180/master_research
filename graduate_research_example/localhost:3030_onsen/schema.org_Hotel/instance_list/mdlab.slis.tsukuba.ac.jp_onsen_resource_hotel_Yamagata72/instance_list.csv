@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata72,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata72,https://schema.org/address,山形県東根市温泉町１－２０－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata72,https://schema.org/name,青松館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata72,https://schema.org/description,閑静な和風旅館、保養・ビジネス・観光の基地としてご利用下さい。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata72,http://ja.dbpedia.org/property/郵便番号,999-3702,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata72,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505433420,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata72,http://www.w3.org/2003/01/geo/wgs84_pos#long,138433036,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata72,https://schema.org/image,庭園が融け込む野辺の風景は心を和まし、琥珀色のふくよかな温泉は身も心をも癒します。保養・ビジネスに、また観光の基地としてご利用ください。（ＬＡＮ接可能)　料理長が一から手掛ける料理も評判です。,literal,,1.0

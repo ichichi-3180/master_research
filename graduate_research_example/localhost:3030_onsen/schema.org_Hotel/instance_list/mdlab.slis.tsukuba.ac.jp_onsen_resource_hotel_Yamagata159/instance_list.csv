@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata159,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata159,https://schema.org/address,山形県米沢市小野川町２４３７－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata159,https://schema.org/name,小野川温泉　旭屋旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata159,https://schema.org/description,当館の庭にて　蛍が・・・♪宿泊者限定の貸切風呂が有ります,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata159,http://ja.dbpedia.org/property/郵便番号,992-0076,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata159,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504209707,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata159,http://www.w3.org/2003/01/geo/wgs84_pos#long,136360534,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata159,https://schema.org/image,蛍公園　徒歩５分　☆彡　<BR>ムシムシした日が　ホタル見やすいです　または当館のお風呂を暗くするとたまーに　ほたるがお風呂に・・・　２０時～21：30見やすい<BR>７月中旬まで見頃　強風の時は　みにくい<BR>,literal,,1.0

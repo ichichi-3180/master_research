@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tottori23,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tottori23,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tottori23,http://ja.dbpedia.org/property/読み仮名,だいせんきゃらおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tottori23,https://schema.org/address,鳥取県西伯郡大山町鈑戸字大野１５２５－１１,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tottori23,https://schema.org/name,大山伽羅温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tottori23,https://schema.org/description,中国地方最高峰である伯耆富士・大山の西麓に広がる岸本町。その爽やかな高原に湧く温泉。発見されたのは平成元年という新しい温泉。温泉は地元ホテルの露天風呂にひかれ、周辺は松林に囲まれている。その林の向こうに望む大山はまさに絶景。筋肉痛等に効果があり大山登山の拠点として利用されることも多い。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tottori23,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tottori23,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

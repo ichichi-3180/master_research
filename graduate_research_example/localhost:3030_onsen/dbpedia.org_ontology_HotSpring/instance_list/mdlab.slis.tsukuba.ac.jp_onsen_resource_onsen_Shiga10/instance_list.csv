@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shiga10,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shiga10,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature16,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shiga10,http://ja.dbpedia.org/property/読み仮名,いしやまおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shiga10,https://schema.org/address,滋賀県大津市螢谷,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shiga10,https://schema.org/name,石山温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shiga10,https://schema.org/description,紫式部が「源氏物語」を構想したといわれる石山寺の参道沿いにたたずむ温泉宿。岩間寺山腹の源泉からの引き湯で、純性低張冷鉱泉が泉質。目の前は琵琶湖より続く瀬田の清流。石山寺西には松尾芭蕉が住んでいたといわれる幻住庵跡や近江八景のひとつ、瀬田の夕照（せきしょう）といわれる瀬田の唐橋などへも。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shiga10,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shiga10,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

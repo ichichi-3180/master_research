@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata115,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata115,https://schema.org/address,上山市葉山4-7,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata115,https://schema.org/name,かみのやま温泉　寒河江屋旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata115,https://schema.org/description,源泉かけ流し温泉と素朴なおもてなしに癒される昔ながらの温泉宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata115,http://ja.dbpedia.org/property/郵便番号,999-3242,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata115,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504960921,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata115,http://www.w3.org/2003/01/geo/wgs84_pos#long,137322828,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata115,https://schema.org/image,この辺りでは少なくなった、家族でお客様をお迎えしている小さな宿。心温まる触れ合いが訪れる人を癒します。高温＆良質な源泉かけ流し温泉は24時間入浴可能。自家製温泉卵や山形郷土料理をお楽しみ下さい。,literal,,1.0

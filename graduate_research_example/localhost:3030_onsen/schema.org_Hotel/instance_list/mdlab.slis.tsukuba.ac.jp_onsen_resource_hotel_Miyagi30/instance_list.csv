@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi30,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi30,https://schema.org/address,宮城県大崎市鳴子温泉新町下５２－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi30,https://schema.org/name,旅館ゆさ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi30,https://schema.org/description,貸切露天風呂とアットホームで手作り満載の温泉宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi30,http://ja.dbpedia.org/property/郵便番号,989-6711,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi30,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506775009,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi30,http://www.w3.org/2003/01/geo/wgs84_pos#long,139437643,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi30,https://schema.org/image,川渡温泉の入口に位置するこの宿は、アットホームな感じで居心地ＧＯＯＤ！良く温まる赤みがかった温泉と自家栽培の旬の野菜と地元の食材を使った手作り満載の料理。自家米で仕込んだどぶろくや漬物も好評。,literal,,1.0

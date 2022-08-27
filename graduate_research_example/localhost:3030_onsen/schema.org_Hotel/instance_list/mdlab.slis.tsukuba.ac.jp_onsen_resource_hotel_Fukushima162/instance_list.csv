@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima162,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima162,https://schema.org/address,福島県会津若松市大戸町大字小谷字湯ノ平２４９８－２,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima162,https://schema.org/name,【源泉100％掛け流しの宿】会津芦ノ牧温泉　不動館　小谷の湯,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima162,https://schema.org/description,檜の大浴場と絶景露天風呂は　豊富な温泉の源泉掛け流し,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima162,http://ja.dbpedia.org/property/郵便番号,969-5146,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima162,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503713419,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima162,http://www.w3.org/2003/01/geo/wgs84_pos#long,134503384,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima162,https://schema.org/image,不動館小谷の湯は豊かな水流をたたえる大川のほとりの宿です。四季折々に彩りを映す眺めは見飽きることなく、熱め！の源泉掛け流しの温泉とともに当館自慢でもあります。,literal,,1.0

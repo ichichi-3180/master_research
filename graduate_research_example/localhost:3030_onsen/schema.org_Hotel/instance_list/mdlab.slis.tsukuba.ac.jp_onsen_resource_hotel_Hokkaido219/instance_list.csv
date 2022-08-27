@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido219,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido219,https://schema.org/address,北海道函館市柏野町１１７－１５０,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido219,https://schema.org/name,恵山温泉旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido219,https://schema.org/description,本格的な源泉かけ流しの温泉宿。新鮮な素材を生かした料理が評判,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido219,http://ja.dbpedia.org/property/郵便番号,041-0523,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido219,http://www.w3.org/2003/01/geo/wgs84_pos#lat,508163950,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido219,http://www.w3.org/2003/01/geo/wgs84_pos#long,150452118,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido219,https://schema.org/image,家庭的で素朴な温泉宿。春はつつじ、夏には朝食に旬のイカを提供。信仰の山の恵山はパワースポットとして注目されています。今なお噴煙を上げる恵山を背に眼下には津軽海峡を見下ろすロケーションです。,literal,,1.0

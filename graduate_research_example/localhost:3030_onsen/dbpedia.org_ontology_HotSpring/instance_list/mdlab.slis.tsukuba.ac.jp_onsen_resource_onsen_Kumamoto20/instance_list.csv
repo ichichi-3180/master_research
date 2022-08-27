@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto20,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto20,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature13,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto20,http://ja.dbpedia.org/property/読み仮名,ひらやまおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto20,https://schema.org/address,熊本県山鹿市平山,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto20,https://schema.org/name,平山温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto20,https://schema.org/description,山鹿市街から９ｋｍ離れた山あいにある静かな湯治場。起源は延暦年間（８世紀）といわれ、古い歴史を誇ります。『山鹿の奥座敷』と呼ばれ、ゆっくりとした時間を過ごせる温泉情緒漂う、いで湯の里です。近くにチブサン古墳・鍋田横穴群などの旧跡も多く、豊前街道や芝居小屋・八千代座など、浴後の散策も風情があって良い。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto20,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto20,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima13,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima13,https://schema.org/address,福島県福島市飯坂町字若葉町２７,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima13,https://schema.org/name,福住旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima13,https://schema.org/description,毛皮ふとんの宿。飯坂温泉の中心街にあり、摺り上川に面した宿。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima13,http://ja.dbpedia.org/property/郵便番号,960-0201,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima13,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505648669,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima13,http://www.w3.org/2003/01/geo/wgs84_pos#long,136185066,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima13,https://schema.org/image,おかめ風呂、ひょっとこ風呂、摺り上側に面した清流露天風呂がある宿。腕自慢の料理長による料理をお部屋で頂ける。ふかふかのファートンで心地よい眠りをどうぞ。,literal,,1.0

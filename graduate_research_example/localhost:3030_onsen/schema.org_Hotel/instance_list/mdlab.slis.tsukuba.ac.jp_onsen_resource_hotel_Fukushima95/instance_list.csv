@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima95,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima95,https://schema.org/address,いわき市常磐湯本町天王崎194,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima95,https://schema.org/name,魚々彩々　旬味の宿　うお昭,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima95,https://schema.org/description,前身が魚屋の料理にこだわる旅館です。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima95,http://ja.dbpedia.org/property/郵便番号,972-8321,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima95,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507068130,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima95,http://www.w3.org/2003/01/geo/wgs84_pos#long,133210122,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima95,https://schema.org/image,いわき七浜で水揚げされる、四季折々の素材を活かした豪快なお料理を提供してくれる宿。また、旅や日常に疲れた方には、千二百年もの歴史を持つ、いわき湯本の自慢の名湯でゆっくりくつろげる。<BR>,literal,,1.0

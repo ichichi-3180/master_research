@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagasaki9,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagasaki9,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature11,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagasaki9,http://ja.dbpedia.org/property/読み仮名,うんぜんおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagasaki9,https://schema.org/address,長崎県南高来郡小浜町雲仙,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagasaki9,https://schema.org/name,雲仙温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagasaki9,https://schema.org/description,島原半島中央にそびえる雲仙岳一帯は、日本初の国立公園に指定された温泉保養地。硫黄のにおいと水蒸気に包まれた大小３０からなる雲仙地獄はキリシタン殉教の舞台になった所でも知られており、哀しい歴史と悲話が今に残る。 平成２年に噴火した「平成新山」を近くに眺め、春はミヤマキリシマを楽しむことができる。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagasaki9,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagasaki9,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

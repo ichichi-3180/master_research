@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima90,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima90,https://schema.org/address,福島県いわき市常磐湯本町三函１９６,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima90,https://schema.org/name,いわき湯本温泉鮮の宿柏,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima90,https://schema.org/description,泉質自慢の温泉と、ひと手間かけた海鮮料理がお楽しみ頂けます♪,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima90,http://ja.dbpedia.org/property/郵便番号,972-8321,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima90,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507058493,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima90,http://www.w3.org/2003/01/geo/wgs84_pos#long,133223441,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima90,https://schema.org/image,全館フリーＷｉ－Ｆｉ♪無料駐車場完備♪コンビニ徒歩2分♪市場買付の新鮮な魚料理や、かに料理をいつでもご用意！美味しいお酒と共に食が進む！　温泉は一切循環なしで、いわき湯本の本物源泉を楽しめます。,literal,,1.0

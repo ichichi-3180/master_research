@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido56,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido56,https://schema.org/address,北海道釧路市阿寒町阿寒湖温泉２－８－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido56,https://schema.org/name,あかん鶴雅別荘　鄙の座,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido56,https://schema.org/description,全25室、露天風呂付。郷愁と気品漂う、阿寒湖畔の大人の隠れ家。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido56,http://ja.dbpedia.org/property/郵便番号,085-0467,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido56,http://www.w3.org/2003/01/geo/wgs84_pos#lat,518766729,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido56,http://www.w3.org/2003/01/geo/wgs84_pos#long,156350115,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido56,https://schema.org/image,日常の雑事と喧騒から離れた、阿寒湖畔の宿。しつらいが全て異なる客室には、全室露天風呂付。道東の旬食材で仕立てた和会席も上質な旅を彩ります。懐かしく温かい故郷のような宿で、ごゆるりとお寛ぎ下さい,literal,,1.0

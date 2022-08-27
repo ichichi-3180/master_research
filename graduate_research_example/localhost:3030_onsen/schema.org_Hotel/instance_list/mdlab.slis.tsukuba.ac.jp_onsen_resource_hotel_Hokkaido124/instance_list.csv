@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido124,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido124,https://schema.org/address,北海道樺戸郡新十津川町字総進１８９－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido124,https://schema.org/name,グリーンパークしんとつかわ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido124,https://schema.org/description,かけ流しの湯＆スポーツ施設でリフレッシュ！北海道自然体感,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido124,http://ja.dbpedia.org/property/郵便番号,073-1106,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido124,http://www.w3.org/2003/01/geo/wgs84_pos#lat,510654199,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido124,http://www.w3.org/2003/01/geo/wgs84_pos#long,156704182,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido124,https://schema.org/image,北海道の大自然に抱かれ、かけ流しの新十津川温泉を満喫できるホテルです。新十津川産米「ななつぼし」や地元金滴酒造のお酒に合う、おいしい料理を用意してお待ちしております。,literal,,1.0

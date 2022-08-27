@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi55,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi55,https://schema.org/address,宮城県仙台市太白区秋保町湯元薬師１０７,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi55,https://schema.org/name,創業寛永二年　仙台　秋保温泉　岩沼屋,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi55,https://schema.org/description,創業約400年　夕朝とも心を込めた会席料理でおもてなし,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi55,http://ja.dbpedia.org/property/郵便番号,982-0241,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi55,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506607407,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi55,http://www.w3.org/2003/01/geo/wgs84_pos#long,137604467,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi55,https://schema.org/image,大浴場は3つの湯温が選べる他、源泉掛け流しの貸切家族風呂（有料）も4か所あります<BR>敷地内に300台の無料平面駐車場有<BR>『仙台西部ライナー　往復利用で半額サービス』を開始しました（要事前申込）,literal,,1.0

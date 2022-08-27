@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido5,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido5,https://schema.org/address,北海道稚内市富士見４丁目１８３７－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido5,https://schema.org/name,風の宿　宗谷パレス,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido5,https://schema.org/description,日本最北に佇む希少な温泉宿◆鮮度抜群の魚介類が食卓を彩ります◆,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido5,http://ja.dbpedia.org/property/郵便番号,097-0027,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido5,http://www.w3.org/2003/01/geo/wgs84_pos#lat,509915778,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido5,http://www.w3.org/2003/01/geo/wgs84_pos#long,163505987,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido5,https://schema.org/image,稚内市内には数少ない、貴重な温泉宿♪泉質抜群で、トロトロの湯が疲れた体を癒します。大浴場からは利尻富士をご覧いただけることも★オホーツク海、日本海で揚がった新鮮な海の幸が揃うお食事も人気！,literal,,1.0

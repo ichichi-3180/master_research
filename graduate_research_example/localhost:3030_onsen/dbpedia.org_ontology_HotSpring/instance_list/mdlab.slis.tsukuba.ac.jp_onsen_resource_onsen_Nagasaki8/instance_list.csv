@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagasaki8,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagasaki8,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature5,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagasaki8,http://ja.dbpedia.org/property/読み仮名,おばまおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagasaki8,https://schema.org/address,長崎県南高来郡小浜町北本町,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagasaki8,https://schema.org/name,小浜温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagasaki8,https://schema.org/description,雲仙岳の西麓、橘湾の海岸一帯に湧き、野母半島を望む温泉で、特に落日の景観のよさは絶品。高い温泉温度と豊富な湯量が自慢で、至るところで蒸気が立ち上る。泉質は食塩泉で、 リュウマチ、神経痛、痛風などに効くとされる。海岸沿いに３０軒の旅館・ホテルが建ち並び、新鮮な海の幸が味わえる。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagasaki8,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagasaki8,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita53,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita53,https://schema.org/address,秋田県大仙市強首字強首２６８,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita53,https://schema.org/name,強首温泉　樅峰苑,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita53,https://schema.org/description,【登録有形文化財】歴史ある建物と希少な泉質の源泉掛け流し温泉。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita53,http://ja.dbpedia.org/property/郵便番号,019-2335,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita53,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505029169,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita53,http://www.w3.org/2003/01/geo/wgs84_pos#long,142399943,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita53,https://schema.org/image,大正ロマン漂う館内は、歴史的技法が随所に施された贅の尽くされた空間。温泉遺産認定。日本のホテル・旅館100選特別賞受賞（平成15年）。2種類ある掛け流し貸切露天風呂と総檜造りの大浴場が魅力の秘湯宿,literal,,1.0

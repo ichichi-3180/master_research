@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto120,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto120,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto120,http://ja.dbpedia.org/property/読み仮名,まつしまおれんじおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto120,https://schema.org/address,熊本県上天草市松島町合津6466番地,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto120,https://schema.org/name,松島オレンジ温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto120,https://schema.org/description,東シナ海に面した天草諸島には各地に温泉が点在し、旅館やホテル、公共の立ち寄り湯など多くの施設で気軽に温泉を楽しむことが出来る。泉質はそれぞれ異なるが、ほとんどの温泉が海辺にあり、温泉とともに藍より青い美しい海の眺めを楽しめる。また、天草西海岸では夕陽が水平線に沈む様がじつに美しいと評判である。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto120,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kumamoto120,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

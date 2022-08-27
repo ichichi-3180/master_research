@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi14,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi14,https://schema.org/address,宮城県大崎市鳴子温泉湯元41,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi14,https://schema.org/name,源蔵の湯　鳴子観光ホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi14,https://schema.org/description,仙台牛などご当地グルメにも舌鼓♪美食の温泉旅を。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi14,http://ja.dbpedia.org/property/郵便番号,989-6823,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi14,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506594051,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi14,http://www.w3.org/2003/01/geo/wgs84_pos#long,139459763,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi14,https://schema.org/image,歴史ある乳白色の温泉は大浴場、檜の露天風呂などすべてに満たされ、美肌の湯として名高い老舗。趣異なる３つの貸切風呂を楽しみ、旬や地場食材を頂く会席料理でのんびり名湯の旅を♪,literal,,1.0

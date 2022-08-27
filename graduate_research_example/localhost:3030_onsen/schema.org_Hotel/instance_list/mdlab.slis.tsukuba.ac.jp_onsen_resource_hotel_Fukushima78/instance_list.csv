@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima78,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima78,https://schema.org/address,福島県郡山市熱海町熱海５－３０,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima78,https://schema.org/name,をりふしの宿　昭月,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima78,https://schema.org/description,ここではテレビを消して本を読もう。全12室の山あいの宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima78,http://ja.dbpedia.org/property/郵便番号,963-1309,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima78,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504943370,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima78,http://www.w3.org/2003/01/geo/wgs84_pos#long,134951814,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima78,https://schema.org/image,好きな本を開いて、のんびりと自分のときをすごそう。緑の風の中、ここではときがゆっくり流れる。きょうは自分のために時間をすごそう。そうだ、お湯にでもつかってこよう。,literal,,1.0

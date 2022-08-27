@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido129,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido129,https://schema.org/address,北海道岩見沢市北村赤川１５６番地７,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido129,https://schema.org/name,北村温泉ホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido129,https://schema.org/description,まるで岩見沢の奥座敷。豊かな田園地帯の真ん中で豊富な湯量が自慢,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido129,http://ja.dbpedia.org/property/郵便番号,068-1213,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido129,http://www.w3.org/2003/01/geo/wgs84_pos#lat,510125548,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido129,http://www.w3.org/2003/01/geo/wgs84_pos#long,155728433,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido129,https://schema.org/image,ＪＲ岩見沢駅から北へ１０キロ、果てしなく広がる田園風景に沸き出た源泉１００％かけ流しの温泉が自慢の宿。料理メニューも豊富で、温泉でゆっくりと疲れを癒したらレストラン四季彩でのんびりとお食事を。,literal,,1.0

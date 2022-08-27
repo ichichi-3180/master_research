@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata43,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata43,https://schema.org/address,山形県最上郡大蔵村肘折温泉４９８番地,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata43,https://schema.org/name,四季の宿　松屋,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata43,https://schema.org/description,めずらしい洞窟の湯があり、地元の山菜料理を堪能できる宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata43,http://ja.dbpedia.org/property/郵便番号,996-0301,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata43,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504611846,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata43,http://www.w3.org/2003/01/geo/wgs84_pos#long,138974894,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata43,https://schema.org/image,全国でも数少ない洞窟風呂があり、お客様に大変喜んで頂いております。<BR>山菜料理などの郷土料理はもとより、若旦那が心を込めて作っているお料理は日本料理をメインにし様々なものに対応しています。,literal,,1.0

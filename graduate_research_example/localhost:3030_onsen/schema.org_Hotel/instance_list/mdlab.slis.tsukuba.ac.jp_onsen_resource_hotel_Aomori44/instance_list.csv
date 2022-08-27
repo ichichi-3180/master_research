@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori44,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori44,https://schema.org/address,黒石市大字袋字富田66,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori44,https://schema.org/name,黒石温泉郷落合温泉　かねさだ旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori44,https://schema.org/description,料理クチコミ高得点★24時間入れる天然温泉が嬉しい♪,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori44,http://ja.dbpedia.org/property/郵便番号,036-0412,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori44,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506460435,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori44,http://www.w3.org/2003/01/geo/wgs84_pos#long,146169767,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori44,https://schema.org/image,料理クチコミ高得点★主人自ら腕を振るう『料理』と24時間入れる『天然温泉』が自慢♪「弘前城」「ねぶた祭り」など、青森県の名所・イベントへのアクセスも便利です！,literal,,1.0

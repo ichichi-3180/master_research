@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido17,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido17,https://schema.org/address,北海道斜里郡斜里町ウトロ東172,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido17,https://schema.org/name,北こぶし知床　ホテル＆リゾート,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido17,https://schema.org/description,世界遺産「知床」を体感するステイ型北のリゾート”Kitakobushi”,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido17,http://ja.dbpedia.org/property/郵便番号,099-4355,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido17,http://www.w3.org/2003/01/geo/wgs84_pos#lat,521996083,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido17,http://www.w3.org/2003/01/geo/wgs84_pos#long,158650211,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido17,https://schema.org/image,2018年4月。知床グランドホテル北こぶしは「KITAKOBUSHI　SHIRETOKO　Hotel　＆　Resort」に改称いたしました。世界自然遺産「知床」をより楽しく、よりアクティブに感じられる北のリゾートを目指します。,literal,,1.0

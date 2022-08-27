@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido201,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido201,https://schema.org/address,北海道室蘭市中島町３－５－１０,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido201,https://schema.org/name,虎杖浜天然温泉　ホテルルートイン東室蘭駅前,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido201,https://schema.org/description,◆全客室でＷＯＷＯＷ無料視聴可　◆全客室でＷｉ-Ｆｉ接続可,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido201,http://ja.dbpedia.org/property/郵便番号,050-0074,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido201,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507698041,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido201,http://www.w3.org/2003/01/geo/wgs84_pos#long,152446108,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido201,https://schema.org/image,ルートイン東室蘭駅前には虎杖浜天然温泉　男女別大浴場をご用意（※加水・加温、循環ろ過式）晴れた日は白鳥大橋等、綺麗な景色が一望できます☆バイキング朝食は6：30から、平面無料駐車場は112台完備。,literal,,1.0

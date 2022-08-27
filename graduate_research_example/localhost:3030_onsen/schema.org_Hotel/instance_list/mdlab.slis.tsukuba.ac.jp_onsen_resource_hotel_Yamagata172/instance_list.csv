@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata172,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata172,https://schema.org/address,山形県米沢市大字関湯の入沢３９３４,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata172,https://schema.org/name,新高湯温泉　五つの絶景露天風呂　吾妻屋旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata172,https://schema.org/description,【米沢八湯】五つの絶景露天風呂＆絶品米沢牛＆標高1126ｍの一軒宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata172,http://ja.dbpedia.org/property/郵便番号,992-1472,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata172,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504490093,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata172,http://www.w3.org/2003/01/geo/wgs84_pos#long,135968861,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata172,https://schema.org/image,米沢八湯　◆標高1126ｍ（イイフロ）◆　絶景と風情と源泉豊富な五つの絶景露天風呂<BR>本場地元の米沢牛ステーキ　サーロインorもも　のプランを選べます。<BR>素朴な一軒宿とホンモノ源泉は秘湯情緒たっぷり！,literal,,1.0

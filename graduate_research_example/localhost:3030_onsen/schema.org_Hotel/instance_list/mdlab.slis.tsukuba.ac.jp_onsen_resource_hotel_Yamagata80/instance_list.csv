@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata80,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata80,https://schema.org/address,山形県東根市温泉町２－２－２,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata80,https://schema.org/name,あづまや,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata80,https://schema.org/description,寛ぎとやすらぎの時間が広がります,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata80,http://ja.dbpedia.org/property/郵便番号,999-3702,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata80,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505417608,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata80,http://www.w3.org/2003/01/geo/wgs84_pos#long,138440122,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata80,https://schema.org/image,琥珀色の美肌によいあったまりの温泉です。山形牛を使用した会席膳が自慢！ビジネスのお客様にも好評です。女将の心温まるおもてなしでお客様をお出迎えいたします。,literal,,1.0

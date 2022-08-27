@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi28,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi28,https://schema.org/address,宮城県大崎市鳴子温泉字築沢23-1,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi28,https://schema.org/name,東五郎の湯　高東旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi28,https://schema.org/description,里山の時と流れに身を任せ、ゆったりほのぼのふれあい湯治。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi28,http://ja.dbpedia.org/property/郵便番号,989-6711,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi28,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506760442,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi28,http://www.w3.org/2003/01/geo/wgs84_pos#long,139420654,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi28,https://schema.org/image,過分なサービスは設けず、「私達とお客様、人と人のお付き合いを大切にしてます」と主人。名湯「東五郎の湯」につかり、静かな里山暮らしを体感。<BR>昔ながらの湯治場で、「心の時計」はずしてみませんか。,literal,,1.0

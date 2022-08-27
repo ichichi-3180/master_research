@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima200,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima200,https://schema.org/address,福島県耶麻郡猪苗代町字葉山7105-565,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima200,https://schema.org/name,ペンション　KOGETSU,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima200,https://schema.org/description,猪苗代湖を一望するお洒落な露天風展望風呂と源泉かけ流し天然温泉,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima200,http://ja.dbpedia.org/property/郵便番号,969-3102,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima200,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504334224,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima200,http://www.w3.org/2003/01/geo/wgs84_pos#long,135241639,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima200,https://schema.org/image,猪苗代湖が一望できる展望風呂と天然温泉のはやまの湯は、ともに貸切で利用できます。<BR>全客室バス・トイレ付、テーブルセット・タオル等アメニティも充実。<BR>人工芝の専用テニスコート隣接。,literal,,1.0

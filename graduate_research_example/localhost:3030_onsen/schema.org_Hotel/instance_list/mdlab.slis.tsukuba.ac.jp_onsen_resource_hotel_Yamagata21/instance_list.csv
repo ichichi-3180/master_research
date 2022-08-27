@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata21,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata21,https://schema.org/address,山形県鶴岡市湯野浜１－９－３１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata21,https://schema.org/name,海辺の宿福住,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata21,https://schema.org/description,眺望抜群！『海辺の宿』お食事は朝夕部屋食、源泉100％掛け流し♪,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata21,http://ja.dbpedia.org/property/郵便番号,997-1201,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata21,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503116894,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata21,http://www.w3.org/2003/01/geo/wgs84_pos#long,139597746,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata21,https://schema.org/image,　<BR>どの客室からも雄大な日本海が居ながらにして眺望出来る”海辺の宿”。<BR>旬の素材を大切にした料理は気兼ねなくお召し上がりいただけるよう<BR>朝夕部屋だし、源泉掛け流しの温泉でごゆっくりどうぞ。<BR>,literal,,1.0

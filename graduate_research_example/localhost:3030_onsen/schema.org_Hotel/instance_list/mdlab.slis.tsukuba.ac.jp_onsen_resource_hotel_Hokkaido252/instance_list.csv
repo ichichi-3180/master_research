@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido252,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido252,https://schema.org/address,北海道上磯郡知内町字湯ノ里２８４番地,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido252,https://schema.org/name,ユートピア和楽園　知内温泉旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido252,https://schema.org/description,開湯約800年！北海道最古の温泉で疲れを癒す…秘湯で過ごす休日,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido252,http://ja.dbpedia.org/property/郵便番号,049-1221,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido252,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505073150,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido252,http://www.w3.org/2003/01/geo/wgs84_pos#long,149734932,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido252,https://schema.org/image,当館周辺には源泉が5か所あり、男女別の内湯が2つ、混浴露天風呂が1つと<BR>温泉三昧をお楽しみ頂けます。5つの源泉の中には飲泉可能なものもございますので、<BR>身体の中からも温泉効果を感じられます。,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido172,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido172,https://schema.org/address,北海道有珠郡壮瞥町洞爺湖温泉７－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido172,https://schema.org/name,ザ・レイクスイート湖の栖,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido172,https://schema.org/description,洞爺湖に棲む　ザ・レイクスイート湖の栖　8月1日オープン♪,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido172,http://ja.dbpedia.org/property/郵便番号,049-5731,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido172,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507019805,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido172,http://www.w3.org/2003/01/geo/wgs84_pos#long,153225901,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido172,https://schema.org/image,すべての客室に温泉露天風呂＆テラスを完備。最上階の露天風呂は湖に向かって突き出した構造となっており湖上に浮かび空に寛ぐ至福のときをご満喫頂けます。8月限定のグランドオープン記念プランもご用意♪,literal,,1.0

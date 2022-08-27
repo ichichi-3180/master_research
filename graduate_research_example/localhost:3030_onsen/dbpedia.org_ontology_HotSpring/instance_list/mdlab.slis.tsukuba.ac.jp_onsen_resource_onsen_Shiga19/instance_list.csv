@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shiga19,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shiga19,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shiga19,http://ja.dbpedia.org/property/読み仮名,しがらきたぬきおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shiga19,https://schema.org/address,滋賀県甲賀郡設楽町大字黄瀬2320-1,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shiga19,https://schema.org/name,信楽たぬき温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shiga19,https://schema.org/description,信楽焼で有名な信楽に位置。泉質は旅の疲れをいやす、ナトリウム泉の温泉です。その名の通り大浴場は信楽焼のタイルが美しく落ち着く空間。また、貸切露天はかわいらしいたぬきの信楽焼の浴槽に浸かり、カップルやファミリーで入れるのも嬉しい。泉質はナトリウムー炭酸水素塩泉・塩化鉱物冷鉱泉。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shiga19,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shiga19,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

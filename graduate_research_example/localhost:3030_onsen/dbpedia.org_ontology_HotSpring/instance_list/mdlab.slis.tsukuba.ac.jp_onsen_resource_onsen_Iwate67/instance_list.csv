@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate67,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate67,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate67,http://ja.dbpedia.org/property/読み仮名,しずくいしたかくらおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate67,https://schema.org/address,岩手県岩手郡雫石町高倉温泉,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate67,https://schema.org/name,雫石高倉温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate67,https://schema.org/description,雫石周辺は個性的な温泉地が点在しているエリア。国見温泉は珍しい緑の濁り湯、網張温泉は乳白色の濁り湯が人気を呼んでいる。鶯宿川沿いに宿が点在する鶯宿温泉は、開湯４５０年の歴史ある温泉街で湯巡りを楽しむこともできる。また「けんじワールド」「小岩井農場」に近いのレジャーの拠点としても便利。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate67,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate67,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

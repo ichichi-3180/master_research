@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima110,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima110,https://schema.org/address,福島県いわき市常磐下湯長谷町シザ２２,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima110,https://schema.org/name,いわき　湯本温泉　美風の宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima110,https://schema.org/description,ハワイアンズまで車で10分♪天然温泉100%を源泉掛け流しで！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima110,http://ja.dbpedia.org/property/郵便番号,972-8317,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima110,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507082108,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima110,http://www.w3.org/2003/01/geo/wgs84_pos#long,133160015,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima110,https://schema.org/image,加水・加温・ろ過なしの源泉掛け流しの天然温泉が自慢！<BR>美肌・解毒作用ありの『美人の湯』でお肌スベスベ♪<BR>ハワイアンズまで車で10分＆アクアマリンふくしままで車で20分♪<BR>軽朝食無料サービス★,literal,,1.0

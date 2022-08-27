@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi8,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi8,https://schema.org/address,宮城県大崎市鳴子温泉湯元８４,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi8,https://schema.org/name,元祖「うなぎ湯」の宿　ゆさや旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi8,https://schema.org/description,レトロ雰囲気の文化財の宿で、良質の温泉と月替り山里料理が魅力！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi8,http://ja.dbpedia.org/property/郵便番号,989-6823,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi8,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506595603,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi8,http://www.w3.org/2003/01/geo/wgs84_pos#long,139459378,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi8,https://schema.org/image,温泉街の情緒豊かな日本旅館。アルカリ泉の名湯うなぎ湯と硫黄泉の滝の湯に加え、自然に囲まれた貸切露天「茜の湯」の３つの温泉。料理は季節と地元の素材を使った手作りオリジナル料理が楽しめる。,literal,,1.0

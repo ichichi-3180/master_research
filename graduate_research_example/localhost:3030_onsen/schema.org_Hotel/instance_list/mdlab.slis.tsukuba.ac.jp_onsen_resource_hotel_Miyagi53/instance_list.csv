@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi53,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi53,https://schema.org/address,宮城県仙台市太白区秋保町湯元字薬師４０－２,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi53,https://schema.org/name,秋保の郷　ばんじ家　,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi53,https://schema.org/description,一度来たらまた来たくなる！心に残るおもてなし自慢の和食をぜひ！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi53,http://ja.dbpedia.org/property/郵便番号,982-0241,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi53,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506595912,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi53,http://www.w3.org/2003/01/geo/wgs84_pos#long,137614343,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi53,https://schema.org/image,ふるさとの家に「ただいま」と帰ってきたように気兼ねなくおくつろぎ頂ける、小さな宿です。ちょっとうれしい、どこか懐かしいひとときをお過ごしくださいませ。心温まるおもてなしで皆様お待ちしております,literal,,1.0

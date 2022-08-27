@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori7,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori7,https://schema.org/address,青森県下北郡風間浦村下風呂字家ノ尻１１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori7,https://schema.org/name,坪田旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori7,https://schema.org/description,自然に恵まれた閑静な温泉郷、新鮮な魚介類も満喫出来る,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori7,http://ja.dbpedia.org/property/郵便番号,039-4501,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori7,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507946708,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori7,http://www.w3.org/2003/01/geo/wgs84_pos#long,149268324,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori7,https://schema.org/image,遠く室町時代から湯治場として知られる下風呂温泉郷の源泉１００％かけ流しの宿。硫黄の香り漂う白いにごり湯はぎっくり腰や腰痛にも利くといわれる。お部屋は和室でゆったりと寛げるよ。,literal,,1.0

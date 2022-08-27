@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata117,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata117,https://schema.org/address,山形県山形市蔵王温泉９０３―２,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata117,https://schema.org/name,蔵王温泉　ＺＡＯセンタープラザ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata117,https://schema.org/description,ロープウェイ目前★蔵王‐源泉かけ流し★グループに◎ロフト付客室,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata117,http://ja.dbpedia.org/property/郵便番号,990-2301,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata117,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505437079,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata117,http://www.w3.org/2003/01/geo/wgs84_pos#long,137384929,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata117,https://schema.org/image,★蔵王ロープウェイ目の前“徒歩1分”<BR>★源泉かけ流し≪コバルトブルー色≫の【蔵王温泉】を岩露天風呂で楽しむ<BR>★蔵王牛＆米沢牛の絶品コース★エリア最大級お土産フロア★,literal,,1.0

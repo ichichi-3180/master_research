@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata70,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata70,https://schema.org/address,山形県尾花沢市大字銀山新畑４１６,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata70,https://schema.org/name,銀山温泉　御宿　やなだ屋,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata70,https://schema.org/description,大正浪漫の銀山温泉で出来たて料理を味わえる宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata70,http://ja.dbpedia.org/property/郵便番号,999-4333,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata70,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505925379,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata70,http://www.w3.org/2003/01/geo/wgs84_pos#long,138840453,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata70,https://schema.org/image,ガス灯がロマンチックな温泉街の中心にあり一日４組限定の宿。<BR>地元ブランド牛「尾花沢牛」や手打ち蕎麦など、一品一品出来たてを運ぶ♪<BR>【食どころ山形★人気の手打ち蕎麦＆つやつやの山形米】<BR>,literal,,1.0

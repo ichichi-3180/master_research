@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saitama15,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saitama15,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature0,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saitama15,http://ja.dbpedia.org/property/読み仮名,おがのおんせんだいりゅうじげんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saitama15,https://schema.org/address,埼玉県秩父郡小鹿野町小鹿野,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saitama15,https://schema.org/name,小鹿野温泉大竜寺源泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saitama15,https://schema.org/description,関越自動車道花園ＩＣより約４５分。秩父の山奥に位置するこの温泉。泉質はメタホウ酸泉・源泉は１９．７度。効能は神経痛・腰痛・筋肉痛・創傷・冷え性など。古くは江戸時代は秩父の代表的温泉であったそうだ。秩父地方は養蚕の盛んな地方で、周辺諸藩の交通の要衝であった時代もある。※写真は「両神山」です。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saitama15,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saitama15,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

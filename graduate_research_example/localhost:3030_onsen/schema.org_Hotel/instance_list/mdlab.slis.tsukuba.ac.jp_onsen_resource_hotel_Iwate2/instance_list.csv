@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate2,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate2,https://schema.org/address,岩手県花巻市湯口大沢１８１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate2,https://schema.org/name,千二百年の湯めぐり　大沢温泉　賢治ゆかりの自炊部「湯治屋」　,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate2,https://schema.org/description,拝啓　立ち昇る湯けむり宮澤賢治の面影をみゆ　大沢の湯にて　草々,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate2,http://ja.dbpedia.org/property/郵便番号,025-0244,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate2,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507669397,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate2,http://www.w3.org/2003/01/geo/wgs84_pos#long,141962056,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate2,https://schema.org/image,宮澤賢治も愛した歴史ある湯治場：100％掛流し元祖露天風呂「大沢の湯」に四季折々のイーハトーブの風懐かしい郷愁をはこぶ,literal,,1.0

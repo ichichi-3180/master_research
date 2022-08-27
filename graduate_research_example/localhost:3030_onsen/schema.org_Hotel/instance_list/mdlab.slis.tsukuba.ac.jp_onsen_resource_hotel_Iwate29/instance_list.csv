@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate29,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate29,https://schema.org/address,岩手県紫波郡紫波町小屋敷字新在家９０,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate29,https://schema.org/name,天然温泉　ラ・フランス温泉館　ホテル湯楽々,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate29,https://schema.org/description,東北道紫波ICからたったの5分！つるつる天然温泉＆温水プール,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate29,http://ja.dbpedia.org/property/郵便番号,028-3444,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate29,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507911187,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate29,http://www.w3.org/2003/01/geo/wgs84_pos#long,142454976,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate29,https://schema.org/image,岩手県の中央部。東北道紫波ICからたったの5分とアクセスも良。つるつるとした泉質が特長のアルカリ性単純泉と産直野菜の朝食バイキングが自慢の宿。さらに温水プールと県内最大級のウォータースライダー。,literal,,1.0

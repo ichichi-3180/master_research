@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata147,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata147,https://schema.org/address,山形県南陽市赤湯５４８,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata147,https://schema.org/name,森の湯,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata147,https://schema.org/description,心地いいおもてなしと静寂の時間に包まれるプライベートな空間,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata147,http://ja.dbpedia.org/property/郵便番号,999-2211,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata147,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504618723,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata147,http://www.w3.org/2003/01/geo/wgs84_pos#long,136964114,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata147,https://schema.org/image,全館平屋の贅沢な造りの宿。<BR>露天風呂付き客室「みちのく亭」スタンダード客室「紅花館」からお選びいただけます。<BR>お食事はプライベートダイニングで。<BR>「つかず離れず」のおもてなしが嬉しい宿。<BR>禁煙,literal,,1.0

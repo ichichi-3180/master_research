@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima182,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima182,https://schema.org/address,福島県岩瀬郡天栄村牧之内字天栄山１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima182,https://schema.org/name,天栄湯,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima182,https://schema.org/description,隠れ名湯発見！めずらしい硫酸塩冷鉱泉は約100年の歴史あり,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima182,http://ja.dbpedia.org/property/郵便番号,962-0501,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima182,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504520237,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima182,http://www.w3.org/2003/01/geo/wgs84_pos#long,134154907,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima182,https://schema.org/image,首都圏から一番近い東北の一軒宿ともいえる、歴史ある温泉宿。阿武隈川の支流・細野川の渓谷に立地し、避暑にも最適。地元天栄村の味を中心に会津地鶏など福島の味を満喫。,literal,,1.0

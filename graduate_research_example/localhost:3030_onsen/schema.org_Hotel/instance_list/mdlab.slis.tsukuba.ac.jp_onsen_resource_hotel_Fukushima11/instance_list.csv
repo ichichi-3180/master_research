@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima11,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima11,https://schema.org/address,福島市飯坂町字西堀切22,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima11,https://schema.org/name,伊勢屋,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima11,https://schema.org/description,大人の源泉宿　チェックインは24時まで　駐車場４０台無料　　,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima11,http://ja.dbpedia.org/property/郵便番号,960-0201,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima11,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505626070,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima11,http://www.w3.org/2003/01/geo/wgs84_pos#long,136196775,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima11,https://schema.org/image,自家源泉を持ち湧出温度67℃の豊富な湯量とその泉質は飯坂随一とも評判高く各浴槽に注がれてます。浴槽温度43℃～44℃を目安にしています。<BR>初めピリッと後さっぱりとする源湯ならではの効能高い湯です。<BR>,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima80,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima80,https://schema.org/address,福島県郡山市熱海町熱海５－１８,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima80,https://schema.org/name,清稜山倶楽部,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima80,https://schema.org/description,訪れるごとに、楽しさがひろがる、ようこそくつろぎ倶楽部へ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima80,http://ja.dbpedia.org/property/郵便番号,963-1309,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima80,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504946459,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima80,http://www.w3.org/2003/01/geo/wgs84_pos#long,134949733,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima80,https://schema.org/image,磐梯熱海温泉の【美肌の湯】と、皆で分け合う大皿料理スタイルの【食】、周辺【スポーツ施設】も充実。スポーツ合宿や気のあった仲間との交流の場として。<BR>,literal,,1.0

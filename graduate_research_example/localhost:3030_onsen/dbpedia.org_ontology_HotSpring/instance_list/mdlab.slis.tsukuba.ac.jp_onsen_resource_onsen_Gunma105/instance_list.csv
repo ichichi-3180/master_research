@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma105,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma105,http://ja.dbpedia.org/property/泉質,http://iris.slis.tsukuba.ac.jp:3050/onsen/data,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma105,http://ja.dbpedia.org/property/読み仮名,ざぜんおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma105,https://schema.org/address,群馬県利根郡片品村東小川4658-58,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma105,https://schema.org/name,座禅温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma105,https://schema.org/description,首都圏から約2時間半の「尾瀬の郷 片品村」は尾瀬国立公園をはじめ上州武尊山、奥日光白根山と日本百名山を有し、山登りやスキーなど1年を通して楽しめます。村内には「花咲温泉」「片品温泉」「土出温泉」「鎌田温泉」「東小川温泉」「白根温泉」「座禅温泉」「丸沼温泉」「尾瀬戸倉温泉」等数多くの温泉があります。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma105,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma105,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

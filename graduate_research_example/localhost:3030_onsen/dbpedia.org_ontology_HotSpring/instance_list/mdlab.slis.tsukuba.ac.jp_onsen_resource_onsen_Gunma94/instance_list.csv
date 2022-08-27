@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma94,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma94,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature7,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma94,http://ja.dbpedia.org/property/読み仮名,おくかるいざわおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma94,https://schema.org/address,群馬県吾妻郡嬬恋村大字大前字細原２２７１－１１８,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma94,https://schema.org/name,奥軽井沢温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma94,https://schema.org/description,浅間山の麓に佇む１００万㎡のレジャーシート、ホテルグリーンプラザ軽井沢。その敷地内に平成１５年８月３１日、奥軽井沢温泉が誕生しました。浅間山麓の地下１６００ｍから湧き出る天然温泉は源泉かけ流しの淡黄色の湯。泉質はナトリウム硫酸塩・塩化物・炭酸水素塩温泉。３種類の露天風呂と内湯でお楽しみください。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma94,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma94,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

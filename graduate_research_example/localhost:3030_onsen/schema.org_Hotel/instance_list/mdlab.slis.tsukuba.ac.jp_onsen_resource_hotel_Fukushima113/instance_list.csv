@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima113,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima113,https://schema.org/address,福島県東白川郡塙町湯岐字湯岐１７,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima113,https://schema.org/name,和泉屋旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima113,https://schema.org/description,歴史ある湯治の宿で、新しいスタイルの湯治を提案します。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima113,http://ja.dbpedia.org/property/郵便番号,963-5533,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima113,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505710991,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima113,http://www.w3.org/2003/01/geo/wgs84_pos#long,132811844,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima113,https://schema.org/image,★おかげさまでお食事評価４・８！★ＰＨ値が高く、お湯はトロトロで、肌はつるつるになる美人の湯です♪<BR>《ゆっくり温泉に浸かり美味しい料理を食べる》現代湯治をご体感ください。,literal,,1.0

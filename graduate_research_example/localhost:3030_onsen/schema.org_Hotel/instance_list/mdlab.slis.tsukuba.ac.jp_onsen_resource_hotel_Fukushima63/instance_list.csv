@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima63,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima63,https://schema.org/address,福島県二本松市岳温泉１－１９７－２,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima63,https://schema.org/name,空の庭リゾート,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima63,https://schema.org/description,美と健康　心を癒す　高原ホテル　「空の庭リゾート」,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima63,http://ja.dbpedia.org/property/郵便番号,964-0074,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima63,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505289508,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima63,http://www.w3.org/2003/01/geo/wgs84_pos#long,135363634,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima63,https://schema.org/image,落葉樹の森につつまれて、白濁の天然掛け流し温泉に浸かり、「自ら美しくなる・健康になる・心と体が癒される」ことに特化した美容・健康リゾートホテルを目指します。陶盤浴やエステも人気です。<BR><BR>,literal,,1.0

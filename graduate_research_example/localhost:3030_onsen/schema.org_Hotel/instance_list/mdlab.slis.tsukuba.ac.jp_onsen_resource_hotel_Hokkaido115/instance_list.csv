@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido115,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido115,https://schema.org/address,北海道河東郡音更町十勝川温泉北９－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido115,https://schema.org/name,ホテルテトラリゾート十勝川,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido115,https://schema.org/description,心のこもったおもてなしでビジネスや観光のお役に立ちます。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido115,http://ja.dbpedia.org/property/郵便番号,080-0262,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido115,http://www.w3.org/2003/01/geo/wgs84_pos#lat,515850193,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido115,http://www.w3.org/2003/01/geo/wgs84_pos#long,154567173,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido115,https://schema.org/image,広々とした造りの大浴場で心ゆくまでおくつろぎ頂けます。,literal,,1.0

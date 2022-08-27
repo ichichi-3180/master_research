@@ -1,27 +1,12 @@
-PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX owl: <http://www.w3.org/2002/07/owl#>
-
-SELECT ?auth ?rcount ?upper (count(?srel) as ?srcount) WHERE {
-    ?auth skos:broader ?upper.
-    ?upper skos:relatedMatch ?srel .
-    FILTER (regex(?srel, "^http://id.ndl.go.jp/class/ndc10/"))
-    {
-        SELECT ?auth (count(?rel) as ?rcount) WHERE {
-            ?auth skos:relatedMatch ?rel .
-            FILTER (regex(?rel, "^http://id.ndl.go.jp/class/ndc10/"))
-        } GROUP BY ?auth HAVING(count(?rel) >= 4)
-    }
+PREFIX : <http://people.example/>
+PREFIX : <http://people.example/>
+SELECT ?y ?minName
+WHERE {
+  :alice :knows ?y .
+  {
+    SELECT ?y (MIN(?name) AS ?minName)
+    WHERE {
+      ?y :name ?name .
+    } GROUP BY ?y
+  }
 }
-
-# PREFIX : <http://people.example/>
-# PREFIX : <http://people.example/>
-# SELECT ?y ?minName
-# WHERE {
-#   :alice :knows ?y .
-#   {
-#     SELECT ?y (MIN(?name) AS ?minName)
-#     WHERE {
-#       ?y :name ?name .
-#     } GROUP BY ?y
-#   }
-# }

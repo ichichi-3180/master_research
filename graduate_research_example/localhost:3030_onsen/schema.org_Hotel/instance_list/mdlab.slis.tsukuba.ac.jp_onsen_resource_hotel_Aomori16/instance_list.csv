@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori16,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori16,https://schema.org/address,青森市浅虫字山下236,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori16,https://schema.org/name,津軽藩本陣の宿　旅館　柳の湯,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori16,https://schema.org/description,好アクセス★浅虫温泉駅から徒歩10分圏内！源泉100％浅虫温泉,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori16,http://ja.dbpedia.org/property/郵便番号,039-3501,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori16,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507121458,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori16,http://www.w3.org/2003/01/geo/wgs84_pos#long,147186742,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori16,https://schema.org/image,●全室Wi-Fi対応●<BR>青森の名湯・浅虫温泉を源泉100％掛け流し。<BR>お食事は地元陸奥湾で揚がった、「新鮮な海の幸」と「旬の地元食材」も好評！<BR>浅虫温泉駅⇔当館まで無料送迎もあり※要予約,literal,,1.0

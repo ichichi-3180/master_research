@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi26,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi26,https://schema.org/address,宮城県大崎市鳴子温泉鷲の巣１８,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi26,https://schema.org/name,湯治宿　黒湯の高友旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi26,https://schema.org/description,自家源泉が4本！天然温泉の威力を実感できる老舗の宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi26,http://ja.dbpedia.org/property/郵便番号,989-6811,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi26,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506667884,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi26,http://www.w3.org/2003/01/geo/wgs84_pos#long,139462507,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi26,https://schema.org/image,温泉通の間でも評判の「黒湯」をはじめとした四種類の源泉が楽しめる昔ながらの湯治宿。貸切風呂は空いていればいつでも利用可。食事は地元の天然山菜やきのこ、自家養殖のヤマメ料理。体の芯から寛げるよ。,literal,,1.0

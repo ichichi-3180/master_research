@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima2,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima2,https://schema.org/address,福島県福島市町庭坂字高湯２１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima2,https://schema.org/name,安達屋旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima2,https://schema.org/description,大露天風呂大気の湯と囲炉裏を囲んでの夕食！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima2,http://ja.dbpedia.org/property/郵便番号,960-2261,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima2,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505107586,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima2,http://www.w3.org/2003/01/geo/wgs84_pos#long,135898798,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima2,https://schema.org/image,福島市内から車で30分、西インター・飯坂インターからも20分。アンティークな雰囲気の館内、自然の中の大露天風呂大気の湯と囲炉裏を囲んでの夕食が自慢。,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata95,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata95,https://schema.org/address,山形県天童市鎌田本町１－１－３０,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata95,https://schema.org/name,ほほえみの宿　滝の湯,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata95,https://schema.org/description,みんながほほえむ、山形牛と米沢牛が食べられる自然に優しい宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata95,http://ja.dbpedia.org/property/郵便番号,994-0025,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata95,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505385246,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata95,http://www.w3.org/2003/01/geo/wgs84_pos#long,138082677,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata95,https://schema.org/image,四季折々の食や自然を楽しめる天童。そして一年を通して楽しめる大地の恵み「温泉」。私達は常に自然とともに文化を育み、共存しています。自然に感謝し後世に残していく為に環境問題に取り組んでおります。,literal,,1.0

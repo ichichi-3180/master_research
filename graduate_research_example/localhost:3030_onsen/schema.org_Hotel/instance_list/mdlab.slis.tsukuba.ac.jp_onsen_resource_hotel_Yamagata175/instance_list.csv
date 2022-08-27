@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata175,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata175,https://schema.org/address,山形県東田川郡三川町大字横山字堤１７２―１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata175,https://schema.org/name,なの花温泉　田田の宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata175,https://schema.org/description,洋室ネット利用無料♪庭園を望むお部屋で寛ぎ、天然温泉に癒される,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata175,http://ja.dbpedia.org/property/郵便番号,997-1301,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata175,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503457600,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata175,http://www.w3.org/2003/01/geo/wgs84_pos#long,139610982,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata175,https://schema.org/image,全客室、美しい庭園を望む一戸建て風の造り。<BR>お部屋でのんびり寛いだ後は、稲穂黄金色の温泉につかって、疲れを癒しましょう。<BR>敷地内には、道の駅・ショッピングセンター・飲食店等施設が充実。,literal,,1.0

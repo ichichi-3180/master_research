@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima88,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima88,https://schema.org/address,福島県東白川郡棚倉町仁公儀川原田２８６,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima88,https://schema.org/name,棚倉田舎倶楽部,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima88,https://schema.org/description,駐車場無料◆Wi‐Fi完備◆ビジネスや一人旅に快適な空間をお届け◆,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima88,http://ja.dbpedia.org/property/郵便番号,963-6122,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima88,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505473430,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima88,http://www.w3.org/2003/01/geo/wgs84_pos#long,133333975,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima88,https://schema.org/image,朝もやに包まれた「温泉」でくつろぐリゾートゴルフ倶楽部。ビジネスやグループのご旅行にもどうぞ。<BR>新白河駅よりお車にて約４０分<BR>駐車場:有り　１４４台　無料　予約不要,literal,,1.0

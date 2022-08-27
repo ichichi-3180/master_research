@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokyo19,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokyo19,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature7,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokyo19,http://ja.dbpedia.org/property/読み仮名,かまたくろゆおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokyo19,https://schema.org/address,東京都大田区西蒲田8-1-5,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokyo19,https://schema.org/name,蒲田黒湯温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokyo19,https://schema.org/description,当所地下より汲み上げている天然温泉（ナトリウム一炭酸水素塩・塩化物冷鉱泉）。外観は黒褐色透明、微塩味無臭。黒湯は火山性の温泉とは異なり、古生代に埋もれた草や木の葉の成分が地下水に溶け込むことによりできた冷鉱泉で、体の芯まで温まり、浴後も湯冷めしないのが特色。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokyo19,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokyo19,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

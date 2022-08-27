@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita38,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita38,https://schema.org/address,秋田県仙北市田沢湖生保内字下高野73-10,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita38,https://schema.org/name,元湯　水沢山荘,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita38,https://schema.org/description,湯量豊富な乳白色の天然温泉かけ流し。露天風呂は深さ１ｍ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita38,http://ja.dbpedia.org/property/郵便番号,014-1201,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita38,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506727750,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita38,http://www.w3.org/2003/01/geo/wgs84_pos#long,143144345,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita38,https://schema.org/image,秋田駒ケ岳のすそ野に広がる田沢湖高原水沢温泉郷。その雄大な自然につつまれ、乳白色の源泉を使用した天然温泉。元湯ならではの泉質のいいお湯にゆったりと身をまかせよう。,literal,,1.0

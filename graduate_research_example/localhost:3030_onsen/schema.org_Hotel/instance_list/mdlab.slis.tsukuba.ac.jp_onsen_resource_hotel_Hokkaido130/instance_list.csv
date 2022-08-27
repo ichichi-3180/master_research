@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido130,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido130,https://schema.org/address,北海道石狩郡当別町太美町１６９５,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido130,https://schema.org/name,ふとみ銘泉　万葉の湯,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido130,https://schema.org/description,札幌近郊の美肌の湯,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido130,http://ja.dbpedia.org/property/郵便番号,061-3776,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido130,http://www.w3.org/2003/01/geo/wgs84_pos#lat,509217669,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido130,http://www.w3.org/2003/01/geo/wgs84_pos#long,155471964,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido130,https://schema.org/image,源泉かけ流しの天然温泉。札幌からＪＲで３５分、４５分の温泉郷。<BR>女性に嬉しいアメニティやウェルネスが充実,literal,,1.0

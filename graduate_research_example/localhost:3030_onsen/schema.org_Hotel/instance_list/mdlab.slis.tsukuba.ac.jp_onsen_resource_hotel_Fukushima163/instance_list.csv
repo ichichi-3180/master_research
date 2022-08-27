@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima163,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima163,https://schema.org/address,福島県会津若松市大戸町大字芦ノ牧字下夕平１０４４,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima163,https://schema.org/name,会津芦ノ牧温泉　芦ノ牧グランドホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima163,https://schema.org/description,大川渓谷を望む露天風呂で至福の時間。旬鮮食材使用の料理自慢の宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima163,http://ja.dbpedia.org/property/郵便番号,969-5147,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima163,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503694546,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima163,http://www.w3.org/2003/01/geo/wgs84_pos#long,134513128,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima163,https://schema.org/image,全国的にも珍しい前面畳張りの大浴場。非日常的は癒しのひとときをぜひご体感ください。山の中の旅館とは思えないほどの海鮮料理の逸品をご用意しております。大自然の中で絶品料理をご堪能下さい。,literal,,1.0

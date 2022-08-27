@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido82,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido82,https://schema.org/address,北海道上川郡上川町層雲峡,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido82,https://schema.org/name,ホテルノーザンロッジ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido82,https://schema.org/description,洋風or和風から選べる夕食が好評♪層雲峡の天然温泉でのんびり,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido82,http://ja.dbpedia.org/property/郵便番号,078-1701,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido82,http://www.w3.org/2003/01/geo/wgs84_pos#lat,514623524,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido82,http://www.w3.org/2003/01/geo/wgs84_pos#long,157404517,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido82,https://schema.org/image,層雲峡や黒岳観光に最適な好ロケーションに建つ当館。地元の食材を使ったチーズフォンデュや、愛別産のきのこ鍋が大人気。緑あふれる層雲峡の活動拠点として是非ご利用ください♪,literal,,1.0

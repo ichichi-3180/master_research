@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido101,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido101,https://schema.org/address,北海道河東郡上士幌町字ぬかびら源泉郷南区３５番地１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido101,https://schema.org/name,糠平温泉ホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido101,https://schema.org/description,源泉掛け流しの温泉宿で、大雪の山里の料理を満喫して下さい。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido101,http://ja.dbpedia.org/property/郵便番号,080-1403,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido101,http://www.w3.org/2003/01/geo/wgs84_pos#lat,515496318,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido101,http://www.w3.org/2003/01/geo/wgs84_pos#long,156104909,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido101,https://schema.org/image,大雪山国立公園に位置する糠平源泉郷。その周辺では、北海道、十勝ならではの雄大な景色と、四季を通した寒暖の差がおよそ６０度という環境が作り出した繊細な風景の両方を楽しむことができます。,literal,,1.0

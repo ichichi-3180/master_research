@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima8,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima8,https://schema.org/address,福島県福島市飯坂町湯野館下２,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima8,https://schema.org/name,ごちそう様の宿　ホテル天竜閣,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima8,https://schema.org/description,摺上川沿いの露天風呂付大浴場と手作り料理の数々をご堪能下さい♪,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima8,http://ja.dbpedia.org/property/郵便番号,960-0211,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima8,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505636011,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima8,http://www.w3.org/2003/01/geo/wgs84_pos#long,136202179,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima8,https://schema.org/image,10台の本格的卓球場でファミリーピンポン♪キッズルームも完備！<BR>新鮮な食材を使用したバラエティ豊かなお料理や「奥州三名湯」に数えられる温泉をご家族・お友達・カップルでぜひ、飯坂へこらんしょ★,literal,,1.0

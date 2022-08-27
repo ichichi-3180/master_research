@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido186,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido186,https://schema.org/address,北海道登別市登別温泉町２００―１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido186,https://schema.org/name,望楼　ＮＯＧＵＣＨＩ　登別,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido186,https://schema.org/description,【全室展望温泉付スイートルーム】“大人だけのプライベート空間”,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido186,http://ja.dbpedia.org/property/郵便番号,059-0551,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido186,http://www.w3.org/2003/01/geo/wgs84_pos#lat,508118804,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido186,http://www.w3.org/2003/01/geo/wgs84_pos#long,152991395,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido186,https://schema.org/image,快適さと居心地の良さを極限まで追求した展望温泉付スイートルームで過ごす「心地よい非日常のひととき」。登別温泉の名湯と、食の宝庫・北海道の滋味を味わうオリジナル会席料理をお愉しみください。,literal,,1.0

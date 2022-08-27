@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima61,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima61,https://schema.org/address,福島県二本松市岳温泉１－１０６,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima61,https://schema.org/name,静流とやすらぎの宿　喜ら里,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima61,https://schema.org/description,酸性泉を使用した源泉掛け流し温泉と心を尽くしたおもてなし。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima61,http://ja.dbpedia.org/property/郵便番号,964-0074,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima61,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505292727,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima61,http://www.w3.org/2003/01/geo/wgs84_pos#long,135372577,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima61,https://schema.org/image,”忘れの湯”　<BR>昨日を忘れ　明日を忘れ　至福のひとときをお過ごしください。<BR>日本でも珍しい酸性泉の源泉掛け流しのお風呂と、心尽くしの料理でお寛ぎください。,literal,,1.0

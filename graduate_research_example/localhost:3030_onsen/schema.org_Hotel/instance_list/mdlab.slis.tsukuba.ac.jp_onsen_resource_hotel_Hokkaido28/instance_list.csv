@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido28,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido28,https://schema.org/address,別海町尾岱沼港町132,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido28,https://schema.org/name,野付湯元うたせ屋,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido28,https://schema.org/description,漁港直送の魚介料理が自慢。温泉と新鮮な海の幸でもてなす和風旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido28,http://ja.dbpedia.org/property/郵便番号,086-1643,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido28,http://www.w3.org/2003/01/geo/wgs84_pos#lat,522810276,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido28,http://www.w3.org/2003/01/geo/wgs84_pos#long,156835116,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido28,https://schema.org/image,０８年２月に本館をリニューアル。木調の内装が落ちついた雰囲気の和風旅館。食事には目の前の漁港から直送の北海シマエビや帆立等の海の幸が並び、鮮度もボリュームも抜群。＊(食物アレルギー対応不可）,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido154,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido154,https://schema.org/address,北海道虻田郡ニセコ町東山温泉,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido154,https://schema.org/name,ザ・グリーンリーフ・ニセコビレッジ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido154,https://schema.org/description,国際色豊かなリゾートホテル！世界各地のお客様をおもてなし★,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido154,http://ja.dbpedia.org/property/郵便番号,048-1592,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido154,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506445910,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido154,http://www.w3.org/2003/01/geo/wgs84_pos#long,154237805,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido154,https://schema.org/image,夏ニセコの拠点にぴったり。<BR>ピュア、ゴルフ、乗馬、テニスなどニセコビレッジ内でもアクテビティが充実。夏のリゾート満喫。,literal,,1.0

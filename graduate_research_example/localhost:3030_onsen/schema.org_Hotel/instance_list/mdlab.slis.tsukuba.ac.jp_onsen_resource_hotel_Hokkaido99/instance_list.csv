@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido99,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido99,https://schema.org/address,北海道足寄郡足寄町芽登２９７９,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido99,https://schema.org/name,芽登温泉ホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido99,https://schema.org/description,自然湧出・源泉掛流し・加温無しの天然温泉の露天風呂が最高！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido99,http://ja.dbpedia.org/property/郵便番号,089-3872,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido99,http://www.w3.org/2003/01/geo/wgs84_pos#lat,516014119,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido99,http://www.w3.org/2003/01/geo/wgs84_pos#long,156194838,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido99,https://schema.org/image,湯浴着を着用して入浴する混浴露天風呂『巨岩の湯』が楽しめます。宿泊者限定で『巨岩の湯』を貸切利用（50分間）できるプランなどが好評。,literal,,1.0

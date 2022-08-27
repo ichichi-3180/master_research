@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata89,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata89,https://schema.org/address,山形県天童市鎌田本町２丁目５番１４号,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata89,https://schema.org/name,ほほえみの空湯舟　つるや,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata89,https://schema.org/description,～檜の香る湯舟に身をゆだね　癒されて～,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata89,http://ja.dbpedia.org/property/郵便番号,994-0025,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata89,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505389148,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata89,http://www.w3.org/2003/01/geo/wgs84_pos#long,138080463,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata89,https://schema.org/image,玄関を通り抜ければ、手入れの行き届いた日本庭園と一面に敷き詰められた畳が、皆様を別世界へ誘います。総檜のお風呂、四季折々のつるや特別会席をどうぞごゆっくりお楽しみ下さい。,literal,,1.0

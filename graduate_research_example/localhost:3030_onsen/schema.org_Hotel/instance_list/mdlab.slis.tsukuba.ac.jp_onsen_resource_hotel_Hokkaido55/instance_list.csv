@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido55,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido55,https://schema.org/address,北海道釧路市阿寒町阿寒湖温泉4丁目6-10,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido55,https://schema.org/name,あかん遊久の里鶴雅,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido55,https://schema.org/description,和のこころ、阿寒のおもてなしをさらに深めて,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido55,http://ja.dbpedia.org/property/郵便番号,085-0467,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido55,http://www.w3.org/2003/01/geo/wgs84_pos#lat,518740894,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido55,http://www.w3.org/2003/01/geo/wgs84_pos#long,156355618,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido55,https://schema.org/image,阿寒湖の西側に位置する「あかん遊久の里鶴雅」。果てしなく広がる阿寒湖の情景、その先には阿寒の山並みを望みます。疲れを癒す温泉と山海の美味、日本の旅館文化を継承するおもてなしをご堪能ください。,literal,,1.0

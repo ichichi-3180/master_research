@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido12,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido12,https://schema.org/address,北海道斜里郡斜里町岩尾別,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido12,https://schema.org/name,ホテル　地のはて,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido12,https://schema.org/description,2019シーズン営業開始★世界自然遺産　知床奥地に佇む秘境ホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido12,http://ja.dbpedia.org/property/郵便番号,099-4356,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido12,http://www.w3.org/2003/01/geo/wgs84_pos#lat,522337054,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido12,http://www.w3.org/2003/01/geo/wgs84_pos#long,158785470,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido12,https://schema.org/image,■源泉かけ流し100％　|　知床の原生林に包まれた秘湯<BR>■羅臼岳登山口真裏　|　登山者に嬉しい特典プラン有<BR>■知床を堪能　|　絶景！遊覧船クルーズ<BR>■自然過ごす　|　野生動物との出会いも楽しみのひとつ,literal,,1.0

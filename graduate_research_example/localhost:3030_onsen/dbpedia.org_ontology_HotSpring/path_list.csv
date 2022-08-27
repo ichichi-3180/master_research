@@ -1,0 +1,8 @@
+n,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,o1,uri,,1.0,1
+n,http://ja.dbpedia.org/property/泉質,o2,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668,1
+n,http://ja.dbpedia.org/property/読み仮名,o3,literal,,1.0,1
+n,https://schema.org/address,o4,literal,,0.9996931574102486,1
+n,https://schema.org/name,o5,literal,,1.0,1
+n,https://schema.org/description,o6,literal,,0.5477140227063516,1
+n,https://schema.org/areaServed,o7,uri,https://schema.org/Hotel,0,0
+n,http://dbpedia.org/ontology/mascot,o8,uri,http://dbpedia.org/ontology/ambassador,0,0

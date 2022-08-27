@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido85,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido85,https://schema.org/address,北海道上川郡上川町層雲峡温泉,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido85,https://schema.org/name,HOTEL　KUMOI,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido85,https://schema.org/description,『大自然で夏の夜遊びはいかが？』シーシャ、ビリヤード、バーなど,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido85,http://ja.dbpedia.org/property/郵便番号,078-1701,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido85,http://www.w3.org/2003/01/geo/wgs84_pos#lat,514616639,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido85,http://www.w3.org/2003/01/geo/wgs84_pos#long,157395146,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido85,https://schema.org/image,大雪山にひっそりと佇む温泉旅館HOTEL　KUMOI<BR>◆意匠が凝らされた、癒しの温泉<BR>◇ビリヤードやシーシャ＆バーが併設<BR>◆暖炉を囲いシアター鑑賞ができる、寛ぎのロビー<BR>◇北海道にこだわった和洋創作料理,literal,,1.0

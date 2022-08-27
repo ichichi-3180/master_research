@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi32,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi32,https://schema.org/address,宮城県大崎市鳴子温泉川渡２４－９,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi32,https://schema.org/name,越後屋旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi32,https://schema.org/description,昔ながらの湯宿で季節の郷土料理と２つの温泉を満喫♪,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi32,http://ja.dbpedia.org/property/郵便番号,989-6711,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi32,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506776787,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi32,http://www.w3.org/2003/01/geo/wgs84_pos#long,139421975,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi32,https://schema.org/image,２つの源泉｢濁り湯の硫黄泉｣と｢美肌の炭酸水素塩泉｣が自慢の家庭的な宿。食事は地のものを頂く季節の郷土料理。家族・カップルで利用できる小さな無料の貸切風呂♪【全室禁煙】【全プラン11時OUT】,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima172,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima172,https://schema.org/address,福島県南会津郡下郷町湯野上７８４,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima172,https://schema.org/name,一期一会のおもてなし　湯宿　にしきや,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima172,https://schema.org/description,心和む旅のおもてなし　湧き出ずる湯が心も体も癒します,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima172,http://ja.dbpedia.org/property/郵便番号,969-5206,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima172,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503658099,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima172,http://www.w3.org/2003/01/geo/wgs84_pos#long,134250836,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima172,https://schema.org/image,湯量豊富な湯野上温泉、かけ流しの檜風呂と岩風呂。貸切風呂もOKです。お料理は地元の山菜や郷土料理、そして馬刺し、しんごろう等、体に優しいメニューです。,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido69,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido69,https://schema.org/address,北海道千歳市支笏湖温泉,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido69,https://schema.org/name,休暇村支笏湖,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido69,https://schema.org/description,心の震える旅、していますか？神秘の湖を眺める高台の温泉宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido69,http://ja.dbpedia.org/property/郵便番号,066-0281,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido69,http://www.w3.org/2003/01/geo/wgs84_pos#lat,509073255,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido69,http://www.w3.org/2003/01/geo/wgs84_pos#long,153957927,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido69,https://schema.org/image,大自然の織り成す感動と出会って頂きたいから・・・<BR>暖かいサービスや天然温泉と共に最高の休暇をお過ごしください。,literal,,1.0

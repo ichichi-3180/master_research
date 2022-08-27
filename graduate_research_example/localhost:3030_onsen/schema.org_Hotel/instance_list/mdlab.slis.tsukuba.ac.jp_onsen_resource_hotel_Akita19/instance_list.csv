@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita19,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita19,https://schema.org/address,秋田県男鹿市戸賀塩浜字壺ヶ沢３１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita19,https://schema.org/name,海と入り陽の宿　帝水　秋田男鹿半島　戸賀湾を望む温泉旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita19,https://schema.org/description,全室から彩り豊かな日本海を望む絶景の宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita19,http://ja.dbpedia.org/property/郵便番号,010-0673,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita19,http://www.w3.org/2003/01/geo/wgs84_pos#lat,502957252,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita19,http://www.w3.org/2003/01/geo/wgs84_pos#long,143786446,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita19,https://schema.org/image,遮るものない景観は自然と調和し、四季の移ろい、波の音色を心ゆくまでご堪能いただけます。海を臨む開放感溢れる温泉と心づくしのお料理で格別のおもてなし。大切な人との贅沢な時間をお過ごしください。,literal,,1.0

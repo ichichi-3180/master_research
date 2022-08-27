@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido95,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido95,https://schema.org/address,北海道上川郡美瑛町白金１０７３４－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido95,https://schema.org/name,温泉ゲストハウス、美瑛白金の湯,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido95,https://schema.org/description,大雪山国立公園内にたたずむ、源泉かけ流し露天風呂付き旅宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido95,http://ja.dbpedia.org/property/郵便番号,071-0235,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido95,http://www.w3.org/2003/01/geo/wgs84_pos#lat,513531082,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido95,http://www.w3.org/2003/01/geo/wgs84_pos#long,156494918,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido95,https://schema.org/image,温泉郷の中で最も源泉に近い宿で温質に定評があります。<BR>富良野、トマム、旭川にも近いので旅の拠点に如何でしょうか？　<BR>古い建物のためご不便もお掛けしますが、道中の疲れを是非癒して下さい。,literal,,1.0

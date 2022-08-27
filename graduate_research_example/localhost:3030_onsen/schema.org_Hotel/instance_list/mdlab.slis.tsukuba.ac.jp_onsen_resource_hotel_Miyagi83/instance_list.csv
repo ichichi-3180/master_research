@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi83,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi83,https://schema.org/address,宮城県白石市福岡蔵本字鎌先１－３８,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi83,https://schema.org/name,鎌先温泉　すゞきや旅館（すずきや）,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi83,https://schema.org/description,全プラン『朝・夕お部屋食』の人気宿♪3種類のお風呂も楽しめる！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi83,http://ja.dbpedia.org/property/郵便番号,989-0231,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi83,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506084479,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi83,http://www.w3.org/2003/01/geo/wgs84_pos#long,136879513,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi83,https://schema.org/image,全プランお部屋食が人気の宿♪白石ＩＣから車で約１５分の立地！仙台・福島・山形エリアも好アクセス。お早目にチェックインすれば３種類のお風呂が楽しめます。,literal,,1.0

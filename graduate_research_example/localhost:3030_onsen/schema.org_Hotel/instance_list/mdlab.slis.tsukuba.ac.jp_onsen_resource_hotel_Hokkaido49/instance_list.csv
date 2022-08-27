@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido49,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido49,https://schema.org/address,北海道釧路市阿寒町舌辛原野２３線３６,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido49,https://schema.org/name,サークルハウス　赤いベレー,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido49,https://schema.org/description,阿寒町丹頂の里にある温泉宿泊施設。冬には丹頂鶴が飛来する,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido49,http://ja.dbpedia.org/property/郵便番号,085-0245,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido49,http://www.w3.org/2003/01/geo/wgs84_pos#lat,518935002,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido49,http://www.w3.org/2003/01/geo/wgs84_pos#long,155311849,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido49,https://schema.org/image,釧路市と阿寒湖畔を結ぶ国道240号線の中間地点。道の駅「阿寒丹頂の里」の向かいにあり、道東観光に便利。※ＰＣ上で満室でも、お部屋が空いていることがあります。電話でお問い合わせ下さい。,literal,,1.0

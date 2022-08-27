@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata14,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata14,https://schema.org/address,山形県鶴岡市下川字窪畑１－５２３,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata14,https://schema.org/name,華夕美日本海,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata14,https://schema.org/description,卓上にあつらえた「囲炉裏」で、とれたての旬の幸を直焼き,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata14,http://ja.dbpedia.org/property/郵便番号,997-1117,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata14,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503151228,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata14,http://www.w3.org/2003/01/geo/wgs84_pos#long,139626339,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata14,https://schema.org/image,その日その日で違う顔を見せる日本海と青松林のコントラストな絶景。新鮮な海の幸と囲炉裏バイキング。森林浴も楽しめる露天風呂。王将街道無料シャトルバスで安心旅行,literal,,1.0

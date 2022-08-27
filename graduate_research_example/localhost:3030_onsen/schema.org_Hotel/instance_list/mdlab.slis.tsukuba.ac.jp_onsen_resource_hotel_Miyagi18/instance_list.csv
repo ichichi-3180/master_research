@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi18,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi18,https://schema.org/address,宮城県大崎市鳴子温泉湯元５５,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi18,https://schema.org/name,大人の隠れ家　鳴子風雅,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi18,https://schema.org/description,★2019年4月オープン★　仙台駅から無料送迎あり♪（8月末迄）,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi18,http://ja.dbpedia.org/property/郵便番号,989-6823,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi18,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506597756,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi18,http://www.w3.org/2003/01/geo/wgs84_pos#long,139458585,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi18,https://schema.org/image,鳴子風雅はゆっくりと静かにお過ごしいただける空間を大事にした大人の為の隠れ家。<BR>全24室。こじんまりとした空間の中でのんびりとリフレッシュしたい方に、こころの贅沢をお届けいたします。,literal,,1.0

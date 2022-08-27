@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokyo2,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokyo2,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature13,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokyo2,http://ja.dbpedia.org/property/読み仮名,いわくらおんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokyo2,https://schema.org/address,東京都青梅市富岡・小曽木,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokyo2,https://schema.org/name,岩蔵温泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokyo2,https://schema.org/description,東京で唯一の温泉郷の岩倉温泉。東京にありながら喧騒とは無縁の、知る人ぞ知る秘境。歴史は古代にまでさかのぼり「岩倉みそぎの湯」として知られ、湯治場としても利用されてきた温泉郷。春には山菜狩り、初夏には蛍が舞い、６月には蛍祭りも行われる。秋には紅葉が楽しめ、四季折々の風情を、肌で感じる事ができる。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokyo2,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tokyo2,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata114,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata114,https://schema.org/address,山形県上山市葉山５－２０,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata114,https://schema.org/name,日本の宿　古窯,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata114,https://schema.org/description,40年間、プロが選ぶ旅館百選TOP10に選ばれ続けるおもてなしの宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata114,http://ja.dbpedia.org/property/郵便番号,999-3292,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata114,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504952809,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata114,http://www.w3.org/2003/01/geo/wgs84_pos#long,137322324,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata114,https://schema.org/image,40年間、旅館百選に選ばれ続ける伝統が薫るおもてなしの宿。名峰・蔵王連峰が一望できる天空露天や、全国技能グランプリ第二位の中川調理長が米沢牛や地元産有機野菜を素材に腕を振る食のおもてなしも自慢。,literal,,1.0

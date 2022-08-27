@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori6,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori6,https://schema.org/address,青森県下北郡風間浦村下風呂６７－２,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori6,https://schema.org/name,ホテルニュー下風呂,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori6,https://schema.org/description,漁火と海の幸、とれたて新鮮な魚介類のお料理を満喫！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori6,http://ja.dbpedia.org/property/郵便番号,039-4501,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori6,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507949333,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori6,http://www.w3.org/2003/01/geo/wgs84_pos#long,149272774,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori6,https://schema.org/image,津軽海峡に臨む下風呂温泉は乳白色の源泉かけ流しの天然硫黄泉。、総ヒバ造りの客室でゆったりと旅の疲れを癒し一年中、美味しい海鮮料理を満喫することが出来ます。,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima45,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima45,https://schema.org/address,福島県福島市土湯温泉町字鷲倉山１―３,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima45,https://schema.org/name,幕川温泉　水戸屋旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima45,https://schema.org/description,大自然に囲まれた山奥の秘湯。6つの湯は全て100%源泉かけ流し！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima45,http://ja.dbpedia.org/property/郵便番号,960-2157,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima45,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504889418,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima45,http://www.w3.org/2003/01/geo/wgs84_pos#long,135654555,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima45,https://schema.org/image,延々と山深く分け入った秘境にある、標高1300mの知る人ぞ知る宿。2つの源泉、4つの露天風呂、2つの内風呂を持ち、中でも樹齢800年の檜をくりぬいた展望露天と、白濁の渓流露天が自慢。夜には満天の星空が！,literal,,1.0

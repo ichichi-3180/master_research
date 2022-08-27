@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita76,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita76,https://schema.org/address,秋田県仙北市田沢湖生保内駒ヶ岳２－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita76,https://schema.org/name,休暇村　乳頭温泉郷,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita76,https://schema.org/description,秘湯「乳頭温泉郷」にあるモダン建築の宿。源泉掛流しの温泉が自慢,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita76,http://ja.dbpedia.org/property/郵便番号,014-1201,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita76,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506874380,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita76,http://www.w3.org/2003/01/geo/wgs84_pos#long,143272858,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita76,https://schema.org/image,秘湯「乳頭温泉郷」にある、ブナ林に囲まれたモダン建築の宿。源泉掛け流しの２種類の天然温泉と、地元食豊かな郷土料理が自慢。秋田駒ヶ岳、乳頭山登山、田沢湖スキー場、温泉めぐりの拠点としても最適。,literal,,1.0

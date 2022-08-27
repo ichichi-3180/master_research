@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori34,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori34,https://schema.org/address,青森県青森市荒川字寒水沢1-58,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori34,https://schema.org/name,寒水沢温泉　八甲田リゾートホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori34,https://schema.org/description,ねぶた、トレッキング、紅葉狩り、スキー！八甲田の大自然を満喫♪,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori34,http://ja.dbpedia.org/property/郵便番号,030-0111,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori34,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507001088,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori34,http://www.w3.org/2003/01/geo/wgs84_pos#long,146433579,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori34,https://schema.org/image,八甲田の雄大な自然を感じる山遊びが魅力♪自然を満喫したら、高原野菜や地場産お料理と、かけ流し温泉でゆったりとお過ごし下さい,literal,,1.0

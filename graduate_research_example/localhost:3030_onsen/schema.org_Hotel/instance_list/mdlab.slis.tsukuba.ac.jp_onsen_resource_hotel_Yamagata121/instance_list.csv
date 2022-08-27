@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata121,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata121,https://schema.org/address,山形県山形市蔵王温泉字三度川１２７１－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata121,https://schema.org/name,蔵王・岩清水料理の宿　季の里,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata121,https://schema.org/description,◇料理自慢の美食宿◇“ホッとする”温かいお料理とおもてなしを,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata121,http://ja.dbpedia.org/property/郵便番号,990-2301,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata121,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505422839,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata121,http://www.w3.org/2003/01/geo/wgs84_pos#long,137371183,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata121,https://schema.org/image,【岩】清水をイメージしたお料理はお出しする全てが自慢の逸品ばかり<BR>【清】潔感溢れる客室は1部屋ごとに異なるデザインでお客様をお出迎え<BR>【水】温に恵まれた蔵王温泉白濁の湯と無色アルカリの湯を用意,literal,,1.0

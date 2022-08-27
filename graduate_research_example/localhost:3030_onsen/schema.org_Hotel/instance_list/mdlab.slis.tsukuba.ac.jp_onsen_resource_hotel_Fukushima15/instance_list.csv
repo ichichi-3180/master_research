@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima15,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima15,https://schema.org/address,福島県福島市飯坂町湯野字切湯ノ上14,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima15,https://schema.org/name,松島屋旅舘,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima15,https://schema.org/description,源泉100％掛け流しのお風呂と季節ごとのお料理は朝夕食共部屋食,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima15,http://ja.dbpedia.org/property/郵便番号,960-0211,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima15,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505651650,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima15,http://www.w3.org/2003/01/geo/wgs84_pos#long,136182103,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima15,https://schema.org/image,赤ちゃん・ペット連れのお客様大歓迎♪家族でゆったり入れる貸切風呂（１日３組限定）、女将自慢の田舎会席料理をお楽しみ頂けます。日本でも珍しい源泉掛け流しお座敷風呂付き客室も大人気！,literal,,1.0

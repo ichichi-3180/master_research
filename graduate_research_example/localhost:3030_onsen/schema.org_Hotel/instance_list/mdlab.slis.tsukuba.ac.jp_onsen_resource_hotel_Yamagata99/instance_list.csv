@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata99,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata99,https://schema.org/address,山形県山形市黒沢２５３－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata99,https://schema.org/name,栄の宿一陽館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata99,https://schema.org/description,アットホームな雰囲気の宿です。山寺・蔵王等の観光の拠点に！　,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata99,http://ja.dbpedia.org/property/郵便番号,990-2311,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata99,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505097985,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata99,http://www.w3.org/2003/01/geo/wgs84_pos#long,137485063,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata99,https://schema.org/image,自家農園で採れた野菜を使った郷土料理はすべて手作り。館内あちこちに飾られた骨董なども可愛いらしい。温泉はとろり柔らかな肌触りで、つるつるしっとり。山形市繁華街まで車で約20分とビジネスにも便利。,literal,,1.0

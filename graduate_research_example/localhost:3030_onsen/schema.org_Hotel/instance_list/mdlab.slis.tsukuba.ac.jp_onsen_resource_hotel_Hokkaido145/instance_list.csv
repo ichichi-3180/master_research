@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido145,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido145,https://schema.org/address,北海道虻田郡倶知安町山田２０４,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido145,https://schema.org/name,湯元ニセコプリンスホテル　ひらふ亭,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido145,https://schema.org/description,展望風呂付客室が充実！季節の食材と和ジビエの魅力体験に,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido145,http://ja.dbpedia.org/property/郵便番号,044-0081,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido145,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506538794,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido145,http://www.w3.org/2003/01/geo/wgs84_pos#long,154286984,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido145,https://schema.org/image,グラン・ヒラフのメインストリート：ひらふ坂に位置するひらふ亭。<BR>ゲレンデへのアクセスも良好で、飲食街へも徒歩10分程度の距離。<BR>日帰り入浴やエステ、Barなどの施設も充実です。,literal,,1.0

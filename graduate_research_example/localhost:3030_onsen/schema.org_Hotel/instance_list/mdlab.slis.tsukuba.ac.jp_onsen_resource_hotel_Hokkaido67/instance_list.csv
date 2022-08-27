@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido67,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido67,https://schema.org/address,北海道千歳市支笏湖温泉番外地,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido67,https://schema.org/name,レイクサイドヴィラ翠明閣,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido67,https://schema.org/description,宿泊満足度９７.５点！全室レイクビュー８部屋だけの大人の隠れ家,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido67,http://ja.dbpedia.org/property/郵便番号,066-0281,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido67,http://www.w3.org/2003/01/geo/wgs84_pos#lat,509060708,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido67,http://www.w3.org/2003/01/geo/wgs84_pos#long,153975670,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido67,https://schema.org/image,目の前に支笏湖。湖と森に癒される休日。８部屋だけの贅沢。<BR>森と湖に癒される休日。湖面に映し出される山なみとさざ波のやさしい調べ。<BR>大自然に包まれた空間に身をゆだねる贅沢なひとときを。,literal,,1.0

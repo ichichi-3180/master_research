@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima179,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima179,https://schema.org/address,福島県南会津郡下郷町高陦寄神乙１６１４,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima179,https://schema.org/name,湯野上温泉　こぼうしの湯　洗心亭,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima179,https://schema.org/description,やさしい木洩れ日、静寂なひとときは、豊かな森が奏でるおもてなし,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima179,http://ja.dbpedia.org/property/郵便番号,969-5201,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima179,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503642228,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima179,http://www.w3.org/2003/01/geo/wgs84_pos#long,134291624,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima179,https://schema.org/image,こぼうしの湯洗心亭は、奥会津の森に佇む源泉かけ流しのお宿でございます。<BR>奥会津の森のもてなしと豊かな自然が宿る源泉かけ流しの湯で、心洗われるひとときをお過ごしください。,literal,,1.0

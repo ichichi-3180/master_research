@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido128,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido128,https://schema.org/address,北海道樺戸郡月形町８１番地１０,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido128,https://schema.org/name,月形温泉ホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido128,https://schema.org/description,雄大な自然に囲まれた静かな宿　美肌効果の高い温泉でゆったり,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido128,http://ja.dbpedia.org/property/郵便番号,061-0502,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido128,http://www.w3.org/2003/01/geo/wgs84_pos#lat,510062489,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido128,http://www.w3.org/2003/01/geo/wgs84_pos#long,156019466,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido128,https://schema.org/image,札幌より車で60分・旭川より90分。隣接の皆楽公園ではBBQや農業体験なども楽しめます。<BR>宮島沼まで車で10分とマガン鑑賞にも最適♪<BR>※毎月第3火曜日（祝日の場合は翌週）は大浴場休館日、内湯のみご利用可,literal,,1.0

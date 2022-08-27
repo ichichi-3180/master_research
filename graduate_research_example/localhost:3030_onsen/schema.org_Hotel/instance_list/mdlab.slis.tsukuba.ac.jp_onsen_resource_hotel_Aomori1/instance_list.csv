@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori1,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori1,https://schema.org/address,青森県南津軽郡大鰐町蔵館村岡４７の１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori1,https://schema.org/name,登録有形文化財の宿　ヤマニ仙遊館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori1,https://schema.org/description,太宰治ゆかりの宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori1,http://ja.dbpedia.org/property/郵便番号,038-0212,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori1,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506085589,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori1,http://www.w3.org/2003/01/geo/wgs84_pos#long,145866831,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori1,https://schema.org/image,明治５年創業　大鰐温泉街の歴史と共に歩み数々の要人・文化人らが訪れた宿,literal,,1.0

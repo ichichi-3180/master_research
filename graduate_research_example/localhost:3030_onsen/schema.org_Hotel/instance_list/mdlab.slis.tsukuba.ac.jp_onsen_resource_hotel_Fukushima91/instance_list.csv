@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima91,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima91,https://schema.org/address,福島県いわき市常磐湯本町吹谷７０,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima91,https://schema.org/name,湯の宿　美笹,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima91,https://schema.org/description,ハワイアンズ車10分、湯本駅徒歩5分、家庭的な湯本イチ小さな宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima91,http://ja.dbpedia.org/property/郵便番号,972-8321,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima91,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507059598,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima91,http://www.w3.org/2003/01/geo/wgs84_pos#long,133214472,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima91,https://schema.org/image,新鮮な海の幸満載の夕食が好評＆オススメ！源泉100％掛け流しのお風呂は小さめでお湯がフレッシュ☆リーズナブルな価格に満足！館主渾身の煮つけを是非お召し上がりください♪,literal,,1.0

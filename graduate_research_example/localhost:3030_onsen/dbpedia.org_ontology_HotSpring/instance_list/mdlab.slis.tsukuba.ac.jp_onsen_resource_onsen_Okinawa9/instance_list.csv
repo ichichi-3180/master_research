@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okinawa9,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okinawa9,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okinawa9,http://ja.dbpedia.org/property/読み仮名,いけいじまてんねんおんせん　くろしおのゆ,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okinawa9,https://schema.org/address,沖縄県うるま市与那城伊計１２８６,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okinawa9,https://schema.org/name,伊計島天然温泉 ～黒潮の湯～,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okinawa9,https://schema.org/description,沖縄本島から車で行ける、美しい海に囲まれた離島「伊計島」に2016年温泉が誕生！塩湯かつ炭酸水素を含んだ弱アルカリ性の湯で、神経痛・創傷・皮膚病等に効能がある他、美肌効果を持ち「美人の湯」とも言われている。東海岸に望む黄金の朝日・満点の星空を堪能しながら、リゾート×温泉の贅沢ステイが楽しめます。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okinawa9,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okinawa9,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

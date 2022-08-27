@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita32,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita32,https://schema.org/address,秋田県仙北市田沢湖田沢字春山135,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita32,https://schema.org/name,ホテル　湖心亭,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita32,https://schema.org/description,■田沢湖に一番近い和風の宿。そのお部屋は絶好のビューポイント■,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita32,http://ja.dbpedia.org/property/郵便番号,014-1204,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita32,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506522703,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita32,http://www.w3.org/2003/01/geo/wgs84_pos#long,143036933,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita32,https://schema.org/image,■お部屋から徒歩０分で田沢湖です。湖でカヌーや湖畔一周サイクリング、乳頭温泉の湯めぐりで楽しい体験。<BR>■囲炉裏を囲んでで秋田の食を満喫。プラン発売中<BR>　<BR>～当館から見える四季の田沢湖を満喫～<BR>,literal,,1.0

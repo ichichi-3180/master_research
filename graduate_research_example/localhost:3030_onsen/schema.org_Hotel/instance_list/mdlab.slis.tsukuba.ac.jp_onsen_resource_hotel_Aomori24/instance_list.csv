@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori24,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori24,https://schema.org/address,青森県十和田市法量字焼山６４－２３２,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori24,https://schema.org/name,奥入瀬グリーンホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori24,https://schema.org/description,100％天然温泉の宿。露天風呂が自慢,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori24,http://ja.dbpedia.org/property/郵便番号,034-0301,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori24,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507593015,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori24,http://www.w3.org/2003/01/geo/wgs84_pos#long,146069410,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori24,https://schema.org/image,十和田湖に一番近い温泉場、焼山温泉郷に位置している温泉宿。奥入瀬渓流の玄関口にあり、100％天然の湯を使い、内風呂・露天風呂それぞれに薄めずに使用している。,literal,,1.0

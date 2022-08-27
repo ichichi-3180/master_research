@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido179,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido179,https://schema.org/address,北海道有珠郡壮瞥町壮瞥温泉８３,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido179,https://schema.org/name,温泉旅館いこい荘,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido179,https://schema.org/description,静かな湖の見える天然温泉かけ流しのこじんまりした温泉旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido179,http://ja.dbpedia.org/property/郵便番号,052-0103,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido179,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507096821,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido179,http://www.w3.org/2003/01/geo/wgs84_pos#long,153192332,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido179,https://schema.org/image,洞爺湖・昭和新山など自然に囲まれ２４時間入浴可のかけ流し天然温泉！自家農園の有機野菜と有機米を使った田舎風家庭料理も好評。有珠山の溶岩プレートで食材を焼く名物溶岩焼きは余分な脂を取りヘルシー！,literal,,1.0

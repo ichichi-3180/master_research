@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido57,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido57,https://schema.org/address,北海道釧路市阿寒町阿寒湖温泉1-3-15,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido57,https://schema.org/name,山水荘,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido57,https://schema.org/description,阿寒湖温泉の源泉に一番近い宿★循環一切無しの湯をかけ流しで！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido57,http://ja.dbpedia.org/property/郵便番号,085-0467,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido57,http://www.w3.org/2003/01/geo/wgs84_pos#lat,518772900,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido57,http://www.w3.org/2003/01/geo/wgs84_pos#long,156351959,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido57,https://schema.org/image,阿寒湖畔から徒歩1分。阿寒湖温泉の源泉に一番近い温泉旅館で、加温加水一切無しの湯を源泉かけ流しで楽しめます。オンネトーや摩周湖などもアクセス至便で、道東観光の拠点に最適。ペットプランも販売中！,literal,,1.0

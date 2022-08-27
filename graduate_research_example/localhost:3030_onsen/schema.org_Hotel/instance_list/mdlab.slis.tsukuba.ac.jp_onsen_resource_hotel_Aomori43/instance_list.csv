@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori43,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori43,https://schema.org/address,青森県黒石市袋字富山６４－２,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori43,https://schema.org/name,花禅の庄,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori43,https://schema.org/description,色浴衣に素足で歩く「畳」の温泉旅館、弘前から少し足をのばして　,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori43,http://ja.dbpedia.org/property/郵便番号,036-0412,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori43,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506450919,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori43,http://www.w3.org/2003/01/geo/wgs84_pos#long,146169803,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori43,https://schema.org/image,弘前駅から車で30分ほど、<BR>【十和田湖】方面へ向かう途中にある山間の温泉旅館です。<BR><BR>津軽でも春の足音が聞こえてきています。<BR>落合温泉は癖が無い泉質なので、誰でも楽しめますよ。<BR>,literal,,1.0

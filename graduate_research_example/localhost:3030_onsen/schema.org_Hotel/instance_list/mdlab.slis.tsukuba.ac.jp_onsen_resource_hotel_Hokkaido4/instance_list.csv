@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido4,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido4,https://schema.org/address,北海道稚内市港２－３－２４,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido4,https://schema.org/name,ホテル滝川,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido4,https://schema.org/description,地域最速級wifi導入！観光又は、ビジネスに　※天然温泉完備！！,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido4,http://ja.dbpedia.org/property/郵便番号,097-0021,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido4,http://www.w3.org/2003/01/geo/wgs84_pos#lat,510038669,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido4,http://www.w3.org/2003/01/geo/wgs84_pos#long,163453722,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido4,https://schema.org/image,コンビニ・コインランドリー徒歩1分　稚内駅と南稚内の真ん中にあり好立地。夕食には自慢の海鮮料理がたっぷりと楽しめる。冷暖房、ウォシュレット全室完備。全室、無線LANでのインターネット接続可能です。,literal,,1.0

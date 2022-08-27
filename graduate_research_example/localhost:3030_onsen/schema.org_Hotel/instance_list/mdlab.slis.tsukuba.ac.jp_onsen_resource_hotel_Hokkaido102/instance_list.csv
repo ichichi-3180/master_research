@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido102,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido102,https://schema.org/address,北海道河東郡上士幌町字糠平北区48番地1,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido102,https://schema.org/name,糠平舘観光ホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido102,https://schema.org/description,東大雪の豊かな自然と一体化した「露天風呂」が自慢の温泉宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido102,http://ja.dbpedia.org/property/郵便番号,080-1403,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido102,http://www.w3.org/2003/01/geo/wgs84_pos#lat,515492206,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido102,http://www.w3.org/2003/01/geo/wgs84_pos#long,156107117,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido102,https://schema.org/image,登山・観光と東大雪の観光の拠点に最適。<BR>まるで大自然に溶け込んだような「仙郷の湯」は当館一押し！ぜひ一度ご体験下さい！<BR>お食事は、四季折々の地元の食材を中心とした献立をご提供しております。,literal,,1.0

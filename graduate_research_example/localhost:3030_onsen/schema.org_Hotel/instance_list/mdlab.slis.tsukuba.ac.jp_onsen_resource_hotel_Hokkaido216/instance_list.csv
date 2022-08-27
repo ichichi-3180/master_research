@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido216,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido216,https://schema.org/address,北海道茅部郡森町赤井川２２９,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido216,https://schema.org/name,グリーンピア大沼,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido216,https://schema.org/description,グリーンピア大沼は泊まれる！遊べる！リゾートです♪,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido216,http://ja.dbpedia.org/property/郵便番号,049-2142,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido216,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506173402,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido216,http://www.w3.org/2003/01/geo/wgs84_pos#long,151198400,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido216,https://schema.org/image,新函館北斗駅、大沼公園駅より無料送迎バス運行、大沼公園ＩＣより車で3分、四季折々楽しめるリゾートホテル。お部屋もゆったり広々としています。<BR>露天風呂は源泉かけ流しのつるつる「美肌湯温泉」です。,literal,,1.0

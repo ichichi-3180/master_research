@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori4,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori4,https://schema.org/address,青森県南津軽郡大鰐町長峰字九十九森１３５－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori4,https://schema.org/name,正観湯温泉旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori4,https://schema.org/description,飲んべの一人旅大歓迎！もちろんビジネスでも。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori4,http://ja.dbpedia.org/property/郵便番号,038-0202,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori4,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506210393,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori4,http://www.w3.org/2003/01/geo/wgs84_pos#long,145831089,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori4,https://schema.org/image,街から離れた一軒宿の温泉旅館です。と言うより民宿風？？<BR>ＰＨ８.７の掛け流しアルカリ温泉と飲んべ宿主が話し相手を待ってます。<BR>お好きなお酒の持込ＯＫ。遅めの夕食も大丈夫ですよ。,literal,,1.0

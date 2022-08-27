@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido103,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido103,https://schema.org/address,北海道河東郡上士幌町字ぬかびら源泉郷北区１４番地,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido103,https://schema.org/name,山の旅籠　山湖荘　,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido103,https://schema.org/description,洞窟風呂の貸し切りと自家源泉の名物トロトロ温泉豆腐でほっこり♪,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido103,http://ja.dbpedia.org/property/郵便番号,080-1403,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido103,http://www.w3.org/2003/01/geo/wgs84_pos#lat,515502186,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido103,http://www.w3.org/2003/01/geo/wgs84_pos#long,156105323,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido103,https://schema.org/image,全室に囲炉裏がある山の旅籠です。地下に造った洞窟風呂は貸切タイムありでのんびり。いろりを囲んで食べることができる山賊料理の夕食も自慢です。<BR>小学生以下のお子様はご利用いただけません。<BR>,literal,,1.0

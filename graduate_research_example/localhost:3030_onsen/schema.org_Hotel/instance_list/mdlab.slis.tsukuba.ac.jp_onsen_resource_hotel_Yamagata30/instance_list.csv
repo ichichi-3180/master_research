@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata30,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata30,https://schema.org/address,山形県鶴岡市湯田川乙１３番地,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata30,https://schema.org/name,湯田川温泉　仙荘　湯田川,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata30,https://schema.org/description,＜開湯1300年・庄内三名湯＞湯田川温泉と山海料理自慢の宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata30,http://ja.dbpedia.org/property/郵便番号,997-0752,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata30,http://www.w3.org/2003/01/geo/wgs84_pos#lat,503181404,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata30,http://www.w3.org/2003/01/geo/wgs84_pos#long,139283038,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Yamagata30,https://schema.org/image,平成27年11月OPEN!<BR>開湯1300年の歴史をもつ湯田川温泉。<BR>種田山頭火、竹久夢二、藤沢周平などに愛された源泉かけ流しの湯と<BR>ユネスコに認定された「食の都　庄内」の旬のお料理をお楽しみ下さい。<BR>,literal,,1.0

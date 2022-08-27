@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi45,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi45,https://schema.org/address,宮城県仙台市太白区秋保町湯元上原２７－２,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi45,https://schema.org/name,仙台・秋保温泉　篝火の湯　緑水亭,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi45,https://schema.org/description,緑水亭ならでは！緑あふれる露天風呂♪篝火灯す露天風呂♪,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi45,http://ja.dbpedia.org/property/郵便番号,982-0241,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi45,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506633566,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi45,http://www.w3.org/2003/01/geo/wgs84_pos#long,137584955,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi45,https://schema.org/image,じゃらんnetランキング2018（宮城県51～100室）売れた宿大賞　第１位・泊まってよかった宿大賞　第２位をダブル受賞！広大な庭園と篝火を灯す幻想的な露天風呂が人気です♪若く明るいスタッフがおもてなし♪,literal,,1.0

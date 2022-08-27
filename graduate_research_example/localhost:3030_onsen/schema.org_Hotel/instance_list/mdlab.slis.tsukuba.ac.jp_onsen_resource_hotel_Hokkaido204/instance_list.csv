@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido204,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido204,https://schema.org/address,北海道白老郡白老町字虎杖浜７３－５,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido204,https://schema.org/name,虎杖浜温泉ホテル,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido204,https://schema.org/description,美人湯とも言われる虎杖浜温泉のお湯を源泉かけ流し100％使用,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido204,http://ja.dbpedia.org/property/郵便番号,059-0641,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido204,http://www.w3.org/2003/01/geo/wgs84_pos#lat,508370271,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido204,http://www.w3.org/2003/01/geo/wgs84_pos#long,152848054,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido204,https://schema.org/image,泉質と湯量には自信あり！<BR>空港より1時間、国道３６号線沿いの好アクセス。<BR>平成３０年２月２３日、ホテル敷地内にセブンイレブン虎杖浜温泉店がオープン♪<BR>ＪＲ登別駅からの無料送迎バスも予約運行中<BR>,literal,,1.0

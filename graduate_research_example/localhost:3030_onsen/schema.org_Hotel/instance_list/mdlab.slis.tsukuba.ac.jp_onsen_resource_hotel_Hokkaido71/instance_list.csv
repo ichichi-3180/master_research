@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido71,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido71,https://schema.org/address,北海道千歳市支笏湖温泉,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido71,https://schema.org/name,しこつ湖鶴雅リゾートスパ水の謌,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido71,https://schema.org/description,癒しと健康をトータルプロデュース。水の力に癒されるリゾートスパ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido71,http://ja.dbpedia.org/property/郵便番号,066-0281,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido71,http://www.w3.org/2003/01/geo/wgs84_pos#lat,509064896,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido71,http://www.w3.org/2003/01/geo/wgs84_pos#long,153978457,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido71,https://schema.org/image,支笏洞爺国立公園の中にある透明な湖・支笏湖を臨む「水の謌」は、水の癒し力がテーマ。森と水の力をふんだんに取り入れた癒しの時間をお過ごしいただけます。＜無料送迎バス運行中＞,literal,,1.0

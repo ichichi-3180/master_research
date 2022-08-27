@@ -1,0 +1,5 @@
+http://dbpedia.org/ontology/ambassador,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsenmusume97,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/ambassador,uri,,1.0
+http://dbpedia.org/ontology/ambassador,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsenmusume97,https://schema.org/name,山代八咫,literal,,1.0
+http://dbpedia.org/ontology/ambassador,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsenmusume97,http://seiyu-lod.org/ontology/voicedBy,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/seiyu99,uri,https://schema.org/Person,1.0
+http://dbpedia.org/ontology/ambassador,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsenmusume97,https://schema.org/creator,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/illustrator97,uri,https://schema.org/Person,1.0
+http://dbpedia.org/ontology/ambassador,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsenmusume97,https://schema.org/member,,uri,https://schema.org/PerformingGroup,0

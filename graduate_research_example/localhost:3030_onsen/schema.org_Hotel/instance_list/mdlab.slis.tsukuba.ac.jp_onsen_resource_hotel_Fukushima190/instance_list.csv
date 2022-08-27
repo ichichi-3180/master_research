@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima190,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima190,https://schema.org/address,福島県南会津郡檜枝岐村字居平７０５番地,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima190,https://schema.org/name,旅館ひのえまた,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima190,https://schema.org/description,『　ＰａｙＰａｙ決済ＯＫ！』　尾瀬の麓に位置する心安らぐ癒しの宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima190,http://ja.dbpedia.org/property/郵便番号,967-0521,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima190,http://www.w3.org/2003/01/geo/wgs84_pos#lat,501803835,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima190,http://www.w3.org/2003/01/geo/wgs84_pos#long,133266374,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima190,https://schema.org/image,当宿女将の打つ「名代・裁ち蕎麦」や、地の山川の幸を使った独自の「山人（やもーど）料理」と、湯量豊富なアルカリ単純温泉。　大自然に包まれた心安らぐ癒しの宿。　尾瀬ハイキングの拠点に最適です。,literal,,1.0

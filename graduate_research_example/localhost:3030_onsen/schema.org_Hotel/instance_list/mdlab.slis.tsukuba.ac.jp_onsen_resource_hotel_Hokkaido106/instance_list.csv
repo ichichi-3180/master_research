@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido106,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido106,https://schema.org/address,北海道上川郡新得町屈足オソウシ鹿の沢３３０,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido106,https://schema.org/name,オソウシ温泉　鹿乃湯荘,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido106,https://schema.org/description,北海道大雪山国立公園の自然豊かな原生林の中に佇む、秘湯の一軒宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido106,http://ja.dbpedia.org/property/郵便番号,081-0154,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido106,http://www.w3.org/2003/01/geo/wgs84_pos#lat,514672295,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido106,http://www.w3.org/2003/01/geo/wgs84_pos#long,155629388,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido106,https://schema.org/image,大雪山国立公園の豊かな原生林の中、十勝川支流・オソウシ川沿いに佇む秘湯の一軒宿。pH10を超える全国有数の強アルカリ泉は肌の不純物を洗い流し、　美肌効果抜群。無色透明の温泉で、飲泉も可能。,literal,,1.0

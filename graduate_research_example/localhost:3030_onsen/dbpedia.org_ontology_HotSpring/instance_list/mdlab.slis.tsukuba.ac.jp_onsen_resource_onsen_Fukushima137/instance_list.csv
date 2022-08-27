@@ -1,0 +1,8 @@
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima137,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima137,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature5,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima137,http://ja.dbpedia.org/property/読み仮名,うらばんだいおんせん・ゆだいらやまげんせん,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima137,https://schema.org/address,福島県耶麻郡北塩原村桧原湖畔,literal,,0.9996931574102486
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima137,https://schema.org/name,裏磐梯温泉・湯平山源泉,literal,,1.0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima137,https://schema.org/description,裏磐梯レイクリゾートの自家源泉100％の温泉。茶褐色の湯量豊富な源泉を桧原湖上の高台に位置する岩露天と大浴場で堪能できる。ヨーロピアン調の大浴場は贅沢なほどの広さで、桧原湖側にむかってパノラマ的な視界が広がっている。五色沼散策や桧原湖周辺で遊びの帰りも気軽に利用できる。,literal,,0.5477140227063516
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima137,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
+http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima137,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

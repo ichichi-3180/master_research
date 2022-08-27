@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi56,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi56,https://schema.org/address,宮城県仙台市太白区茂庭字人来田西１４３－３,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi56,https://schema.org/name,茂庭温泉　茂庭荘,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi56,https://schema.org/description,天然温泉と美味しいお食事を満喫！茂庭温泉でのんびり寛ぐ。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi56,http://ja.dbpedia.org/property/郵便番号,982-0251,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi56,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506919530,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi56,http://www.w3.org/2003/01/geo/wgs84_pos#long,137552269,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi56,https://schema.org/image,美味しいご飯と天然温泉で、日頃溜まった疲れをの～んびり癒しましょう♪<BR>自然に囲まれた静かな空間の中で、お寛ぎ頂けます。<BR>観光だけでなく、ビジネス利用のお客様も歓迎♪研修・合宿用設備も充実！,literal,,1.0

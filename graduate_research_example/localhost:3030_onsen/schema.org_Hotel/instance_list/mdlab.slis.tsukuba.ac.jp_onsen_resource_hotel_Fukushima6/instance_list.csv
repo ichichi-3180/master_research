@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima6,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima6,https://schema.org/address,福島県福島市飯坂町中ノ内２４―３,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima6,https://schema.org/name,飯坂温泉　摺上亭　大鳥,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima6,https://schema.org/description,自家源泉の露天風呂と四季を感じるこだわり料理が自慢の温泉旅館。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima6,http://ja.dbpedia.org/property/郵便番号,960-0201,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima6,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505608001,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima6,http://www.w3.org/2003/01/geo/wgs84_pos#long,136212956,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima6,https://schema.org/image,ロビーより眺める日本庭園と自然に囲まれた露天風呂で、やすらぎと癒しの飯坂温泉を満喫できる。JAの安全な食材を使ったお料理が好評。,literal,,1.0

@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima34,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima34,https://schema.org/address,福島県福島市土湯温泉町字八郎畑３－１,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima34,https://schema.org/name,福うさぎ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima34,https://schema.org/description,自家源泉・全館畳敷き　山と海のごちそうの宿,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima34,http://ja.dbpedia.org/property/郵便番号,960-2157,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima34,http://www.w3.org/2003/01/geo/wgs84_pos#lat,505178840,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima34,http://www.w3.org/2003/01/geo/wgs84_pos#long,135647483,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Fukushima34,https://schema.org/image,全館畳敷きで自家源泉(炭酸水素塩泉・一部源泉掛け流し)を使用した12種のお風呂でのんびり、山と海のお料理をゆっくり、ご宿泊や日帰り等気軽に楽しんで頂くお宿です。全室禁煙（1F・2F喫煙所有）,literal,,1.0

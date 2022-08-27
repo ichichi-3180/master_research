@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita43,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita43,https://schema.org/address,秋田県仙北市田沢湖生保内字下高野７２,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita43,https://schema.org/name,ヒュッテ　ビルケ,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita43,https://schema.org/description,秋田は田沢湖の大自然の恵みをたっぷり、湯ったり楽しみましょう,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita43,http://ja.dbpedia.org/property/郵便番号,014-1201,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita43,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506739548,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita43,http://www.w3.org/2003/01/geo/wgs84_pos#long,143129752,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita43,https://schema.org/image,じゃんごのうめもん（田舎料理）に自家製野草茶や貸切で入る天然温泉をどうぞ。なお、全客室禁煙にしています。タバコは喫煙場所でどうぞ。あとっすな、ビルケのＨＰで秋田駒情報をチェックしてたんせな！,literal,,1.0

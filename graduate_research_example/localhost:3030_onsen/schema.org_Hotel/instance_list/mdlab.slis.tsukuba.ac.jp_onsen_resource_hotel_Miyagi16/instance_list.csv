@@ -1,0 +1,8 @@
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi16,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi16,https://schema.org/address,宮城県大崎市鳴子温泉字久田６７,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi16,https://schema.org/name,久田旅館,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi16,https://schema.org/description,自家源泉100%掛け流し。温泉口コミ4.8!!家庭的な宿でゆっくりと。,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi16,http://ja.dbpedia.org/property/郵便番号,989-6711,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi16,http://www.w3.org/2003/01/geo/wgs84_pos#lat,506686418,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi16,http://www.w3.org/2003/01/geo/wgs84_pos#long,139468214,literal,,1.0
+https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Miyagi16,https://schema.org/image,一度入るとわかる温泉の質のよさ。毎朝、換水清掃をしているのでいつでも清潔！！お風呂口コミ４．８！過剰なサービスはしませんのでゆっくりとお過ごし頂けます。館内・全客室フリーWi-Fi完備。,literal,,1.0
