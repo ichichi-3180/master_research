@@ -45,34 +45,7 @@ def get_in_sseArray(a)
     end
 end
 
-# 外側のsseArrayを抽出するメソッド
-# def get_out_sseArray(a)
-#     project_count = 0
-#     return_array = []
-#     while a.length != 0 do 
-#         array = []
-#         top = a.shift
-#         # p "hello"
-#         # p top
-#         if top == :project then
-#             project_count += 1
-#             if project_count == 2 then
-#                 break
-#             else
-#                 array.push(top)
-#                 return_array.push(top)
-#             end
-#         elsif top.class == Array then
-#             # p top.length
-#             top.reverse.each{|e|
-#                 a.unshift(e)
-#             }
-#         else
-#             return_array.push(top)
-#         end
-#     end
-#     return return_array
-# end
+
 
 def get_out_sseArray(a, project_count)
     array = []
@@ -113,29 +86,68 @@ def get_prefix_sseArray(a)
     end
 end
 
+# def get_out_sseArray(a, project_count)
+#     operator = ""
+#     return_array = []
+#     a.length.times do |i|
+#         if i == 0 && a[i].class == Symbol then
+#             if a[i] == :project then
+#                 project_count += 1
+#             end
+#             if project_count == 2 then
+#                 break
+#             else
+#                 return_array.push(a[i])
+#             end
+#         elsif a[i].class == Array then
+#             p a[i]
+#             add_flag = get_out_sseArray(a[i], project_count)
+#             if add_flag then
+#                 return_array.push(add_flag)
+#             else
+#                 return_array.push([])
+#             end
+#         else
+#             return_array.push(a[i])
+#         end
+#     end
+#     p project_count
+#     p return_array
+#     if project_count == 2 then
+#         return false
+#     else
+#         return return_array
+#     end
+# end
+
 #サブクエリのsseArrayを入力して、内側クエリを問い合わせ→結果を外側のクエリの変数にバインドし繰り返し問い合わせ→結果をマージして出力　するメソッド
 def subquery_hybrid(sparql, base_sseArray)
-    pp base_sseArray
-    prefix_sseArray = get_prefix_sseArray(base_sseArray.deep_dup) #prefixの情報を取得
-    in_sseArray = get_in_sseArray(base_sseArray.deep_dup) #サブクエリの内側のsseArrayを取得するメソッド
-    in_sseArray = prefix_sseArray.push(in_sseArray) #サブクエリの内側のsseArrayにPREFIXを追加
-    # pp in_sseArray
-    in_sseArray_Parsed = SPARQL::Algebra::Expression.new(in_sseArray) #内側sseArrayをinputとして、SPARQLライブラリのオブジェクトとして扱う
-    in_sparql_query = in_sseArray_Parsed.to_sparql #SPARQLクエリに変換
-    in_result = ignore_limits(sparql, in_sparql_query) #内側のSPARQLクエリの結果を取得
-    in_result_variables = in_result.variable_names #内側SPARQL問い合わせ結果で取得できる変数名
-    # p in_result_variables
 
-    out_sseArray = get_out_sseArray(base_sseArray.deep_dup, project_count=0)
-    pp out_sseArray
+    #prefixの情報を取得
+    prefix_sseArray = get_prefix_sseArray(base_sseArray.deep_dup) 
+
+    #サブクエリの内側のsseArrayを取得するメソッド
+    in_sseArray = get_in_sseArray(base_sseArray.deep_dup) 
+
+    #サブクエリの内側のsseArrayにPREFIXを追加
+    in_sseArray = prefix_sseArray.push(in_sseArray) 
+
+
+    #内側sseArrayをinputとして、SPARQLライブラリのオブジェクトとして扱う
+    in_sseArray_Parsed = SPARQL::Algebra::Expression.new(in_sseArray) 
+
+    #SPARQLクエリに変換
+    in_sparql_query = in_sseArray_Parsed.to_sparql 
+
+    #内側のSPARQLクエリの結果を取得
+    in_result = ignore_limits(sparql, in_sparql_query) 
+
+    #内側SPARQL問い合わせ結果で取得できる変数名
+    in_result_variables = in_result.variable_names 
+
+    out_sseArray = get_out_sseArray(base_sseArray.deep_dup, project_count=0) #外側sseArrayを取得
     out_sseArray_Parsed = SPARQL::Algebra::Expression.new(out_sseArray)
-    print out_sseArray_Parsed.to_sparql
     out_result = sparql.query(out_sseArray_Parsed.to_sparql)
-    p out_result.length
-    # p in_result.class.ancestors
-    # p in_result.length
-    # p in_result.methods.grep(/variable_names/)
-    # p in_result.variable_names
 end
 
 #エンドポイントの返り値の限界を取得するメソッド
