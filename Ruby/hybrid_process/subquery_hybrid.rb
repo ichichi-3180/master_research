@@ -23,11 +23,14 @@ query = input_file.read
 require 'sparql'
 
 
-query_object = SPARQL::Grammar::Parser.new(query) #SPARQLライブラリのオブジェクトして扱う
-# p query_object.class
-query_object_parsed = query_object.parse() #SPARQLクエリを解析
-# p query_object_parsed.class
-query_sseArray = query_object_parsed.to_sxp_bin #解析したクエリをSPARQLクエリをsse形式のarrayに変換
+#SPARQLライブラリのオブジェクトして扱う
+query_object = SPARQL::Grammar::Parser.new(query) 
+
+#SPARQLクエリを解析
+query_object_parsed = query_object.parse()
+
+#解析したクエリをSPARQLクエリをsse形式のarrayに変換
+query_sseArray = query_object_parsed.to_sxp_bin 
 
 # pp query_sseArray
 
