@@ -34,14 +34,32 @@ result_in.each{|r_in|
     # query_out = file.read
     auth = r_in[:auth]
     rcount = r_in[:rcount]
+    # query_out = """
+    # PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+    # SELECT (<#{auth}> as ?auth) (#{rcount} as ?rcount) ?upper (count(?srel) as ?srcount) 
+    # WHERE {
+    #     <#{auth}> skos:broader ?upper.
+    #     ?upper skos:relatedMatch ?srel .
+    #     FILTER (regex(?srel, \"^http://id.ndl.go.jp/class/ndc10/\"))
+    # }
+    # """
     query_out = """
     PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-    SELECT (<#{auth}> as ?auth) (#{rcount} as ?rcount) ?upper (count(?srel) as ?srcount) WHERE {
-        <#{auth}> skos:broader ?upper.
+    SELECT ?auth ?rcount ?upper (count(?srel) as ?srcount) 
+    WHERE 
+    {
+        BIND (<#{auth}> AS ?auth)
+        BIND (<#{rcount}> AS ?rcount)
+        ?auth skos:broader ?upper.
         ?upper skos:relatedMatch ?srel .
         FILTER (regex(?srel, \"^http://id.ndl.go.jp/class/ndc10/\"))
     }
     """
+    # require 'sparql'
+    # query_object = SPARQL::Grammar::Parser.new(query_out)
+    # query_object_parsed = query_object.parse()
+    # query_sseArray = query_object_parsed.to_sxp_bin  
+    # pp query_sseArray
     result_out = sparql.query(query_out)
     # p result_out.class
     result_out.each{|r_out|
@@ -52,5 +70,6 @@ result_in.each{|r_in|
 # p result_in[0]
 p result_hybrid.order(:auth)[0]
 p result.order(:auth)[0]
-# p result.to_json
+p result_hybrid.length
+p result.length
 

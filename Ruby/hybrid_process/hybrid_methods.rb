@@ -146,6 +146,7 @@ def subquery_hybrid(sparql, base_sseArray)
     in_result_variables = in_result.variable_names 
 
     out_sseArray = get_out_sseArray(base_sseArray.deep_dup, project_count=0) #外側sseArrayを取得
+    pp out_sseArray
     out_sseArray_Parsed = SPARQL::Algebra::Expression.new(out_sseArray)
     out_result = sparql.query(out_sseArray_Parsed.to_sparql)
 end
