@@ -144,6 +144,7 @@ def subquery_hybrid(sparql, base_sseArray)
 
     #内側SPARQL問い合わせ結果で取得できる変数名
     in_result_variables = in_result.variable_names 
+    p in_result_variables
 
     out_sseArray = get_out_sseArray(base_sseArray.deep_dup, project_count=0) #外側sseArrayを取得
     pp out_sseArray
