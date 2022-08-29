@@ -120,6 +120,17 @@ end
 #     end
 # end
 
+def get_out_sseArray_in_result_bind(variables, out_sseArray) 
+    pp out_sseArray
+    out_sseArray = SPARQL::Algebra::Expression.new(out_sseArray) 
+    pp out_sseArray.vars #外側SPARQLで利用されている変数オブジェクトを取得
+    #外側sseArrayからbindする変数オブジェクトを取得
+    bind_sseArray = [:extend,[],[:bgp]]
+    variables.each{|v|
+        p v
+    }
+end
+
 #サブクエリのsseArrayを入力して、内側クエリを問い合わせ→結果を外側のクエリの変数にバインドし繰り返し問い合わせ→結果をマージして出力　するメソッド
 def subquery_hybrid(sparql, base_sseArray)
 
@@ -144,11 +155,26 @@ def subquery_hybrid(sparql, base_sseArray)
 
     #内側SPARQL問い合わせ結果で取得できる変数名
     in_result_variables = in_result.variable_names 
-    #practice git hub
-    out_sseArray = get_out_sseArray(base_sseArray.deep_dup, project_count=0) #外側sseArrayを取得
-    pp out_sseArray
-    out_sseArray_Parsed = SPARQL::Algebra::Expression.new(out_sseArray)
-    out_result = sparql.query(out_sseArray_Parsed.to_sparql)
+
+    #サブクエリの外側sseArrayを取得するメソッド
+    out_sseArray = get_out_sseArray(base_sseArray,  project_count=0) #外側sseArrayを取得(ベースのクエリ内で利用される変数オブジェクトを同じIDで取得する必要があるため、deepdupは使わない)
+    
+    #内側SPARQLクエリの結果を外側SPARQLに当てはめて問い合わせ
+    in_result.each_with_index{|r_in, index|
+        if index == 0 then
+            # p r_in
+            # r_in.each_variable{|name, value| puts name}
+            get_out_sseArray_in_result_bind(in_result_variables, out_sseArray)
+            # in_result_variables.each{|v|
+            #     p r_in[v]
+            # }
+        end
+    }
+
+    
+    # pp out_sseArray
+    # out_sseArray_Parsed = SPARQL::Algebra::Expression.new(out_sseArray)
+    # out_result = sparql.query(out_sseArray_Parsed.to_sparql)
 end
 
 #エンドポイントの返り値の限界を取得するメソッド
