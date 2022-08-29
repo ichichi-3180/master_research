@@ -19,6 +19,8 @@ input_file_path = "../../SPARQL_query_sample/ndl_subquery.sparql"
 input_file = File.open(input_file_path, "r")
 query = input_file.read
 
+subquery_result = sparql.query(query)
+
 #SPARQLライブラリのimport
 require 'sparql'
 
@@ -34,5 +36,10 @@ query_sseArray = query_object_parsed.to_sxp_bin
 
 # pp query_sseArray
 
-result = subquery_hybrid(sparql, query_sseArray)
+subquery_hybrid_result = subquery_hybrid(sparql, query_sseArray)
 # p result.length
+
+p subquery_hybrid_result.order(:auth)[0]
+p subquery_result.order(:auth)[0]
+p subquery_hybrid_result.length
+p subquery_result.length
