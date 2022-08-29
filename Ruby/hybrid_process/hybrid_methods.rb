@@ -120,15 +120,25 @@ end
 #     end
 # end
 
-def get_out_sseArray_in_result_bind(variables, out_sseArray) 
-    pp out_sseArray
-    out_sseArray = SPARQL::Algebra::Expression.new(out_sseArray) 
-    pp out_sseArray.vars #外側SPARQLで利用されている変数オブジェクトを取得
-    #外側sseArrayからbindする変数オブジェクトを取得
+def get_out_sseArray_in_result_bind(in_result, out_sseArray) 
+
+    #外側sseArrayをSPARQLライブラリのオブジェクトとして扱う
+    out_sseArray_Parsed = SPARQL::Algebra::Expression.new(out_sseArray) 
+
+    #外側sseArrayからbindする変数オブジェクトを格納するsseArrayを用意
     bind_sseArray = [:extend,[],[:bgp]]
-    variables.each{|v|
-        p v
+
+    in_result.each_variable{|in_r_v|
+        #外側SPARQLで利用されている変数オブジェクトを取得(out_sseArray_Parsed.vars.uniq)し、内側SPARQLの結果の変数と一致するものをbind_sseArrayに追加
+        add_variable =  out_sseArray_Parsed.vars.uniq.select{|v| v.name == in_r_v.name} 
+        if add_variable.length > 1 then
+            p "error: too many bind variables"
+        else
+            add_variable.push(in_r_v.value)
+            bind_sseArray[1].push(add_variable)
+        end
     }
+    pp bind_sseArray
 end
 
 #サブクエリのsseArrayを入力して、内側クエリを問い合わせ→結果を外側のクエリの変数にバインドし繰り返し問い合わせ→結果をマージして出力　するメソッド
@@ -162,12 +172,7 @@ def subquery_hybrid(sparql, base_sseArray)
     #内側SPARQLクエリの結果を外側SPARQLに当てはめて問い合わせ
     in_result.each_with_index{|r_in, index|
         if index == 0 then
-            # p r_in
-            # r_in.each_variable{|name, value| puts name}
-            get_out_sseArray_in_result_bind(in_result_variables, out_sseArray)
-            # in_result_variables.each{|v|
-            #     p r_in[v]
-            # }
+            get_out_sseArray_in_result_bind(r_in, out_sseArray)
         end
     }
 
