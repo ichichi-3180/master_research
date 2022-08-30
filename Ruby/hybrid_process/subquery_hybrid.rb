@@ -19,6 +19,7 @@ input_file_path = "../../SPARQL_query_sample/ndl_subquery.sparql"
 input_file = File.open(input_file_path, "r")
 query = input_file.read
 
+#サブクエリを単純に実行
 subquery_result = sparql.query(query)
 
 #SPARQLライブラリのimport
@@ -36,10 +37,13 @@ query_sseArray = query_object_parsed.to_sxp_bin
 
 # pp query_sseArray
 
+#subqueryに関してhybrid化を実行
 subquery_hybrid_result = subquery_hybrid(sparql, query_sseArray)
-# p result.length
 
-p subquery_hybrid_result.order(:auth)[0]
-p subquery_result.order(:auth)[0]
-p subquery_hybrid_result.length
-p subquery_result.length
+#ハイブリッド化した結果とそのまま実行した結果を出力
+File.open('../query_output/json/ndl_subquery_result.json', 'w'){|f|
+    f.write(subquery_result.order(:auth,:rcount,:upper,:srcount).to_json)
+}
+File.open('../query_output/json/ndl_hybrid_subquery_result.json', 'w'){|f|
+    f.write(subquery_hybrid_result.order(:auth,:rcount,:upper,:srcount).to_json)
+}
