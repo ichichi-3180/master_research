@@ -1,0 +1,6 @@
+SELECT ?o 
+WHERE{
+    {?s a ?domain.}
+    UNION
+    {?s ?property ?o}
+}

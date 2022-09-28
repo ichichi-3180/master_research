@@ -1,0 +1,5 @@
+SELECT distinct ?domain ?p
+WHERE{
+    ?s a ?domain.
+    ?s ?p ?o.
+}
