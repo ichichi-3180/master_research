@@ -1,6 +1,6 @@
 SELECT ?o 
 WHERE{
-    {?s a ?domain.}
+    {?s a <#{domain}>.}
     UNION
-    {?s ?property ?o}
+    {?s <#{property}> ?o}
 }
