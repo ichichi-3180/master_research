@@ -3,3 +3,4 @@ WHERE{
     ?s a ?domain.
     ?s ?p ?o.
 }
+LIMIT 1
