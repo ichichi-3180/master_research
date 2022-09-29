@@ -1,6 +1,6 @@
-SELECT distinct ?domain ?p
+SELECT distinct ?domain ?property
 WHERE{
     ?s a ?domain.
-    ?s ?p ?o.
+    ?s ?property ?o.
 }
 LIMIT 1
