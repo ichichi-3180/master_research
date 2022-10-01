@@ -2,6 +2,7 @@ require './ab_methods'
 require 'sparql/client'
 require 'uri'
 require 'csv'
+require 'date'
 
 # --- 事前に問い合わせるべきクエリを読み込み --- #
 # ファイルがあるディレクトリのパスを設定
@@ -30,7 +31,8 @@ endpoint_list = [
 ]
 
 #ファイルに書き込み
-CSV.open('./output/time.csv', 'a') do |csv|
+yyyymmddhhmmss = DateTime.now.strftime('%Y%m%d%H%M%S')
+CSV.open("./output/return_time_from_SPARQLendpoint/#{DateTime.now.strftime('%Y%m%d%H%M%S')}.csv", 'a') do |csv|
     csv << ["endpoint_url", "count", "distinct", "filter", "group_by_having", "union", "optional", "subquery"]
     #各エンドポイントごとに問い合わせ
     endpoint_list.each {|url|
