@@ -9,6 +9,10 @@ require 'date'
 ADVANCE_INFO_QUERY_PATH = "../benchmark_query/advance_info/"
 BENCHMARK_QUERY_PATH = "../benchmark_query/"
 
+#トリプル数を取得するクエリ
+input_file = File.open(ADVANCE_INFO_QUERY_PATH + "triple_num.rq", "r")
+get_triple_num_query = input_file.read
+
 #クラス間関係を取得するクエリ
 input_file = File.open(ADVANCE_INFO_QUERY_PATH + "class_relation.rq", "r")
 get_class_relation_query = input_file.read
@@ -33,13 +37,16 @@ endpoint_list = [
 #ファイルに書き込み
 yyyymmddhhmmss = DateTime.now.strftime('%Y%m%d%H%M%S')
 CSV.open("./output/return_time_from_SPARQLendpoint/#{DateTime.now.strftime('%Y%m%d%H%M%S')}.csv", 'a') do |csv|
-    csv << ["endpoint_url", "count", "distinct", "filter", "group_by_having", "union", "optional", "subquery"]
+    csv << ["endpoint_url","triple_num", "count", "distinct", "filter", "group_by_having", "union", "optional", "subquery"]
     #各エンドポイントごとに問い合わせ
     endpoint_list.each {|url|
         p url
         sparql = SPARQL::Client.new(url)
 
         # --- 事前情報の取得(サブクエリ, UNION, OPTIONAL句で利用するため) ---
+        #トリプル数を取得
+        triple_num_result = sparql.query(get_triple_num_query)
+
         #クラス間関係を取得
         class_relation_result = sparql.query(get_class_relation_query)
 
@@ -104,6 +111,6 @@ CSV.open("./output/return_time_from_SPARQLendpoint/#{DateTime.now.strftime('%Y%m
         subquery_ms = apache_bench_test(subquery, url)
         p "subquery:" + subquery_ms.to_s + "[ms]"
 
-        csv << [url, count_ms, distinct_ms, filter_ms, group_by_having_ms, union_ms, optional_ms, subquery_ms]
+        csv << [url, triple_num_result[0][:triple_num], count_ms, distinct_ms, filter_ms, group_by_having_ms, union_ms, optional_ms, subquery_ms]
     }
 end
