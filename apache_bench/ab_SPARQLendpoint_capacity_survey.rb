@@ -37,7 +37,7 @@ endpoint_list = [
 #ファイルに書き込み
 yyyymmddhhmmss = DateTime.now.strftime('%Y%m%d%H%M%S')
 CSV.open("./output/return_time_from_SPARQLendpoint/#{DateTime.now.strftime('%Y%m%d%H%M%S')}.csv", 'a') do |csv|
-    csv << ["endpoint_url","triple_num", "count", "distinct", "filter", "group_by_having", "union", "optional", "subquery"]
+    csv << ["endpoint_url","triple_num", "count", "distinct", "filter_rdf:type","filter_regex", "group_by_having", "union", "optional", "subquery"]
     #各エンドポイントごとに問い合わせ
     endpoint_list.each {|url|
         p url
@@ -66,11 +66,17 @@ CSV.open("./output/return_time_from_SPARQLendpoint/#{DateTime.now.strftime('%Y%m
         distinct_ms = apache_bench_test(distinct_query, url)
         p "distinct:" + distinct_ms.to_s + "[ms]"
 
-        #filterのベンチマーククエリに関してapache benchを利用して取得までの時間を取得
-        input_file = File.open(BENCHMARK_QUERY_PATH + "filter.rq", "r")
-        filter_query = input_file.read
-        filter_ms = apache_bench_test(filter_query, url)
-        p "filter:" + filter_ms.to_s + "[ms]"
+        #filter_rdf:typeのベンチマーククエリに関してapache benchを利用して取得までの時間を取得
+        input_file = File.open(BENCHMARK_QUERY_PATH + "filter_rdf:type.rq", "r")
+        filter_rdftype_query = input_file.read
+        filter_rdftype_ms = apache_bench_test(filter_rdftype_query, url)
+        p "filter_rdftype:" + filter_rdftype_ms.to_s + "[ms]"
+
+        #filter_regexのベンチマーククエリに関してapache benchを利用して取得までの時間を取得
+        input_file = File.open(BENCHMARK_QUERY_PATH + "filter_regex.rq", "r")
+        filter_regex_query = input_file.read
+        filter_regex_ms = apache_bench_test(filter_regex_query, url)
+        p "filter_regex:" + filter_regex_ms.to_s + "[ms]"
 
         #group_by_havingのベンチマーククエリに関してapache benchを利用して取得までの時間を取得
         input_file = File.open(BENCHMARK_QUERY_PATH + "group_by_having.rq", "r")
@@ -111,6 +117,6 @@ CSV.open("./output/return_time_from_SPARQLendpoint/#{DateTime.now.strftime('%Y%m
         subquery_ms = apache_bench_test(subquery, url)
         p "subquery:" + subquery_ms.to_s + "[ms]"
 
-        csv << [url, triple_num_result[0][:triple_num], count_ms, distinct_ms, filter_ms, group_by_having_ms, union_ms, optional_ms, subquery_ms]
+        csv << [url, triple_num_result[0][:triple_num], count_ms, distinct_ms, filter_rdftype_ms,filter_regex_ms, group_by_having_ms, union_ms, optional_ms, subquery_ms]
     }
 end
