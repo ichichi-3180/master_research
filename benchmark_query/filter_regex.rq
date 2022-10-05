@@ -2,5 +2,5 @@ SELECT ?o
 WHERE
 {
 ?s ?p ?o.
-FILTER REGEX(?p,"^https")
+FILTER REGEX(?p,"^http")
 }
