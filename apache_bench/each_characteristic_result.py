@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 #データをインポート
-file_path = "./output/return_time_from_SPARQLendpoint/20221004161613.csv"
+file_path = "./output/return_time_from_SPARQLendpoint/20221005154419.csv"
 df = pd.read_csv(file_path)
 # print(df.columns.values)
 
