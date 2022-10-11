@@ -24,14 +24,20 @@ get_domain_property_query = input_file.read
 
 #SPARQLEndpointを指定
 endpoint_list = [
-    "http://localhost:3030/SP2Bench_10000/sparql",
-    "http://localhost:3030/SP2Bench_100000/sparql",
-    "http://localhost:3030/SP2Bench_1000000/sparql",
-    "http://localhost:3030/SP2Bench_10000000/sparql",
+    # "http://localhost:3030/SP2Bench_10000/sparql",
+    # "http://localhost:3030/SP2Bench_100000/sparql",
+    # "http://localhost:3030/SP2Bench_1000000/sparql",
+    # "http://localhost:3030/SP2Bench_10000000/sparql",
     # "http://localhost:3030/SP2Bench_300000000/sparql" なぜかSPARQL::Cient経由だと404Not foundになる場合がある
-    "http://localhost:3030/onsen/sparql",
-    "http://localhost:3030/botanical/sparql",
-    "http://localhost:3030/textbook/sparql"
+    # "http://localhost:3030/onsen/sparql",
+    # "http://localhost:3030/botanical/sparql",
+    # "http://localhost:3030/textbook/sparql",
+    "https://lov.linkeddata.es/dataset/lov/sparql",
+    "https://id.ndl.go.jp/auth/ndla/sparql",
+    "http://dbkwik.webdatacommons.org/sparql",
+    "https://ja.dbpedia.org/sparql",
+    "https://dbpedia.org/sparql",
+    "https://jpsearch.go.jp/rdf/sparql"
 ]
 
 #ファイルに書き込み
@@ -41,7 +47,7 @@ CSV.open("./output/return_time_from_SPARQLendpoint/#{DateTime.now.strftime('%Y%m
     #各エンドポイントごとに問い合わせ
     endpoint_list.each {|url|
         p url
-        sparql = SPARQL::Client.new(url)
+        sparql = SPARQL::Client.new(url,method: "get")
 
         # --- 事前情報の取得(サブクエリ, UNION, OPTIONAL句で利用するため) ---
         #トリプル数を取得
