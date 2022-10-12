@@ -1,8 +1,0 @@
-endpoint_url,triple_num,count,distinct,filter_rdf:type,filter_regex,group_by_having,union,optional,subquery
-http://localhost:3030/SP2Bench_10000/sparql,10303,12.713,18.022,3.183,19.745,3.695,11.906,7.69,9.32
-http://localhost:3030/SP2Bench_100000/sparql,100073,47.673,90.205,1.677,111.767,1.994,57.368,5.936,37.117
-http://localhost:3030/SP2Bench_1000000/sparql,1000009,355.925,857.202,2.246,1059.378,1.631,464.771,11.982,362.855
-http://localhost:3030/SP2Bench_10000000/sparql,10000457,3417.355,8387.151,1.973,10581.462,2.713,4466.579,124.786,4858.492
-http://localhost:3030/onsen/sparql,26962,18.663,27.182,1.733,36.618,1.122,18.13,20.884,18.592
-http://localhost:3030/botanical/sparql,24467,15.55,23.997,0.977,30.431,0.985,8.905,2.857,11.288
-http://localhost:3030/textbook/sparql,292128,105.186,256.533,1.053,309.913,1.696,67.51,47.766,46.198
