@@ -5,7 +5,7 @@ import os
 
 #データをインポート
 file_path = "./output/return_time_from_SPARQLendpoint/"
-input_file_name = "20221008124229_mean10times_toPublic"
+input_file_name = "20221012160211_mean10times_local_fuseki"
 df = pd.read_csv(file_path + input_file_name + ".csv")
 #トリプル数順でソート
 df = df.sort_values('triple_num')
@@ -13,19 +13,18 @@ df = df.sort_values('triple_num')
 df = df.reset_index()
 
 triple_num_label = df["triple_num"]
-endpoint_label = df["endpoint_url"].str.extract('https?://([^/]+)/',expand=False)
 
 #x軸のラベルの作成(SPARQLエンドポイントのURLのドメイン名とトリプル数)
 xlabel = np.core.defchararray.add(
     np.core.defchararray.add(
-        np.array(endpoint_label,dtype=str),
+        np.array(df["label"],dtype=str),
         np.full(len(df.index), '\n', dtype=str)
     ),
     np.array(triple_num_label,dtype=str)
 )
 
 
-for e in df.columns.values[1:]: #トリプル数以降でfor文を回す
+for e in df.columns.values[5:]: #トリプル数以降でfor文を回す
     ms = df[e]
     print(ms)
     plt.bar(np.array(df.index), np.array(ms), tick_label=xlabel, align="center")

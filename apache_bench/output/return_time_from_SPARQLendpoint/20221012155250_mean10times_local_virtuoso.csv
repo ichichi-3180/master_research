@@ -1,0 +1,8 @@
+server_type,label,rdf_store,url,graph_uri,triple_num,count,distinct,filter_rdf:type,filter_regex,group_by_having,union,optional,subquery
+local,SP2Bench_10000,virtuoso,http://localhost:8890/sparql,http://localhost:8890/SP2Bench_10000,10330,3.255,4.874,12.077,85.68,0.855,9.305,0.53,0.982
+local,SP2Bench_100000,virtuoso,http://localhost:8890/sparql,http://localhost:8890/SP2Bench_100000,100073,3.188,2.866,42.718,62.952,1.233,40.826,1.679,1.448
+local,SP2Bench_1000000,virtuoso,http://localhost:8890/sparql,http://localhost:8890/SP2Bench_1000000,1000009,11.337,12.878,43.007,62.65,3.849,17.195,42.866,47.082
+local,SP2Bench_10000000,virtuoso,http://localhost:8890/sparql,http://localhost:8890/SP2Bench_10000000,10000457,27.155,122.787,44.255,63.162,23.034,17.269,43.961,26.08
+local,onsen,virtuoso,http://localhost:8890/sparql,http://localhost:8890/onsen,26962,1.815,1.399,20.708,92.623,0.924,24.208,15.038,0.948
+local,botanical,virtuoso,http://localhost:8890/sparql,http://localhost:8890/botanical,24467,1.197,1.395,10.054,117.777,0.796,12.237,2.422,1.206
+local,textbook,virtuoso,http://localhost:8890/sparql,http://localhost:8890/textbook,292128,5.067,5.734,43.038,61.541,1.36,45.394,0.63,1.522
