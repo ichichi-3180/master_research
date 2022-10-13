@@ -5,7 +5,7 @@ import os
 
 #データをインポート
 file_path = "./output/return_time_from_SPARQLendpoint/"
-input_file_name = "20221012160211_mean10times_local_fuseki"
+input_file_name = "20221013090645_mean10times_local_fuseki"
 df = pd.read_csv(file_path + input_file_name + ".csv")
 #トリプル数順でソート
 df = df.sort_values('triple_num')

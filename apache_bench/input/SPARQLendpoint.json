@@ -35,6 +35,7 @@
         "graph_uri": null
     },
     {
+        "server_type": "local",
         "label": "botanical",
         "rdf_store": "fuseki",
         "url": "http://localhost:3030/botanical/sparql",
