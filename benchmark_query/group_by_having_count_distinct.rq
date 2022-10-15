@@ -1,0 +1,6 @@
+SELECT ?s
+WHERE
+{
+?s ?p ?o
+} GROUP BY ?s
+HAVING (count(distinct ?p) > 2)
