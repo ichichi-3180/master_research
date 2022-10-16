@@ -1,4 +1,4 @@
-def apache_bench_test(query, endpoint)
+def apache_bench_test(query, endpoint, timeout_ms=30000)
     require 'uri'
     # query_encoded = URI.encode(query)
     # http_request = endpoint["url"] + '?query=' + query_encoded
@@ -10,7 +10,7 @@ def apache_bench_test(query, endpoint)
     end
     http_request += "query=" + URI.encode(query)
     p http_request
-    result = %x(ab -c 1 -n 10 "#{http_request}")
+    result = %x(ab -s #{timeout_ms/1000} -c 1 -n 10 "#{http_request}")
 
     result.each_line {|line|
         re = Regexp.new('^Time per request:')
@@ -18,5 +18,5 @@ def apache_bench_test(query, endpoint)
             return /(^Time per request:)(.*)(\[ms\] \(mean\))/.match(line).to_a[2].to_f
         end
     }
-    return nil
+    return timeout_ms
 end

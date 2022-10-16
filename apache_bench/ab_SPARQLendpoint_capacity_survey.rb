@@ -30,10 +30,10 @@ File = open("input/SPARQLendpoint.json") do |file|
     #ファイルに書き込み
     yyyymmddhhmmss = DateTime.now.strftime('%Y%m%d%H%M%S')
     CSV.open("./output/return_time_from_SPARQLendpoint/#{DateTime.now.strftime('%Y%m%d%H%M%S')}.csv", 'a') do |csv|
-        csv << ["server_type", "label", "rdf_store", "url", "graph_uri", "triple_num", "count", "distinct", "filter_rdf:type","filter_regex", "group_by_having", "union", "optional", "subquery"]
+        csv << ["server_type", "label", "rdf_store", "url", "graph_uri", "triple_num", "count", "distinct","filter_regex", "group_by_having_count_distinct","order_by", "union", "optional", "subquery"]
         endpoint_list.each do |endpoint|
             #if文の条件で調査の対象を絞り込み可能
-            if endpoint["server_type"] == "local" && endpoint["rdf_store"] == "fuseki" then
+            if endpoint["server_type"] == "local" && endpoint["rdf_store"] == "virtuoso" then
                 sparql = SPARQL::Client.new(endpoint["url"], graph: endpoint["graph_uri"], method: "get")
 
                 # --- 事前情報の取得(サブクエリ, UNION, OPTIONAL句で利用するため) ---
@@ -60,10 +60,10 @@ File = open("input/SPARQLendpoint.json") do |file|
                 p "distinct:" + distinct_ms.to_s + "[ms]"
 
                 #filter_rdf:typeのベンチマーククエリに関してapache benchを利用して取得までの時間を取得
-                input_file = File.open(BENCHMARK_QUERY_PATH + "filter_rdf:type.rq", "r")
-                filter_rdftype_query = input_file.read
-                filter_rdftype_ms = apache_bench_test(filter_rdftype_query, endpoint)
-                p "filter_rdftype:" + filter_rdftype_ms.to_s + "[ms]"
+                # input_file = File.open(BENCHMARK_QUERY_PATH + "filter_rdf:type.rq", "r")
+                # filter_rdftype_query = input_file.read
+                # filter_rdftype_ms = apache_bench_test(filter_rdftype_query, endpoint)
+                # p "filter_rdftype:" + filter_rdftype_ms.to_s + "[ms]"
 
                 #filter_regexのベンチマーククエリに関してapache benchを利用して取得までの時間を取得
                 input_file = File.open(BENCHMARK_QUERY_PATH + "filter_regex.rq", "r")
@@ -71,11 +71,17 @@ File = open("input/SPARQLendpoint.json") do |file|
                 filter_regex_ms = apache_bench_test(filter_regex_query, endpoint)
                 p "filter_regex:" + filter_regex_ms.to_s + "[ms]"
 
-                #group_by_havingのベンチマーククエリに関してapache benchを利用して取得までの時間を取得
-                input_file = File.open(BENCHMARK_QUERY_PATH + "group_by_having.rq", "r")
-                group_by_having_query = input_file.read
-                group_by_having_ms = apache_bench_test(group_by_having_query, endpoint)
-                p "group_by_having:" + group_by_having_ms.to_s + "[ms]"
+                #group_by_having_count_distinctのベンチマーククエリに関してapache benchを利用して取得までの時間を取得
+                input_file = File.open(BENCHMARK_QUERY_PATH + "group_by_having_count_distinct.rq", "r")
+                group_by_having_count_distinct_query = input_file.read
+                group_by_having_count_distinct_ms = apache_bench_test(group_by_having_count_distinct_query, endpoint)
+                p "group_by_having_count_distinct:" + group_by_having_count_distinct_ms.to_s + "[ms]"
+                
+                #order_byのベンチマーククエリに関してapache benchを利用して取得までの時間を取得
+                input_file = File.open(BENCHMARK_QUERY_PATH + "order_by.rq", "r")
+                order_by_query = input_file.read
+                order_by_ms = apache_bench_test(order_by_query, endpoint)
+                p "order_by:" + order_by_ms.to_s + "[ms]"
 
                 #unionのベンチマーククエリに関してapache benchを利用して取得までの時間を取得
                 input_file = File.open(BENCHMARK_QUERY_PATH + "union.txt", "r")
@@ -110,7 +116,7 @@ File = open("input/SPARQLendpoint.json") do |file|
                 subquery_ms = apache_bench_test(subquery, endpoint)
                 p "subquery:" + subquery_ms.to_s + "[ms]"
                 
-                csv << [endpoint["server_type"],endpoint["label"], endpoint["rdf_store"],endpoint["url"],endpoint["graph_uri"], triple_num_result[0][:triple_num], count_ms, distinct_ms, filter_rdftype_ms,filter_regex_ms, group_by_having_ms, union_ms, optional_ms, subquery_ms]
+                csv << [endpoint["server_type"],endpoint["label"], endpoint["rdf_store"],endpoint["url"],endpoint["graph_uri"], triple_num_result[0][:triple_num], count_ms, distinct_ms, filter_regex_ms, group_by_having_count_distinct_ms, order_by_ms, union_ms, optional_ms, subquery_ms]
             end
         end
     end
