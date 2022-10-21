@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido188,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido188,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido188,http://ja.dbpedia.org/property/読み仮名,かつやまおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido188,https://schema.org/address,北海道常呂郡置戸町字常元197番地の6,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido188,https://schema.org/name,勝山温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido188,https://schema.org/description,置戸町の緑豊かな森と、さわやかに流れる清流常呂川のそばにある勝山温泉。おけとの山々を見渡す勝山温泉は無色透明の湯。細やかな湯花が浮かびあがり、ほんのりと硫黄の香りが漂っています。毎分300リットルの豊富な湯量でたっぷりと温泉を味わうことができます。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido188,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido188,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

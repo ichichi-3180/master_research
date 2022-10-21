@@ -1,0 +1,7 @@
+endpoint_url,triple_num,count,distinct,filter_rdf:type,filter_regex,group_by_having,union,optional,subquery
+https://lov.linkeddata.es/dataset/lov/sparql,1022815,1655.302,3914.153,1080.126,6361.692,1081.802,86419.952,1091.248,1227.621
+https://id.ndl.go.jp/auth/ndla/sparql,22567697,112.823,83.353,88.043,83.662,83.865,90.061,86.343,151.353
+http://dbkwik.webdatacommons.org/sparql,126933410,5953.121,16505.38,7508.539,7149.434,7175.587,6196.456,810.256,558.132
+https://ja.dbpedia.org/sparql,1863634780,,,436.43,526.452,2945.891,476.841,91.328,12533.384
+https://dbpedia.org/sparql,1105790160,,,,5930.177,,5581.538,,1109.824
+https://jpsearch.go.jp/rdf/sparql,1179586060,2334.424,,337.999,338.672,672.526,676.404,103.054,6226.591

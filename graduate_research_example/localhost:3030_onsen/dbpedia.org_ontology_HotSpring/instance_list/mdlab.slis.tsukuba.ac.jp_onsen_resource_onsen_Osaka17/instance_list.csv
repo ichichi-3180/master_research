@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Osaka17,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Osaka17,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature0,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Osaka17,http://ja.dbpedia.org/property/読み仮名,いこまさんりゅうまおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Osaka17,https://schema.org/address,大阪府大東市大字龍間２６６－８,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Osaka17,https://schema.org/name,生駒山龍間温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Osaka17,https://schema.org/description,大阪府と奈良県の境にそびえる生駒山麗に立つ、リゾート空間。広大な敷地にお城のような建物と、グリーンいっぱいのゴルフ場が広がる。「大阪平野の夜景を一望する立地」はカップルを中心に人気があり、ここの湯は知る人ぞ知る「隠れ湯」スポットとして注目されている。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Osaka17,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Osaka17,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

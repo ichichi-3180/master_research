@@ -1,5 +1,0 @@
-http://dbpedia.org/ontology/ambassador,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,uri,,1.0
-http://dbpedia.org/ontology/ambassador,https://schema.org/name,literal,,1.0
-http://dbpedia.org/ontology/ambassador,http://seiyu-lod.org/ontology/voicedBy,uri,https://schema.org/Person,1.0
-http://dbpedia.org/ontology/ambassador,https://schema.org/creator,uri,https://schema.org/Person,1.0
-http://dbpedia.org/ontology/ambassador,https://schema.org/member,uri,https://schema.org/PerformingGroup,0

@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka68,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka68,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka68,http://ja.dbpedia.org/property/読み仮名,しだおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka68,https://schema.org/address,静岡県藤枝市志太600-2-2,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka68,https://schema.org/name,志太温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka68,https://schema.org/description,静岡駅より東海道線にて18分で藤枝駅。駅より車で7分志太温泉に到着。緑多き山懐に閑静な温泉が二件。周囲の自然と調和した落ち着きのある温泉だ。このあたり一体はかつて塩場ヶ谷と呼ばれ、泥層中にあるガスが溶けた塩水と、基盤の第三紀層に浸透した地下水とが混合され噴出した温泉である。泉質は肌に良いことで有名。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka68,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka68,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

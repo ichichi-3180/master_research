@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido201,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido201,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature3,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido201,http://ja.dbpedia.org/property/読み仮名,うらうすおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido201,https://schema.org/address,北海道樺戸郡浦臼町キナウスナイ１８８,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido201,https://schema.org/name,うらうす温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido201,https://schema.org/description,札幌と旭川の中間地点に位置する田園風景の中にある一軒宿の温泉。鶴沼が一望できる大浴場の大きな窓からは四季折々折の風景がみられる。ジャグジーとサウナも完備。施設内には地産の食材をふんだんに使ったレストランもあり、湯上りの食事も楽しめる。特に地元産のそば粉で打った牡丹そばを食べられるのはココだけ。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido201,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido201,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

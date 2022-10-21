@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano227,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano227,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature0,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano227,http://ja.dbpedia.org/property/読み仮名,さんぴあおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano227,https://schema.org/address,長野県佐久市根岸3263-2,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano227,https://schema.org/name,さんぴあ温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano227,https://schema.org/description,「サンピア佐久」最上階にある展望大浴場。高台に位置しているので、浅間連峰の山々と佐久平を眺望。露天風呂、季節のハーブなどが入る薬湯、、ミストサウナ、低温サウナと充実した設備。日帰り温泉は10：00～21：00（受付終了20：30）大人500円。無料休憩室もあるので、のんびりできる。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano227,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano227,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

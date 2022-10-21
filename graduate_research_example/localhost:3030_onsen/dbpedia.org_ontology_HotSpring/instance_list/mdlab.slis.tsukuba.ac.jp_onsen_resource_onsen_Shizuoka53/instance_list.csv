@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka53,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka53,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature0,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka53,http://ja.dbpedia.org/property/読み仮名,しもだおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka53,https://schema.org/address,静岡県下田市柿崎,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka53,https://schema.org/name,下田温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka53,https://schema.org/description,下田市内に点在する単純泉の蓮台寺温泉・河内温泉・白浜温泉や、強アルカリ泉の観音温泉などを総称して慣例的に下田温泉と呼んでいる。以上のほか白浜、相玉、田牛などにも源泉がある。また引湯も発達しているので、源泉から離れた下田旧町内、須崎、大浦などでも温泉を楽しむことができる。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka53,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka53,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma111,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma111,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature4,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma111,http://ja.dbpedia.org/property/読み仮名,くらぶちかわうらおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma111,https://schema.org/address,群馬県高崎市倉渕町川浦27-80,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma111,https://schema.org/name,倉渕川浦温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma111,https://schema.org/description,黄金色の天然温泉（加水・加温　循環ろ過）は、泉質はナトリウム、カルシウム、塩化物、硫酸塩温泉。三種混合の湯といわれ、疲れた身体をゆったりと癒してくるのはもちろん、肌がモチモチ、ツヤツヤになると言われ、女性に好評です。移りゆく倉渕の季節を愛でながら、はまゆう山荘の湯船で堪能できます。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma111,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma111,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

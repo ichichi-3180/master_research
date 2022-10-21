@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamaguchi32,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamaguchi32,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature1,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamaguchi32,http://ja.dbpedia.org/property/読み仮名,みやのおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamaguchi32,https://schema.org/address,山口県山口市宮野上,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamaguchi32,https://schema.org/name,宮野温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamaguchi32,https://schema.org/description,山陽路唯一の温泉郷として栄え、今もなお華やかな雰囲気に包まれている。その昔、一匹の白狐が夜な夜な湯に浸かって傷を治したという「白狐伝説」が言い伝えられ、マスコットにもなっている。市内には中原中也記念館があり、直筆の原稿や愛用品などが陳列されている。透明の弱アルカリ性単純温泉。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamaguchi32,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamaguchi32,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

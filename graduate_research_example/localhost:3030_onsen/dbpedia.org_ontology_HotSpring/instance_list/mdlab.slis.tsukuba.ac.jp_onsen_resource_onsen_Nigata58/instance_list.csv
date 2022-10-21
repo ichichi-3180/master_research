@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata58,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata58,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature0,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata58,http://ja.dbpedia.org/property/読み仮名,おおゆおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata58,https://schema.org/address,新潟県北魚沼郡湯之谷村大湯,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata58,https://schema.org/name,大湯温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata58,https://schema.org/description,開湯１３００年の歴史、大湯温泉は越後駒ヶ岳より流れ出る清流佐梨川を挟み合うかたちの温泉地。豊富な湯量と大自然が訪れる人を魅了している。個性豊かな旅館や飲食店が集まった情緒たっぷりの温泉街は訪れる人をやさしく迎えてくれる。春の新緑、夏の尾瀬、秋の紅葉、冬のスキー雪見と四季を通して楽しめる。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata58,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata58,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

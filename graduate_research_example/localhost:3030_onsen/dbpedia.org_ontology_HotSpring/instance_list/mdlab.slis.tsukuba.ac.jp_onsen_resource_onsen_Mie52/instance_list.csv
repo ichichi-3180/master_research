@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Mie52,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Mie52,http://ja.dbpedia.org/property/泉質,http://iris.slis.tsukuba.ac.jp:3050/onsen/data,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Mie52,http://ja.dbpedia.org/property/読み仮名,いせげくうさんどうおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Mie52,https://schema.org/address,三重県伊勢市本町１－１,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Mie52,https://schema.org/name,伊勢外宮参道温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Mie52,https://schema.org/description,伊勢神宮外宮参道にある温泉。JR近鉄「伊勢市駅」の目の前にあり、アクセスが良好なのも魅力のひとつ。ナトリウム塩化物泉・炭酸水素塩泉で慢性皮膚病や慢性婦人病等に効能があり、筋肉痛や神経痛、疲労回復にも効果があるといわれ伊勢神宮参拝者の疲れを癒す。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Mie52,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Mie52,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

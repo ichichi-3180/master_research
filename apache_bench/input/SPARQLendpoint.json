@@ -1,0 +1,142 @@
+[
+    {
+        "server_type": "local",
+        "label": "SP2Bench_10000",
+        "rdf_store": "fuseki",
+        "url": "http://localhost:3030/SP2Bench_10000/sparql",
+        "graph_uri": null
+    },
+    {
+        "server_type": "local",
+        "label": "SP2Bench_100000",
+        "rdf_store": "fuseki",
+        "url": "http://localhost:3030/SP2Bench_100000/sparql",
+        "graph_uri": null
+    },
+    {
+        "server_type": "local",
+        "label": "SP2Bench_1000000",
+        "rdf_store": "fuseki",
+        "url": "http://localhost:3030/SP2Bench_1000000/sparql",
+        "graph_uri": null
+    },
+    {
+        "server_type": "local",
+        "label": "SP2Bench_10000000",
+        "rdf_store": "fuseki",
+        "url": "http://localhost:3030/SP2Bench_10000000/sparql",
+        "graph_uri": null
+    },
+    {
+        "server_type": "local",
+        "label": "onsen",
+        "rdf_store": "fuseki",
+        "url": "http://localhost:3030/onsen/sparql",
+        "graph_uri": null
+    },
+    {
+        "server_type": "local",
+        "label": "botanical",
+        "rdf_store": "fuseki",
+        "url": "http://localhost:3030/botanical/sparql",
+        "graph_uri": null
+    },
+    {
+        "server_type": "local",
+        "label": "textbook",
+        "rdf_store": "fuseki",
+        "url": "http://localhost:3030/textbook/sparql",
+        "graph_uri": null
+    },
+    {
+        "server_type": "remote",
+        "label": "lov",
+        "rdf_store": null,
+        "url": "https://lov.linkeddata.es/dataset/lov/sparql",
+        "graph_uri": null
+    },
+    {
+        "server_type": "remote",
+        "label": "ndl",
+        "rdf_store": null,
+        "url": "https://id.ndl.go.jp/auth/ndla/sparql",
+        "graph_uri": null
+    },
+    {
+        "server_type": "remote",
+        "label": "web data commons",
+        "rdf_store": null,
+        "url": "http://dbkwik.webdatacommons.org/sparql",
+        "graph_uri": null
+    },
+    {
+        "server_type": "remote",
+        "label": "dbpedia japanese",
+        "rdf_store": null,
+        "url": "https://ja.dbpedia.org/sparql",
+        "graph_uri": null
+    },
+    {
+        "server_type": "remote",
+        "label": "dbpedia",
+        "rdf_store": null,
+        "url": "https://dbpedia.org/sparql",
+        "graph_uri": null
+    },
+    {
+        "server_type": "remote",
+        "label": "japan search",
+        "rdf_store": null,
+        "url": "https://jpsearch.go.jp/rdf/sparql",
+        "graph_uri": null
+    },
+    {
+        "server_type": "local",
+        "label": "SP2Bench_10000",
+        "rdf_store": "virtuoso",
+        "url": "http://localhost:8890/sparql",
+        "graph_uri": "http://localhost:8890/SP2Bench_10000"
+    },
+    {
+        "server_type": "local",
+        "label": "SP2Bench_100000",
+        "rdf_store": "virtuoso",
+        "url": "http://localhost:8890/sparql",
+        "graph_uri": "http://localhost:8890/SP2Bench_100000"
+    },
+    {
+        "server_type": "local",
+        "label": "SP2Bench_1000000",
+        "rdf_store": "virtuoso",
+        "url": "http://localhost:8890/sparql",
+        "graph_uri": "http://localhost:8890/SP2Bench_1000000"
+    },
+    {
+        "server_type": "local",
+        "label": "SP2Bench_10000000",
+        "rdf_store": "virtuoso",
+        "url": "http://localhost:8890/sparql",
+        "graph_uri": "http://localhost:8890/SP2Bench_10000000"
+    },
+    {
+        "server_type": "local",
+        "label": "onsen",
+        "rdf_store": "virtuoso",
+        "url": "http://localhost:8890/sparql",
+        "graph_uri": "http://localhost:8890/onsen"
+    },
+    {
+        "server_type": "local",
+        "label": "botanical",
+        "rdf_store": "virtuoso",
+        "url": "http://localhost:8890/sparql",
+        "graph_uri": "http://localhost:8890/botanical"
+    },
+    {
+        "server_type": "local",
+        "label": "textbook",
+        "rdf_store": "virtuoso",
+        "url": "http://localhost:8890/sparql",
+        "graph_uri": "http://localhost:8890/textbook"
+    }
+]

@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi91,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi91,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature0,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi91,http://ja.dbpedia.org/property/読み仮名,しんげんおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi91,https://schema.org/address,山梨県甲府市国母８－１－１,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi91,https://schema.org/name,信玄温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi91,https://schema.org/description,甲府の街中にあるホテル１２３甲府の敷地内に湧出している温泉で、源泉100%かけ流し湯の単純温泉。温泉の温度は44度程、湯量は豊富で、1階の大浴場・2階の露天風呂またリニューアル時新設した貸切風呂にて、宿泊客や立ち寄り湯利用としても人気の温泉。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi91,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi91,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

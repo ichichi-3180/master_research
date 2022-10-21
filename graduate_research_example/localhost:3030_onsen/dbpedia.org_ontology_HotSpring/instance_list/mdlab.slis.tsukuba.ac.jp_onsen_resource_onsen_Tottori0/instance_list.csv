@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tottori0,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tottori0,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature9,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tottori0,http://ja.dbpedia.org/property/読み仮名,いわいおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tottori0,https://schema.org/address,鳥取県岩美郡岩美町岩井,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tottori0,https://schema.org/name,岩井温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tottori0,https://schema.org/description,JR山陰本線岩美駅から3キロほどの蒲生川上流に湧く温泉で、1300年の歴史を誇る古湯。古くは湯治場で栄えたが、現在は古きよき時代を今に残す静かな湯の町。名物は江戸時代から伝わる「湯かむり」。これは､唄に合わせて柄の短い柄杓で湯を叩いてしぶきを浴び､また、頭から湯をかぶるという奇習。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tottori0,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tottori0,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

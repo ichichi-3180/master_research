@@ -1,8 +1,0 @@
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate3,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate3,https://schema.org/address,岩手県花巻市金矢第５地割２５１－１,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate3,https://schema.org/name,金矢温泉ホテル銀河パークはなまき,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate3,https://schema.org/description,宮沢賢治の故郷花巻市にある、安らぎの時間を見つけられる温泉宿,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate3,http://ja.dbpedia.org/property/郵便番号,025-0321,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate3,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507814868,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate3,http://www.w3.org/2003/01/geo/wgs84_pos#long,141964853,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Iwate3,https://schema.org/image,約100ヘクタールもの広大な敷地面積を持つ花巻広域公園内に位置するホテル。地下1300ｍからボーリングして出てきた湯は「万寿の湯」と呼ばれ、地元客に好まれている良質な低張性アルカリ性高温泉,literal,,1.0

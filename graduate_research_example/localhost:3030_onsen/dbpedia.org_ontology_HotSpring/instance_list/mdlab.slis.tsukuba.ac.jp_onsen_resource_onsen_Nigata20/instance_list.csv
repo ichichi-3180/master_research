@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata20,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata20,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature16,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata20,http://ja.dbpedia.org/property/読み仮名,むらすぎおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata20,https://schema.org/address,新潟県北蒲原郡笹神村村杉,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata20,https://schema.org/name,村杉温泉　(五頭),literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata20,https://schema.org/description,新潟平野を見下ろす五頭山の麓に広がる五頭温泉郷｡３つの異なる温泉にに１８軒の宿が集う静かな温泉街｡２ヶ所の露天風呂(公共）と３ヶ所の公共浴場を湯めぐりすることができる｡旅館では、各宿、新潟の山海の幸を使った自慢の料理を楽しむ事ができる。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata20,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata20,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

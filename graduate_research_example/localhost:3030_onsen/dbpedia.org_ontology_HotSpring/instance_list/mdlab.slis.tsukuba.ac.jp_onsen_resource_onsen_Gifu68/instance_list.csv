@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu68,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu68,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature3,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu68,http://ja.dbpedia.org/property/読み仮名,ふたこえおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu68,https://schema.org/address,岐阜県郡上市高鷲町鷲見48-1,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu68,https://schema.org/name,ふたこえ温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu68,https://schema.org/description,郡上市高鷲町にある自然に囲まれた場所に湧く温泉。企業の保養所を一般向けに開放した施設となっている。日帰りでの入浴も可能となっており、広々とした露天風呂では開放的な気分が味わえる。泉質は炭酸水素塩・塩化物温泉で疲労回復・冷え性・筋肉痛等に良いとされる。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu68,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu68,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

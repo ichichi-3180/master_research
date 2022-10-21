@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shimane1,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shimane1,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature9,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shimane1,http://ja.dbpedia.org/property/読み仮名,さんべおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shimane1,https://schema.org/address,島根県大田市三瓶町志学,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shimane1,https://schema.org/name,三瓶温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shimane1,https://schema.org/description,浜田市、益田市、大田市、美郷町、邑南町、川本町、江津市、津和野町、吉賀町に数多く温泉が湧出している。美人湯として名高い美又温泉や旭温泉、日本海の大パノラマを感じれる荒磯温泉、ラドン含有量が豊富な津和野温泉、まさに秘湯という言葉がぴったりの大谷温泉や多田温泉、家族で楽しみたい風の国温泉がその代表格。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shimane1,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shimane1,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

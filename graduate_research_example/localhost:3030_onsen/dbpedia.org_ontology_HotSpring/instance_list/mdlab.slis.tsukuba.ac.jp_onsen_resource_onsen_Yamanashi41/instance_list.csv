@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi41,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi41,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature0,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi41,http://ja.dbpedia.org/property/読み仮名,しもべおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi41,https://schema.org/address,山梨県西八代郡下部町,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi41,https://schema.org/name,下部温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi41,https://schema.org/description,武田信玄の隠し湯として知られる下部温泉。単純鉱泉の湯温は約３２℃。何もせず、じっくりと湯に浸かり身体や気持ちのコリをほぐす。下部川の清流を臨み、山間にひっそりと佇む温泉街は派手な観光化もされていない忘れ去られたような場所に湯宿が並ぶ。飲泉も楽しめ、効能は東の横綱とも言われている。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi41,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi41,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

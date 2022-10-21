@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido287,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido287,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature9,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido287,http://ja.dbpedia.org/property/読み仮名,ゆこまんべつおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido287,https://schema.org/address,北海道上川郡東川町勇駒別旭岳温泉,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido287,https://schema.org/name,湧駒別温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido287,https://schema.org/description,1954～60年に発見された旭岳温泉は、大雪山連峰の北東・切り立った大渓谷の中にある。泉質は単純硫黄泉で、効能はリウマチ、糖尿病、高血圧など。天人峡温泉は旭川の南東約40km、天人峡の景勝地にあり秘境の湯といった感じの情緒ある温泉街だ。含食塩芒硝泉でやや黄味を帯びた温泉は、神経痛、創傷等に効能あり。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido287,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido287,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano121,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano121,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature9,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano121,http://ja.dbpedia.org/property/読み仮名,しもすわおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano121,https://schema.org/address,長野県諏訪郡下諏訪町,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano121,https://schema.org/name,下諏訪温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano121,https://schema.org/description,中山道と甲州街道が合流する温泉地として栄えた下諏訪宿。今でも宿場街の江戸情緒が香る。町内25ヶ所の源泉からは毎分６千リットルもの温泉が溢れ、１０ヶ所もある公衆浴場はすっかり下諏訪の暮らしに溶け込んでいる。旅行客も気軽に湯めぐりを楽しむことができる。泉質は肌に優しい単純泉。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano121,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano121,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

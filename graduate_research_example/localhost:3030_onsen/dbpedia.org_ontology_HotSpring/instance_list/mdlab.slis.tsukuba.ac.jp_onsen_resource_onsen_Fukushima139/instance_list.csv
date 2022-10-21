@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima139,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima139,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature0,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima139,http://ja.dbpedia.org/property/読み仮名,でこだいらおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima139,https://schema.org/address,福島県耶麻郡北塩原村大字桧原字荒沢砂山1032,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima139,https://schema.org/name,デコ平温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima139,https://schema.org/description,裏磐梯の中でもブナ林の少し下にある「ホテルグランデコ」の自然源泉。ねむっていた温泉を平成16年夏からオープンした。標高1040ｍという静かな一軒宿、標高の高さと澄んだ空気で露天からは満天の星が見れることもしばしば。同経営のゴンドラも通年営業で、冬のゲレンデシーズン以外にも夏や秋の紅葉時期の人気スポット。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima139,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima139,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

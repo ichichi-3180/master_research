@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma112,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma112,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma112,http://ja.dbpedia.org/property/読み仮名,あきまおんせんあるばとろゆ,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma112,https://schema.org/address,群馬県安中市安中５８５３,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma112,https://schema.org/name,秋間温泉あるばとろ湯,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma112,https://schema.org/description,温泉マーク、民話舌切り雀の発祥の地として知られる磯部温泉は新幹線「安中榛名駅」もあり便利な立地条件にある。磯部温泉使用の磯部煎餅でも知られる温泉は塩化物泉、効能は一般的適応症、やけど・切り傷・慢性婦人病など。碓氷第三簗は通称「めがね橋」と言われている。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma112,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma112,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

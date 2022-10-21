@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagasaki34,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagasaki34,http://ja.dbpedia.org/property/泉質,http://iris.slis.tsukuba.ac.jp:3050/onsen/data,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagasaki34,http://ja.dbpedia.org/property/読み仮名,いなさやまおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagasaki34,https://schema.org/address,長崎県長崎市大鳥町５２３,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagasaki34,https://schema.org/name,稲佐山温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagasaki34,https://schema.org/description,異国情緒あふれる長崎市にある温泉。長崎駅から車で10分ほどの場所にある観光の名所、稲佐山の中腹にある稲佐山温泉や、市内中心地の長崎港より船で19分の伊王島にある長崎温泉、また野母（のも）半島にある脇岬温泉など。それぞれの温泉施設からは絶景を望むこができ、街中で癒されることができると人気。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagasaki34,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagasaki34,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

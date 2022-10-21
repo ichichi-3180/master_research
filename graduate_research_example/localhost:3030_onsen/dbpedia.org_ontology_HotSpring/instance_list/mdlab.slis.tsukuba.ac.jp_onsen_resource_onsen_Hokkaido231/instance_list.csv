@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido231,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido231,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature3,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido231,http://ja.dbpedia.org/property/読み仮名,きんのゆ,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido231,https://schema.org/address,北海道北見市端野町２区８２９番地,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido231,https://schema.org/name,金の湯,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido231,https://schema.org/description,サロマ湖鶴雅リゾートに湧出した「ワッカの湯」。泉質である含鉄塩化物泉は多量の鉄分を含み、保温効果が非常に高く「熱の湯」と呼ばれ、冷え性などに効くといわれてます。また焼肉で有名な北見には市内やリゾートなど源泉をもつ宿が点在。ビジネス・観光両面で楽しめるエリア。中には有馬温泉と同じ金泉の宿もある。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido231,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido231,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

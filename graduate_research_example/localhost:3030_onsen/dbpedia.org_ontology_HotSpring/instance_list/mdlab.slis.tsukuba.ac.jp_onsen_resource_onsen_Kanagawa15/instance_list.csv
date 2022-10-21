@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa15,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa15,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature5,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa15,http://ja.dbpedia.org/property/読み仮名,みやのしたおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa15,https://schema.org/address,神奈川県足柄下郡箱根町宮ノ下,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa15,https://schema.org/name,宮ノ下温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa15,https://schema.org/description,国道1号と138号の分岐する付近に涌く温泉。江戸時代は江戸の豪商の湯治場として栄えた。その後明治時代に外国人の為のリゾートとして賑わう。象徴的な富士屋ホテル前の国道1号沿いはセピア通りと呼ばれ、写真館やみやげ物店の看板の文字に当時のハイカラな時代がしのばれる。今も多くの観光客が訪れる温泉地,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa15,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa15,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

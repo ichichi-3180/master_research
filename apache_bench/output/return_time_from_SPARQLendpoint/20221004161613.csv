@@ -1,0 +1,5 @@
+endpoint_url,triple_num,count,distinct,filter,group_by_having,union,optional,subquery
+http://localhost:3030/SP2Bench_10000/sparql,10303,85.014,159.177,12.627,7.702,128.734,67.502,168.505
+http://localhost:3030/SP2Bench_100000/sparql,100073,111.68,189.217,11.649,10.541,165.669,45.544,281.912
+http://localhost:3030/SP2Bench_1000000/sparql,1000009,793.499,1323.233,13.674,15.715,993.452,348.369,1215.319
+http://localhost:3030/SP2Bench_10000000/sparql,10000457,3746.438,8567.206,25.252,4.518,6010.471,749.491,6509.712

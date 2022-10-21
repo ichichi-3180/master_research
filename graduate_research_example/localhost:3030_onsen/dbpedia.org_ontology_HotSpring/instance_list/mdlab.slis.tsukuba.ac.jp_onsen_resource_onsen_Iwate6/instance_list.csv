@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate6,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate6,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature0,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate6,http://ja.dbpedia.org/property/読み仮名,とぴやおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate6,https://schema.org/address,岩手県二戸郡安代町細野,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate6,https://schema.org/name,とぴや温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate6,https://schema.org/description,スキーやテニスなどのリゾート地として人気の安比高原周辺の温泉。スキー場に隣接した「ＡＰＰＩ温泉パティオ」をはじめ、強食塩泉の美肌の湯「新安比温泉」、日帰り入浴施設の「あずみの湯」など、泉質や効能の異なる7ヶ所の温泉がある。ホテルやペンションなど宿泊施設も豊富。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate6,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate6,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

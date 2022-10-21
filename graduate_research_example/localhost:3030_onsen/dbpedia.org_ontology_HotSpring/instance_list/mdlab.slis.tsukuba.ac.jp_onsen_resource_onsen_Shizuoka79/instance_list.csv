@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka79,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka79,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature3,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka79,http://ja.dbpedia.org/property/読み仮名,こむろおんせん　こんごうせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka79,https://schema.org/address,静岡県伊東市吉田字西初平治山843,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka79,https://schema.org/name,小室温泉　混合泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka79,https://schema.org/description,温暖な気候に恵まれた環境の伊豆高原は東京からも近く日帰り入浴や１泊温泉旅行にも最適立地。伊豆高原温泉の主な泉質はアルカリ性単純泉で神経痛、関節痛、筋肉痛、婦人科系疾患などがあげられている。お洒落なペンションから家族的な民宿まで様々な宿種がありシーンに合わせ選べる魅力エリア。３月に桜がメイン通りに咲き誇り美術館や博物館、体験モノ施設なども充実。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka79,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka79,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

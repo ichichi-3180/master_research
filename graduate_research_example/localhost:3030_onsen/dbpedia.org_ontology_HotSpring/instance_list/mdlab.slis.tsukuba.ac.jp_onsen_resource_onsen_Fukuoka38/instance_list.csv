@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukuoka38,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukuoka38,http://ja.dbpedia.org/property/泉質,http://iris.slis.tsukuba.ac.jp:3050/onsen/data,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukuoka38,http://ja.dbpedia.org/property/読み仮名,わかまつひびきおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukuoka38,https://schema.org/address,福岡県北九州市若松区大字有毛字２８２９番,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukuoka38,https://schema.org/name,若松ひびき温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukuoka38,https://schema.org/description,北九州市で最初に湧出したという「若松ひびき温泉」は湯量豊富で塩分が濃く、じんわりと身体が温まります。玄海国定公園の北端に位置する岩屋海岸の岬から清々しいばかりの大海原、空と海面を真っ赤に染める夕陽、満天の星空、旅情を誘う漁火など、リゾートの旅を演出する眺望が目の前に広がります。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukuoka38,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukuoka38,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

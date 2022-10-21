@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamagata89,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamagata89,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature7,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamagata89,http://ja.dbpedia.org/property/読み仮名,ひろがわらおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamagata89,https://schema.org/address,山形県西置賜郡飯豊町広河原湯ノ沢448-2,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamagata89,https://schema.org/name,広河原温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamagata89,https://schema.org/description,のどかな自然の中にある温泉地。温泉は単純泉（低張性中性温泉）で、少し茶色がかり刺激の少ない柔らかな肌あたり。源泉から湧き出るお湯の温度が３９.６度の若干ぬるめの温泉だが、のんびり温泉に浸かっていると身体の芯からぽかぽかと温まり、湯上り後も湯冷めしにくい「温まりの湯」と人気。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamagata89,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamagata89,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

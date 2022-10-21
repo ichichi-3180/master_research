@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa33,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa33,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature1,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa33,http://ja.dbpedia.org/property/読み仮名,せんじょうおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa33,https://schema.org/address,石川県白山市河内町内尾口65番地,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa33,https://schema.org/name,千丈温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa33,https://schema.org/description,手つかずの自然が残る直海谷川河畔に、温泉が湧き出したのは昭和52年。直海谷川のほとり、渓谷美に彩られた緑豊かな温泉地。無味無臭の湯は透明でさらりとしており、肌にやさしく馴染んでくるようです。荒々しく切り立った渓谷に抱かれて、静かな時間を過ごすことができます。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa33,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ishikawa33,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

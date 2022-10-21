@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka43,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka43,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature9,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka43,http://ja.dbpedia.org/property/読み仮名,どうがしまおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka43,https://schema.org/address,静岡県賀茂郡西伊豆町仁科堂ヶ島,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka43,https://schema.org/name,堂ヶ島温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka43,https://schema.org/description,美人の湯で知られる堂ヶ島温泉。旅館やホテルのお風呂からの景色も見事だが、町営温泉も見逃せない！潮風に吹かれながら景色も楽しめる沢田公園露天風呂や、なぎさの湯は温泉好きが集う日帰り温泉。とれたての伊豆の幸を味わうのもお忘れなく。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka43,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka43,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

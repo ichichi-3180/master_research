@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata73,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata73,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature0,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata73,http://ja.dbpedia.org/property/読み仮名,ぐりーんぴあつなんおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata73,https://schema.org/address,新潟県中魚沼郡津南町秋成,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata73,https://schema.org/name,グリーンピア津南温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata73,https://schema.org/description,県内屈指の総合リゾートエリア、グリーンピア津南の温泉。泉質は２種類（単純温泉と塩化物ナトリウム泉）あり、あわせ湯として楽しめる。本館にはサウナ付大浴場､東館には2002年にリニューアルした眺めの良い露天風呂付展望大浴場がある。スキーやテニス他､豊富なアクティビティで遊んだあとにのんびり入りたい温泉だ。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata73,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata73,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

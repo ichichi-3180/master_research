@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata178,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata178,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata178,http://ja.dbpedia.org/property/読み仮名,おおみねおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata178,https://schema.org/address,新潟県上越市木田1丁目1番3号,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata178,https://schema.org/name,大峯温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata178,https://schema.org/description,ナトリウム-塩化物泉は、皮膚についた塩分が体温の放散を妨げるので保温効果が高い「熱の湯」といわれ、関節痛、筋肉痛。リウマチに有効といわれています。また、泉質濃度が薄いため、刺激が弱く作用も穏やかであるため、のぼせにくく、皮膚刺激も柔らかであるのが特徴であり、幅広い年齢層の方々に親しまれています。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata178,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata178,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

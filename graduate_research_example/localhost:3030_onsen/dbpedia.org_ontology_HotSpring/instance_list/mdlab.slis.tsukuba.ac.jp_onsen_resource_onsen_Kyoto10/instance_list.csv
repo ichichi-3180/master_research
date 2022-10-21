@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kyoto10,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kyoto10,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature0,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kyoto10,http://ja.dbpedia.org/property/読み仮名,ももやまおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kyoto10,https://schema.org/address,京都府京都市伏見区桃山町安長老,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kyoto10,https://schema.org/name,桃山温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kyoto10,https://schema.org/description,豊臣秀吉が築いた伏見城の城下町として栄えてきた伏見・観月橋そば、宇治川沿いにある温泉地。昔、宇治川には三十石船が運行、京都と大阪を結ぶ港町として賑わった。伏見という地名通り、伏流水に恵まれた土地で、酒造りも盛ん。泉質は単純硫化水素泉のやわらかい湯で、神経痛やリウマチなどに効果があると言われている。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kyoto10,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kyoto10,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

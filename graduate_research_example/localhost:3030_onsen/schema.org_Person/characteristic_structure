@@ -1,9 +1,0 @@
-digraph{
-        graph [rankdir = LR];
-    "https://schema.org/Person"->URI1[label="http://www.w3.org/1999/02/22-rdf-syntax-ns#type
-existprobab:1.0"]
-"https://schema.org/Person"->LITERAL1[label="https://schema.org/name
-existprobab:1.0"]
-URI1[shape="ellipse"]
-LITERAL1[shape="box"]
-}

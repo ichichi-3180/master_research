@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki40,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki40,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki40,http://ja.dbpedia.org/property/読み仮名,いこいのむらひぬまおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki40,https://schema.org/address,茨城県鉾田市箕輪3604,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki40,https://schema.org/name,いこいの村涸沼温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki40,https://schema.org/description,都心より90分、美しい涸沼湖畔にある。泉質はナトリウム塩化物質・炭酸水素塩泉。効能は神経痛・疲労回復。きりきず・やけど・慢性皮膚病・慢性婦人病等。特にアトピーに効くと地元でも人気。湖畔には、パターゴルフやテニス、夏季にはスライダー付プールもあり、一年を通して楽しめる。もちろん、釣りやボートｌもある。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki40,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki40,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

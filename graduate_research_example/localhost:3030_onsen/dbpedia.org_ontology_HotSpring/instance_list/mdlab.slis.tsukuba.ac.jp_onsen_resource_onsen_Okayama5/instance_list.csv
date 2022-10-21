@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama5,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama5,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature0,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama5,http://ja.dbpedia.org/property/読み仮名,おくつおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama5,https://schema.org/address,岡山県苫田郡奥津町奥津,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama5,https://schema.org/name,奥津温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama5,https://schema.org/description,発見は古く、戦国時代の武将や津山藩の湯治場にも使われた由緒ある湯の里。最近では日本観光地百選にも選ばれ、その名が全国に知られている。泉質はアルカリ性泉で、美白効果があるため､別名「美人の湯」とも呼ばれている。熊や狼に襲われないよう周囲を見張る為に立ったまま洗濯していた「足踏み洗濯」が有名で､定期的に披露されている。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama5,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okayama5,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

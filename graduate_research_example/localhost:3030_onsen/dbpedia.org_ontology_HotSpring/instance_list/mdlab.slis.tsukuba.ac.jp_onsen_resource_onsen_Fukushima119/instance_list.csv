@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima119,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima119,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima119,http://ja.dbpedia.org/property/読み仮名,てんきょうだいおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima119,https://schema.org/address,福島県耶麻郡猪苗代町大字長田字中丸3456-30,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima119,https://schema.org/name,天鏡台温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima119,https://schema.org/description,磐梯山から湧き出ている塩化物炭酸水素塩泉。全国でも珍しく数少ない茶褐色の天然温泉。この天鏡台温泉を磐梯山の頂上に向かって車を走らせると天鏡台昭和の森がある。猪苗代湖のパノラマが広がる美しい場所だ。冬はスキーで賑わう。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima119,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima119,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

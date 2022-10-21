@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kyoto17,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kyoto17,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature1,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kyoto17,http://ja.dbpedia.org/property/読み仮名,はまづめおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kyoto17,https://schema.org/address,京都府竹野郡網野町浜詰,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kyoto17,https://schema.org/name,浜詰温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kyoto17,https://schema.org/description,大阪から約３時間、夕日の名勝「夕日ヶ浦」に沸く通称「美人の湯」。他に神経痛や疲労などにも効能があるとか。静かな海辺の町に旅館・民宿が点在する。春、秋は豊富な地魚を、夏は海の家も登場する約８Kmのロングビーチで海水浴を、冬は自慢のカニ料理を戴けるのも魅力。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kyoto17,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kyoto17,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

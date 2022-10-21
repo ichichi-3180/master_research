@@ -1,8 +1,0 @@
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido94,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido94,https://schema.org/address,北海道上川郡美瑛町字白金,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido94,https://schema.org/name,湯元白金温泉ホテル,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido94,https://schema.org/description,十勝岳山麓に広がりし、白金温泉郷おもてなしの宿,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido94,http://ja.dbpedia.org/property/郵便番号,071-0235,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido94,http://www.w3.org/2003/01/geo/wgs84_pos#lat,513514362,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido94,http://www.w3.org/2003/01/geo/wgs84_pos#long,156498015,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido94,https://schema.org/image,和の落ち着きと優しさ、そして大自然の恵みで、身も心も存分におくつろぎ下さい。<BR><BR>,literal,,1.0

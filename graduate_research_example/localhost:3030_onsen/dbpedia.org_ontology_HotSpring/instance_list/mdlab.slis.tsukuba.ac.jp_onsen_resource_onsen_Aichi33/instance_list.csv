@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi33,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi33,http://ja.dbpedia.org/property/泉質,http://iris.slis.tsukuba.ac.jp:3050/onsen/data,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi33,http://ja.dbpedia.org/property/読み仮名,みなみちたてんねんおんせん　まるはうめのゆ,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi33,https://schema.org/address,愛知県知多郡南知多町大字豊浜字峠8,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi33,https://schema.org/name,南知多天然温泉　まるはうめ乃湯,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi33,https://schema.org/description,伊勢湾と三河湾の間に突き出した知多半島の南端に位置する南知多町。内海、山海、豊浜の3温泉があり南知多温泉郷と総称されている。中部地方随一の内海海水浴場、数多くの海浜が広がる。名古屋からも一時間程のアクセスでリゾート地として人気が高い。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi33,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi33,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

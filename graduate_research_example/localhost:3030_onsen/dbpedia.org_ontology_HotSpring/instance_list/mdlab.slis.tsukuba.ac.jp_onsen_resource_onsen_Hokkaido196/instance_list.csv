@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido196,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido196,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature3,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido196,http://ja.dbpedia.org/property/読み仮名,たきかわおんせん　たきかわふれあいのさと,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido196,https://schema.org/address,北海道滝川市西滝川76番地1,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido196,https://schema.org/name,滝川温泉　滝川ふれ愛の里,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido196,https://schema.org/description,『美人の湯』。アルカリ性の為、皮膚表面の脂肪分や分泌物が乳化し洗い流され肌がすべすべする。清涼感、冷感を覚えるので『冷の湯』とも呼ばれる。サラサラと肌のあたりが柔らかで、効能も幅広く、浴用には切り傷・やけど・神経痛・婦人病に、飲用では胃酸を中和することから二日酔いなどにも良いとされる。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido196,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido196,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

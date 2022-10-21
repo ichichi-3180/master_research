@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa12,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa12,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature9,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa12,http://ja.dbpedia.org/property/読み仮名,せんごくはらおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa12,https://schema.org/address,神奈川県足柄下郡箱根町仙石原,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa12,https://schema.org/name,仙石原温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa12,https://schema.org/description,江戸時代中期に発祥し、元湯場・俵石・仙石・下湯・上湯の5湯を総称して仙石原温泉と呼んでいる。無色透明な温泉や白く濁った酸性石膏泉もある。火口原湖の名残を残す湿原やすすき野原、そこに生息する植物や野鳥にも出会える、箱根の中でももっとも自然豊かな高原リゾート地でもある。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa12,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kanagawa12,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

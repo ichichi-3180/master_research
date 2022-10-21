@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyagi22,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyagi22,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature9,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyagi22,http://ja.dbpedia.org/property/読み仮名,とおがったおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyagi22,https://schema.org/address,宮城県刈田郡蔵王町遠刈田温泉,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyagi22,https://schema.org/name,遠刈田温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyagi22,https://schema.org/description,開湯400年の歴史ある温泉。昔から足腰の病に効くと言われ、現在の源泉数は８３本、豊富な湯は旅館､ホテル､ペンション等、様々に楽しめる。蔵王山麓の豊かな自然に恵まれ、お釜やドライブが楽しいエコーラインも近い。（お釜＝蔵王のシンボル。五色岳の火口湖（カルデラ湖）のこと。）,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyagi22,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyagi22,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

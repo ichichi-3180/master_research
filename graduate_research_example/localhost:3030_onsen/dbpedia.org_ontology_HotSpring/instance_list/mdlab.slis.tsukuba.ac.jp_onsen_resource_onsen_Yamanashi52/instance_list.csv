@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi52,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi52,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature0,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi52,http://ja.dbpedia.org/property/読み仮名,ふじかわぐちこおんせんきょう,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi52,https://schema.org/address,山梨県南都留郡河口湖町船津,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi52,https://schema.org/name,富士河口湖温泉郷,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi52,https://schema.org/description,河口湖では「天水の湯」、「霊水の湯」、「芙蓉の湯」、「麗峰の湯」の4つの源泉が湧出しており、湖畔沿いには富士山と湖を眺めながら温泉が楽しめる露天風呂や展望風呂を備えた旅館、ホテルが点在。富士の恵み豊かな温泉を湛えた湯船に身を委ね、春は桜と富士山、夏は夕闇に浮かぶ富士山の山小屋の灯火、秋は紅葉の山並みと初雪の富士山、冬は雪景色の富士山を眺められる。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi52,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi52,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

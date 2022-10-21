@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hiroshima6,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hiroshima6,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature16,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hiroshima6,http://ja.dbpedia.org/property/読み仮名,ようろうおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hiroshima6,https://schema.org/address,広島県尾道市美ノ郷町三成,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hiroshima6,https://schema.org/name,養老温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hiroshima6,https://schema.org/description,養老温泉は尾道の奥にある、こじんまりとした温泉地。昭和35年に、酒造りのために昔からいい水が沸くと言われて掘削したらラドンを多く含む水が出たので、これを酒造りでなく温泉として利用するようになったそうです。尾道の市街地からも近く温泉治療や労働者の長期滞在で英気をを養うために栄えた温泉地です。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hiroshima6,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hiroshima6,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

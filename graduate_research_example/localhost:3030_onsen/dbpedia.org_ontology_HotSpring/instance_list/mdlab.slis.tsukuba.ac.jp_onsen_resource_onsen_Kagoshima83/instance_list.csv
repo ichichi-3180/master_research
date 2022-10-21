@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kagoshima83,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kagoshima83,http://ja.dbpedia.org/property/泉質,http://iris.slis.tsukuba.ac.jp:3050/onsen/data,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kagoshima83,http://ja.dbpedia.org/property/読み仮名,ありむらおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kagoshima83,https://schema.org/address,鹿児島県鹿児島市古里町1078-64,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kagoshima83,https://schema.org/name,有村温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kagoshima83,https://schema.org/description,鹿児島市有村町にあります 桜島温泉郷 「有村温泉」。歴史の古い温泉ですが以前のものは桜島大噴火 （大正３年） で消失。砂浜を掘ると透明の温泉が湧出し、潮溜まりでも温泉が確認出来ます。但し、写真左のように砂中の泥 （温泉成分？） で変色する箇所もあり。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kagoshima83,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Kagoshima83,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saitama4,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saitama4,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature1,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saitama4,http://ja.dbpedia.org/property/読み仮名,あらきこうせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saitama4,https://schema.org/address,埼玉県秩父市山田1538,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saitama4,https://schema.org/name,新木鉱泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saitama4,https://schema.org/description,古くは江戸時代より、湯治客や秩父札所巡りという、埼玉県秩父地方にある34か所の観音霊場を回る巡礼者で賑わいを見せていたこの土地。ここ秩父にはさまざまな温泉がある。秩父郡市には40箇所以上の宿が点在。87％の山々に囲まれた静かな環境で素朴な温泉湯浴みを楽しめる。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saitama4,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Saitama4,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

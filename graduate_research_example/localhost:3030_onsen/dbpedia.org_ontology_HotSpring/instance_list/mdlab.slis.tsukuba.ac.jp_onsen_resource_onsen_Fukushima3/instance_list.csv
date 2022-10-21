@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima3,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima3,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature0,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima3,http://ja.dbpedia.org/property/読み仮名,いいざかおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima3,https://schema.org/address,福島県福島市飯坂町,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima3,https://schema.org/name,飯坂温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima3,https://schema.org/description,はるか2000年前、日本武尊が東征の折に、また元禄2年（1689年）、松尾芭蕉が奥の細道の途中に立ち寄り、その湯に浸かったと伝えられる歴史ある名湯。また９つの共同浴場（鯖湖湯、波来湯、切湯、仙気の湯、導専の湯、大門の湯、八幡湯、十綱湯、天王寺・穴原湯）があり気軽に外湯めぐりが楽しめる。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima3,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Fukushima3,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

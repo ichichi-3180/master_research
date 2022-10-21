@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori1,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori1,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature13,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori1,http://ja.dbpedia.org/property/読み仮名,しもふろおんせんきょう,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori1,https://schema.org/address,青森県下北郡風間浦村下風呂,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori1,https://schema.org/name,下風呂温泉郷,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori1,https://schema.org/description,本州最北端に位置する下風呂温泉郷、青森ヒバに覆われた山の中にある薬研温泉を始め、下北半島には個性的な温泉が数多く点在している。下風呂温泉郷は、浜辺には珍しいと言われる硫黄泉で源泉によりにごり湯もある。温泉を引く宿はどこも源泉掛け流しで肌触りも柔らかい。また、新鮮な魚介類が食べれることでも人気の温泉。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori1,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aomori1,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

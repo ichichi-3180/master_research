@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu2,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu2,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature13,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu2,http://ja.dbpedia.org/property/読み仮名,しんほだかおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu2,https://schema.org/address,岐阜県吉城郡上宝村神坂巾平・中尾,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu2,https://schema.org/name,新穂高温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu2,https://schema.org/description,奥飛騨温泉郷の最奥に位置し、北アルプス登山への玄関口としても有名。蒲田川沿いに宿が並び、川沿いで野趣溢れる造りや、北アルプスの眺め自慢・・・など、開放的な景色が楽しめる露天風呂を持つ宿が多い。「日本のスイス」と呼ばれる中尾高原には、民宿、旅館のほか、リゾートの雰囲気溢れるペンションもある。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu2,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gifu2,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

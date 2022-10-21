@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka67,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka67,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature5,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka67,http://ja.dbpedia.org/property/読み仮名,やいづくろしおおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka67,https://schema.org/address,静岡県焼津市本町・栄町・浜当目,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka67,https://schema.org/name,やいづ黒潮温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka67,https://schema.org/description,「焼津黒潮温泉」は、昭和58年、地下1500mから湧出した51℃もの高温で良質な温泉。この温泉は海水の約半分の濃度の塩分を含む塩化物泉で、弱アルカリ性。虚弱体質をはじめ、神経痛、筋肉痛に効き、健康と美容に良いとされている。観光ホテルをはじめ、市内8施設に給湯されている。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka67,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka67,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata11,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata11,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature5,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata11,http://ja.dbpedia.org/property/読み仮名,たかせおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata11,https://schema.org/address,新潟県岩船郡関川村大字湯沢,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata11,https://schema.org/name,高瀬温泉　(荒川峡),literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata11,https://schema.org/description,荒川に沿うように４ヶ所の温泉（高瀬温泉、雲母温泉、鷹ノ巣温泉、湯沢温泉）がある｢えちごせきかわ温泉郷」古くは米沢街道を行き交う人々の集う宿場街｡自然溢れるこの地では、山菜料理や川魚料理が楽しめる｡春は桜並木、夏は新緑、秋は紅葉、冬は雪景色｡色とりどりの山と荒川の風景が美しい。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata11,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata11,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

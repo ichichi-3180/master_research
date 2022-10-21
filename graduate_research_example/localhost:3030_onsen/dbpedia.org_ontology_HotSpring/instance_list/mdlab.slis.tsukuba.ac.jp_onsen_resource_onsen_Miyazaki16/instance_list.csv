@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyazaki16,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyazaki16,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature5,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyazaki16,http://ja.dbpedia.org/property/読み仮名,きたごうおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyazaki16,https://schema.org/address,宮崎県南那珂郡北郷町大藤甲,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyazaki16,https://schema.org/name,北郷温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyazaki16,https://schema.org/description,日南市北郷町に位置する素朴な山あいの温泉地で美人湯としても定評がある。四季の景観も美しく、中でも山桜が一斉に花をほころばせる春はまさに絶景でたくさんの人でにぎわう。花と緑、渓谷と清流、そして温泉と、豊かな大自然の恵みや安らぎを感じられる温泉。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyazaki16,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyazaki16,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

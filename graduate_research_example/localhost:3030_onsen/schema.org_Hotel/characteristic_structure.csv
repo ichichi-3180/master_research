@@ -1,8 +1,0 @@
-https://schema.org/Hotel,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,uri,,1.0
-https://schema.org/Hotel,https://schema.org/address,literal,,1.0
-https://schema.org/Hotel,https://schema.org/name,literal,,1.0
-https://schema.org/Hotel,https://schema.org/description,literal,,1.0
-https://schema.org/Hotel,http://ja.dbpedia.org/property/郵便番号,literal,,1.0
-https://schema.org/Hotel,http://www.w3.org/2003/01/geo/wgs84_pos#lat,literal,,1.0
-https://schema.org/Hotel,http://www.w3.org/2003/01/geo/wgs84_pos#long,literal,,1.0
-https://schema.org/Hotel,https://schema.org/image,literal,,1.0

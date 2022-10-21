@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate40,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate40,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature13,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate40,http://ja.dbpedia.org/property/読み仮名,げとうおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate40,https://schema.org/address,岩手県北上市和賀町岩崎新田,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate40,https://schema.org/name,夏油温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate40,https://schema.org/description,夏油川沿いに、瀬美温泉、夏油温泉などの温泉が点在する温泉郷。瀬美温泉は、美肌効果があるという肌触りのやさしいお湯として知られている。また、夏油温泉は秘湯ムード満点の温泉で、全国名湯百選に選ばれている。周辺には、特別天然記念物の石灰華「天狗岩」やスキーやゴンドラ遊覧が楽しめる「夏油高原」がある。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate40,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Iwate40,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi85,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi85,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature1,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi85,http://ja.dbpedia.org/property/読み仮名,なすぷれりーおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi85,https://schema.org/address,栃木県那須郡那須町高久丙２５６４－３,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi85,https://schema.org/name,那須プレリー温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi85,https://schema.org/description,那須高原の中心部からどうぶつ王国やマウントジーンズスキーの方へ向った静かな環境にある全館平屋の静かなペンションです。小川の流れる林や、遊べる芝生の庭など自然の空間に心が休まると好評をいただいております。露天風呂は天気に恵まれれば満天の星空や真っ赤な夕日が望め、それは見事です。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi85,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi85,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

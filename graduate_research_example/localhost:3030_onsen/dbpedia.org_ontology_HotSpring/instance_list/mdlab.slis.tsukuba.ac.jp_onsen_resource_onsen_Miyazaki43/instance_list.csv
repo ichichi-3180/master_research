@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyazaki43,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyazaki43,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature8,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyazaki43,http://ja.dbpedia.org/property/読み仮名,ごくらくおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyazaki43,https://schema.org/address,宮崎県西諸県郡高原町大字蒲牟田7449,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyazaki43,https://schema.org/name,極楽温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyazaki43,https://schema.org/description,「極楽温泉」はえびの高原、高千穂の峰（霧島連峰）の麓にあり、泉質は含炭酸鉄泉で浴用としては神経痛や関節痛によいといわれ、飲用としては慢性消火器病など効能あり。一軒宿 『極楽温泉　匠の湯』は、20トンの大岩をくりぬいた一彫刻風呂で黄土色の湯が体の芯まであたためてくれる。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyazaki43,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Miyazaki43,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

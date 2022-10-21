@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okinawa7,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okinawa7,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okinawa7,http://ja.dbpedia.org/property/読み仮名,じゅらきおんせん　ちゅらうみのゆ,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okinawa7,https://schema.org/address,沖縄県国頭郡本部町字備瀬小浜原136番地1,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okinawa7,https://schema.org/name,ジュラ紀温泉　美ら海の湯,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okinawa7,https://schema.org/description,碧く広がるエメラルドビーチに隣接するホテルからは、季節によって姿を変える夕日を楽しめます。対岸の伊江島に沈む夕日は日常の疲れを癒し、ここでしか味わえない時間を過ごす事ができるでしょう。本部半島から望む東シナ海を眺めながらリゾートステイをお楽しみください。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okinawa7,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Okinawa7,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

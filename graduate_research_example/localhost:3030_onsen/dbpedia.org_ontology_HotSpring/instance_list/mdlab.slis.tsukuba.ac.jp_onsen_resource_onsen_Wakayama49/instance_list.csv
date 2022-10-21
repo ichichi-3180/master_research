@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama49,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama49,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama49,http://ja.dbpedia.org/property/読み仮名,かだあわしまおんせん　てんくうのゆ,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama49,https://schema.org/address,和歌山県和歌山市深山483,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama49,https://schema.org/name,加太淡嶋温泉　天空の湯,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama49,https://schema.org/description,大阪と和歌山の県境近く、京阪神からも楽々アクセスの近場の穴場。しっとりしたお湯はお肌を柔らかくスベスベにする効果があるという。また加太からは友ヶ島や淡路島、遠くは四国まで見渡せ、特に夕暮れ時の美しさは必見。海の香りと波の音、行き交う船など漁師町ならではの素朴な風情に心癒される。春は淡嶋神社の雛流しに潮干狩り、夏は海水浴、秋は磯釣りなどで賑わう。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama49,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Wakayama49,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma15,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma15,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature0,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma15,http://ja.dbpedia.org/property/読み仮名,かわばおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma15,https://schema.org/address,群馬県利根郡川場村川場湯原,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma15,https://schema.org/name,川場温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma15,https://schema.org/description,雄大な武尊山を背にする川場村。自然の織りなす情景、川のせせらぎや自然豊かな景観を楽しめます。近隣には「道の駅 川場田園プラザ」「川場スキー場」などがあり、１年を通して楽しめるスポットがあります。また、「ブルーベリー、ブドウ、リンゴなどのフルーツ狩り」、「造り酒屋や地ビール」なども楽しめます。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma15,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma15,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

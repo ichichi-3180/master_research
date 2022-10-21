@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamaguchi7,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamaguchi7,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature5,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamaguchi7,http://ja.dbpedia.org/property/読み仮名,はぎほんじんおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamaguchi7,https://schema.org/address,山口県萩市椿東,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamaguchi7,https://schema.org/name,萩本陣温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamaguchi7,https://schema.org/description,従来、萩市内の温泉は「萩本陣温泉」「萩温泉弘法寺」「千春楽泉」など各施設の自家源泉から成る個別温泉だったが、新温泉「はぎ温泉」の開湯に伴い、萩市内エリアは各温泉をまとめ2005年に『萩温泉郷』として誕生した。幕末浪漫、歴史感じる城下町近くにありながら温泉を堪能出来るのが魅力的！,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamaguchi7,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamaguchi7,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

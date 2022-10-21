@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi24,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi24,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature5,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi24,http://ja.dbpedia.org/property/読み仮名,かみのゆおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi24,https://schema.org/address,山梨県北巨摩郡双葉町竜地,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi24,https://schema.org/name,神の湯温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi24,https://schema.org/description,甲府を見下ろす高台に建つ一軒宿。富士山･八ヶ岳･甲斐駒ケ岳･南アルプス連山と館内からその姿が一望。その自家源泉は豊富なかけ流し湯で地元の常連客も多い。男女それぞれに７つの風呂があり、富士山や夜景を眺めながら楽しめる露天風呂や貸切風呂など11種類の湯めぐりができる。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi24,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamanashi24,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0
