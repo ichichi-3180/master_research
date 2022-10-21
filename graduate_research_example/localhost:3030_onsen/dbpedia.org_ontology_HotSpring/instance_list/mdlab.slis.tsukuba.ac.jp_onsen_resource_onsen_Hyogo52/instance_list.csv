@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hyogo52,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hyogo52,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hyogo52,http://ja.dbpedia.org/property/読み仮名,みずほのゆ,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hyogo52,https://schema.org/address,兵庫県三木市細川町垂穂894番地の60号,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hyogo52,https://schema.org/name,瑞穂の湯,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hyogo52,https://schema.org/description,清流・夢前川のほとり、周囲にはのどかな田園風景が広がり、名峰・雪彦山を望む、湯暦300年と言われる播磨の奥座敷。効能豊富で飲用も可能な温泉として、古くから湯治場として栄えたという。春は桜、夏は蛍、秋は紅葉、冬はボタン鍋等の味覚と、四季折々の風情が楽しめる、隠れ家的な温泉地。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hyogo52,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hyogo52,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

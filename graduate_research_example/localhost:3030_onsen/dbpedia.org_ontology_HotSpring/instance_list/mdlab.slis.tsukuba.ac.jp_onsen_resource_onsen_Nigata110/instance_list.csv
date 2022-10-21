@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata110,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata110,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature5,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata110,http://ja.dbpedia.org/property/読み仮名,おおさどおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata110,https://schema.org/address,新潟県佐渡郡相川町鹿伏,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata110,https://schema.org/name,大佐渡温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata110,https://schema.org/description,夏の海水浴シーズンのレジャーはもちろん、目の前にどこまでも続く海原は四季折々の色や姿をみせる。岬の高台にたつ一軒宿「ホテル大佐渡」の露天風呂から海風にふかれ眺める夕陽はすばらしい。周辺には岩礁が見事な景観の尖閣湾や佐渡金山、奉行所、相川の坂の町並みなどの観光名所がある。料理素材も佐渡ならではの海鮮。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata110,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata110,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

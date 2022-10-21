@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki45,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki45,http://ja.dbpedia.org/property/泉質,http://iris.slis.tsukuba.ac.jp:3050/onsen/data,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki45,http://ja.dbpedia.org/property/読み仮名,なめかたおんせん　たまつくりのゆ,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki45,https://schema.org/address,茨城県行方市浜２７９６－１,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki45,https://schema.org/name,なめかた温泉　玉造の湯,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki45,https://schema.org/description,近年フィッシングベースとしても知られる北浦、霞ヶ浦。対岸に筑波山を眺める霞ヶ浦の畔にある温泉。 霞ヶ浦に沈む夕陽を眺めるには、最高のロケーション。 泉質はメタケイ酸含有泉。メタケイ酸は天然の保湿成分です。 肌のセラミドを整える作用が期待出来ると言われ、お肌もすべすべで美人の湯とも言われています。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki45,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ibaraki45,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

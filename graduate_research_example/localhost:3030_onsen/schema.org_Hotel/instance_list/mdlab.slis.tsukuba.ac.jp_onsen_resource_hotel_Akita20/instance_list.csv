@@ -1,8 +1,0 @@
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita20,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita20,https://schema.org/address,秋田県秋田市添川境内川原１４２―１,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita20,https://schema.org/name,秋田温泉さとみ,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita20,https://schema.org/description,とろりとした湯の「秋田温泉」源泉を持つ秋田市内の湯宿。,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita20,http://ja.dbpedia.org/property/郵便番号,010-0822,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita20,http://www.w3.org/2003/01/geo/wgs84_pos#lat,504488240,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita20,http://www.w3.org/2003/01/geo/wgs84_pos#long,143090182,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Akita20,https://schema.org/image,とろりとした湯の「秋田温泉」源泉を持つ秋田市内の湯宿。<BR>温泉と併せて、秋田の旬たっぷりの料理が評判です。,literal,,1.0

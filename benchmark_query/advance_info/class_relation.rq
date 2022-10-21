@@ -1,0 +1,7 @@
+SELECT distinct ?domain  ?range
+WHERE
+{ 
+    ?s ?p ?o.
+    ?s a ?domain.
+    ?o a ?range.
+}LIMIT 1

@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka31,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka31,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature9,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka31,http://ja.dbpedia.org/property/読み仮名,いなとりおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka31,https://schema.org/address,静岡県賀茂郡東伊豆町稲取,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka31,https://schema.org/name,稲取温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka31,https://schema.org/description,伊豆東海岸に小さく突き出た岬の稲取温泉。海を望む眺望がすばらしい旅館や露天風呂が多い。5７度で湧き出る天然温泉。また活気ある港は、特に日本一の味を誇る金目鯛をはじめ、伊勢海老、アワビ、鯵、さばなどが水揚げされる。雛のつるし飾り祭りや夏のサザエ狩り大会、どんつく祭りなど情の熱い地元の人々によるお祭りがさかん。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka31,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shizuoka31,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

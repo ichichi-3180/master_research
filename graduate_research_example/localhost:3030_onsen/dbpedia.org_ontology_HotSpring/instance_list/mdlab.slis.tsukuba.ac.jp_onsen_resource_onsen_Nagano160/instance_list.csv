@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano160,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano160,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature0,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano160,http://ja.dbpedia.org/property/読み仮名,しらかばこいけのたいらおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano160,https://schema.org/address,長野県茅野市白樺湖畔,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano160,https://schema.org/name,白樺湖池の平温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano160,https://schema.org/description,上信越道佐久IC60分、中央道諏訪IC30分。ビーナスラインの中心に位置する白樺湖は、標高1416m周囲５Km、白樺林に囲まれた美しい湖で避暑に最適。ファミリーランド・ボート・釣り・乗馬・美術館巡りも楽しい。氷橙祭（12～２月）は光と氷の芸術が堪能できる。自然庭園内で混浴できる温泉やアルカリ性単純温泉等がある。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano160,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano160,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

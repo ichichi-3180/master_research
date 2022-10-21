@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma108,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma108,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature5,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma108,http://ja.dbpedia.org/property/読み仮名,みょうぎおんせん（ちょうじゅのゆ）,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma108,https://schema.org/address,群馬県　富岡市　妙義町　大字古立字天神山554番地１,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma108,https://schema.org/name,妙義温泉（長寿の湯）,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma108,https://schema.org/description,赤城山、榛名山と共に上毛三山の一つに数えられる妙義山に湧く温泉地。妙義山は、四国小豆島の寒霞渓、九州大分県の耶馬渓と並ぶ、日本三奇勝の一つ。山を見渡す温泉にゆったりと浸かり、絶壁を覆う新緑や、秋の紅葉を眺めるのは風情たっぷり。どこか不思議な雰囲気を漂わすこの温泉地に、何度も訪れるファンも多いという。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma108,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Gunma108,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

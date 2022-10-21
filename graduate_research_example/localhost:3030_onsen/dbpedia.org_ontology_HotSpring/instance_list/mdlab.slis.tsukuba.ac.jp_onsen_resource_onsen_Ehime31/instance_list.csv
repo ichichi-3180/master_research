@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ehime31,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ehime31,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ehime31,http://ja.dbpedia.org/property/読み仮名,すーぱーほてる　いよのゆ,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ehime31,https://schema.org/address,愛媛県新居浜市高木町３番７号,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ehime31,https://schema.org/name,スーパーホテル　伊予の湯,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ehime31,https://schema.org/description,松山自動車道新居浜ＩＣより車で１０分。ＪＲ新居浜駅より徒歩１０分の新居浜市内に立地。アクセス良好。ビジネスホテルに引かれた天然温泉。新居浜市内で天然温泉を愉しめるホテルはここだけ！泉質はナトリウム塩化物泉。効能は神経痛など。（男女入れ替え制です）,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ehime31,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Ehime31,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

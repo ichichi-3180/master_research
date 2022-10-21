@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamaguchi48,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamaguchi48,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature0,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamaguchi48,http://ja.dbpedia.org/property/読み仮名,しものせきつくのおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamaguchi48,https://schema.org/address,山口県下関市豊北町神田２０４５,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamaguchi48,https://schema.org/name,下関つくの温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamaguchi48,https://schema.org/description,川棚温泉は関門の奥座敷として栄え、800年以上の歴史を誇る。無色透明のラジウム泉で、肌に優しく効能が幅広い。自由律句で知られる漂泊の俳人、種田山頭火が滞在したことでも有名。「瓦そば」と「ふぐ」が自慢。その他海峡の景色を眺めながら温泉につかることができる「下関マリン温泉」などがある。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamaguchi48,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Yamaguchi48,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

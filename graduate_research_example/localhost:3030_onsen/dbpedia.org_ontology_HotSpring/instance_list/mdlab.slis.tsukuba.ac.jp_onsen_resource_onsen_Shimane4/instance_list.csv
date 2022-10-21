@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shimane4,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shimane4,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature9,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shimane4,http://ja.dbpedia.org/property/読み仮名,たまつくりおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shimane4,https://schema.org/address,島根県八束郡玉湯町玉造,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shimane4,https://schema.org/name,玉造温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shimane4,https://schema.org/description,日本でも最古の歴史を持つ玉造温泉は、大国主命とともに国造りをした、少彦名命の発見と伝えられるまさに「神湯」。「出雲国風土記」にもその名を記す玉造温泉は、宍道湖南岸から玉湯川を２キロほどさかのぼった山間に湧く。古くから美人の湯、薬湯としてその名が伝わってきた。温泉街は玉湯川の東西に独特の湯の街情緒を醸しだしている。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shimane4,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Shimane4,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

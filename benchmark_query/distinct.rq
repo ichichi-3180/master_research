@@ -1,0 +1,13 @@
+SELECT DISTINCT ?p
+WHERE
+{
+ ?s ?p ?o
+}
+
+# SELECT distinct ?domain ?p ?range
+# WHERE
+# { 
+#  ?s a ?domain.
+#  ?s ?p ?o.
+# ?o a ?range
+# }

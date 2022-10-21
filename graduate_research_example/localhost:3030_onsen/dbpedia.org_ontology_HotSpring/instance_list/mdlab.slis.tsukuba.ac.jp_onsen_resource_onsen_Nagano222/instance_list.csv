@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano222,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano222,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature6,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano222,http://ja.dbpedia.org/property/読み仮名,わかぐりおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano222,https://schema.org/address,長野県北安曇郡小谷村大字千国１２８５１番地,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano222,https://schema.org/name,若栗温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano222,https://schema.org/description,北安曇野郡小谷村、白馬乗鞍スキー場の若栗ゲレンデ内にある温泉。黄色くにごった湯の泉質は、ナトリウム炭酸水素塩水。硫黄の匂いが鼻をくすぐる。効能は、神経痛・筋肉痛・関節痛など。高温で湧出量も豊富、温泉好きにも納得してもらえるであろう湯。白馬連山の山並みを眺めながら、のんびる浸かっていたい。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano222,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano222,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

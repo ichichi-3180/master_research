@@ -1,8 +1,0 @@
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido139,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido139,https://schema.org/address,北海道小樽市朝里川温泉２丁目６７０番地,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido139,https://schema.org/name,朝里川温泉かんぽの宿小樽,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido139,https://schema.org/description,小樽の奥座敷に佇む温泉ホテル,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido139,http://ja.dbpedia.org/property/郵便番号,047-0192,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido139,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507758069,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido139,http://www.w3.org/2003/01/geo/wgs84_pos#long,155301772,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Hokkaido139,https://schema.org/image,港町・小樽にありながら、朝里川沿いの閑静な佇まいに憩う当館。<BR>北海道の贅沢な海の幸を楽しむお食事や、四季を感じる露天風呂が魅力です。<BR>小樽市街まで車で約20分と、小樽観光の拠点にも最適です。<BR>,literal,,1.0

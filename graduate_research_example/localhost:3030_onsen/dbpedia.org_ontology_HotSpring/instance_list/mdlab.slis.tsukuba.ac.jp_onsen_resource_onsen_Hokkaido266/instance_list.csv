@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido266,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido266,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature1,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido266,http://ja.dbpedia.org/property/読み仮名,こしみずちょうだいにげんせんい,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido266,https://schema.org/address,北海道斜里郡小清水町字小清水681番地1,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido266,https://schema.org/name,小清水町第2源泉井,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido266,https://schema.org/description,斜里郡斜里町にある斜里温泉は泉質が弱アルカリ性の低調性温泉です。濃度炭酸水素ナトリウム｢重曹｣と植物性とドロ灰の温質で、ドイツ語で｢モール湯｣とも呼ばれ、全身体を包むように内部から暖め、脳脊髄と諸器官の連作を強め、知覚運動を助勢し、肉体・頭脳・神経のバランスを整え諸器官の各所を癒します。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido266,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido266,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

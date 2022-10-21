@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata171,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata171,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature13,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata171,http://ja.dbpedia.org/property/読み仮名,てらどまりのづみかいがんおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata171,https://schema.org/address,新潟県長岡市寺泊野積大野積　１１６３０－１７,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata171,https://schema.org/name,寺泊野積海岸温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata171,https://schema.org/description,寺泊野積海岸温泉「やすらぎの宿　夕華（ゆうはな）」は佐渡弥彦国定公園内の温泉です。近くの「野積海岸立岩」は全国でも希少例の露出枕状溶岩として天然記念物に指定され、にいがた景勝１００選にも選ばれています。泉質は「弱アルカリ泉（総硫黄）であり、神経痛、疲労回復、皮膚病に効果があります。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata171,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nigata171,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0
