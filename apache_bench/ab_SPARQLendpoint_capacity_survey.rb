@@ -33,7 +33,7 @@ File = open("input/SPARQLendpoint.json") do |file|
         csv << ["server_type", "label", "rdf_store", "url", "graph_uri", "triple_num", "count", "distinct","filter_regex", "group_by_having_count_distinct","order_by", "union", "optional", "subquery"]
         endpoint_list.each do |endpoint|
             #if文の条件で調査の対象を絞り込み可能
-            if endpoint["server_type"] == "local" && endpoint["rdf_store"] == "virtuoso" then
+            if endpoint["server_type"] == "remote" then
                 sparql = SPARQL::Client.new(endpoint["url"], graph: endpoint["graph_uri"], method: "get")
 
                 # --- 事前情報の取得(サブクエリ, UNION, OPTIONAL句で利用するため) ---
