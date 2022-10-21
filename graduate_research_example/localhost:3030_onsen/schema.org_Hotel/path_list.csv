@@ -1,8 +1,0 @@
-n,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,o1,uri,,1.0,1
-n,https://schema.org/address,o2,literal,,1.0,1
-n,https://schema.org/name,o3,literal,,1.0,1
-n,https://schema.org/description,o4,literal,,1.0,1
-n,http://ja.dbpedia.org/property/郵便番号,o5,literal,,1.0,1
-n,http://www.w3.org/2003/01/geo/wgs84_pos#lat,o6,literal,,1.0,1
-n,http://www.w3.org/2003/01/geo/wgs84_pos#long,o7,literal,,1.0,1
-n,https://schema.org/image,o8,literal,,1.0,1

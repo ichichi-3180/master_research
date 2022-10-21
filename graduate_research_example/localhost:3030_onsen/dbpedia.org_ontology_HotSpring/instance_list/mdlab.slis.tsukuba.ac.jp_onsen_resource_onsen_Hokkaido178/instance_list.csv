@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido178,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido178,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature5,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido178,http://ja.dbpedia.org/property/読み仮名,くっしゃろおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido178,https://schema.org/address,北海道川上郡弟子屈町屈斜路336-1,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido178,https://schema.org/name,屈斜路温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido178,https://schema.org/description,道東の弟子屈町にある屈斜路湖は火山の陥没によって誕生したカルデラ湖。湖の周辺には池の湯、砂湯、コタン温泉など、無料で利用できる露天風呂が沢山ある。一方摩周湖温泉は東北海道で最も古く歴史と伝統が息づく温泉街だ。街には屈斜路湖を源とする釧路川が流れ、河畔沿いに温泉が湧き出ている。泉質は食塩泉、弱食塩泉等。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido178,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Hokkaido178,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

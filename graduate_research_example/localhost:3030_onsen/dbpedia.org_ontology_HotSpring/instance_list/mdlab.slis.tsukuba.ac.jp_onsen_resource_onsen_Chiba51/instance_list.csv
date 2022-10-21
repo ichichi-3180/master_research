@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba51,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba51,http://ja.dbpedia.org/property/泉質,http://iris.slis.tsukuba.ac.jp:3050/onsen/data,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba51,http://ja.dbpedia.org/property/読み仮名,しらはまなんごくおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba51,https://schema.org/address,千葉県安房郡白浜町白浜232,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba51,https://schema.org/name,白浜南国温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba51,https://schema.org/description,房総半島最南端に位置する南房総国定公園の白浜。太平洋に面し遠くは伊豆七島を眺望できる景勝地。温泉は海辺近くの南房総白浜温泉、白浜野嶋温泉、白浜女来島温泉他と、背後の房総丘陵から湧出の白浜温泉他がある。料理は各旅館・ホテルとも新鮮な魚介盛り沢山。観光は12月～花畑で花摘み、1月～GW迄は苺狩り、夏は海水浴が楽しめる。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba51,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Chiba51,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano56,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano56,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature13,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano56,http://ja.dbpedia.org/property/読み仮名,のりくらこうげんおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano56,https://schema.org/address,長野県南安曇郡安曇村乗鞍高原,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano56,https://schema.org/name,乗鞍高原温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano56,https://schema.org/description,乗鞍岳の東山麓に広がる標高1200ｍ～1500ｍにかけての一帯が乗鞍高原。自然園の原生林や、池、滝、お花畑など四季の自然が楽しめ、冬にはスキーも。温泉は乗鞍岳中腹から自然湧出する源泉を引湯。100軒ほどの宿が引湯し、日帰り入浴施設もあり。泉質は硫黄を含む単純硫化水素泉。白く濁った湯が特徴。源泉温度は48℃。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano56,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Nagano56,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

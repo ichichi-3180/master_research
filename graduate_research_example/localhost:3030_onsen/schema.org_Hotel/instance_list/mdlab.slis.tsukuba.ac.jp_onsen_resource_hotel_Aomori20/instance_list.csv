@@ -1,8 +1,0 @@
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori20,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://schema.org/Hotel,uri,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori20,https://schema.org/address,青森県上北郡野辺地町湯沢９,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori20,https://schema.org/name,まかど観光ホテル,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori20,https://schema.org/description,下北半島の玄関口／馬門温泉,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori20,http://ja.dbpedia.org/property/郵便番号,039-3175,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori20,http://www.w3.org/2003/01/geo/wgs84_pos#lat,507840469,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori20,http://www.w3.org/2003/01/geo/wgs84_pos#long,147143994,literal,,1.0
-https://schema.org/Hotel,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/hotel_Aomori20,https://schema.org/image,青森ヒバを贅沢に使用した自慢の大浴場は、鶴が見つけた千古の名湯。<BR>陸奥湾の恵みと山の幸、青森の四季折々を心ゆくまでご堪能ください。,literal,,1.0

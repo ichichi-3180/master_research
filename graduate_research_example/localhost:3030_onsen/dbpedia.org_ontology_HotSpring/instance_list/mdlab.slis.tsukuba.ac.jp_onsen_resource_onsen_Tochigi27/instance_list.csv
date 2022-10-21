@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi27,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi27,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature5,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi27,http://ja.dbpedia.org/property/読み仮名,ゆにしがわおんせん,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi27,https://schema.org/address,栃木県塩谷郡栗山村湯西川,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi27,https://schema.org/name,湯西川温泉,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi27,https://schema.org/description,壇ノ浦の戦に敗れた平家が隠れ住んだという、平家落人伝説の残る美しい温泉郷。渓流沿いに藁葺き屋根の家が並ぶ風情ある景観に心和む。アルカリ性単純泉の温泉の発祥は天正元年で４００余年の歴史をもつ。地元で採れた岩魚・ヤマメ等の川魚や野鳥・鹿・熊・山椒魚やみそべら等をいろりでじっくり焼いて頂く落人料理が有名。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi27,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Tochigi27,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0

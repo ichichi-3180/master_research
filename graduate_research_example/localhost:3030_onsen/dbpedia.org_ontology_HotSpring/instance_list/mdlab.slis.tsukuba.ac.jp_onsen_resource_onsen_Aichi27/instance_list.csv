@@ -1,8 +1,0 @@
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi27,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://dbpedia.org/ontology/HotSpring,uri,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi27,http://ja.dbpedia.org/property/泉質,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/nature1,uri,http://purl.org/net/hotspring/Quality,0.9509051856397668
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi27,http://ja.dbpedia.org/property/読み仮名,いぬやまおんせん　はくていのゆ,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi27,https://schema.org/address,愛知県犬山市犬山北古券１０７－１　名鉄犬山ホテル敷地内,literal,,0.9996931574102486
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi27,https://schema.org/name,犬山温泉　白帝の湯,literal,,1.0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi27,https://schema.org/description,清流木曽川のほとりに湧出する犬山温泉。飛騨木曽国定公園に位置し、犬山城、茶室如庵の２つの国宝と、豊かな緑に囲まれている。現在では木曽川沿いの５つの宿で愉しめる。それぞれに趣向をこらした大浴場や露天風呂があり、宿泊客以外でも、日帰り入浴プランをもつ宿もあるので要チェック。,literal,,0.5477140227063516
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi27,https://schema.org/areaServed,,uri,https://schema.org/Hotel,0
-http://dbpedia.org/ontology/HotSpring,https://mdlab.slis.tsukuba.ac.jp/onsen/resource/onsen_Aichi27,http://dbpedia.org/ontology/mascot,,uri,http://dbpedia.org/ontology/ambassador,0
