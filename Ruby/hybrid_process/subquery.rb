@@ -55,21 +55,23 @@ result_in.each{|r_in|
         FILTER (regex(?srel, \"^http://id.ndl.go.jp/class/ndc10/\"))
     }
     """
-    # require 'sparql'
-    # query_object = SPARQL::Grammar::Parser.new(query_out)
-    # query_object_parsed = query_object.parse()
-    # query_sseArray = query_object_parsed.to_sxp_bin  
-    # pp query_sseArray
-    result_out = sparql.query(query_out)
-    # p result_out.class
+    require 'sparql'
+    query_object = SPARQL::Grammar::Parser.new(query_out)
+    query_object_parsed = query_object.parse()
+    query_sseArray = query_object_parsed.to_sxp_bin  
+    
+    #queryの内容を一旦sseArrayに変換→SPARQLに戻して問い合わせ
+    sseArray_Parsed = SPARQL::Algebra::Expression.new(query_sseArray) 
+    puts sseArray_Parsed.to_sparql
+    result_out = sparql.query(sseArray_Parsed.to_sparql)
+    p result_out.length
     result_out.each{|r_out|
         result_hybrid.push(r_out)
     }
-    # p result_out
 }
-# p result_in[0]
 p result_hybrid.order(:auth)[0]
 p result.order(:auth)[0]
 p result_hybrid.length
 p result.length
+
 

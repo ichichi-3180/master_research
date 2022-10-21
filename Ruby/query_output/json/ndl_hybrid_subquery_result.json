@@ -1,0 +1,2754 @@
+{
+    "head": {
+        "vars": [
+            "auth",
+            "rcount",
+            "upper",
+            "srcount"
+        ]
+    },
+    "results": {
+        "bindings": [
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/001223425"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/01052692"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "3"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/001230868"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00574554"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/001311962"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00561088"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00560395"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00560693"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00560612"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00561866"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00560612"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00575150"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00560693"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00561876"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "3"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00560987"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00565820"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00561183"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/01168853"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00562226"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00577169"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00562495"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00575963"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00562529"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/01190282"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00562533"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00561088"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00562533"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/01219662"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00562741"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00566293"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00563178"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00561480"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00563481"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00564250"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "3"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00563481"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00566705"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00563517"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00561570"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00563599"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00565280"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "3"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00563847"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00574902"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00564026"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00568596"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00564363"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00560686"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00564363"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00565853"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00564630"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00571433"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00564630"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00571593"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00564630"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00571614"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00564630"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/01130889"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00564739"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00574813"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00564809"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00571459"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00564857"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00564957"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00564859"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/001215807"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00564859"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00561188"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00564905"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00573070"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00564957"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00572183"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00564957"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00572188"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00565007"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00567844"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00565088"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00569986"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00565147"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00568864"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00565283"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00563838"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00565776"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00570792"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00565926"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00566211"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00566058"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00571894"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00566076"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00560686"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00566076"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00565853"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00566083"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/001337934"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00566293"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00572083"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00566348"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00568681"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00566554"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00564630"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00566567"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00565283"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00566593"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00575214"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00566603"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00574019"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00566727"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00573654"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "3"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00566868"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00565407"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00566868"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00569615"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00566868"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00574831"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00567760"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00575445"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00567775"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/01009807"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00567803"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00563191"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00567803"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00569525"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00567803"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/01120847"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00567826"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00570971"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00567827"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00570441"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00568679"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00564630"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00568708"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00571418"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "3"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00568899"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00570067"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00568928"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00564911"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00568928"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00572696"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "3"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00569003"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00565280"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "3"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00569238"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00562385"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00569300"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00566242"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00569300"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00571396"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00569383"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00569659"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00569383"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00571304"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00569594"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00566768"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00570182"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00571418"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "3"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00570304"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00571768"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00570636"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00570816"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00570636"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00570848"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00570714"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00568681"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00570881"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00565061"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "3"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00571144"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00574638"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "3"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00571144"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/01018166"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00571355"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00566375"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00571355"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00577205"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00571459"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00563650"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00571565"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00560472"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00571565"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00566104"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00572006"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00573433"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00572214"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00562515"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00572676"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00561876"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "3"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00572676"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00570451"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00572898"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00567137"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00572898"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00572892"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00572898"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00575739"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00573137"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00574719"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00573137"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/01058855"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00573517"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00563596"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "3"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00573562"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00564149"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00573562"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00570972"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00573583"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00573572"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00573583"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00574140"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "3"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00574920"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00982124"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00575085"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00563854"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00575085"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00575101"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00576334"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00575015"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00576748"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00982124"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00935615"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/001170480"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00935615"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00572454"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00958499"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00561088"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00974259"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00569619"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00995418"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00572177"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00995418"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/01215150"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/01009587"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00993413"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/01052129"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00561135"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "3"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/01052129"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00572522"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "3"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/01052129"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00574382"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/01052129"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00574435"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "3"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/01053357"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00566567"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/01086083"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00570300"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/01086083"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00574647"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/01127942"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/01052692"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "3"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/01161005"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00570893"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/01167958"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00565167"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "3"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/01207835"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00982124"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/01208246"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00564875"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/01208246"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00565167"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "3"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/01214677"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00564231"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/01214677"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "5"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00565167"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "3"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/031443110"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "6"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00573501"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/031443110"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "6"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00576853"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/031609856"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00561047"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/031778472"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00952494"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/031828855"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00566593"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/031907346"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00563826"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/031907346"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00574649"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "1"
+                }
+            },
+            {
+                "auth": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/031922861"
+                },
+                "rcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "4"
+                },
+                "upper": {
+                    "type": "uri",
+                    "value": "http://id.ndl.go.jp/auth/ndlsh/00562966"
+                },
+                "srcount": {
+                    "type": "typed-literal",
+                    "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+                    "value": "2"
+                }
+            }
+        ]
+    }
+}
