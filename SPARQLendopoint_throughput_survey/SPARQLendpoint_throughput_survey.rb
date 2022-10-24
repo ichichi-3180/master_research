@@ -83,7 +83,7 @@ File.open('input/SPARQLendpoint.json') {|f|
                 # --- 事前情報の取得(サブクエリ, UNION, OPTIONAL句で利用するため) ---
                 #トリプル数を取得
                 triple_num_result = sparql.query(get_triple_num_query)
-
+                endpoint["triple_num"] = triple_num_result[0][:triple_num].to_f #トリプル数を格納
                 #クラス間関係を取得
                 class_relation_result = sparql.query(get_class_relation_query)
 

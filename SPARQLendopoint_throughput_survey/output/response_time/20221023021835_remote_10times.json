@@ -5,6 +5,7 @@
         "rdf_store": null,
         "url": "https://lov.linkeddata.es/dataset/lov/sparql",
         "graph_uri": null,
+        "triple_num": 1022815,
         "benchmark_query_result": [
             {
                 "query_type": "count",
@@ -166,6 +167,7 @@
         "rdf_store": null,
         "url": "https://id.ndl.go.jp/auth/ndla/sparql",
         "graph_uri": null,
+        "triple_num": 22585708,
         "benchmark_query_result": [
             {
                 "query_type": "count",
@@ -327,6 +329,7 @@
         "rdf_store": null,
         "url": "http://dbkwik.webdatacommons.org/sparql",
         "graph_uri": null,
+        "triple_num": 126933410,
         "benchmark_query_result": [
             {
                 "query_type": "count",
@@ -488,6 +491,7 @@
         "rdf_store": null,
         "url": "https://ja.dbpedia.org/sparql",
         "graph_uri": null,
+        "triple_num": 1863628962,
         "benchmark_query_result": [
             {
                 "query_type": "count",
@@ -649,6 +653,7 @@
         "rdf_store": null,
         "url": "https://dbpedia.org/sparql",
         "graph_uri": null,
+        "triple_num": 1104128990,
         "benchmark_query_result": [
             {
                 "query_type": "count",
@@ -810,6 +815,7 @@
         "rdf_store": null,
         "url": "https://jpsearch.go.jp/rdf/sparql",
         "graph_uri": null,
+        "triple_num": 1181382298,
         "benchmark_query_result": [
             {
                 "query_type": "count",
@@ -971,6 +977,7 @@
         "rdf_store": null,
         "url": "https://agrovoc.fao.org/sparql",
         "graph_uri": null,
+        "triple_num": 7970339,
         "benchmark_query_result": [
             {
                 "query_type": "count",
