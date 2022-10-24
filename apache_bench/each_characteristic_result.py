@@ -7,6 +7,7 @@ import os
 file_path = "./output/return_time_from_SPARQLendpoint/"
 input_file_name = "20221016202355_mean10times_local_virtuoso_4GB"
 df = pd.read_csv(file_path + input_file_name + ".csv")
+print(df)
 #トリプル数順でソート
 df = df.sort_values('triple_num')
 #ソート後にインデックスを降り直す
@@ -26,7 +27,7 @@ xlabel = np.core.defchararray.add(
 
 for e in df.columns.values[5:]: #トリプル数以降でfor文を回す
     ms = df[e]
-    print(ms)
+    # print(ms)
     plt.bar(np.array(df.index), np.array(ms), tick_label=xlabel, align="center")
     plt.tick_params(labelsize=5)
     plt.title(e)

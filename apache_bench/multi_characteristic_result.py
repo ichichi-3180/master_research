@@ -20,6 +20,8 @@ df_2 = df_2.reset_index()
 
 triple_num_label = df_1["triple_num"]
 
+print(df_1)
+
 #x軸のラベルの作成(SPARQLエンドポイントのURLのドメイン名とトリプル数)
 xlabel = np.core.defchararray.add(
     np.core.defchararray.add(
@@ -39,7 +41,7 @@ for e in df_1.columns.values[7:]: #トリプル数以降でfor文を回す
 
     fig,ax = plt.subplots()
     ax.bar(x-width_bar/2, y1, width=width_bar, label="fuseki_4GB")
-    ax.bar(x+width_bar/2, y2, width=width_bar, label="virtuoso_4GB")
+    # ax.bar(x+width_bar/2, y2, width=width_bar, label="virtuoso_4GB")
     ax.set_title(e)
     ax.set_xticks(x)
     ax.set_xticklabels(xlabel)
