@@ -74,7 +74,7 @@ File.open('input/SPARQLendpoint.json') {|f|
 
     output = [] #出力用のArray
     endpoint_list.each do |endpoint| #エンドポイントごとに問い合わせる
-        if endpoint["server_type"] == "local" && endpoint["rdf_store"] == "fuseki" && endpoint["label"] != "SP2Bench_10000000" then #問い合わせるエンドポイントの条件を指定
+        if endpoint["server_type"] == "local" && endpoint["rdf_store"] == "fuseki"  then #問い合わせるエンドポイントの条件を指定
             p "問い合わせ先のSPARQLendpoint:" + endpoint["label"]
             begin
                 #SPARQL::Clientオブジェクトを作成

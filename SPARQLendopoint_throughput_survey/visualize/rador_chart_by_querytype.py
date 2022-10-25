@@ -3,14 +3,13 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 import json
-import matplotlib.patches as patches
+import urllib.parse
 
 #データをインポート
 file_path = "../output/response_time/"
 input_file_name = "20221025012201_local_fuseki_4.6.1"
 
-response_time_each_endpoint = json.load(open(file_path+input_file_name+'.json', 'r'))
-
+response_time_each_endpoint = json.load(open(file_path+input_file_name+".json", 'r'))
 df_content = []
 df_column = ["server_type", "label", "rdf_store", "url", "graph_uri", "triple_num"]
 query_types = [each_query.get('query_type') for each_query in response_time_each_endpoint[0]["benchmark_query_result"]]
@@ -32,32 +31,39 @@ df = df.sort_values('triple_num')
 df = df.reset_index()
 triple_num_label = df["triple_num"]
 
-for e in df.columns.values[6:]: #トリプル数以降でfor文を回す
-    ms = df[e]
-    fig,ax = plt.subplots()
-    ax.bar(np.array(df.index), np.array(ms), width=0.4)
-    ax.set_title(e)
-    ax.set_xticks(np.array(df[e].index))
+for e in df.columns.values[7:]:
+    # print(df[e])
+    angles =  np.linspace(start=0, stop=2*np.pi, num=len(df[e])+1, endpoint=True)
+    values = np.concatenate((df[e], [df[e][0]]))
 
-    #x軸のラベルを作成
-    xlabel = np.core.defchararray.add(
+    rgrids = [0, 20, 40, 60, 80, 100]
+
+    fig = plt.figure(facecolor="w")
+    # 極座標でaxを作成。
+    ax = fig.add_subplot(1, 1, 1, polar=True)
+    # レーダーチャートの線を引く
+    ax.plot(angles, values)
+    #　レーダーチャートの内側を塗りつぶす
+    ax.fill(angles, values, alpha=0.2)
+    print(type(df["label"]))
+    print(len(df.index))
+    label = np.core.defchararray.add(
         np.core.defchararray.add(
             np.array(df["label"],dtype=str),
             np.full(len(df.index), '\n', dtype=str)
         ),
-        np.array(ms.round(2),dtype=str) #表示の桁数指定
+        np.array(df[e].round(2),dtype=str) #表示の桁数指定
     )
-    ax.set_xticklabels(xlabel)
-    ax.tick_params(labelsize=8)
+    # 項目ラベルの表示
+    ax.set_thetagrids(angles[:-1] * 180 / np.pi, label)
+    # 始点を上(北)に変更
+    ax.set_theta_zero_location("N")
+    # 時計回りに変更(デフォルトの逆回り)
+    ax.set_theta_direction(-1)
 
-    #TO DO 欠損値(NaN)の時に表示色変えたい. 現在はx軸のラベルに実際の値を格納することで対処
-    # xmin, xmax, ymin, ymax = plt.axis()
-    # xy = (xmin, ymin)
-    # width = xmax - xmin
-    # height = ymax - ymin
-    # p = patches.Rectangle(xy, width, height, fill=True, color='lightgray', zorder=-10)
-    # ax.add_patch(p)
+    ax.set_title(e)
 
-    if not os.path.exists("../output/bar/" + input_file_name):
-        os.makedirs("../output/bar/" + input_file_name)
-    fig.savefig("../output/bar/" + input_file_name + "/" + e + ".png")
+    output_path = "../output/rador_chart/by_querytype/" + input_file_name 
+    if not os.path.exists(output_path):
+        os.makedirs(output_path)
+    fig.savefig(output_path + "/" + e + ".png")
