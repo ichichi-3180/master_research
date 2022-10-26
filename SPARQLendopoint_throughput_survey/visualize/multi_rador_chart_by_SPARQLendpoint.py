@@ -86,7 +86,7 @@ for endpoint in data_per_SPARQLendpoint:
     angles_B = np.linspace(start=0, stop=2*np.pi, num=len(df[rdf_store_list[1]])+1, endpoint=True)
     values_B = np.concatenate((df[rdf_store_list[1]], [df[rdf_store_list[1]][0]]))
 
-    fig, ax = plt.subplots(1, 1, figsize=(20, 24), subplot_kw={'projection': 'polar'})
+    fig, ax = plt.subplots(1, 1, figsize=(20, 24), subplot_kw={'projection': 'polar'},tight_layout=True)
     ax.plot(angles_A, values_A, 'o-', color="blue", label=rdf_store_list[0])
     ax.plot(angles_B, values_B, 'o-', color="red", label=rdf_store_list[1])
     ax.fill(angles_A, values_A, alpha=0.3, color="blue")
@@ -96,7 +96,7 @@ for endpoint in data_per_SPARQLendpoint:
     ax.set_thetagrids(angles_B[:-1] * 180 / np.pi, df.index, fontsize=30)
     ax.set_theta_zero_location('N')
     gridlines = ax.yaxis.get_gridlines()
-    ax.set_title(endpoint, fontsize=30)
+    ax.set_title(endpoint, fontsize=40)
     ax.legend(bbox_to_anchor=(1, 1), loc='upper right', ncol=2, fontsize=30)
     if not os.path.exists("../output/rador_chart/by_SPARQLendpoint/" + input_file_name_1 +"_" +  input_file_name_2):
         os.makedirs("../output/rador_chart/by_SPARQLendpoint/" + input_file_name_1 +"_"+ input_file_name_2)
