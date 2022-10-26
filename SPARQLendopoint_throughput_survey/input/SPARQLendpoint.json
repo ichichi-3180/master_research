@@ -99,6 +99,13 @@
     },
     {
         "server_type": "remote",
+        "label": "e-stat",
+        "rdf_store": "fuseki",
+        "url": "http://data.e-stat.go.jp/lod/sparql/",
+        "graph_uri": null
+    },
+    {
+        "server_type": "remote",
         "label": "agrovoc",
         "rdf_store": null,
         "url": "https://agrovoc.fao.org/sparql",
