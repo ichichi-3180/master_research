@@ -1,0 +1,164 @@
+[
+    {
+        "server_type": "remote",
+        "label": "eu-data visualize",
+        "rdf_store": "virtuoso",
+        "url": "https://digital-agenda-data.eu/sparql",
+        "graph_uri": null,
+        "triple_num": 12291777.0,
+        "benchmark_query_result": [
+            {
+                "query_type": "count",
+                "response_time": {
+                    "avg_all_session": 1114.9358,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 1274.617,
+                        "2": 1195.194,
+                        "3": 1030.774,
+                        "4": 1195.164,
+                        "5": 1070.55,
+                        "6": 1159.049,
+                        "7": 1120.473,
+                        "8": 1036.102,
+                        "9": 1026.145,
+                        "10": 1041.29
+                    }
+                }
+            },
+            {
+                "query_type": "order_by",
+                "response_time": {
+                    "avg_all_session": null,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": null,
+                        "2": null,
+                        "3": null,
+                        "4": null,
+                        "5": null,
+                        "6": null,
+                        "7": null,
+                        "8": null,
+                        "9": null,
+                        "10": null
+                    }
+                }
+            },
+            {
+                "query_type": "group_by_having_count_distinct",
+                "response_time": {
+                    "avg_all_session": null,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": null,
+                        "2": null,
+                        "3": null,
+                        "4": null,
+                        "5": null,
+                        "6": null,
+                        "7": null,
+                        "8": null,
+                        "9": null,
+                        "10": null
+                    }
+                }
+            },
+            {
+                "query_type": "union",
+                "response_time": {
+                    "avg_all_session": 1063.8692999999998,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 1262.141,
+                        "2": 1065.465,
+                        "3": 994.93,
+                        "4": 982.833,
+                        "5": 1024.899,
+                        "6": 1045.016,
+                        "7": 1024.696,
+                        "8": 1106.678,
+                        "9": 1113.614,
+                        "10": 1018.421
+                    }
+                }
+            },
+            {
+                "query_type": "filter_regex",
+                "response_time": {
+                    "avg_all_session": null,
+                    "avg_not_nil_session": 49360.504,
+                    "time_per_session": {
+                        "1": 51299.588,
+                        "2": 47075.794,
+                        "3": 47874.23,
+                        "4": 51192.404,
+                        "5": null,
+                        "6": null,
+                        "7": null,
+                        "8": null,
+                        "9": null,
+                        "10": null
+                    }
+                }
+            },
+            {
+                "query_type": "optional",
+                "response_time": {
+                    "avg_all_session": 1093.0203999999999,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 1115.541,
+                        "2": 1049.134,
+                        "3": 1074.86,
+                        "4": 1108.969,
+                        "5": 1112.224,
+                        "6": 1051.19,
+                        "7": 1091.495,
+                        "8": 1239.959,
+                        "9": 1086.816,
+                        "10": 1000.016
+                    }
+                }
+            },
+            {
+                "query_type": "subquery",
+                "response_time": {
+                    "avg_all_session": 1063.1553,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 1129.224,
+                        "2": 983.429,
+                        "3": 1106.152,
+                        "4": 1039.31,
+                        "5": 1062.298,
+                        "6": 1022.077,
+                        "7": 1088.837,
+                        "8": 1097.916,
+                        "9": 1086.274,
+                        "10": 1016.036
+                    }
+                }
+            },
+            {
+                "query_type": "distinct",
+                "response_time": {
+                    "avg_all_session": 1062.3061,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 1232.539,
+                        "2": 1119.437,
+                        "3": 1006.173,
+                        "4": 996.607,
+                        "5": 1112.301,
+                        "6": 1128.478,
+                        "7": 1012.717,
+                        "8": 972.568,
+                        "9": 1019.607,
+                        "10": 1022.634
+                    }
+                }
+            }
+        ]
+    }
+]

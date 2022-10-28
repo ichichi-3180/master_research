@@ -1,0 +1,1298 @@
+[
+    {
+        "server_type": "remote",
+        "label": "lov",
+        "rdf_store": null,
+        "url": "https://lov.linkeddata.es/dataset/lov/sparql",
+        "graph_uri": null,
+        "triple_num": 1022815.0,
+        "benchmark_query_result": [
+            {
+                "query_type": "count",
+                "response_time": {
+                    "avg_all_session": 1443.8635,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 1451.092,
+                        "2": 1406.374,
+                        "3": 1476.455,
+                        "4": 1434.806,
+                        "5": 1471.854,
+                        "6": 1446.832,
+                        "7": 1508.762,
+                        "8": 1406.469,
+                        "9": 1482.784,
+                        "10": 1353.207
+                    }
+                }
+            },
+            {
+                "query_type": "order_by",
+                "response_time": {
+                    "avg_all_session": null,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": null,
+                        "2": null,
+                        "3": null,
+                        "4": null,
+                        "5": null,
+                        "6": null,
+                        "7": null,
+                        "8": null,
+                        "9": null,
+                        "10": null
+                    }
+                }
+            },
+            {
+                "query_type": "group_by_having_count_distinct",
+                "response_time": {
+                    "avg_all_session": null,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": null,
+                        "2": null,
+                        "3": null,
+                        "4": null,
+                        "5": null,
+                        "6": null,
+                        "7": null,
+                        "8": null,
+                        "9": null,
+                        "10": null
+                    }
+                }
+            },
+            {
+                "query_type": "union",
+                "response_time": {
+                    "avg_all_session": 783.2696,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 784.241,
+                        "2": 786.828,
+                        "3": 781.144,
+                        "4": 783.103,
+                        "5": 777.419,
+                        "6": 779.093,
+                        "7": 785.596,
+                        "8": 788.238,
+                        "9": 785.223,
+                        "10": 781.811
+                    }
+                }
+            },
+            {
+                "query_type": "filter_regex",
+                "response_time": {
+                    "avg_all_session": null,
+                    "avg_not_nil_session": 7721.160333333333,
+                    "time_per_session": {
+                        "1": null,
+                        "2": null,
+                        "3": null,
+                        "4": null,
+                        "5": null,
+                        "6": null,
+                        "7": null,
+                        "8": 10301.268,
+                        "9": 6509.009,
+                        "10": 6353.204
+                    }
+                }
+            },
+            {
+                "query_type": "optional",
+                "response_time": {
+                    "avg_all_session": 786.7692,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 778.233,
+                        "2": 789.053,
+                        "3": 785.44,
+                        "4": 780.579,
+                        "5": 783.026,
+                        "6": 796.545,
+                        "7": 797.357,
+                        "8": 792.102,
+                        "9": 781.105,
+                        "10": 784.252
+                    }
+                }
+            },
+            {
+                "query_type": "subquery",
+                "response_time": {
+                    "avg_all_session": 810.78,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 779.571,
+                        "2": 779.443,
+                        "3": 782.516,
+                        "4": 780.194,
+                        "5": 929.914,
+                        "6": 870.301,
+                        "7": 822.287,
+                        "8": 784.067,
+                        "9": 796.418,
+                        "10": 783.089
+                    }
+                }
+            },
+            {
+                "query_type": "distinct",
+                "response_time": {
+                    "avg_all_session": 788.8687,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 779.868,
+                        "2": 783.709,
+                        "3": 790.962,
+                        "4": 787.401,
+                        "5": 783.201,
+                        "6": 784.651,
+                        "7": 783.453,
+                        "8": 789.899,
+                        "9": 824.195,
+                        "10": 781.348
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "server_type": "remote",
+        "label": "ndl",
+        "rdf_store": null,
+        "url": "https://id.ndl.go.jp/auth/ndla/sparql",
+        "graph_uri": null,
+        "triple_num": 22589872.0,
+        "benchmark_query_result": [
+            {
+                "query_type": "count",
+                "response_time": {
+                    "avg_all_session": 45.590199999999996,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 62.882,
+                        "2": 41.787,
+                        "3": 46.083,
+                        "4": 37.533,
+                        "5": 59.558,
+                        "6": 40.194,
+                        "7": 48.456,
+                        "8": 46.315,
+                        "9": 38.231,
+                        "10": 34.863
+                    }
+                }
+            },
+            {
+                "query_type": "order_by",
+                "response_time": {
+                    "avg_all_session": 41.9524,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 41.316,
+                        "2": 41.983,
+                        "3": 36.771,
+                        "4": 44.204,
+                        "5": 42.688,
+                        "6": 38.707,
+                        "7": 43.725,
+                        "8": 45.681,
+                        "9": 40.678,
+                        "10": 43.771
+                    }
+                }
+            },
+            {
+                "query_type": "group_by_having_count_distinct",
+                "response_time": {
+                    "avg_all_session": 44.9888,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 46.838,
+                        "2": 48.658,
+                        "3": 40.464,
+                        "4": 42.016,
+                        "5": 50.572,
+                        "6": 37.867,
+                        "7": 40.929,
+                        "8": 45.112,
+                        "9": 50.257,
+                        "10": 47.175
+                    }
+                }
+            },
+            {
+                "query_type": "union",
+                "response_time": {
+                    "avg_all_session": 45.2762,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 39.684,
+                        "2": 50.427,
+                        "3": 46.722,
+                        "4": 41.96,
+                        "5": 55.525,
+                        "6": 43.226,
+                        "7": 42.861,
+                        "8": 38.585,
+                        "9": 47.235,
+                        "10": 46.537
+                    }
+                }
+            },
+            {
+                "query_type": "filter_regex",
+                "response_time": {
+                    "avg_all_session": 47.598699999999994,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 41.834,
+                        "2": 39.96,
+                        "3": 40.342,
+                        "4": 48.367,
+                        "5": 44.688,
+                        "6": 38.035,
+                        "7": 59.649,
+                        "8": 71.803,
+                        "9": 43.409,
+                        "10": 47.9
+                    }
+                }
+            },
+            {
+                "query_type": "optional",
+                "response_time": {
+                    "avg_all_session": 66.1883,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 49.83,
+                        "2": 95.337,
+                        "3": 79.794,
+                        "4": 102.825,
+                        "5": 108.395,
+                        "6": 47.272,
+                        "7": 51.615,
+                        "8": 48.37,
+                        "9": 41.146,
+                        "10": 37.299
+                    }
+                }
+            },
+            {
+                "query_type": "subquery",
+                "response_time": {
+                    "avg_all_session": 45.6332,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 55.944,
+                        "2": 46.824,
+                        "3": 39.829,
+                        "4": 40.048,
+                        "5": 51.844,
+                        "6": 44.254,
+                        "7": 43.212,
+                        "8": 47.087,
+                        "9": 38.624,
+                        "10": 48.666
+                    }
+                }
+            },
+            {
+                "query_type": "distinct",
+                "response_time": {
+                    "avg_all_session": 41.6459,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 37.863,
+                        "2": 41.37,
+                        "3": 42.713,
+                        "4": 39.499,
+                        "5": 38.965,
+                        "6": 44.976,
+                        "7": 45.662,
+                        "8": 41.162,
+                        "9": 42.578,
+                        "10": 41.671
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "server_type": "remote",
+        "label": "web data commons",
+        "rdf_store": null,
+        "url": "http://dbkwik.webdatacommons.org/sparql",
+        "graph_uri": null,
+        "triple_num": 126933410.0,
+        "benchmark_query_result": [
+            {
+                "query_type": "count",
+                "response_time": {
+                    "avg_all_session": 5989.6569,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 5947.349,
+                        "2": 6091.338,
+                        "3": 5961.226,
+                        "4": 6121.682,
+                        "5": 5879.546,
+                        "6": 5962.539,
+                        "7": 5898.828,
+                        "8": 5984.43,
+                        "9": 6047.667,
+                        "10": 6001.964
+                    }
+                }
+            },
+            {
+                "query_type": "order_by",
+                "response_time": {
+                    "avg_all_session": null,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": null,
+                        "2": null,
+                        "3": null,
+                        "4": null,
+                        "5": null,
+                        "6": null,
+                        "7": null,
+                        "8": null,
+                        "9": null,
+                        "10": null
+                    }
+                }
+            },
+            {
+                "query_type": "group_by_having_count_distinct",
+                "response_time": {
+                    "avg_all_session": null,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": null,
+                        "2": null,
+                        "3": null,
+                        "4": null,
+                        "5": null,
+                        "6": null,
+                        "7": null,
+                        "8": null,
+                        "9": null,
+                        "10": null
+                    }
+                }
+            },
+            {
+                "query_type": "union",
+                "response_time": {
+                    "avg_all_session": 350.8241,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 345.039,
+                        "2": 345.907,
+                        "3": 349.108,
+                        "4": 364.98,
+                        "5": 347.371,
+                        "6": 345.678,
+                        "7": 360.365,
+                        "8": 358.398,
+                        "9": 345.812,
+                        "10": 345.583
+                    }
+                }
+            },
+            {
+                "query_type": "filter_regex",
+                "response_time": {
+                    "avg_all_session": 4324.931500000001,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 4709.1,
+                        "2": 4735.069,
+                        "3": 5262.106,
+                        "4": 4790.486,
+                        "5": 3874.679,
+                        "6": 3560.575,
+                        "7": 3887.433,
+                        "8": 4282.018,
+                        "9": 4258.899,
+                        "10": 3888.95
+                    }
+                }
+            },
+            {
+                "query_type": "optional",
+                "response_time": {
+                    "avg_all_session": 349.68269999999995,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 345.301,
+                        "2": 364.068,
+                        "3": 349.128,
+                        "4": 348.318,
+                        "5": 345.924,
+                        "6": 351.826,
+                        "7": 350.134,
+                        "8": 345.481,
+                        "9": 345.353,
+                        "10": 351.294
+                    }
+                }
+            },
+            {
+                "query_type": "subquery",
+                "response_time": {
+                    "avg_all_session": 347.6506,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 345.983,
+                        "2": 347.691,
+                        "3": 346.074,
+                        "4": 344.001,
+                        "5": 344.456,
+                        "6": 359.244,
+                        "7": 343.374,
+                        "8": 352.632,
+                        "9": 344.791,
+                        "10": 348.26
+                    }
+                }
+            },
+            {
+                "query_type": "distinct",
+                "response_time": {
+                    "avg_all_session": 15065.223999999998,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 14767.932,
+                        "2": 14755.114,
+                        "3": 16139.913,
+                        "4": 14923.617,
+                        "5": 15332.899,
+                        "6": 15081.045,
+                        "7": 13894.763,
+                        "8": 15026.539,
+                        "9": 15907.188,
+                        "10": 14823.23
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "server_type": "remote",
+        "label": "dbpedia japanese",
+        "rdf_store": null,
+        "url": "https://ja.dbpedia.org/sparql",
+        "graph_uri": null,
+        "triple_num": 1863669766.0,
+        "benchmark_query_result": [
+            {
+                "query_type": "count",
+                "response_time": {
+                    "avg_all_session": 4303.2413,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 4279.784,
+                        "2": 4400.512,
+                        "3": 4378.13,
+                        "4": 4149.581,
+                        "5": 4002.365,
+                        "6": 4183.85,
+                        "7": 4471.736,
+                        "8": 4321.248,
+                        "9": 4607.772,
+                        "10": 4237.435
+                    }
+                }
+            },
+            {
+                "query_type": "order_by",
+                "response_time": {
+                    "avg_all_session": null,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": null,
+                        "2": null,
+                        "3": null,
+                        "4": null,
+                        "5": null,
+                        "6": null,
+                        "7": null,
+                        "8": null,
+                        "9": null,
+                        "10": null
+                    }
+                }
+            },
+            {
+                "query_type": "group_by_having_count_distinct",
+                "response_time": {
+                    "avg_all_session": null,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": null,
+                        "2": null,
+                        "3": null,
+                        "4": null,
+                        "5": null,
+                        "6": null,
+                        "7": null,
+                        "8": null,
+                        "9": null,
+                        "10": null
+                    }
+                }
+            },
+            {
+                "query_type": "union",
+                "response_time": {
+                    "avg_all_session": 40.724000000000004,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 40.003,
+                        "2": 42.548,
+                        "3": 40.909,
+                        "4": 39.386,
+                        "5": 42.621,
+                        "6": 36.299,
+                        "7": 39.81,
+                        "8": 46.03,
+                        "9": 39.832,
+                        "10": 39.802
+                    }
+                }
+            },
+            {
+                "query_type": "filter_regex",
+                "response_time": {
+                    "avg_all_session": 306.6916,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 301.634,
+                        "2": 333.943,
+                        "3": 302.197,
+                        "4": 330.758,
+                        "5": 282.064,
+                        "6": 264.319,
+                        "7": 294.216,
+                        "8": 347.889,
+                        "9": 303.803,
+                        "10": 306.093
+                    }
+                }
+            },
+            {
+                "query_type": "optional",
+                "response_time": {
+                    "avg_all_session": 53.8852,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 51.447,
+                        "2": 62.995,
+                        "3": 41.007,
+                        "4": 40.736,
+                        "5": 46.307,
+                        "6": 59.429,
+                        "7": 43.774,
+                        "8": 43.192,
+                        "9": 65.743,
+                        "10": 84.222
+                    }
+                }
+            },
+            {
+                "query_type": "subquery",
+                "response_time": {
+                    "avg_all_session": 52.9654,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 99.992,
+                        "2": 89.835,
+                        "3": 45.99,
+                        "4": 41.644,
+                        "5": 36.474,
+                        "6": 47.861,
+                        "7": 36.216,
+                        "8": 42.233,
+                        "9": 45.36,
+                        "10": 44.049
+                    }
+                }
+            },
+            {
+                "query_type": "distinct",
+                "response_time": {
+                    "avg_all_session": null,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": null,
+                        "2": null,
+                        "3": null,
+                        "4": null,
+                        "5": null,
+                        "6": null,
+                        "7": null,
+                        "8": null,
+                        "9": null,
+                        "10": null
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "server_type": "remote",
+        "label": "dbpedia",
+        "rdf_store": null,
+        "url": "https://dbpedia.org/sparql",
+        "graph_uri": null,
+        "triple_num": 1105853878.0,
+        "benchmark_query_result": [
+            {
+                "query_type": "count",
+                "response_time": {
+                    "avg_all_session": 1362.7422000000001,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 1794.172,
+                        "2": 1146.67,
+                        "3": 1081.711,
+                        "4": 1000.969,
+                        "5": 995.814,
+                        "6": 3324.709,
+                        "7": 1084.708,
+                        "8": 1042.882,
+                        "9": 1072.435,
+                        "10": 1083.352
+                    }
+                }
+            },
+            {
+                "query_type": "order_by",
+                "response_time": {
+                    "avg_all_session": null,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": null,
+                        "2": null,
+                        "3": null,
+                        "4": null,
+                        "5": null,
+                        "6": null,
+                        "7": null,
+                        "8": null,
+                        "9": null,
+                        "10": null
+                    }
+                }
+            },
+            {
+                "query_type": "group_by_having_count_distinct",
+                "response_time": {
+                    "avg_all_session": null,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": null,
+                        "2": null,
+                        "3": null,
+                        "4": null,
+                        "5": null,
+                        "6": null,
+                        "7": null,
+                        "8": null,
+                        "9": null,
+                        "10": null
+                    }
+                }
+            },
+            {
+                "query_type": "union",
+                "response_time": {
+                    "avg_all_session": 1266.8856,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 1153.405,
+                        "2": 1212.709,
+                        "3": 1032.856,
+                        "4": 994.339,
+                        "5": 1005.576,
+                        "6": 1116.198,
+                        "7": 1097.644,
+                        "8": 1803.683,
+                        "9": 1718.015,
+                        "10": 1534.431
+                    }
+                }
+            },
+            {
+                "query_type": "filter_regex",
+                "response_time": {
+                    "avg_all_session": 7629.7999,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 7242.438,
+                        "2": 6088.34,
+                        "3": 5700.555,
+                        "4": 7516.618,
+                        "5": 10611.738,
+                        "6": 6377.282,
+                        "7": 6526.974,
+                        "8": 13708.655,
+                        "9": 6318.256,
+                        "10": 6207.143
+                    }
+                }
+            },
+            {
+                "query_type": "optional",
+                "response_time": {
+                    "avg_all_session": 1839.7302,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 1114.013,
+                        "2": 1024.879,
+                        "3": 1046.196,
+                        "4": 1060.182,
+                        "5": 1068.689,
+                        "6": 1052.468,
+                        "7": 1073.146,
+                        "8": 1127.705,
+                        "9": 7176.897,
+                        "10": 2653.127
+                    }
+                }
+            },
+            {
+                "query_type": "subquery",
+                "response_time": {
+                    "avg_all_session": 1074.9818,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 1067.138,
+                        "2": 1013.136,
+                        "3": 1148.309,
+                        "4": 1112.927,
+                        "5": 1040.93,
+                        "6": 1067.11,
+                        "7": 962.922,
+                        "8": 1233.696,
+                        "9": 1145.506,
+                        "10": 958.144
+                    }
+                }
+            },
+            {
+                "query_type": "distinct",
+                "response_time": {
+                    "avg_all_session": null,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": null,
+                        "2": null,
+                        "3": null,
+                        "4": null,
+                        "5": null,
+                        "6": null,
+                        "7": null,
+                        "8": null,
+                        "9": null,
+                        "10": null
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "server_type": "remote",
+        "label": "japan search",
+        "rdf_store": null,
+        "url": "https://jpsearch.go.jp/rdf/sparql",
+        "graph_uri": null,
+        "triple_num": 1181382298.0,
+        "benchmark_query_result": [
+            {
+                "query_type": "count",
+                "response_time": {
+                    "avg_all_session": 2312.7117000000003,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 2337.057,
+                        "2": 2276.251,
+                        "3": 2333.901,
+                        "4": 2349.501,
+                        "5": 2307.376,
+                        "6": 2314.181,
+                        "7": 2279.04,
+                        "8": 2293.856,
+                        "9": 2329.904,
+                        "10": 2306.05
+                    }
+                }
+            },
+            {
+                "query_type": "order_by",
+                "response_time": {
+                    "avg_all_session": 49.3668,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 44.024,
+                        "2": 54.908,
+                        "3": 57.157,
+                        "4": 44.57,
+                        "5": 65.257,
+                        "6": 44.869,
+                        "7": 51.209,
+                        "8": 44.998,
+                        "9": 42.723,
+                        "10": 43.953
+                    }
+                }
+            },
+            {
+                "query_type": "group_by_having_count_distinct",
+                "response_time": {
+                    "avg_all_session": null,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": null,
+                        "2": null,
+                        "3": null,
+                        "4": null,
+                        "5": null,
+                        "6": null,
+                        "7": null,
+                        "8": null,
+                        "9": null,
+                        "10": null
+                    }
+                }
+            },
+            {
+                "query_type": "union",
+                "response_time": {
+                    "avg_all_session": 63.25359999999999,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 51.102,
+                        "2": 71.351,
+                        "3": 99.063,
+                        "4": 60.832,
+                        "5": 58.163,
+                        "6": 65.919,
+                        "7": 63.462,
+                        "8": 56.129,
+                        "9": 53.786,
+                        "10": 52.729
+                    }
+                }
+            },
+            {
+                "query_type": "filter_regex",
+                "response_time": {
+                    "avg_all_session": 250.2697,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 209.451,
+                        "2": 245.044,
+                        "3": 238.611,
+                        "4": 434.398,
+                        "5": 248.612,
+                        "6": 224.515,
+                        "7": 217.032,
+                        "8": 227.363,
+                        "9": 210.62,
+                        "10": 247.051
+                    }
+                }
+            },
+            {
+                "query_type": "optional",
+                "response_time": {
+                    "avg_all_session": 61.5293,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 56.472,
+                        "2": 54.541,
+                        "3": 70.693,
+                        "4": 57.574,
+                        "5": 60.38,
+                        "6": 69.241,
+                        "7": 52.027,
+                        "8": 64.786,
+                        "9": 58.504,
+                        "10": 71.075
+                    }
+                }
+            },
+            {
+                "query_type": "subquery",
+                "response_time": {
+                    "avg_all_session": 95.5939,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 81.653,
+                        "2": 346.091,
+                        "3": 52.765,
+                        "4": 70.095,
+                        "5": 50.197,
+                        "6": 65.523,
+                        "7": 96.251,
+                        "8": 76.367,
+                        "9": 62.304,
+                        "10": 54.693
+                    }
+                }
+            },
+            {
+                "query_type": "distinct",
+                "response_time": {
+                    "avg_all_session": null,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": null,
+                        "2": null,
+                        "3": null,
+                        "4": null,
+                        "5": null,
+                        "6": null,
+                        "7": null,
+                        "8": null,
+                        "9": null,
+                        "10": null
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "server_type": "remote",
+        "label": "eu-data visualize",
+        "rdf_store": "virtuoso",
+        "url": "https://digital-agenda-data.eu/sparql",
+        "graph_uri": null,
+        "triple_num": 12291777.0,
+        "benchmark_query_result": [
+            {
+                "query_type": "count",
+                "response_time": {
+                    "avg_all_session": 1063.9114,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 1074.847,
+                        "2": 1130.422,
+                        "3": 1054.827,
+                        "4": 1068.087,
+                        "5": 1050.099,
+                        "6": 1045.175,
+                        "7": 1030.477,
+                        "8": 1045.026,
+                        "9": 1050.186,
+                        "10": 1089.968
+                    }
+                }
+            },
+            {
+                "query_type": "order_by",
+                "response_time": {
+                    "avg_all_session": null,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": null,
+                        "2": null,
+                        "3": null,
+                        "4": null,
+                        "5": null,
+                        "6": null,
+                        "7": null,
+                        "8": null,
+                        "9": null,
+                        "10": null
+                    }
+                }
+            },
+            {
+                "query_type": "group_by_having_count_distinct",
+                "response_time": {
+                    "avg_all_session": null,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": null,
+                        "2": null,
+                        "3": null,
+                        "4": null,
+                        "5": null,
+                        "6": null,
+                        "7": null,
+                        "8": null,
+                        "9": null,
+                        "10": null
+                    }
+                }
+            },
+            {
+                "query_type": "union",
+                "response_time": {
+                    "avg_all_session": 997.7115,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 981.373,
+                        "2": 1019.708,
+                        "3": 1003.215,
+                        "4": 988.605,
+                        "5": 1003.034,
+                        "6": 998.083,
+                        "7": 1029.837,
+                        "8": 973.023,
+                        "9": 982.954,
+                        "10": 997.283
+                    }
+                }
+            },
+            {
+                "query_type": "filter_regex",
+                "response_time": {
+                    "avg_all_session": null,
+                    "avg_not_nil_session": 46780.58355555555,
+                    "time_per_session": {
+                        "1": 50752.477,
+                        "2": 48033.481,
+                        "3": null,
+                        "4": 53423.986,
+                        "5": 42280.221,
+                        "6": 43101.86,
+                        "7": 42259.84,
+                        "8": 44168.317,
+                        "9": 46783.682,
+                        "10": 50221.388
+                    }
+                }
+            },
+            {
+                "query_type": "optional",
+                "response_time": {
+                    "avg_all_session": 1024.1834000000001,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 1004.729,
+                        "2": 1024.62,
+                        "3": 1038.045,
+                        "4": 1016.244,
+                        "5": 1076.179,
+                        "6": 1007.71,
+                        "7": 1040.059,
+                        "8": 1002.045,
+                        "9": 1017.18,
+                        "10": 1015.023
+                    }
+                }
+            },
+            {
+                "query_type": "subquery",
+                "response_time": {
+                    "avg_all_session": 1013.2475000000001,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 988.079,
+                        "2": 1019.902,
+                        "3": 995.896,
+                        "4": 1046.445,
+                        "5": 1001.887,
+                        "6": 1032.937,
+                        "7": 995.615,
+                        "8": 1036.679,
+                        "9": 985.182,
+                        "10": 1029.853
+                    }
+                }
+            },
+            {
+                "query_type": "distinct",
+                "response_time": {
+                    "avg_all_session": 1027.8118,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 1013.474,
+                        "2": 992.562,
+                        "3": 1004.161,
+                        "4": 1012.967,
+                        "5": 1015.799,
+                        "6": 1026.909,
+                        "7": 1005.143,
+                        "8": 1091.991,
+                        "9": 1090.782,
+                        "10": 1024.33
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "server_type": "remote",
+        "label": "agrovoc",
+        "rdf_store": null,
+        "url": "https://agrovoc.fao.org/sparql",
+        "graph_uri": null,
+        "triple_num": 7970339.0,
+        "benchmark_query_result": [
+            {
+                "query_type": "count",
+                "response_time": {
+                    "avg_all_session": 8204.8256,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 8239.673,
+                        "2": 8198.057,
+                        "3": 7877.244,
+                        "4": 8332.802,
+                        "5": 8450.231,
+                        "6": 8651.042,
+                        "7": 7974.172,
+                        "8": 8381.159,
+                        "9": 7930.543,
+                        "10": 8013.333
+                    }
+                }
+            },
+            {
+                "query_type": "order_by",
+                "response_time": {
+                    "avg_all_session": null,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": null,
+                        "2": null,
+                        "3": null,
+                        "4": null,
+                        "5": null,
+                        "6": null,
+                        "7": null,
+                        "8": null,
+                        "9": null,
+                        "10": null
+                    }
+                }
+            },
+            {
+                "query_type": "group_by_having_count_distinct",
+                "response_time": {
+                    "avg_all_session": 34902.8118,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 45892.068,
+                        "2": 31662.502,
+                        "3": 33764.713,
+                        "4": 36616.364,
+                        "5": 32183.812,
+                        "6": 32747.43,
+                        "7": 31163.077,
+                        "8": 34724.532,
+                        "9": 31578.183,
+                        "10": 38695.437
+                    }
+                }
+            },
+            {
+                "query_type": "union",
+                "response_time": {
+                    "avg_all_session": 765.8353,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 761.394,
+                        "2": 761.897,
+                        "3": 762.537,
+                        "4": 763.558,
+                        "5": 778.408,
+                        "6": 773.307,
+                        "7": 763.219,
+                        "8": 766.573,
+                        "9": 763.201,
+                        "10": 764.259
+                    }
+                }
+            },
+            {
+                "query_type": "filter_regex",
+                "response_time": {
+                    "avg_all_session": 13098.523799999999,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 13157.384,
+                        "2": 12957.492,
+                        "3": 13080.771,
+                        "4": 13224.873,
+                        "5": 12893.771,
+                        "6": 12943.643,
+                        "7": 12759.762,
+                        "8": 13527.187,
+                        "9": 13414.416,
+                        "10": 13025.939
+                    }
+                }
+            },
+            {
+                "query_type": "optional",
+                "response_time": {
+                    "avg_all_session": 766.255,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 778.438,
+                        "2": 782.965,
+                        "3": 763.45,
+                        "4": 770.988,
+                        "5": 764.269,
+                        "6": 758.499,
+                        "7": 758.774,
+                        "8": 759.99,
+                        "9": 764.759,
+                        "10": 760.418
+                    }
+                }
+            },
+            {
+                "query_type": "subquery",
+                "response_time": {
+                    "avg_all_session": 765.2462,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 773.19,
+                        "2": 773.867,
+                        "3": 757.604,
+                        "4": 760.868,
+                        "5": 775.351,
+                        "6": 761.103,
+                        "7": 762.916,
+                        "8": 758.184,
+                        "9": 761.047,
+                        "10": 768.332
+                    }
+                }
+            },
+            {
+                "query_type": "distinct",
+                "response_time": {
+                    "avg_all_session": 767.4786,
+                    "avg_not_nil_session": null,
+                    "time_per_session": {
+                        "1": 766.026,
+                        "2": 766.177,
+                        "3": 776.138,
+                        "4": 770.933,
+                        "5": 765.005,
+                        "6": 768.733,
+                        "7": 764.436,
+                        "8": 764.644,
+                        "9": 759.202,
+                        "10": 773.492
+                    }
+                }
+            }
+        ]
+    }
+]
