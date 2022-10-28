@@ -101,7 +101,7 @@
         "server_type": "remote",
         "label": "e-stat",
         "rdf_store": "fuseki",
-        "url": "http://data.e-stat.go.jp/lod/sparql/",
+        "url": "http://data.e-stat.go.jp/lod/sparql/alldata/query",
         "graph_uri": null
     },
     {
