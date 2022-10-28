@@ -39,7 +39,7 @@ def get_benchmark_query_result(query_type, query, endpoint, request_num_of_repet
     end
     # http_request += "query=" + URI.encode(query) #「warning: URI.escape is obsolete」が出る
     http_request += "query=" + Addressable::URI.encode(query)
-
+    p http_request
     #繰り返し回数分だけ問い合わせる
     (1..request_num_of_repetitions).each{|num|
         return_time = nil
@@ -51,7 +51,7 @@ def get_benchmark_query_result(query_type, query, endpoint, request_num_of_repet
             end
         }
         return_info["response_time"]["time_per_session"][num] = return_time
-    }
+    }   
     
     response_time_list = return_info["response_time"]["time_per_session"].values #hash内の応答時間を配列に書き出す
     if response_time_list.include?(nil) then #応答時間にnilが含まれる場合
@@ -74,12 +74,11 @@ File.open('input/SPARQLendpoint.json') {|f|
 
     output = [] #出力用のArray
     endpoint_list.each do |endpoint| #エンドポイントごとに問い合わせる
-        if endpoint["server_type"] == "local" && endpoint["rdf_store"] == "fuseki"  then #問い合わせるエンドポイントの条件を指定
+        if endpoint["server_type"] == "remote" then #問い合わせるエンドポイントの条件を指定
             p "問い合わせ先のSPARQLendpoint:" + endpoint["label"]
             begin
                 #SPARQL::Clientオブジェクトを作成
                 sparql = SPARQL::Client.new(endpoint["url"], graph: endpoint["graph_uri"], method: "get")
-
                 # --- 事前情報の取得(サブクエリ, UNION, OPTIONAL句で利用するため) ---
                 #トリプル数を取得
                 triple_num_result = sparql.query(get_triple_num_query)
