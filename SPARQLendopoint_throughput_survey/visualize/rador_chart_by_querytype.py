@@ -7,7 +7,7 @@ import urllib.parse
 
 #データをインポート
 file_path = "../output/response_time/"
-input_file_name = "20221025012201_local_fuseki_4.6.1"
+input_file_name = "20221024203010_local_fuseki"
 
 response_time_each_endpoint = json.load(open(file_path+input_file_name+".json", 'r'))
 df_content = []
@@ -45,8 +45,6 @@ for e in df.columns.values[7:]:
     ax.plot(angles, values)
     #　レーダーチャートの内側を塗りつぶす
     ax.fill(angles, values, alpha=0.2)
-    print(type(df["label"]))
-    print(len(df.index))
     label = np.core.defchararray.add(
         np.core.defchararray.add(
             np.array(df["label"],dtype=str),
