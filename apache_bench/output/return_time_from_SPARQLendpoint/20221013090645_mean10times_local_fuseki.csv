@@ -1,8 +1,0 @@
-server_type,label,rdf_store,url,graph_uri,triple_num,count,distinct,filter_rdf:type,filter_regex,group_by_having,union,optional,subquery
-local,SP2Bench_10000,fuseki,http://localhost:3030/SP2Bench_10000/sparql,,10303,20.613,23.83,2.767,21.404,1.267,9.124,6.262,7.158
-local,SP2Bench_100000,fuseki,http://localhost:3030/SP2Bench_100000/sparql,,100073,62.62,111.965,2.325,91.394,2.096,53.83,7.061,57.45
-local,SP2Bench_1000000,fuseki,http://localhost:3030/SP2Bench_1000000/sparql,,1000009,394.78,907.037,1.45,859.289,1.133,472.916,14.519,393.545
-local,SP2Bench_10000000,fuseki,http://localhost:3030/SP2Bench_10000000/sparql,,10000457,3528.096,8432.975,2.033,8518.514,3.075,4420.167,129.607,5651.772
-local,onsen,fuseki,http://localhost:3030/onsen/sparql,,26962,17.661,27.969,0.83,27.747,2.026,15.941,21.312,22.028
-local,botanical,fuseki,http://localhost:3030/botanical/sparql,,24467,14.176,25.255,1.371,26.257,2.223,8.716,2.521,10.894
-local,textbook,fuseki,http://localhost:3030/textbook/sparql,,292128,123.956,262.279,1.53,253.418,1.886,63.901,48.35,53.064

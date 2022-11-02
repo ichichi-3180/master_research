@@ -76,7 +76,7 @@ for querytype in data_per_querytype:
     print(querytype)
     data = data_per_querytype[querytype]
     df = pd.DataFrame(data, index=output_labels)
-    
+    df = df.apply(np.log) #値が大きすぎて比較できない場合は対数をとって比較
     columns = df.index
     
     rdf_store_list = list(data.keys())
@@ -96,8 +96,10 @@ for querytype in data_per_querytype:
     ax.set_thetagrids(angles_B[:-1] * 180 / np.pi, df.index, fontsize=30)
     ax.set_theta_zero_location('N')
     gridlines = ax.yaxis.get_gridlines()
+    ax.tick_params(labelsize=30)
     ax.set_title(querytype, fontsize=40)
     ax.legend(bbox_to_anchor=(1, 1), loc='upper right', ncol=2, fontsize=30)
     if not os.path.exists("../output/rador_chart/by_querytype/" + input_file_name_1 +"_" +  input_file_name_2):
         os.makedirs("../output/rador_chart/by_querytype/" + input_file_name_1 +"_"+ input_file_name_2)
-    fig.savefig("../output/rador_chart/by_querytype/" + input_file_name_1 + "_" + input_file_name_2+ "/" + querytype + ".png")
+    fig.savefig("../output/rador_chart/by_querytype/" + input_file_name_1 + "_" + input_file_name_2+ "/" + querytype + "_log.png") #対数をとった時の出力はこっち
+    # fig.savefig("../output/rador_chart/by_querytype/" + input_file_name_1 + "_" + input_file_name_2+ "/" + querytype + ".png")

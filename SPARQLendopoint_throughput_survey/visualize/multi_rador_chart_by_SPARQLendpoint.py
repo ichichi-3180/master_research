@@ -77,7 +77,8 @@ for endpoint in data_per_SPARQLendpoint:
     print(endpoint)
     data = data_per_SPARQLendpoint[endpoint]
     df = pd.DataFrame(data, index=output_labels)
-    
+    df = df.apply(np.log) #値が大きすぎて比較できない場合は対数をとって比較
+    print(df)
     columns = df.index
     
     rdf_store_list = list(data.keys())
@@ -91,13 +92,15 @@ for endpoint in data_per_SPARQLendpoint:
     ax.plot(angles_B, values_B, 'o-', color="red", label=rdf_store_list[1])
     ax.fill(angles_A, values_A, alpha=0.3, color="blue")
     ax.fill(angles_B, values_B, alpha=0.3, color="red")
-    ax.set_thetagrids(angles_A[:-1] * 180 / np.pi, df.index, fontsize=30)
+    ax.set_thetagrids(angles_A[:-1] * 180 / np.pi, df.index)
     ax.set_theta_zero_location('N')
-    ax.set_thetagrids(angles_B[:-1] * 180 / np.pi, df.index, fontsize=30)
+    ax.set_thetagrids(angles_B[:-1] * 180 / np.pi, df.index)
     ax.set_theta_zero_location('N')
     gridlines = ax.yaxis.get_gridlines()
+    ax.tick_params(labelsize=30)
     ax.set_title(endpoint, fontsize=40)
     ax.legend(bbox_to_anchor=(1, 1), loc='upper right', ncol=2, fontsize=30)
     if not os.path.exists("../output/rador_chart/by_SPARQLendpoint/" + input_file_name_1 +"_" +  input_file_name_2):
         os.makedirs("../output/rador_chart/by_SPARQLendpoint/" + input_file_name_1 +"_"+ input_file_name_2)
-    fig.savefig("../output/rador_chart/by_SPARQLendpoint/" + input_file_name_1 + "_" + input_file_name_2+ "/" + endpoint + ".png")
+    fig.savefig("../output/rador_chart/by_SPARQLendpoint/" + input_file_name_1 + "_" + input_file_name_2+ "/" + endpoint + "_log.png") #対数をとった時の出力はこっち
+    # fig.savefig("../output/rador_chart/by_SPARQLendpoint/" + input_file_name_1 + "_" + input_file_name_2+ "/" + endpoint + ".png")
