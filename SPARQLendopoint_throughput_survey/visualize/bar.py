@@ -7,7 +7,7 @@ import matplotlib.patches as patches
 
 #データをインポート
 file_path = "../output/response_time/"
-input_file_name = "20221025012201_local_fuseki_4.6.1"
+input_file_name = "20221026174420_remote"
 
 response_time_each_endpoint = json.load(open(file_path+input_file_name+'.json', 'r'))
 
@@ -32,7 +32,7 @@ df = df.sort_values('triple_num')
 df = df.reset_index()
 triple_num_label = df["triple_num"]
 
-for e in df.columns.values[6:]: #トリプル数以降でfor文を回す
+for e in df.columns.values[7:]: #トリプル数以降でfor文を回す
     ms = df[e]
     fig,ax = plt.subplots()
     ax.bar(np.array(df.index), np.array(ms), width=0.4)
