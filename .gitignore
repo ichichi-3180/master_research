@@ -2,4 +2,9 @@
 *input/
 .DS_Store
 *query/
-!query/wikidata/StatusCode/20221215101853/*
+!query/wikidata/
+*query/wikidata/*
+!query/wikidata/StatusCode/
+*query/wikidata/StatusCode/*
+!query/wikidata/StatusCode/20221215101853/
+*query/wikidata/StatusCode/20221215101853/
