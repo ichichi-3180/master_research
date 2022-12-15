@@ -7,8 +7,3 @@ log_analysis/query/wikidata/*
 !log_analysis/query/wikidata/StatusCode
 log_analysis/query/wikidata/StatusCode/*
 !log_analysis/query/wikidata/StatusCode/20221215101853
-# *query/wikidata/
-# !query/wikidata/StatusCode/
-# *query/wikidata/StatusCode/
-# !query/wikidata/StatusCode/20221215101853/
-# !*query/wikidata/StatusCode/20221215101853/2018-02-26_2018-03-25_status_500.json
