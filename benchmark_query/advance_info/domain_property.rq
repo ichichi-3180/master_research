@@ -1,6 +1,0 @@
-SELECT distinct ?domain ?property
-WHERE{
-    ?s a ?domain.
-    ?s ?property ?o.
-}
-LIMIT 1

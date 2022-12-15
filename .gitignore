@@ -2,3 +2,4 @@
 *input/
 .DS_Store
 *query/
+!query/20221215101853/*

@@ -1,6 +1,0 @@
-SELECT ?o 
-WHERE{
-    {?s a <#{domain}>.}
-    OPTIONAL
-    {?s <#{property}> ?o}
-}

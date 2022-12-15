@@ -1,4 +1,0 @@
-SELECT (count(?s) AS ?triple_num) 
-WHERE{
-    ?s ?p ?o.
-}

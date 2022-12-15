@@ -1,5 +1,0 @@
-SELECT ?p 
-WHERE
-{ 
-    ?s ?p ?o.
-}ORDER BY ?p

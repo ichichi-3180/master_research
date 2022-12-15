@@ -1,5 +1,0 @@
-SELECT (COUNT(?p) AS ?p_count)
-WHERE
-{
- ?s ?p ?o
-}
