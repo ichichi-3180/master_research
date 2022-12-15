@@ -1,8 +1,8 @@
 *output/
 *input/
 .DS_Store
-# *query/
-*query/wikidata/*
+*query/
+# *query/wikidata/*
 # !query/wikidata/
 # *query/wikidata/
 # !query/wikidata/StatusCode/
