@@ -2,7 +2,7 @@
 *input/
 .DS_Store
 # *query/
-query/*
+query/wikidata/*
 # !query/wikidata/
 # *query/wikidata/
 # !query/wikidata/StatusCode/
