@@ -1,10 +1,11 @@
 *output/
 *input/
 .DS_Store
-*query/
-!query/wikidata/
-*query/wikidata/
-!query/wikidata/StatusCode/
-*query/wikidata/StatusCode/
-!query/wikidata/StatusCode/20221215101853/
-*query/wikidata/StatusCode/20221215101853/2018-02-26_2018-03-25_status_500.json
+# *query/
+query/*
+# !query/wikidata/
+# *query/wikidata/
+# !query/wikidata/StatusCode/
+# *query/wikidata/StatusCode/
+# !query/wikidata/StatusCode/20221215101853/
+# *query/wikidata/StatusCode/20221215101853/2018-02-26_2018-03-25_status_500.json
