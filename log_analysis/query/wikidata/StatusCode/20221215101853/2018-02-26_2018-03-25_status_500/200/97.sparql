@@ -1,0 +1,40 @@
+SELECT DISTINCT ?var1 
+WHERE {
+  BIND (  <http://www.wikidata.org/prop/P1082>  AS  ?var2 ).
+  ?var1  ?var2  ?var3 .
+  ?var3  <http://www.wikidata.org/prop/qualifier/P585>  ?var4 .
+  ?var3  <http://wikiba.se/ontology#rank>  <http://wikiba.se/ontology#NormalRank> .
+  ?var3  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://wikiba.se/ontology#BestRank> .
+  ?var1  ?var2  ?var5 .
+ FILTER (  ( (  ?var5  !=  ?var3  ) ) 
+) .
+  ?var5  <http://www.wikidata.org/prop/qualifier/P585>  ?var6 .
+ OPTIONAL {
+  ?var1  <http://www.wikidata.org/prop/direct/P570>  ?var7 .
+ }
+ FILTER (  ( !( BOUND (  ?var7  ) ) ) 
+) .
+ OPTIONAL {
+  ?var1  <http://www.wikidata.org/prop/direct/P576>  ?var8 .
+ }
+ FILTER (  ( !( BOUND (  ?var8  ) ) ) 
+) .
+  MINUS   {
+    VALUES (  ?var1  ) {
+     (  <http://www.wikidata.org/entity/Q1218>  )
+     (  <http://www.wikidata.org/entity/Q687100>  )
+     (  <http://www.wikidata.org/entity/Q18693153>  )
+     (  <http://www.wikidata.org/entity/Q12188195>  )
+     (  <http://www.wikidata.org/entity/Q28648364>  )
+     (  <http://www.wikidata.org/entity/Q430780>  )
+     (  <http://www.wikidata.org/entity/Q3513793>  )
+     (  <http://www.wikidata.org/entity/Q237453>  )
+     (  <http://www.wikidata.org/entity/Q29044451>  )
+     (  <http://www.wikidata.org/entity/Q28647579>  )
+     (  <http://www.wikidata.org/entity/Q3424142>  )
+     (  <http://www.wikidata.org/entity/Q29044166>  )
+     (  <http://www.wikidata.org/entity/Q1128384>  )
+    }
+  }
+}
+LIMIT 20

@@ -1,0 +1,20 @@
+SELECT ?var1  ?var2  ?var1Label  ?var2Label 
+WHERE {
+  ?var1  <http://www.wikidata.org/prop/direct/P17>  ?var2 .
+  MINUS   {
+    ?var2 ( <http://www.wikidata.org/prop/direct/P31> / <http://www.wikidata.org/prop/direct/P279> *) <http://www.wikidata.org/entity/Q7275> .
+  }
+  MINUS   {
+    ?var2 ( <http://www.wikidata.org/prop/direct/P31> / <http://www.wikidata.org/prop/direct/P279> *) <http://www.wikidata.org/entity/Q183366> .
+  }
+  MINUS   {
+    ?var2 ( <http://www.wikidata.org/prop/direct/P31> / <http://www.wikidata.org/prop/direct/P279> *) <http://www.wikidata.org/entity/Q15893266> .
+  }
+  MINUS   {
+    ?var2 ( <http://www.wikidata.org/prop/direct/P31> / <http://www.wikidata.org/prop/direct/P279> *) <http://www.wikidata.org/entity/Q1048835> .
+  }
+ SERVICE  <http://wikiba.se/ontology#label>   {
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#language>  "en".
+  }
+}
+LIMIT 1000

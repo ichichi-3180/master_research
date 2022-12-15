@@ -1,0 +1,8 @@
+SELECT DISTINCT ?var1 
+WHERE {
+  ?var1  <http://www.wikidata.org/prop/direct/P31>  <http://www.wikidata.org/entity/Q5> ;
+ <http://www.wikidata.org/prop/direct/P17>  [] ;
+ <http://www.wikidata.org/prop/direct/P569>  ?var2 .
+ FILTER (  ( (  YEAR (  ?var2  )  > "1850"^^<http://www.w3.org/2001/XMLSchema#integer>  ) ) 
+) .
+}

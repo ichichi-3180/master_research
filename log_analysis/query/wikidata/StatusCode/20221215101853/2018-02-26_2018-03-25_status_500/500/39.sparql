@@ -1,0 +1,8 @@
+SELECT ?var1 ( COUNT (* ) AS  ?var2  )
+WHERE {
+  ?var3  <http://www.wikidata.org/prop/direct/P2093>  ?var1 .
+ FILTER (  (  CONTAINS (  STR (  ?var1  ) , "Saadatfar" )  ) 
+) .
+}
+GROUP BY  ?var1 
+LIMIT 500

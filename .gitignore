@@ -4,7 +4,9 @@
 # *query/
 benchmark_query/*
 log_analysis/query/wikidata/*
-# !query/wikidata/
+!log_analysis/query/wikidata/StatusCode
+log_analysis/query/wikidata/StatusCode/*
+!log_analysis/query/wikidata/StatusCode/20221215101853
 # *query/wikidata/
 # !query/wikidata/StatusCode/
 # *query/wikidata/StatusCode/

@@ -1,0 +1,19 @@
+SELECT ?var1  ?var2 (  CONCAT (  "{{Coord|", STR (  ?var3  ) , "|", STR (  ?var4  ) , "string1" )  AS  ?var5  )
+WHERE {
+  ?var1  <http://www.wikidata.org/prop/direct/P4102>  ?var6 ;
+( <http://www.wikidata.org/prop/direct/P31> / <http://www.wikidata.org/prop/direct/P279> ?) <http://www.wikidata.org/entity/Q744099> ;
+ <http://www.wikidata.org/prop/direct/P31>  ?var2 ;
+ <http://www.wikidata.org/prop/direct/P131> + <http://www.wikidata.org/entity/Q25> ;
+ <http://www.wikidata.org/prop/P625>  ?var7 .
+  ?var1  <http://www.wikidata.org/prop/direct/P131> + ?var8 .
+  ?var8  <http://www.wikidata.org/prop/direct/P131>  <http://www.wikidata.org/entity/Q25> .
+ FILTER (  (  EXISTS  {
+   ?var7 ( <http://www.w3.org/ns/prov#wasDerivedFrom> / <http://www.wikidata.org/prop/reference/P854> ) ?var9 .
+ }
+ ) 
+) .
+  ?var7  <http://www.wikidata.org/prop/statement/value/P625>  ?var10 .
+  ?var10  <http://wikiba.se/ontology#geoLatitude>  ?var3 ;
+ <http://wikiba.se/ontology#geoLongitude>  ?var4 .
+  ?var2  <http://www.wikidata.org/prop/direct/P279> ? <http://www.wikidata.org/entity/Q744099> .
+}

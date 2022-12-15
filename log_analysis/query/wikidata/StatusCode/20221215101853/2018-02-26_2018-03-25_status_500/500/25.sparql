@@ -1,0 +1,8 @@
+SELECT ?var1 
+WHERE {
+  ?var2  <http://www.wikidata.org/prop/direct/P2093>  ?var1 .
+ FILTER (  (  CONTAINS (  STR (  ?var1  ) , "T" )  ) 
+) .
+}
+GROUP BY  ?var1 
+LIMIT 500

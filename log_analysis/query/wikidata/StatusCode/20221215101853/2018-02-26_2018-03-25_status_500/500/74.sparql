@@ -1,0 +1,11 @@
+SELECT DISTINCT ?var1 
+WHERE {
+  ?var1  <http://www.wikidata.org/prop/direct/P3373>  ?var2 .
+  MINUS   {
+    ?var2 ( <http://www.wikidata.org/prop/P3373> / <http://www.wikidata.org/prop/statement/P3373> / <http://www.w3.org/2002/07/owl#sameAs> ?) ?var1 .
+  }
+  ?var2  ?var3  ?var4 .
+  ?var1  ?var3  ?var4 .
+ FILTER (  (  ?var3  IN (  <http://www.wikidata.org/prop/direct/P22> , <http://www.wikidata.org/prop/direct/P25>  )  ) 
+) .
+}

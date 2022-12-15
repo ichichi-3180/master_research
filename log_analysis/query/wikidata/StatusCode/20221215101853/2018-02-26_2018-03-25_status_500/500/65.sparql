@@ -1,0 +1,25 @@
+SELECT DISTINCT *
+WHERE {
+  BIND (  IRI (  REPLACE (  STR (  ?var1  ) , "string1", "string2", "i" )  )  AS  ?var2 ).
+  ?var3 ( <http://www.wikidata.org/prop/P31> / <http://www.wikidata.org/prop/statement/P31> / <http://www.wikidata.org/prop/direct/P279> *) <http://www.wikidata.org/entity/Q17537576> .
+  ?var3  <http://www.wikidata.org/prop/direct/P31>  ?var4 .
+  ?var4  <http://www.w3.org/2000/01/rdf-schema#label>  ?var4Label .
+  ?var3  <http://www.w3.org/2000/01/rdf-schema#label>  ?var5Label .
+ FILTER (  ( (  LANG (  ?var4Label  )  =  "en" ) ) 
+) .
+ FILTER (  ( (  LANG (  ?var5Label  )  =  "en" ) ) 
+) .
+  ?var1  <http://schema.org/about>  ?var3 ;
+ <http://schema.org/isPartOf>  <https://en.wikipedia.org/> .
+ OPTIONAL {
+ OPTIONAL {
+  ?var3  <http://www.wikidata.org/prop/direct/P577>  ?var6 .
+ }
+ OPTIONAL {
+  ?var3  <http://www.wikidata.org/prop/direct/P571>  ?var7 .
+ }
+  BIND (  COALESCE (  ?var6 , ?var7  )  AS  ?var8 ).
+ }
+}
+LIMIT 100
+OFFSET 200

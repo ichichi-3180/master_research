@@ -1,0 +1,21 @@
+SELECT ?var1  ?var2 (  GROUP_CONCAT (  DISTINCT  ?var3  )  AS  ?var4  )
+WHERE {
+  VALUES (  ?var5  ) {
+   (  <http://www.wikidata.org/entity/Q11424>  )
+   (  <http://www.wikidata.org/entity/Q24862>  )
+   (  <http://www.wikidata.org/entity/Q506240>  )
+   (  <http://www.wikidata.org/entity/Q336144>  )
+  }
+  BIND (  <http://www.w3.org/2001/XMLSchema#integer>  ( STRAFTER (  STR (  ?var1  ) , "Q" ) )  AS  ?var2 ).
+  ?var1  <http://www.wikidata.org/prop/direct/P31>  ?var5 .
+ FILTER (  ( (  ?var2  > "28090000"^^<http://www.w3.org/2001/XMLSchema#integer>  ) ) 
+) .
+ OPTIONAL {
+  BIND (  CONCAT (  "[", STR (  ?var6  ) , " ", ?var7 , "]" )  AS  ?var3 ).
+  ?var6  <http://schema.org/about>  ?var1 ;
+ <http://schema.org/inLanguage>  ?var7 .
+ }
+}
+GROUP BY  ?var1  ?var2 
+ORDER BY  DESC( ?var2 )
+LIMIT 500

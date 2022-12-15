@@ -1,0 +1,35 @@
+SELECT DISTINCT ?var1  ?var1Label (  CONCAT (  "{", "string1", STR (  ?var2  ) , "}", "}" )  AS  ?var3  ) ?var4  ?var4Label  ?var5  ?var5Label  ?var6  ?var7Label 
+WHERE {
+  BIND (  "eo" AS  ?var8 ).
+  ?var1  <http://www.wikidata.org/prop/direct/P2521>  ?var7Label .
+ FILTER (  ( (  LANG (  ?var7Label  )  =  ?var8  ) ) 
+) .
+  ?var1  <http://www.wikidata.org/prop/direct/P31>  ?var4 .
+ OPTIONAL {
+  ?var2  <http://schema.org/about>  ?var1 .
+ FILTER (  ( (  SUBSTR (  STR (  ?var2  ) ,"1"^^<http://www.w3.org/2001/XMLSchema#integer> ,"30"^^<http://www.w3.org/2001/XMLSchema#integer>  )  =  "string2" ) ) 
+) .
+ }
+ OPTIONAL {
+  ?var1  <http://www.wikidata.org/prop/direct/P425>  ?var5 .
+ SERVICE  <http://wikiba.se/ontology#label>   {
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#language>  "eo".
+    ?var5  <http://www.w3.org/2000/01/rdf-schema#label>  ?var5Label .
+  }
+ OPTIONAL {
+  BIND (  CONCAT (  "{", "string1", STR (  ?var9  ) , "}", "}" )  AS  ?var6 ).
+  ?var9  <http://schema.org/about>  ?var5 .
+ FILTER (  ( (  SUBSTR (  STR (  ?var9  ) ,"1"^^<http://www.w3.org/2001/XMLSchema#integer> ,"30"^^<http://www.w3.org/2001/XMLSchema#integer>  )  =  "string2" ) ) 
+) .
+ }
+ }
+ SERVICE  <http://wikiba.se/ontology#label>   {
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#language>  "eo".
+    ?var1  <http://www.w3.org/2000/01/rdf-schema#label>  ?var1Label .
+  }
+ SERVICE  <http://wikiba.se/ontology#label>   {
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#language>  "eo".
+    ?var4  <http://www.w3.org/2000/01/rdf-schema#label>  ?var4Label .
+  }
+}
+ORDER BY ASC( ?var7Label )

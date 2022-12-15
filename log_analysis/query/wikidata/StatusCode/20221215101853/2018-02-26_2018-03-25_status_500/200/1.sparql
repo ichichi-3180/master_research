@@ -1,0 +1,10 @@
+SELECT DISTINCT ?var1 
+WHERE {
+  BIND (  (  NOW (  ) - ?var2  )  AS  ?var3 ).
+  ?var1  <http://www.wikidata.org/prop/direct/P570>  ?var2 .
+ FILTER (  ( (  ?var3  >= "0"^^<http://www.w3.org/2001/XMLSchema#integer>  ) && (  ?var3  <= "5"^^<http://www.w3.org/2001/XMLSchema#integer>  ) ) 
+) .
+  ?var4  <http://schema.org/about>  ?var1 .
+  ?var4  <http://schema.org/inLanguage>  "es".
+  ?var4  <http://schema.org/isPartOf>  <https://es.wikipedia.org/> .
+}

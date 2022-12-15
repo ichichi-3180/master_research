@@ -1,0 +1,28 @@
+SELECT ?var1Label  ?var2Label  ?var3  ?var3Label  ?var4  ?var5Label 
+WHERE {
+  ?var1  ?var6  ?var3 .
+  ?var4  ?var6  ?var3 .
+ OPTIONAL {
+ SELECT DISTINCT ?var2  ?var3 
+ WHERE  {
+   ?var1  <http://www.wikidata.org/prop/P161>  ?var7 .
+   ?var7  <http://www.wikidata.org/prop/statement/P161>  ?var3 .
+   ?var7  <http://www.wikidata.org/prop/qualifier/P453>  ?var2 .
+   ?var4  <http://www.wikidata.org/prop/P161>  ?var8 .
+   ?var8  <http://www.wikidata.org/prop/statement/P161>  ?var3 .
+   ?var8  <http://www.wikidata.org/prop/qualifier/P453>  ?var5 .
+  SERVICE  <http://wikiba.se/ontology#label>    {
+     <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#language>  "en".
+   }
+ }
+ }
+  VALUES (  ?var1  ) {
+   (  <http://www.wikidata.org/entity/Q184843>  )
+  }
+  VALUES (  ?var6  ) {
+   (  <http://www.wikidata.org/prop/direct/P161>  )
+   (  <http://www.wikidata.org/prop/direct/P57>  )
+  }
+}
+ORDER BY  DESC( ?var2Label )
+LIMIT 5

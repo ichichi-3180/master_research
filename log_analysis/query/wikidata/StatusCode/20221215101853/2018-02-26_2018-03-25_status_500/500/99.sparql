@@ -1,0 +1,30 @@
+SELECT DISTINCT ?var1 
+WHERE {
+ {
+   ?var1  <http://www.wikidata.org/prop/direct/P31>  ?var2 .
+   ?var2  <http://www.wikidata.org/prop/direct/P279> * <http://www.wikidata.org/entity/Q24354> .
+   ?var1  <http://www.wikidata.org/prop/direct/P131>  ?var3 .
+   ?var3  <http://www.wikidata.org/prop/direct/P131> * <http://www.wikidata.org/entity/Q1284> .
+ }
+  UNION
+ {
+   ?var1  <http://www.wikidata.org/prop/direct/P31>  ?var2 .
+   ?var2  <http://www.wikidata.org/prop/direct/P279> * <http://www.wikidata.org/entity/Q33506> .
+   ?var1  <http://www.wikidata.org/prop/direct/P131>  ?var3 .
+   ?var3  <http://www.wikidata.org/prop/direct/P131> * <http://www.wikidata.org/entity/Q1284> .
+ }
+  UNION
+ {
+   ?var1  <http://www.wikidata.org/prop/direct/P31>  ?var2 .
+   ?var2  <http://www.wikidata.org/prop/direct/P279> * <http://www.wikidata.org/entity/Q28564> .
+   ?var1  <http://www.wikidata.org/prop/direct/P131>  ?var3 .
+   ?var3  <http://www.wikidata.org/prop/direct/P131> * <http://www.wikidata.org/entity/Q1284> .
+ }
+  UNION
+ {
+   ?var1  <http://www.wikidata.org/prop/direct/P31>  ?var2 .
+   ?var2  <http://www.wikidata.org/prop/direct/P279> * <http://www.wikidata.org/entity/Q839954> .
+   ?var1  <http://www.wikidata.org/prop/direct/P131>  ?var3 .
+   ?var3  <http://www.wikidata.org/prop/direct/P131> * <http://www.wikidata.org/entity/Q1284> .
+ }
+}

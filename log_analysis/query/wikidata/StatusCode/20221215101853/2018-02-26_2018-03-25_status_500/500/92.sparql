@@ -1,0 +1,21 @@
+SELECT DISTINCT ?var1 (  ?var2  AS  ?var3  ) ?var4 
+WHERE {
+  ?var1  <http://www.wikidata.org/prop/direct/P31>  <http://www.wikidata.org/entity/Q3305213> .
+ {
+   ?var1  <http://www.wikidata.org/prop/direct/P195>  <http://www.wikidata.org/entity/Q28045665> .
+ }
+  UNION
+ {
+   ?var1  <http://www.wikidata.org/prop/direct/P195>  <http://www.wikidata.org/entity/Q18600731> .
+ }
+  MINUS   {
+    ?var1  <http://www.wikidata.org/prop/P170>  [] .
+  }
+  ?var1  <http://schema.org/description>  ?var2 .
+ FILTER (  ( (  LANG (  ?var2  )  =  "en" ) ) 
+) .
+  ?var5  <http://schema.org/description>  ?var2 .
+  ?var5  <http://www.wikidata.org/prop/direct/P170>  ?var4 .
+}
+ORDER BY  DESC( ?var2 )
+LIMIT 100

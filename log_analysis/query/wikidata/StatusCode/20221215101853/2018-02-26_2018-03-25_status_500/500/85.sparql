@@ -1,0 +1,15 @@
+SELECT DISTINCT ?var1  ?var2 
+WHERE {
+  ?var1  <http://www.wikidata.org/prop/direct/P31>  <http://www.wikidata.org/entity/Q13442814> .
+  ?var1  <http://www.wikidata.org/prop/direct/P356>  ?var2 .
+  ?var1  <http://www.wikidata.org/prop/direct/P50>  ?var3 .
+  ?var3  <http://www.wikidata.org/prop/direct/P31>  <http://www.wikidata.org/entity/Q5> .
+  MINUS   {
+    ?var3  <http://www.wikidata.org/prop/direct/P496>  [] .
+  }
+  MINUS   {
+    ?var3  <http://www.wikidata.org/prop/direct/P570>  [] .
+  }
+}
+ORDER BY ASC( RAND (  ) )
+LIMIT 2000

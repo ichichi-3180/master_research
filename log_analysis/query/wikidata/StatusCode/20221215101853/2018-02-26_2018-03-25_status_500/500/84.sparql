@@ -1,0 +1,54 @@
+SELECT DISTINCT ?var1 
+WHERE {
+  ?var1  <http://www.wikidata.org/prop/direct/P31>  <http://www.wikidata.org/entity/Q5> .
+  ?var1  <http://www.wikidata.org/prop/direct/P21>  <http://www.wikidata.org/entity/Q6581072> .
+  ?var2  <http://schema.org/about>  ?var1 .
+ FILTER (  (  EXISTS  {
+   ?var3  <http://schema.org/about>  ?var1 .
+   ?var3  <http://schema.org/inLanguage>  "en".
+ }
+ ) 
+) .
+ FILTER (  (  EXISTS  {
+   ?var4  <http://schema.org/about>  ?var1 .
+   ?var4  <http://schema.org/inLanguage>  "it".
+ }
+ ) 
+) .
+ FILTER (  (  EXISTS  {
+   ?var5  <http://schema.org/about>  ?var1 .
+   ?var5  <http://schema.org/inLanguage>  "de".
+ }
+ ) 
+) .
+ FILTER (  (  EXISTS  {
+   ?var6  <http://schema.org/about>  ?var1 .
+   ?var6  <http://schema.org/inLanguage>  "es".
+ }
+ ) 
+) .
+ FILTER (  (  EXISTS  {
+   ?var6  <http://schema.org/about>  ?var1 .
+   ?var6  <http://schema.org/inLanguage>  "ru".
+ }
+ ) 
+) .
+ FILTER (  (  NOT EXISTS  {
+   ?var7  <http://schema.org/about>  ?var1 .
+   ?var7  <http://schema.org/inLanguage>  "fr".
+ }
+ ) 
+) .
+  MINUS   {
+    ?var1  <http://www.wikidata.org/prop/direct/P106>  <http://www.wikidata.org/entity/Q10833314> .
+  }
+  MINUS   {
+    ?var1  <http://www.wikidata.org/prop/direct/P106>  <http://www.wikidata.org/entity/Q488111> .
+  }
+  MINUS   {
+    VALUES (  ?var1  ) {
+     (  <http://www.wikidata.org/entity/Q262354>  )
+    }
+  }
+}
+LIMIT 500

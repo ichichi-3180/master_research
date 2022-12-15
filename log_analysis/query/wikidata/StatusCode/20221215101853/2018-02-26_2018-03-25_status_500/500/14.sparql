@@ -1,0 +1,13 @@
+SELECT(  SAMPLE ( ?var1  ) AS  ?var1  ) ?var1Label (  SAMPLE ( ?var2  ) AS  ?var2  )( COUNT ( ?var1  ) AS  ?var3  )
+WHERE {
+  ?var4  <http://www.wikidata.org/prop/direct/P22>  ?var1 .
+ OPTIONAL {
+  ?var1  <http://www.wikidata.org/prop/direct/P18>  ?var2 .
+ }
+ SERVICE  <http://wikiba.se/ontology#label>   {
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#language>  "en".
+  }
+}
+GROUP BY  ?var1Label 
+ORDER BY  DESC( ?var3 )
+LIMIT 50

@@ -1,0 +1,31 @@
+SELECT DISTINCT ?var1  ?var2Label  ?var3Label 
+WHERE {
+  BIND (  IRI (  REPLACE (  STR (  ?var4  ) , "string1", "string2", "i" )  )  AS  ?var5 ).
+  ?var1 ( <http://www.wikidata.org/prop/P31> / <http://www.wikidata.org/prop/statement/P31> / <http://www.wikidata.org/prop/direct/P279> *) <http://www.wikidata.org/entity/Q17537576> .
+  ?var1  <http://www.wikidata.org/prop/direct/P31>  ?var2 .
+  ?var2  <http://www.w3.org/2000/01/rdf-schema#label>  ?var2Label .
+  ?var1  <http://www.w3.org/2000/01/rdf-schema#label>  ?var3Label .
+ FILTER (  ( (  LANG (  ?var2Label  )  =  "en" ) ) 
+) .
+ FILTER (  ( (  LANG (  ?var3Label  )  =  "en" ) ) 
+) .
+  ?var4  <http://schema.org/about>  ?var1 ;
+ <http://schema.org/isPartOf>  <https://en.wikipedia.org/> .
+  ?var1  <http://www.w3.org/2004/02/skos/core#altLabel>  ?var6 .
+ FILTER (  ( (  LANG (  ?var6  )  =  "en" ) ) 
+) .
+ OPTIONAL {
+  ?var1  <http://schema.org/description>  ?var7 .
+ FILTER (  ( (  LANG (  ?var7  )  =  "en" ) ) 
+) .
+ }
+ OPTIONAL {
+  ?var1  <http://www.wikidata.org/prop/direct/P435>  ?var8 .
+ }
+ OPTIONAL {
+  ?var1  <http://www.wikidata.org/prop/direct/P227>  ?var9 .
+ }
+  MINUS   {
+    ?var1  <http://www.wikidata.org/prop/direct/P279> * <http://www.wikidata.org/entity/Q14897293> .
+  }
+}

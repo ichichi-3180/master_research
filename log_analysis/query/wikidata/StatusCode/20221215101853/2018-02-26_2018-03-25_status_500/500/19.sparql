@@ -1,0 +1,6 @@
+SELECT DISTINCT ?var1 
+WHERE {
+  ?var1  <http://www.wikidata.org/prop/direct/P31>  ?var2 .
+ FILTER (  (  ?var2  IN (  <http://www.wikidata.org/entity/Q215627> , <http://www.wikidata.org/entity/Q467> , <http://www.wikidata.org/entity/Q8441> , <http://www.wikidata.org/entity/Q171283>  )  ) 
+) .
+}

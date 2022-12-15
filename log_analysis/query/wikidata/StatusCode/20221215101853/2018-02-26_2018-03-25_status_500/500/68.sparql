@@ -1,0 +1,11 @@
+SELECT ?var1 
+WHERE {
+  ?var1  <http://www.w3.org/2000/01/rdf-schema#label>  ?var2 .
+ FILTER (  (  NOT EXISTS  {
+   ?var1  <http://www.wikidata.org/prop/direct/P31>  <http://www.wikidata.org/entity/Q4167836> .
+ }
+ ) 
+) .
+ FILTER (  (  REGEX (  ?var2 , "^Category" )  ) 
+) .
+}

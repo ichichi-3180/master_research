@@ -1,0 +1,902 @@
+{
+    "0": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label++%3Fvar2++%3Fvar2Label++%3Fvar3++%3Fvar3Label+%0AWHERE+%7B%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22en%2Cen%22.%0A++%7D%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ215380%3E+.%0A+OPTIONAL+%7B%0A++%3Fvar4++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP136%3E++%3Fvar2+.%0A+%7D%0A+OPTIONAL+%7B%0A++%3Fvar4++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP264%3E++%3Fvar3+.%0A+%7D%0A%7D%0ALIMIT+10%0A",
+            "2018-02-26 00:03:29",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "1": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1+%0AWHERE+%7B%0A++BIND+%28++%28++NOW+%28++%29+-+%3Fvar2++%29++AS++%3Fvar3+%29.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP570%3E++%3Fvar2+.%0A+FILTER+%28++%28+%28++%3Fvar3++%3E%3D+%220%22%5E%5E%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23integer%3E++%29+%26%26+%28++%3Fvar3++%3C%3D+%225%22%5E%5E%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23integer%3E++%29+%29+%0A%29+.%0A++%3Fvar4++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar1+.%0A++%3Fvar4++%3Chttp%3A%2F%2Fschema.org%2FinLanguage%3E++%22es%22.%0A++%3Fvar4++%3Chttp%3A%2F%2Fschema.org%2FisPartOf%3E++%3Chttps%3A%2F%2Fes.wikipedia.org%2F%3E+.%0A%7D%0A",
+            "2018-02-26 00:04:13",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "200"
+    },
+    "2": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label+%28+COUNT+%28+DISTINCT++%3Fvar2++%29+AS++%3Fvar3++%29%0AWHERE+%7B%0A++%3Fvar2++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP19%3E++%3Fvar1+%3B%0A%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP106%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ901%3E+.%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP17%3E+*%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP30%3E+%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ46%3E+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22en%22.%0A++%7D%0A%7D%0AGROUP+BY++%3Fvar1++%3Fvar1Label+%0AORDER+BY++DESC%28+%3Fvar3+%29%0ALIMIT+10%0A",
+            "2018-02-26 00:04:19",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "3": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label++%3Fvar2++%3Fvar2Label++%3Fvar3++%3Fvar3Label+%0AWHERE+%7B%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22en%2Cen%22.%0A++%7D%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ215380%3E+.%0A+OPTIONAL+%7B%0A++%3Fvar4++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP136%3E++%3Fvar2+.%0A+%7D%0A+OPTIONAL+%7B%0A++%3Fvar4++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP264%3E++%3Fvar3+.%0A+%7D%0A%7D%0ALIMIT+10%0A",
+            "2018-02-26 00:04:34",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "4": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar2++%3Fvar3+%0AWHERE+%7B%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ1190554%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP585%3E++%3Fvar2+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar1+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fschema.org%2FisPartOf%3E++%3Chttps%3A%2F%2Fen.wikipedia.org%2F%3E+.%0A+FILTER+%28++%28+%28++DATATYPE+%28++%3Fvar2++%29++%3D++%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23dateTime%3E++%29+%26%26+%28++MONTH+%28++%3Fvar2++%29++%3D++MONTH+%28++NOW+%28++%29++%29++%29+%26%26+%28++DAY+%28++%3Fvar2++%29++%3D++DAY+%28++NOW+%28++%29++%29++%29+%29+%0A%29+.%0A%7D%0AORDER+BY++DESC%28+%3Fvar2+%29%0ALIMIT+5%0A",
+            "2018-02-26 00:04:45",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "500"
+    },
+    "5": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1+%0AWHERE+%7B%0A++BIND+%28++%28++NOW+%28++%29+-+%3Fvar2++%29++AS++%3Fvar3+%29.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP570%3E++%3Fvar2+.%0A+FILTER+%28++%28+%28++%3Fvar3++%3E%3D+%220%22%5E%5E%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23integer%3E++%29+%26%26+%28++%3Fvar3++%3C%3D+%225%22%5E%5E%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23integer%3E++%29+%29+%0A%29+.%0A++%3Fvar4++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar1+.%0A++%3Fvar4++%3Chttp%3A%2F%2Fschema.org%2FinLanguage%3E++%22es%22.%0A++%3Fvar4++%3Chttp%3A%2F%2Fschema.org%2FisPartOf%3E++%3Chttps%3A%2F%2Fes.wikipedia.org%2F%3E+.%0A%7D%0A",
+            "2018-02-26 00:06:14",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "200"
+    },
+    "6": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1Label++%3Fvar2Label++%3Fvar1+%0AWHERE+%7B%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ6999%3E+.%0A+OPTIONAL+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar2+.%0A+FILTER+%28++%28+%28++%3Fvar2++%21%3D++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ6999%3E++%29+%29+%0A%29+.%0A+%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22en%22.%0A++%7D%0A%7D%0AORDER+BY+ASC%28+%3Fvar2Label+%29ASC%28+%3Fvar1Label+%29%0A",
+            "2018-02-26 00:06:39",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "7": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar2++%3Fvar3+%0AWHERE+%7B%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ1190554%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP585%3E++%3Fvar2+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar1+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fschema.org%2FisPartOf%3E++%3Chttps%3A%2F%2Fen.wikipedia.org%2F%3E+.%0A+FILTER+%28++%28+%28++DATATYPE+%28++%3Fvar2++%29++%3D++%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23dateTime%3E++%29+%26%26+%28++MONTH+%28++%3Fvar2++%29++%3D++MONTH+%28++NOW+%28++%29++%29++%29+%26%26+%28++DAY+%28++%3Fvar2++%29++%3D++DAY+%28++NOW+%28++%29++%29++%29+%29+%0A%29+.%0A%7D%0AORDER+BY++DESC%28+%3Fvar2+%29%0ALIMIT+5%0A",
+            "2018-02-26 00:06:40",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "500"
+    },
+    "8": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar2++%3Fvar3+%0AWHERE+%7B%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ1190554%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP585%3E++%3Fvar2+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar1+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fschema.org%2FisPartOf%3E++%3Chttps%3A%2F%2Fen.wikipedia.org%2F%3E+.%0A+FILTER+%28++%28+%28++DATATYPE+%28++%3Fvar2++%29++%3D++%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23dateTime%3E++%29+%26%26+%28++MONTH+%28++%3Fvar2++%29++%3D++MONTH+%28++NOW+%28++%29++%29++%29+%26%26+%28++DAY+%28++%3Fvar2++%29++%3D++DAY+%28++NOW+%28++%29++%29++%29+%29+%0A%29+.%0A%7D%0AORDER+BY++DESC%28+%3Fvar2+%29%0ALIMIT+5%0A",
+            "2018-02-26 00:09:46",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "500"
+    },
+    "9": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1+%0AWHERE+%7B%0A+%7B%0A+++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar2+.%0A+++%3Fvar2++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ5193377%3E+.%0A+++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP131%3E++%3Fvar3+.%0A+++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP131%3E+*+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ1284%3E+.%0A+%7D%0A++UNION%0A+%7B%0A+++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar2+.%0A+++%3Fvar2++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ24354%3E+.%0A+++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP131%3E++%3Fvar3+.%0A+++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP131%3E+*+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ1284%3E+.%0A+%7D%0A++UNION%0A+%7B%0A+++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar2+.%0A+++%3Fvar2++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ839954%3E+.%0A+++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP131%3E++%3Fvar3+.%0A+++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP131%3E+*+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ1284%3E+.%0A+%7D%0A%7D%0A",
+            "2018-02-26 00:14:22",
+            "robotic",
+            "bot2"
+        ],
+        "status code": "500"
+    },
+    "10": {
+        "query_log": [
+            "SELECT+%3Fvar1+%28+COUNT+%28+DISTINCT++STR+%28++%3Fvar1Label++%29++%29+AS++%3Fvar2++%29%28+COUNT+%28+%3Fvar1Label++%29+AS++%3Fvar3++%29%28++GROUP_CONCAT+%28++DISTINCT++STR+%28++%3Fvar1Label++%29+%3B+SEPARATOR+%3D++%22%3B+%22+%29++AS++%3Fvar4++%29%0AWHERE+%7B%0A++VALUES+%28++%3Fvar5++%29+%7B%0A+++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ12308941%3E++%29%0A+++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ11879590%3E++%29%0A++%7D%0A++BIND+%28++LANG+%28++%3Fvar1Label++%29++AS++%3Fvar6+%29.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar5+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar1Label+.%0A+FILTER+%28++%28++%3Fvar6++NOT+IN+%28++%22ru%22%2C+%22sr%22%2C+%22ja%22%2C+%22mk%22%2C+%22el%22%2C+%22be%22%2C+%22hy%22%2C+%22uk%22%2C+%22ar%22%2C+%22zh%22%2C+%22fa%22%2C+%22ko%22%2C+%22th%22%2C+%22pnb%22%2C+%22sd%22%2C+%22ur%22%2C+%22grc%22%2C+%22bh%22%2C+%22be-tarask%22%2C+%22ckb%22%2C+%22zh-hans%22%2C+%22zh-hant%22%2C+%22zh-hk%22%2C+%22zh-cn%22%2C+%22bn%22%2C+%22iu%22%2C+%22yue%22%2C+%22zh-sg%22%2C+%22zh-tw%22%2C+%22zh-mo%22%2C+%22zh-my%22%2C+%22arz%22%2C+%22os%22%2C+%22gu%22%2C+%22mai%22%2C+%22yi%22%2C+%22chr%22%2C+%22yue%22%2C+%22ka%22%2C+%22arc%22%2C+%22am%22%2C+%22ky%22%2C+%22kn%22%2C+%22sah%22%2C+%22sa%22%2C+%22cv%22%2C+%22ce%22%2C+%22av%22%2C+%22sr-ec%22%2C+%22he%22%2C+%22ba%22%2C+%22bg%22%2C+%22tt%22%2C+%22as%22%2C+%22ml%22%2C+%22ne%22%2C+%22mr%22%2C+%22ta%22%2C+%22te%22%2C+%22hi%22%2C+%22new%22%2C+%22kk%22%2C+%22kk-arab%22%2C+%22kk-cyrl%22%2C+%22kk-cn%22%2C+%22kk-kz%22+%29++%29+%0A%29+.%0A++MINUS+++%7B%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ4167410%3E+.%0A++%7D%0A++MINUS+++%7B%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ101352%3E+.%0A++%7D%0A+FILTER+%28++%28++%3Fvar1++NOT+IN+%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ307378%3E+%2C+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ317520%3E+%2C+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2F860239%3E+%2C+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ860239%3E+%2C+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ477088%3E+%2C+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ19970288%3E++%29++%29+%0A%29+.%0A%7D%0AGROUP+BY++%3Fvar1+%0A+HAVING++%28+%28++%3Fvar2++%3E+%221%22%5E%5E%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23integer%3E++%29+%29+%0A+ORDER+BY++DESC%28+%3Fvar2+%29ASC%28+%3Fvar1+%29%0ALIMIT+1200%0A",
+            "2018-02-26 00:16:42",
+            "robotic",
+            "bot2"
+        ],
+        "status code": "500"
+    },
+    "11": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar2++%3Fvar3++%3Fvar4++%3Fvar5+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP971%3E++%3Fvar3+%2C++%3Fvar4+%2C++%3Fvar5+.%0A+FILTER+%28++%28+%28++%3Fvar3++%21%3D++%3Fvar4++%29+%29+%0A%29+.%0A+FILTER+%28++%28+%28++%3Fvar4++%21%3D++%3Fvar5++%29+%29+%0A%29+.%0A+FILTER+%28++%28+%28++%3Fvar3++%21%3D++%3Fvar5++%29+%29+%0A%29+.%0A++%3Fvar2++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP971%3E++%3Fvar3+%2C++%3Fvar4+%2C++%3Fvar5+.%0A+FILTER+%28++%28+%28++%3Fvar1++%21%3D++%3Fvar2++%29+%29+%0A%29+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22ar%2Cen%22.%0A++%7D%0A%7D%0ALIMIT+30%0A",
+            "2018-02-26 00:26:47",
+            "robotic",
+            "bot2"
+        ],
+        "status code": "200"
+    },
+    "12": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label++%3Fvar2+%0AWHERE+%7B%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ23413%3E+.%0A++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ64%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar3+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23around%3E+++%7B%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar2+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23center%3E++%3Fvar3+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23radius%3E++%2220%22.%0A++%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22en%22.%0A++%7D%0A%7D%0A",
+            "2018-02-26 00:29:58",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "13": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ5%3E+%3B%0A+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP17%3E++%5B%5D+%3B%0A+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP569%3E++%3Fvar2+.%0A+FILTER+%28++%28+%28++YEAR+%28++%3Fvar2++%29++%3E+%221850%22%5E%5E%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23integer%3E++%29+%29+%0A%29+.%0A%7D%0A",
+            "2018-02-26 00:31:10",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "500"
+    },
+    "14": {
+        "query_log": [
+            "SELECT%28++SAMPLE+%28+%3Fvar1++%29+AS++%3Fvar1++%29+%3Fvar1Label+%28++SAMPLE+%28+%3Fvar2++%29+AS++%3Fvar2++%29%28+COUNT+%28+%3Fvar1++%29+AS++%3Fvar3++%29%0AWHERE+%7B%0A++%3Fvar4++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP22%3E++%3Fvar1+.%0A+OPTIONAL+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP18%3E++%3Fvar2+.%0A+%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22en%22.%0A++%7D%0A%7D%0AGROUP+BY++%3Fvar1Label+%0AORDER+BY++DESC%28+%3Fvar3+%29%0ALIMIT+50%0A",
+            "2018-02-26 00:31:11",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "15": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP50%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ14468873%3E+.%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ571%3E+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22en%22.%0A++%7D%0A%7D%0A",
+            "2018-02-26 00:31:20",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "200"
+    },
+    "16": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP161%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ14468873%3E+.%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ11424%3E+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22en%22.%0A++%7D%0A%7D%0A",
+            "2018-02-26 00:31:20",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "200"
+    },
+    "17": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label++%3Fvar2+%0AWHERE+%7B%0A++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ64%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar3+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23around%3E+++%7B%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar2+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23center%3E++%3Fvar3+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23radius%3E++%2250%22.%0A++%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22en%22.%0A++%7D%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ23413%3E+.%0A%7D%0A",
+            "2018-02-26 00:31:58",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "18": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar2++%3Fvar1Label++%3Fvar2Label+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP17%3E++%3Fvar2+.%0A++MINUS+++%7B%0A++++%3Fvar2+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ7275%3E+.%0A++%7D%0A++MINUS+++%7B%0A++++%3Fvar2+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ183366%3E+.%0A++%7D%0A++MINUS+++%7B%0A++++%3Fvar2+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ15893266%3E+.%0A++%7D%0A++MINUS+++%7B%0A++++%3Fvar2+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ1048835%3E+.%0A++%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22en%22.%0A++%7D%0A%7D%0ALIMIT+1000%0A",
+            "2018-02-26 00:33:54",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "19": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar2+.%0A+FILTER+%28++%28++%3Fvar2++IN+%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ215627%3E+%2C+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ467%3E+%2C+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ8441%3E+%2C+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ171283%3E++%29++%29+%0A%29+.%0A%7D%0A",
+            "2018-02-26 00:34:37",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "500"
+    },
+    "20": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1+%0AWHERE+%7B%0A++BIND+%28++STR+%28++%3Fvar2++%29++AS++%3Fvar3+%29.%0A++%3Fvar1++%3Chttp%3A%2F%2Fschema.org%2FdateModified%3E++%3Fvar4+.%0A+FILTER+%28++%28+%28++%28++NOW+%28++%29+-+%3Fvar4++%29++%3C+%221%22%5E%5E%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23integer%3E++%29+%29+%0A%29+.%0A++%3Fvar1+%5E+%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%5B++%3Chttp%3A%2F%2Fschema.org%2FisPartOf%3E++%3Chttps%3A%2F%2Fcommons.wikimedia.org%2F%3E+%3B%0A+%3Chttp%3A%2F%2Fschema.org%2Fname%3E++%3Fvar2++%5D+.%0A+FILTER+%28++%28+%21%28+STRSTARTS+%28++%3Fvar3+%2C+%22Category%3A%22+%29+%29+%29+%0A%29+.%0A++MINUS+++%7B%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP935%3E++%5B%5D+.%0A++%7D%0A++MINUS+++%7B%0A++++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fstatement%2FP31%3E+%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ4167836%3E+.%0A++%7D%0A++MINUS+++%7B%0A++++%3Fvar3+%5E+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP935%3E++%5B%5D+.%0A++%7D%0A++MINUS+++%7B%0A++++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fstatement%2FP31%3E+%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ4167410%3E+.%0A++%7D%0A+FILTER+%28++%28+%21%28+CONTAINS+%28++%3Fvar3+%2C+%22%3A%22+%29+%29+%29+%0A%29+.%0A%7D%0A",
+            "2018-02-26 00:40:44",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "500"
+    },
+    "21": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP3373%3E++%3Fvar2+.%0A++MINUS+++%7B%0A++++%3Fvar2+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2FP3373%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fstatement%2FP3373%3E+%2F+%3Chttp%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23sameAs%3E+%3F%29+%3Fvar1+.%0A++%7D%0A++%3Fvar2++%3Fvar3++%3Fvar4+.%0A++%3Fvar1++%3Fvar3++%3Fvar4+.%0A+FILTER+%28++%28++%3Fvar3++IN+%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP22%3E+%2C+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP25%3E++%29++%29+%0A%29+.%0A%7D%0A",
+            "2018-02-26 00:42:26",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "500"
+    },
+    "22": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label++%3Fvar2+%0AWHERE+%7B%0A++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ64%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar3+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23around%3E+++%7B%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar2+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23center%3E++%3Fvar3+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23radius%3E++%2250%22.%0A++%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22de%2Cen%22.%0A++%7D%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ29637965%3E+.%0A%7D%0AORDER+BY+ASC%28+%3Fvar2+%29%0A",
+            "2018-02-26 00:46:46",
+            "organic",
+            "browser"
+        ],
+        "status code": "200"
+    },
+    "23": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1++%3Fvar1Label++%3Fvar2++%3Fvar2Label++%3Fvar3++%3Fvar4+%0AWHERE+%7B%0A++%3Fvar2+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ515%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ644371%3E+.%0A++%3Fvar1++%3Fvar5++%3Fvar2+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP238%3E++%3Fvar3+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23around%3E+++%7B%0A++++%3Fvar2++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar6+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23center%3E++%22string1%22%5E%5E%3Chttp%3A%2F%2Fwww.opengis.net%2Font%2Fgeosparql%23wktLiteral%3E+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23radius%3E++%22200%22.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23distance%3E++%3Fvar7+.%0A++%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22en%22.%0A++%7D%0A+OPTIONAL+%7B%0A++%3Fvar2++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar4+.%0A+%7D%0A%7D%0AORDER+BY+ASC%28+%3Fvar7+%29%0ALIMIT+1%0A",
+            "2018-02-26 00:47:48",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "24": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label++%3Fvar2+%0AWHERE+%7B%0A++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ64%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar3+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23around%3E+++%7B%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar2+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23center%3E++%3Fvar3+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23radius%3E++%2250%22.%0A++%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22de%2Cen%22.%0A++%7D%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ29637965%3E+.%0A%7D%0AORDER+BY+ASC%28+%3Fvar2+%29%0A",
+            "2018-02-26 00:48:43",
+            "organic",
+            "browser"
+        ],
+        "status code": "200"
+    },
+    "25": {
+        "query_log": [
+            "SELECT+%3Fvar1+%0AWHERE+%7B%0A++%3Fvar2++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP2093%3E++%3Fvar1+.%0A+FILTER+%28++%28++CONTAINS+%28++STR+%28++%3Fvar1++%29+%2C+%22T%22+%29++%29+%0A%29+.%0A%7D%0AGROUP+BY++%3Fvar1+%0ALIMIT+500%0A",
+            "2018-02-26 00:51:35",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "26": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label++%3Fvar2+%0AWHERE+%7B%0A++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ64%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar3+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23around%3E+++%7B%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar2+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23center%3E++%3Fvar3+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23radius%3E++%2250%22.%0A++%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22de%2Cen%22.%0A++%7D%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ879050%3E+.%0A%7D%0AORDER+BY+ASC%28+%3Fvar2+%29%0A",
+            "2018-02-26 00:51:59",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "27": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1++%3Fvar2+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ13442814%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP356%3E++%3Fvar2+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP50%3E++%3Fvar3+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ5%3E+.%0A++MINUS+++%7B%0A++++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP496%3E++%5B%5D+.%0A++%7D%0A++MINUS+++%7B%0A++++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP570%3E++%5B%5D+.%0A++%7D%0A%7D%0AORDER+BY+ASC%28+RAND+%28++%29+%29%0ALIMIT+2000%0A",
+            "2018-02-26 00:53:06",
+            "robotic",
+            "orcid_bot"
+        ],
+        "status code": "500"
+    },
+    "28": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1+%0AWHERE+%7B%0A++BIND+%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2FP1082%3E++AS++%3Fvar2+%29.%0A++%3Fvar1++%3Fvar2++%3Fvar3+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fqualifier%2FP585%3E++%3Fvar4+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23rank%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23NormalRank%3E+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23type%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23BestRank%3E+.%0A++%3Fvar1++%3Fvar2++%3Fvar5+.%0A+FILTER+%28++%28+%28++%3Fvar5++%21%3D++%3Fvar3++%29+%29+%0A%29+.%0A++%3Fvar5++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fqualifier%2FP585%3E++%3Fvar6+.%0A+OPTIONAL+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP570%3E++%3Fvar7+.%0A+%7D%0A+FILTER+%28++%28+%21%28+BOUND+%28++%3Fvar7++%29+%29+%29+%0A%29+.%0A+OPTIONAL+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP576%3E++%3Fvar8+.%0A+%7D%0A+FILTER+%28++%28+%21%28+BOUND+%28++%3Fvar8++%29+%29+%29+%0A%29+.%0A++MINUS+++%7B%0A++++VALUES+%28++%3Fvar1++%29+%7B%0A+++++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ3513793%3E++%29%0A+++++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ237453%3E++%29%0A+++++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ430780%3E++%29%0A+++++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ12188195%3E++%29%0A+++++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ28648364%3E++%29%0A+++++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ1218%3E++%29%0A+++++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ687100%3E++%29%0A+++++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ29044166%3E++%29%0A+++++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ18693153%3E++%29%0A+++++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ28647579%3E++%29%0A+++++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ29044451%3E++%29%0A+++++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ1128384%3E++%29%0A+++++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ3424142%3E++%29%0A++++%7D%0A++%7D%0A%7D%0ALIMIT+20%0A",
+            "2018-02-26 00:53:15",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "200"
+    },
+    "29": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label++%3Fvar2+%0AWHERE+%7B%0A++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ64%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar3+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23around%3E+++%7B%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar2+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23center%3E++%3Fvar3+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23radius%3E++%2250%22.%0A++%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22de%2Cen%22.%0A++%7D%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ879050%3E+.%0A%7D%0AORDER+BY+ASC%28+%3Fvar2+%29%0A",
+            "2018-02-26 00:54:59",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "30": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar2Label++%3Fvar3+%0AWHERE+%7B%0A++%3Chttp%3A%2F%2Fwww.bigdata.com%2FqueryHints%23Query%3E++%3Chttp%3A%2F%2Fwww.bigdata.com%2FqueryHints%23optimizer%3E++%22None%22.%0A+%7B%0A++SELECT+DISTINCT+%3Fvar1+%0A++WHERE+++%7B%0A++++%3Fvar4++%3Fvar5++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ482994%3E+.%0A++++%3Fvar1++%3Fvar6++%3Fvar5+.%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23type%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23Property%3E+.%0A++%7D%0A++LIMIT+100%0A+%7D%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar2Label+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fschema.org%2Fdescription%3E++%3Fvar3+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar2Label++%29++%3D++%22en%22+%29+%29+%0A%29+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar3++%29++%3D++%22en%22+%29+%29+%0A%29+.%0A%7D%0ALIMIT+100%0A",
+            "2018-02-26 00:56:01",
+            "organic",
+            "browser"
+        ],
+        "status code": "200"
+    },
+    "31": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1++%3Fvar1Label+%28++CONCAT+%28++%22%7B%22%2C+%22string1%22%2C+STR+%28++%3Fvar2++%29+%2C+%22%7D%22%2C+%22%7D%22+%29++AS++%3Fvar3++%29+%3Fvar4++%3Fvar4Label++%3Fvar5++%3Fvar5Label++%3Fvar6++%3Fvar7Label+%0AWHERE+%7B%0A++BIND+%28++%22eo%22+AS++%3Fvar8+%29.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP2521%3E++%3Fvar7Label+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar7Label++%29++%3D++%3Fvar8++%29+%29+%0A%29+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar4+.%0A+OPTIONAL+%7B%0A++%3Fvar2++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar1+.%0A+FILTER+%28++%28+%28++SUBSTR+%28++STR+%28++%3Fvar2++%29+%2C%221%22%5E%5E%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23integer%3E+%2C%2230%22%5E%5E%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23integer%3E++%29++%3D++%22string2%22+%29+%29+%0A%29+.%0A+%7D%0A+OPTIONAL+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP425%3E++%3Fvar5+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22eo%22.%0A++++%3Fvar5++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar5Label+.%0A++%7D%0A+OPTIONAL+%7B%0A++BIND+%28++CONCAT+%28++%22%7B%22%2C+%22string1%22%2C+STR+%28++%3Fvar9++%29+%2C+%22%7D%22%2C+%22%7D%22+%29++AS++%3Fvar6+%29.%0A++%3Fvar9++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar5+.%0A+FILTER+%28++%28+%28++SUBSTR+%28++STR+%28++%3Fvar9++%29+%2C%221%22%5E%5E%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23integer%3E+%2C%2230%22%5E%5E%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23integer%3E++%29++%3D++%22string2%22+%29+%29+%0A%29+.%0A+%7D%0A+%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22eo%22.%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar1Label+.%0A++%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22eo%22.%0A++++%3Fvar4++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar4Label+.%0A++%7D%0A%7D%0AORDER+BY+ASC%28+%3Fvar7Label+%29%0A",
+            "2018-02-26 00:56:06",
+            "robotic",
+            "bot2"
+        ],
+        "status code": "200"
+    },
+    "32": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar2Label++%3Fvar3+%0AWHERE+%7B%0A++%3Chttp%3A%2F%2Fwww.bigdata.com%2FqueryHints%23Query%3E++%3Chttp%3A%2F%2Fwww.bigdata.com%2FqueryHints%23optimizer%3E++%22None%22.%0A+%7B%0A++SELECT+DISTINCT+%3Fvar1+%0A++WHERE+++%7B%0A++++%3Fvar4++%3Fvar5++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ482994%3E+.%0A++++%3Fvar1++%3Fvar6++%3Fvar5+.%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23type%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23Property%3E+.%0A++%7D%0A++LIMIT+100%0A+%7D%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar2Label+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fschema.org%2Fdescription%3E++%3Fvar3+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar2Label++%29++%3D++%22en%22+%29+%29+%0A%29+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar3++%29++%3D++%22en%22+%29+%29+%0A%29+.%0A%7D%0ALIMIT+100%0A",
+            "2018-02-26 00:56:08",
+            "organic",
+            "browser"
+        ],
+        "status code": "200"
+    },
+    "33": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar2Label++%3Fvar3+%0AWHERE+%7B%0A++%3Chttp%3A%2F%2Fwww.bigdata.com%2FqueryHints%23Query%3E++%3Chttp%3A%2F%2Fwww.bigdata.com%2FqueryHints%23optimizer%3E++%22None%22.%0A+%7B%0A++SELECT+DISTINCT+%3Fvar1+%0A++WHERE+++%7B%0A++++%3Fvar4++%3Fvar5++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ482994%3E+.%0A++++%3Fvar1++%3Fvar6++%3Fvar5+.%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23type%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23Property%3E+.%0A++%7D%0A++LIMIT+100%0A+%7D%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar2Label+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fschema.org%2Fdescription%3E++%3Fvar3+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar2Label++%29++%3D++%22en%22+%29+%29+%0A%29+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar3++%29++%3D++%22en%22+%29+%29+%0A%29+.%0A%7D%0ALIMIT+100%0A",
+            "2018-02-26 00:57:06",
+            "organic",
+            "browser"
+        ],
+        "status code": "200"
+    },
+    "34": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar2Label++%3Fvar3+%0AWHERE+%7B%0A++%3Chttp%3A%2F%2Fwww.bigdata.com%2FqueryHints%23Query%3E++%3Chttp%3A%2F%2Fwww.bigdata.com%2FqueryHints%23optimizer%3E++%22None%22.%0A+%7B%0A++SELECT+DISTINCT+%3Fvar1+%0A++WHERE+++%7B%0A++++%3Fvar4++%3Fvar5++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ482994%3E+.%0A++++%3Fvar1++%3Fvar6++%3Fvar5+.%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23type%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23Property%3E+.%0A++%7D%0A++LIMIT+100%0A+%7D%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar2Label+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fschema.org%2Fdescription%3E++%3Fvar3+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar2Label++%29++%3D++%22en%22+%29+%29+%0A%29+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar3++%29++%3D++%22en%22+%29+%29+%0A%29+.%0A%7D%0ALIMIT+100%0A",
+            "2018-02-26 00:57:13",
+            "organic",
+            "browser"
+        ],
+        "status code": "200"
+    },
+    "35": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label++%3Fvar2++%3Fvar3+%0AWHERE+%7B%0A++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ64%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar4+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23around%3E+++%7B%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar3+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23center%3E++%3Fvar4+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23radius%3E++%2250%22.%0A++%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22de%2Cen%22.%0A++%7D%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%7C%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%29%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ879050%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar2+.%0A%7D%0AORDER+BY+ASC%28+%3Fvar3+%29%0A",
+            "2018-02-26 00:59:37",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "36": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label++%3Fvar2++%3Fvar2Label++%3Fvar3++%3Fvar3Label+%0AWHERE+%7B%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22en%2Cen%22.%0A++%7D%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ215380%3E+.%0A+OPTIONAL+%7B%0A++%3Fvar4++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP136%3E++%3Fvar2+.%0A+%7D%0A+OPTIONAL+%7B%0A++%3Fvar4++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP264%3E++%3Fvar3+.%0A+%7D%0A%7D%0ALIMIT+10%0A",
+            "2018-02-26 00:59:44",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "37": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label++%3Fvar2++%3Fvar3+%0AWHERE+%7B%0A++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ64%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar4+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23around%3E+++%7B%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar3+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23center%3E++%3Fvar4+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23radius%3E++%2250%22.%0A++%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22de%2Cen%22.%0A++%7D%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%7C%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%29%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ879050%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar2+.%0A%7D%0AORDER+BY+ASC%28+%3Fvar3+%29%0A",
+            "2018-02-26 01:01:20",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "38": {
+        "query_log": [
+            "SELECT+%3Fvar1+%28++GROUP_CONCAT+%28++DISTINCT++%3Fvar2+%3B+SEPARATOR+%3D++%22%2C+%22+%29++AS++%3Fvar3++%29%28++GROUP_CONCAT+%28++DISTINCT++%3Fvar4+%3B+SEPARATOR+%3D++%22%2C+%22+%29++AS++%3Fvar5++%29%28++GROUP_CONCAT+%28++DISTINCT++%3Fvar6+%3B+SEPARATOR+%3D++%22%D8%8C+%D9%88%22+%29++AS++%3Fvar7++%29%28++GROUP_CONCAT+%28++DISTINCT++%3Fvar8+%3B+SEPARATOR+%3D++%22%2C+%22+%29++AS++%3Fvar9++%29%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP175%3E++%3Fvar10+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ482994%3E+.%0A+OPTIONAL+%7B%0A++%3Fvar10++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar4+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar4++%29++%3D++%22nl%22+%29+%29+%0A%29+.%0A+%7D%0A+OPTIONAL+%7B%0A++%3Fvar10++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar6+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar6++%29++%3D++%22ar%22+%29+%29+%0A%29+.%0A+%7D%0A+OPTIONAL+%7B%0A++%3Fvar10++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar8+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar8++%29++%3D++%22en%22+%29+%29+%0A%29+.%0A+%7D%0A+%7B%0A+++%3Fvar10++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar2+.%0A+FILTER+%28+++%28+%28++LANG+%28++%3Fvar2++%29++%3D++%22fr%22+%29+%29+%0A%29+.%0A+%7D%0A+OPTIONAL+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fschema.org%2Fdescription%3E++%3Fvar11+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar11++%29++%3D++%22fr%22+%29+%29+%0A%29+.%0A+%7D%0A+FILTER+%28++%28+%21%28+BOUND+%28++%3Fvar11++%29+%29+%29+%0A%29+.%0A%7D%0AGROUP+BY++%3Fvar1+%0A",
+            "2018-02-26 01:04:13",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "500"
+    },
+    "39": {
+        "query_log": [
+            "SELECT+%3Fvar1+%28+COUNT+%28*+%29+AS++%3Fvar2++%29%0AWHERE+%7B%0A++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP2093%3E++%3Fvar1+.%0A+FILTER+%28++%28++CONTAINS+%28++STR+%28++%3Fvar1++%29+%2C+%22Saadatfar%22+%29++%29+%0A%29+.%0A%7D%0AGROUP+BY++%3Fvar1+%0ALIMIT+500%0A",
+            "2018-02-26 01:04:17",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "40": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label++%3Fvar2++%3Fvar2Label++%3Fvar3+%0AWHERE+%7B%0A++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ64%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar4+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23around%3E+++%7B%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar3+.%0A++++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%29+%3Fvar2+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23center%3E++%3Fvar4+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23radius%3E++%2250%22.%0A++%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22de%2Cen%22.%0A++%7D%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%7C%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%29%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ879050%3E+.%0A%7D%0AORDER+BY+ASC%28+%3Fvar3+%29%0A",
+            "2018-02-26 01:04:21",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "41": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label++%3Fvar2++%3Fvar2Label++%3Fvar3+%0AWHERE+%7B%0A++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ64%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar4+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23around%3E+++%7B%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar3+.%0A++++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%29+%3Fvar2+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23center%3E++%3Fvar4+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23radius%3E++%2250%22.%0A++%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22de%2Cen%22.%0A++%7D%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%7C%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%29%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ879050%3E+.%0A%7D%0AORDER+BY+ASC%28+%3Fvar3+%29%0A",
+            "2018-02-26 01:04:23",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "42": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar2++%3Fvar3+%0AWHERE+%7B%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ1190554%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP585%3E++%3Fvar2+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar1+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fschema.org%2FisPartOf%3E++%3Chttps%3A%2F%2Fen.wikipedia.org%2F%3E+.%0A+FILTER+%28++%28+%28++DATATYPE+%28++%3Fvar2++%29++%3D++%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23dateTime%3E++%29+%26%26+%28++MONTH+%28++%3Fvar2++%29++%3D++MONTH+%28++NOW+%28++%29++%29++%29+%26%26+%28++DAY+%28++%3Fvar2++%29++%3D++DAY+%28++NOW+%28++%29++%29++%29+%29+%0A%29+.%0A%7D%0AORDER+BY++DESC%28+%3Fvar2+%29%0ALIMIT+5%0A",
+            "2018-02-26 01:04:45",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "500"
+    },
+    "43": {
+        "query_log": [
+            "SELECT+%3Fvar1+%28++GROUP_CONCAT+%28++DISTINCT++%3Fvar2+%3B+SEPARATOR+%3D++%22%2C+%22+%29++AS++%3Fvar3++%29%28++GROUP_CONCAT+%28++DISTINCT++%3Fvar4+%3B+SEPARATOR+%3D++%22%2C+%22+%29++AS++%3Fvar5++%29%28++GROUP_CONCAT+%28++DISTINCT++%3Fvar6+%3B+SEPARATOR+%3D++%22%D8%8C+%D9%88%22+%29++AS++%3Fvar7++%29%28++GROUP_CONCAT+%28++DISTINCT++%3Fvar8+%3B+SEPARATOR+%3D++%22%2C+%22+%29++AS++%3Fvar9++%29%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP175%3E++%3Fvar10+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ482994%3E+.%0A+OPTIONAL+%7B%0A++%3Fvar10++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar4+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar4++%29++%3D++%22nl%22+%29+%29+%0A%29+.%0A+%7D%0A+OPTIONAL+%7B%0A++%3Fvar10++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar6+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar6++%29++%3D++%22ar%22+%29+%29+%0A%29+.%0A+%7D%0A+OPTIONAL+%7B%0A++%3Fvar10++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar8+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar8++%29++%3D++%22en%22+%29+%29+%0A%29+.%0A+%7D%0A+%7B%0A+++%3Fvar10++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar2+.%0A+FILTER+%28+++%28+%28++LANG+%28++%3Fvar2++%29++%3D++%22fr%22+%29+%29+%0A%29+.%0A+%7D%0A+OPTIONAL+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fschema.org%2Fdescription%3E++%3Fvar11+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar11++%29++%3D++%22fr%22+%29+%29+%0A%29+.%0A+%7D%0A+FILTER+%28++%28+%21%28+BOUND+%28++%3Fvar11++%29+%29+%29+%0A%29+.%0A%7D%0AGROUP+BY++%3Fvar1+%0A",
+            "2018-02-26 01:05:18",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "500"
+    },
+    "44": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar2+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP2093%3E++%3Fvar2+.%0A+FILTER+%28++%28++CONTAINS+%28++STR+%28++%3Fvar2++%29+%2C+%22Saadatfar%22+%29++%29+%0A%29+.%0A%7D%0ALIMIT+5%0A",
+            "2018-02-26 01:06:32",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "45": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label++%3Fvar2++%3Fvar2Label++%3Fvar3+%0AWHERE+%7B%0A++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ64%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar4+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23around%3E+++%7B%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar3+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23center%3E++%3Fvar4+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23radius%3E++%2250%22.%0A++%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22de%2Cen%22.%0A++%7D%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar2+.%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%7C%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%29%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ879050%3E+.%0A%7D%0AORDER+BY+ASC%28+%3Fvar3+%29%0A",
+            "2018-02-26 01:06:42",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "46": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar2++%3Fvar3+%0AWHERE+%7B%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ1190554%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP585%3E++%3Fvar2+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar1+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fschema.org%2FisPartOf%3E++%3Chttps%3A%2F%2Fen.wikipedia.org%2F%3E+.%0A+FILTER+%28++%28+%28++DATATYPE+%28++%3Fvar2++%29++%3D++%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23dateTime%3E++%29+%26%26+%28++MONTH+%28++%3Fvar2++%29++%3D++MONTH+%28++NOW+%28++%29++%29++%29+%26%26+%28++DAY+%28++%3Fvar2++%29++%3D++DAY+%28++NOW+%28++%29++%29++%29+%29+%0A%29+.%0A%7D%0AORDER+BY++DESC%28+%3Fvar2+%29%0ALIMIT+5%0A",
+            "2018-02-26 01:06:52",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "500"
+    },
+    "47": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar2++%3Fvar3+%0AWHERE+%7B%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ1190554%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP585%3E++%3Fvar2+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar1+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fschema.org%2FisPartOf%3E++%3Chttps%3A%2F%2Fen.wikipedia.org%2F%3E+.%0A+FILTER+%28++%28+%28++DATATYPE+%28++%3Fvar2++%29++%3D++%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23dateTime%3E++%29+%26%26+%28++MONTH+%28++%3Fvar2++%29++%3D++MONTH+%28++NOW+%28++%29++%29++%29+%26%26+%28++DAY+%28++%3Fvar2++%29++%3D++DAY+%28++NOW+%28++%29++%29++%29+%29+%0A%29+.%0A%7D%0AORDER+BY++DESC%28+%3Fvar2+%29%0ALIMIT+5%0A",
+            "2018-02-26 01:09:51",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "500"
+    },
+    "48": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar2+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP2093%3E++%3Fvar2+.%0A+FILTER+%28++%28++CONTAINS+%28++STR+%28++%3Fvar2++%29+%2C+%22Saadatfar%22+%29++%29+%0A%29+.%0A%7D%0ALIMIT+1%0A",
+            "2018-02-26 01:10:09",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "49": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label++%3Fvar2++%3Fvar2Label++%3Fvar3++%3Fvar3Label+%0AWHERE+%7B%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22en%2Cen%22.%0A++%7D%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ215380%3E+.%0A+OPTIONAL+%7B%0A++%3Fvar4++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP136%3E++%3Fvar2+.%0A+%7D%0A+OPTIONAL+%7B%0A++%3Fvar4++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP264%3E++%3Fvar3+.%0A+%7D%0A%7D%0ALIMIT+10%0A",
+            "2018-02-26 01:10:32",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "50": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar2+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ13442814%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP2093%3E++%3Fvar2+.%0A+FILTER+%28++%28++CONTAINS+%28++STR+%28++%3Fvar2++%29+%2C+%22Saadatfar%22+%29++%29+%0A%29+.%0A%7D%0ALIMIT+1%0A",
+            "2018-02-26 01:11:43",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "51": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar2+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ13442814%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP2093%3E++%3Fvar2+.%0A+FILTER+%28++%28++CONTAINS+%28++STR+%28++%3Fvar2++%29+%2C+%22string1%22+%29++%29+%0A%29+.%0A%7D%0ALIMIT+10%0A",
+            "2018-02-26 01:13:06",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "52": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label++%3Fvar2++%3Fvar2Label++%3Fvar3+%0AWHERE+%7B%0A++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ64%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar4+.%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%7C%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%29%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ879050%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar2+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23around%3E+++%7B%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar3+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23center%3E++%3Fvar4+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23radius%3E++%2250%22.%0A++%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22de%2Cen%22.%0A++%7D%0A%7D%0AORDER+BY+ASC%28+%3Fvar3+%29%0A",
+            "2018-02-26 01:13:18",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "53": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar2+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ13442814%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP2093%3E++%3Fvar2+.%0A+FILTER+%28++%28++CONTAINS+%28++STR+%28++%3Fvar2++%29+%2C+%22Hudson%22+%29++%29+%0A%29+.%0A+FILTER+%28++%28++CONTAINS+%28++STR+%28++%3Fvar2++%29+%2C+%22T%22+%29++%29+%0A%29+.%0A%7D%0ALIMIT+100%0A",
+            "2018-02-26 01:14:48",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "54": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label++%3Fvar2+%0AWHERE+%7B%0A++%3Fvar3+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%29+%3Fvar1+.%0A++%3Fvar3+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ879050%3E+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22de%2Cen%22.%0A++%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23around%3E+++%7B%0A++++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar2+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23center%3E++%3Fvar4+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23radius%3E++%2250%22.%0A++%7D%0A%7D%0A",
+            "2018-02-26 01:14:50",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "55": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label++%3Fvar2+%0AWHERE+%7B%0A++%3Fvar3+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%29+%3Fvar1+.%0A++%3Fvar3+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ879050%3E+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22de%2Cen%22.%0A++%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23around%3E+++%7B%0A++++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar2+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23center%3E++%3Fvar4+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23radius%3E++%2250%22.%0A++%7D%0A%7D%0A",
+            "2018-02-26 01:14:56",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "56": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar2+%28+COUNT+%28*+%29+AS++%3Fvar3++%29%0AWHERE+%7B%0A++BIND+%28++%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23integer%3E++%28+SUBSTR+%28++STR+%28++%3Fvar1++%29+%2C%2233%22%5E%5E%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23integer%3E++%29+%29++AS++%3Fvar2+%29.%0A++%3Fvar4++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar1+%3B%0A%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%29+%3Fvar1+.%0A%7D%0AGROUP+BY++%3Fvar1++%3Fvar2+%0AORDER+BY++DESC%28+%3Fvar3+%29ASC%28+%3Fvar2+%29%0A",
+            "2018-02-26 01:16:03",
+            "robotic",
+            "bot2"
+        ],
+        "status code": "500"
+    },
+    "57": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label++%3Fvar2+%0AWHERE+%7B%0A++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ64%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar3+.%0A++%3Fvar4+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%29+%3Fvar1+.%0A++%3Fvar4+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ879050%3E+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22de%2Cen%22.%0A++%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23around%3E+++%7B%0A++++%3Fvar4++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar2+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23center%3E++%3Fvar3+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23radius%3E++%2250%22.%0A++%7D%0A%7D%0A",
+            "2018-02-26 01:16:18",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "58": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1++%3Fvar2+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ13442814%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP356%3E++%3Fvar2+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP50%3E++%3Fvar3+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ5%3E+.%0A++MINUS+++%7B%0A++++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP496%3E++%5B%5D+.%0A++%7D%0A++MINUS+++%7B%0A++++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP570%3E++%5B%5D+.%0A++%7D%0A%7D%0AORDER+BY+ASC%28+RAND+%28++%29+%29%0ALIMIT+2000%0A",
+            "2018-02-26 01:20:07",
+            "robotic",
+            "orcid_bot"
+        ],
+        "status code": "500"
+    },
+    "59": {
+        "query_log": [
+            "SELECT+%3Fvar1+%28+COUNT+%28+DISTINCT++%3Fvar2++%29+AS++%3Fvar3++%29%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP570%3E++%3Fvar4+.%0A+FILTER+%28++%28+%28++YEAR+%28++%3Fvar4++%29++%3D+%221945%22%5E%5E%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23integer%3E++%29+%29+%0A%29+.%0A+OPTIONAL+%7B%0A++%3Fvar2++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar1+.%0A+%7D%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2FP106%3E++%3Fvar5+.%0A++%3Fvar5+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fstatement%2FP106%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ2500638%3E+.%0A++MINUS+++%7B%0A++++%3Fvar5++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23rank%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23DeprecatedRank%3E+.%0A++%7D%0A%7D%0AGROUP+BY++%3Fvar1+%0AORDER+BY++DESC%28+%3Fvar3+%29%0A",
+            "2018-02-26 01:20:36",
+            "robotic",
+            "bot2"
+        ],
+        "status code": "500"
+    },
+    "60": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label++%3Fvar2+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ13442814%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP2093%3E++%3Fvar2+.%0A+FILTER+%28++%28++CONTAINS+%28++STR+%28++%3Fvar2++%29+%2C+%22Robins%22+%29++%29+%0A%29+.%0A+FILTER+%28++%28++CONTAINS+%28++STR+%28++%3Fvar2++%29+%2C+%22V%22+%29++%29+%0A%29+.%0A%7D%0ALIMIT+300%0A",
+            "2018-02-26 01:20:44",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "61": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label++%3Fvar2++%3Fvar2Label++%3Fvar3+%0AWHERE+%7B%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%29+%3Fvar2+.%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ879050%3E+.%0A++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ64%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar4+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22de%2Cen%22.%0A++%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23around%3E+++%7B%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar3+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23center%3E++%3Fvar4+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23radius%3E++%2250%22.%0A++%7D%0A%7D%0A",
+            "2018-02-26 01:20:53",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "62": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label++%3Fvar2++%3Fvar2Label++%3Fvar3+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar2+.%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ879050%3E+.%0A++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ64%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar4+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22de%2Cen%22.%0A++%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23around%3E+++%7B%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar3+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23center%3E++%3Fvar4+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23radius%3E++%2250%22.%0A++%7D%0A%7D%0A",
+            "2018-02-26 01:21:57",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "63": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label++%3Fvar2++%3Fvar2Label++%3Fvar3+%0AWHERE+%7B%0A++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ64%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar4+.%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%7C%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%29%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ879050%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar2+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23around%3E+++%7B%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar3+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23center%3E++%3Fvar4+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23radius%3E++%2250%22.%0A++%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22de%2Cen%22.%0A++%7D%0A%7D%0AORDER+BY+ASC%28+%3Fvar3+%29%0A",
+            "2018-02-26 01:23:21",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "64": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label++%3Fvar2+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ13442814%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP2093%3E++%3Fvar2+.%0A+FILTER+%28++%28++CONTAINS+%28++STR+%28++%3Fvar2++%29+%2C+%22Harrowell%22+%29++%29+%0A%29+.%0A+FILTER+%28++%28++CONTAINS+%28++STR+%28++%3Fvar2++%29+%2C+%22P%22+%29++%29+%0A%29+.%0A%7D%0ALIMIT+300%0A",
+            "2018-02-26 01:23:46",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "65": {
+        "query_log": [
+            "SELECT+DISTINCT+*%0AWHERE+%7B%0A++BIND+%28++IRI+%28++REPLACE+%28++STR+%28++%3Fvar1++%29+%2C+%22string1%22%2C+%22string2%22%2C+%22i%22+%29++%29++AS++%3Fvar2+%29.%0A++%3Fvar3+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fstatement%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ17537576%3E+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar4+.%0A++%3Fvar4++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar4Label+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar5Label+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar4Label++%29++%3D++%22en%22+%29+%29+%0A%29+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar5Label++%29++%3D++%22en%22+%29+%29+%0A%29+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar3+%3B%0A+%3Chttp%3A%2F%2Fschema.org%2FisPartOf%3E++%3Chttps%3A%2F%2Fen.wikipedia.org%2F%3E+.%0A+OPTIONAL+%7B%0A+OPTIONAL+%7B%0A++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP577%3E++%3Fvar6+.%0A+%7D%0A+OPTIONAL+%7B%0A++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP571%3E++%3Fvar7+.%0A+%7D%0A++BIND+%28++COALESCE+%28++%3Fvar6+%2C+%3Fvar7++%29++AS++%3Fvar8+%29.%0A+%7D%0A%7D%0ALIMIT+100%0AOFFSET+200%0A",
+            "2018-02-26 01:23:50",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "66": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label++%3Fvar2++%3Fvar2Label++%3Fvar3+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar2+.%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ879050%3E+.%0A++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ64%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar4+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22de%2Cen%22.%0A++%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23around%3E+++%7B%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar3+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23center%3E++%3Fvar4+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23radius%3E++%2250%22.%0A++%7D%0A%7D%0A",
+            "2018-02-26 01:23:55",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "67": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1++%3Fvar2Label++%3Fvar3Label++%3Fvar4++%3Fvar5+%0AWHERE+%7B%0A++BIND+%28++IRI+%28++REPLACE+%28++STR+%28++%3Fvar6++%29+%2C+%22string1%22%2C+%22string2%22%2C+%22i%22+%29++%29++AS++%3Fvar4+%29.%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fstatement%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ17537576%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar2+.%0A++%3Fvar2++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar2Label+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar3Label+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar2Label++%29++%3D++%22en%22+%29+%29+%0A%29+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar3Label++%29++%3D++%22en%22+%29+%29+%0A%29+.%0A++%3Fvar6++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar1+%3B%0A+%3Chttp%3A%2F%2Fschema.org%2FisPartOf%3E++%3Chttps%3A%2F%2Fen.wikipedia.org%2F%3E+.%0A+OPTIONAL+%7B%0A+OPTIONAL+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP577%3E++%3Fvar7+.%0A+%7D%0A+OPTIONAL+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP571%3E++%3Fvar8+.%0A+%7D%0A++BIND+%28++COALESCE+%28++%3Fvar7+%2C+%3Fvar8++%29++AS++%3Fvar5+%29.%0A+%7D%0A%7D%0ALIMIT+100%0AOFFSET+200%0A",
+            "2018-02-26 01:24:55",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "68": {
+        "query_log": [
+            "SELECT+%3Fvar1+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar2+.%0A+FILTER+%28++%28++NOT+EXISTS++%7B%0A+++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ4167836%3E+.%0A+%7D%0A+%29+%0A%29+.%0A+FILTER+%28++%28++REGEX+%28++%3Fvar2+%2C+%22%5ECategory%22+%29++%29+%0A%29+.%0A%7D%0A",
+            "2018-02-26 01:27:34",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "69": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ5%3E+%3B%0A+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP17%3E++%5B%5D+%3B%0A+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP569%3E++%3Fvar2+.%0A+FILTER+%28++%28+%28++YEAR+%28++%3Fvar2++%29++%3E+%221850%22%5E%5E%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23integer%3E++%29+%29+%0A%29+.%0A%7D%0A",
+            "2018-02-26 01:31:19",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "500"
+    },
+    "70": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1+%0AWHERE+%7B%0A++BIND+%28++STR+%28++%3Fvar2++%29++AS++%3Fvar3+%29.%0A++%3Fvar1++%3Chttp%3A%2F%2Fschema.org%2FdateModified%3E++%3Fvar4+.%0A+FILTER+%28++%28+%28++%28++NOW+%28++%29+-+%3Fvar4++%29++%3C+%221%22%5E%5E%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23integer%3E++%29+%29+%0A%29+.%0A++%3Fvar1+%5E+%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%5B++%3Chttp%3A%2F%2Fschema.org%2FisPartOf%3E++%3Chttps%3A%2F%2Fcommons.wikimedia.org%2F%3E+%3B%0A+%3Chttp%3A%2F%2Fschema.org%2Fname%3E++%3Fvar2++%5D+.%0A+FILTER+%28++%28+%21%28+STRSTARTS+%28++%3Fvar3+%2C+%22Category%3A%22+%29+%29+%29+%0A%29+.%0A++MINUS+++%7B%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP935%3E++%5B%5D+.%0A++%7D%0A++MINUS+++%7B%0A++++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fstatement%2FP31%3E+%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ4167836%3E+.%0A++%7D%0A++MINUS+++%7B%0A++++%3Fvar3+%5E+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP935%3E++%5B%5D+.%0A++%7D%0A++MINUS+++%7B%0A++++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fstatement%2FP31%3E+%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ4167410%3E+.%0A++%7D%0A+FILTER+%28++%28+%21%28+CONTAINS+%28++%3Fvar3+%2C+%22%3A%22+%29+%29+%29+%0A%29+.%0A%7D%0A",
+            "2018-02-26 01:40:11",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "500"
+    },
+    "71": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1++%3Fvar1Label++%3Fvar2++%3Fvar2Label++%3Fvar3++%3Fvar4+%0AWHERE+%7B%0A++%3Fvar2+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ515%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ644371%3E+.%0A++%3Fvar1++%3Fvar5++%3Fvar2+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP238%3E++%3Fvar3+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23around%3E+++%7B%0A++++%3Fvar2++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar6+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23center%3E++%22POINT%280+52%29%22%5E%5E%3Chttp%3A%2F%2Fwww.opengis.net%2Font%2Fgeosparql%23wktLiteral%3E+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23radius%3E++%22200%22.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23distance%3E++%3Fvar7+.%0A++%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22en%22.%0A++%7D%0A+OPTIONAL+%7B%0A++%3Fvar2++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar4+.%0A+%7D%0A%7D%0AORDER+BY+ASC%28+%3Fvar7+%29%0ALIMIT+1%0A",
+            "2018-02-26 01:40:14",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "72": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1++%3Fvar2Label++%3Fvar3Label+%0AWHERE+%7B%0A++BIND+%28++IRI+%28++REPLACE+%28++STR+%28++%3Fvar4++%29+%2C+%22string1%22%2C+%22string2%22%2C+%22i%22+%29++%29++AS++%3Fvar5+%29.%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fstatement%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ17537576%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar2+.%0A++%3Fvar2++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar2Label+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar3Label+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar2Label++%29++%3D++%22en%22+%29+%29+%0A%29+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar3Label++%29++%3D++%22en%22+%29+%29+%0A%29+.%0A++%3Fvar4++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar1+%3B%0A+%3Chttp%3A%2F%2Fschema.org%2FisPartOf%3E++%3Chttps%3A%2F%2Fen.wikipedia.org%2F%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.w3.org%2F2004%2F02%2Fskos%2Fcore%23altLabel%3E++%3Fvar6+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar6++%29++%3D++%22en%22+%29+%29+%0A%29+.%0A+OPTIONAL+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fschema.org%2Fdescription%3E++%3Fvar7+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar7++%29++%3D++%22en%22+%29+%29+%0A%29+.%0A+%7D%0A+OPTIONAL+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP435%3E++%3Fvar8+.%0A+%7D%0A+OPTIONAL+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP227%3E++%3Fvar9+.%0A+%7D%0A++MINUS+++%7B%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ14897293%3E+.%0A++%7D%0A%7D%0A",
+            "2018-02-26 01:40:37",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "73": {
+        "query_log": [
+            "SELECT+%3Fvar1+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP131%3E++%3Fvar2+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP150%3E+*+%3Fvar2+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP131%3E+*+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ1197%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar4+.%0A++%3Fvar4++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ56061%3E+.%0A+FILTER+%28++%28++NOT+EXISTS++%7B%0A+++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar5+.%0A+++%3Fvar5++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ21451942%3E+.%0A+%7D%0A+%29+%0A%29+.%0A+FILTER+%28++%28++NOT+EXISTS++%7B%0A+++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar6+.%0A+++%3Fvar6++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ44613%3E+.%0A+%7D%0A+%29+%0A%29+.%0A+FILTER+%28++%28++NOT+EXISTS++%7B%0A+++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar7+.%0A+++%3Fvar7++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ192611%3E+.%0A+%7D%0A+%29+%0A%29+.%0A+FILTER+%28++%28++NOT+EXISTS++%7B%0A+++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar8+.%0A+++%3Fvar8++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ473972%3E+.%0A+%7D%0A+%29+%0A%29+.%0A%7D%0A",
+            "2018-02-26 01:41:08",
+            "robotic",
+            "bot2"
+        ],
+        "status code": "500"
+    },
+    "74": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP3373%3E++%3Fvar2+.%0A++MINUS+++%7B%0A++++%3Fvar2+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2FP3373%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fstatement%2FP3373%3E+%2F+%3Chttp%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23sameAs%3E+%3F%29+%3Fvar1+.%0A++%7D%0A++%3Fvar2++%3Fvar3++%3Fvar4+.%0A++%3Fvar1++%3Fvar3++%3Fvar4+.%0A+FILTER+%28++%28++%3Fvar3++IN+%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP22%3E+%2C+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP25%3E++%29++%29+%0A%29+.%0A%7D%0A",
+            "2018-02-26 01:42:05",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "500"
+    },
+    "75": {
+        "query_log": [
+            "SELECT+%3Fvar1Label++%3Fvar2Label++%3Fvar3++%3Fvar3Label++%3Fvar4++%3Fvar5Label+%0AWHERE+%7B%0A++%3Fvar1++%3Fvar6++%3Fvar3+.%0A++%3Fvar4++%3Fvar6++%3Fvar3+.%0A+OPTIONAL+%7B%0A+SELECT+DISTINCT+%3Fvar2++%3Fvar3+%0A+WHERE++%7B%0A+++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2FP161%3E++%3Fvar7+.%0A+++%3Fvar7++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fstatement%2FP161%3E++%3Fvar3+.%0A+++%3Fvar7++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fqualifier%2FP453%3E++%3Fvar2+.%0A+++%3Fvar4++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2FP161%3E++%3Fvar8+.%0A+++%3Fvar8++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fstatement%2FP161%3E++%3Fvar3+.%0A+++%3Fvar8++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fqualifier%2FP453%3E++%3Fvar5+.%0A++SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E++++%7B%0A+++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22en%22.%0A+++%7D%0A+%7D%0A+%7D%0A++VALUES+%28++%3Fvar1++%29+%7B%0A+++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ184843%3E++%29%0A++%7D%0A++VALUES+%28++%3Fvar6++%29+%7B%0A+++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP161%3E++%29%0A+++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP57%3E++%29%0A++%7D%0A%7D%0AORDER+BY++DESC%28+%3Fvar2Label+%29%0ALIMIT+5%0A",
+            "2018-02-26 02:00:25",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "76": {
+        "query_log": [
+            "SELECT+%3Fvar1Label++%3Fvar2Label++%3Fvar3++%3Fvar3Label++%3Fvar4++%3Fvar5Label+%0AWHERE+%7B%0A++%3Fvar1++%3Fvar6++%3Fvar3+.%0A++%3Fvar4++%3Fvar6++%3Fvar3+.%0A+OPTIONAL+%7B%0A+SELECT+DISTINCT+%3Fvar3+%0A+WHERE++%7B%0A+++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2FP161%3E++%3Fvar7+.%0A+++%3Fvar7++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fstatement%2FP161%3E++%3Fvar3+.%0A+++%3Fvar7++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fqualifier%2FP453%3E++%3Fvar2+.%0A+++%3Fvar4++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2FP161%3E++%3Fvar8+.%0A+++%3Fvar8++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fstatement%2FP161%3E++%3Fvar3+.%0A+++%3Fvar8++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fqualifier%2FP453%3E++%3Fvar5+.%0A++SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E++++%7B%0A+++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22en%22.%0A+++%7D%0A+%7D%0A+%7D%0A++VALUES+%28++%3Fvar1++%29+%7B%0A+++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ184843%3E++%29%0A++%7D%0A++VALUES+%28++%3Fvar6++%29+%7B%0A+++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP161%3E++%29%0A+++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP57%3E++%29%0A++%7D%0A%7D%0AORDER+BY++DESC%28+%3Fvar2Label+%29%0ALIMIT+5%0A",
+            "2018-02-26 02:01:28",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "77": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1++%3Fvar1Label+%28++CONCAT+%28++%22%7B%22%2C+%22string1%22%2C+STR+%28++%3Fvar2++%29+%2C+%22%7D%22%2C+%22%7D%22+%29++AS++%3Fvar3++%29+%3Fvar4++%3Fvar4Label++%3Fvar5++%3Fvar5Label++%3Fvar6++%3Fvar7Label+%0AWHERE+%7B%0A++BIND+%28++%22cs%22+AS++%3Fvar8+%29.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP2521%3E++%3Fvar7Label+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar7Label++%29++%3D++%3Fvar8++%29+%29+%0A%29+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar4+.%0A+OPTIONAL+%7B%0A++%3Fvar2++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar1+.%0A+FILTER+%28++%28+%28++SUBSTR+%28++STR+%28++%3Fvar2++%29+%2C%221%22%5E%5E%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23integer%3E+%2C%2230%22%5E%5E%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23integer%3E++%29++%3D++%22string2%22+%29+%29+%0A%29+.%0A+%7D%0A+OPTIONAL+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP425%3E++%3Fvar5+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22cs%22.%0A++++%3Fvar5++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar5Label+.%0A++%7D%0A+OPTIONAL+%7B%0A++BIND+%28++CONCAT+%28++%22%7B%22%2C+%22string1%22%2C+STR+%28++%3Fvar9++%29+%2C+%22%7D%22%2C+%22%7D%22+%29++AS++%3Fvar6+%29.%0A++%3Fvar9++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar5+.%0A+FILTER+%28++%28+%28++SUBSTR+%28++STR+%28++%3Fvar9++%29+%2C%221%22%5E%5E%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23integer%3E+%2C%2230%22%5E%5E%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23integer%3E++%29++%3D++%22string2%22+%29+%29+%0A%29+.%0A+%7D%0A+%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22cs%22.%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar1Label+.%0A++%7D%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22cs%22.%0A++++%3Fvar4++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar4Label+.%0A++%7D%0A%7D%0AORDER+BY+ASC%28+%3Fvar7Label+%29%0A",
+            "2018-02-26 02:01:42",
+            "robotic",
+            "bot2"
+        ],
+        "status code": "200"
+    },
+    "78": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar2+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ8261%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP50%3E++%3Fvar3+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP27%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ21%3E+.%0A++%3Fvar2++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar1+.%0A+FILTER+%28++%28++NOT+EXISTS++%7B%0A+++%3Fvar4++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar1+.%0A+++%3Fvar4++%3Chttp%3A%2F%2Fschema.org%2FinLanguage%3E++%22en%22.%0A+%7D%0A+%29+%0A%29+.%0A%7D%0ALIMIT+1000%0A",
+            "2018-02-26 02:03:17",
+            "robotic",
+            "bot2"
+        ],
+        "status code": "200"
+    },
+    "79": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar2++%3Fvar3+%0AWHERE+%7B%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ1190554%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP585%3E++%3Fvar2+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar1+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fschema.org%2FisPartOf%3E++%3Chttps%3A%2F%2Fen.wikipedia.org%2F%3E+.%0A+FILTER+%28++%28+%28++DATATYPE+%28++%3Fvar2++%29++%3D++%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23dateTime%3E++%29+%26%26+%28++MONTH+%28++%3Fvar2++%29++%3D++MONTH+%28++NOW+%28++%29++%29++%29+%26%26+%28++DAY+%28++%3Fvar2++%29++%3D++DAY+%28++NOW+%28++%29++%29++%29+%29+%0A%29+.%0A%7D%0AORDER+BY++DESC%28+%3Fvar2+%29%0ALIMIT+5%0A",
+            "2018-02-26 02:04:45",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "500"
+    },
+    "80": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label++%3Fvar2++%3Fvar3+%0AWHERE+%7B%0A++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ64%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar4+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23around%3E+++%7B%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar2+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23center%3E++%3Fvar4+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23radius%3E++%22100%22.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23distance%3E++%3Fvar3+.%0A++%7D%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ1248784%3E+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22en%22.%0A++%7D%0A%7D%0AORDER+BY+ASC%28+%3Fvar3+%29%0A",
+            "2018-02-26 02:04:49",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "81": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar2++%3Fvar3+%0AWHERE+%7B%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ1190554%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP585%3E++%3Fvar2+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar1+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fschema.org%2FisPartOf%3E++%3Chttps%3A%2F%2Fen.wikipedia.org%2F%3E+.%0A+FILTER+%28++%28+%28++DATATYPE+%28++%3Fvar2++%29++%3D++%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23dateTime%3E++%29+%26%26+%28++MONTH+%28++%3Fvar2++%29++%3D++MONTH+%28++NOW+%28++%29++%29++%29+%26%26+%28++DAY+%28++%3Fvar2++%29++%3D++DAY+%28++NOW+%28++%29++%29++%29+%29+%0A%29+.%0A%7D%0AORDER+BY++DESC%28+%3Fvar2+%29%0ALIMIT+5%0A",
+            "2018-02-26 02:06:39",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "500"
+    },
+    "82": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar1Label++%3Fvar2++%3Fvar3+%0AWHERE+%7B%0A++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ64%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar4+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23around%3E+++%7B%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP625%3E++%3Fvar2+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23center%3E++%3Fvar4+.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23radius%3E++%22100%22.%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23distance%3E++%3Fvar3+.%0A++%7D%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ1248784%3E+.%0A+SERVICE++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23label%3E+++%7B%0A++++%3Chttp%3A%2F%2Fwww.bigdata.com%2Frdf%23serviceParam%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23language%3E++%22en%22.%0A++%7D%0A%7D%0AORDER+BY+ASC%28+%3Fvar3+%29%0A",
+            "2018-02-26 02:08:55",
+            "organic",
+            "browser"
+        ],
+        "status code": "500"
+    },
+    "83": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar2++%3Fvar3+%0AWHERE+%7B%0A++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ1190554%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP585%3E++%3Fvar2+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar1+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fschema.org%2FisPartOf%3E++%3Chttps%3A%2F%2Fen.wikipedia.org%2F%3E+.%0A+FILTER+%28++%28+%28++DATATYPE+%28++%3Fvar2++%29++%3D++%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23dateTime%3E++%29+%26%26+%28++MONTH+%28++%3Fvar2++%29++%3D++MONTH+%28++NOW+%28++%29++%29++%29+%26%26+%28++DAY+%28++%3Fvar2++%29++%3D++DAY+%28++NOW+%28++%29++%29++%29+%29+%0A%29+.%0A%7D%0AORDER+BY++DESC%28+%3Fvar2+%29%0ALIMIT+5%0A",
+            "2018-02-26 02:09:51",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "500"
+    },
+    "84": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ5%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP21%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ6581072%3E+.%0A++%3Fvar2++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar1+.%0A+FILTER+%28++%28++EXISTS++%7B%0A+++%3Fvar3++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar1+.%0A+++%3Fvar3++%3Chttp%3A%2F%2Fschema.org%2FinLanguage%3E++%22en%22.%0A+%7D%0A+%29+%0A%29+.%0A+FILTER+%28++%28++EXISTS++%7B%0A+++%3Fvar4++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar1+.%0A+++%3Fvar4++%3Chttp%3A%2F%2Fschema.org%2FinLanguage%3E++%22it%22.%0A+%7D%0A+%29+%0A%29+.%0A+FILTER+%28++%28++EXISTS++%7B%0A+++%3Fvar5++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar1+.%0A+++%3Fvar5++%3Chttp%3A%2F%2Fschema.org%2FinLanguage%3E++%22de%22.%0A+%7D%0A+%29+%0A%29+.%0A+FILTER+%28++%28++EXISTS++%7B%0A+++%3Fvar6++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar1+.%0A+++%3Fvar6++%3Chttp%3A%2F%2Fschema.org%2FinLanguage%3E++%22es%22.%0A+%7D%0A+%29+%0A%29+.%0A+FILTER+%28++%28++EXISTS++%7B%0A+++%3Fvar6++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar1+.%0A+++%3Fvar6++%3Chttp%3A%2F%2Fschema.org%2FinLanguage%3E++%22ru%22.%0A+%7D%0A+%29+%0A%29+.%0A+FILTER+%28++%28++NOT+EXISTS++%7B%0A+++%3Fvar7++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar1+.%0A+++%3Fvar7++%3Chttp%3A%2F%2Fschema.org%2FinLanguage%3E++%22fr%22.%0A+%7D%0A+%29+%0A%29+.%0A++MINUS+++%7B%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP106%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ10833314%3E+.%0A++%7D%0A++MINUS+++%7B%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP106%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ488111%3E+.%0A++%7D%0A++MINUS+++%7B%0A++++VALUES+%28++%3Fvar1++%29+%7B%0A+++++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ262354%3E++%29%0A++++%7D%0A++%7D%0A%7D%0ALIMIT+500%0A",
+            "2018-02-26 02:19:48",
+            "robotic",
+            "bot2"
+        ],
+        "status code": "500"
+    },
+    "85": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1++%3Fvar2+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ13442814%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP356%3E++%3Fvar2+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP50%3E++%3Fvar3+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ5%3E+.%0A++MINUS+++%7B%0A++++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP496%3E++%5B%5D+.%0A++%7D%0A++MINUS+++%7B%0A++++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP570%3E++%5B%5D+.%0A++%7D%0A%7D%0AORDER+BY+ASC%28+RAND+%28++%29+%29%0ALIMIT+2000%0A",
+            "2018-02-26 02:20:06",
+            "robotic",
+            "orcid_bot"
+        ],
+        "status code": "500"
+    },
+    "86": {
+        "query_log": [
+            "SELECT+%3Fvar1+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP131%3E++%3Fvar2+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP150%3E+*+%3Fvar2+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP131%3E+*+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ54939%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar4+.%0A++%3Fvar4++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ56061%3E+.%0A%7D%0A",
+            "2018-02-26 02:25:51",
+            "robotic",
+            "bot2"
+        ],
+        "status code": "500"
+    },
+    "87": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ5%3E+%3B%0A+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP17%3E++%5B%5D+%3B%0A+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP569%3E++%3Fvar2+.%0A+FILTER+%28++%28+%28++YEAR+%28++%3Fvar2++%29++%3E+%221850%22%5E%5E%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23integer%3E++%29+%29+%0A%29+.%0A%7D%0A",
+            "2018-02-26 02:31:15",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "500"
+    },
+    "88": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar2Label++%3Fvar3+%0AWHERE+%7B%0A++%3Chttp%3A%2F%2Fwww.bigdata.com%2FqueryHints%23Query%3E++%3Chttp%3A%2F%2Fwww.bigdata.com%2FqueryHints%23optimizer%3E++%22None%22.%0A+%7B%0A++SELECT+DISTINCT+%3Fvar1+%0A++WHERE+++%7B%0A++++%3Fvar4++%3Fvar5++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ5%3E+.%0A++++%3Fvar1++%3Fvar6++%3Fvar5+.%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23type%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23Property%3E+.%0A++%7D%0A++LIMIT+100%0A+%7D%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar2Label+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fschema.org%2Fdescription%3E++%3Fvar3+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar2Label++%29++%3D++%22es%22+%29+%29+%0A%29+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar3++%29++%3D++%22es%22+%29+%29+%0A%29+.%0A%7D%0ALIMIT+100%0A",
+            "2018-02-26 02:32:31",
+            "organic",
+            "browser"
+        ],
+        "status code": "200"
+    },
+    "89": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar2Label++%3Fvar3+%0AWHERE+%7B%0A++%3Chttp%3A%2F%2Fwww.bigdata.com%2FqueryHints%23Query%3E++%3Chttp%3A%2F%2Fwww.bigdata.com%2FqueryHints%23optimizer%3E++%22None%22.%0A+%7B%0A++SELECT+DISTINCT+%3Fvar1+%0A++WHERE+++%7B%0A++++%3Fvar4++%3Fvar5++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ5%3E+.%0A++++%3Fvar1++%3Fvar6++%3Fvar5+.%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23type%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23Property%3E+.%0A++%7D%0A++LIMIT+100%0A+%7D%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar2Label+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fschema.org%2Fdescription%3E++%3Fvar3+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar2Label++%29++%3D++%22es%22+%29+%29+%0A%29+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar3++%29++%3D++%22es%22+%29+%29+%0A%29+.%0A%7D%0ALIMIT+100%0A",
+            "2018-02-26 02:32:35",
+            "organic",
+            "browser"
+        ],
+        "status code": "200"
+    },
+    "90": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar2Label++%3Fvar3+%0AWHERE+%7B%0A++%3Chttp%3A%2F%2Fwww.bigdata.com%2FqueryHints%23Query%3E++%3Chttp%3A%2F%2Fwww.bigdata.com%2FqueryHints%23optimizer%3E++%22None%22.%0A+%7B%0A++SELECT+DISTINCT+%3Fvar1+%0A++WHERE+++%7B%0A++++%3Fvar4++%3Fvar5++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ5%3E+.%0A++++%3Fvar1++%3Fvar6++%3Fvar5+.%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23type%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23Property%3E+.%0A++%7D%0A++LIMIT+100%0A+%7D%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23label%3E++%3Fvar2Label+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fschema.org%2Fdescription%3E++%3Fvar3+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar2Label++%29++%3D++%22es%22+%29+%29+%0A%29+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar3++%29++%3D++%22es%22+%29+%29+%0A%29+.%0A%7D%0ALIMIT+100%0A",
+            "2018-02-26 02:32:40",
+            "organic",
+            "browser"
+        ],
+        "status code": "200"
+    },
+    "91": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar2+.%0A+FILTER+%28++%28++%3Fvar2++IN+%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ215627%3E+%2C+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ467%3E+%2C+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ8441%3E+%2C+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ171283%3E++%29++%29+%0A%29+.%0A%7D%0A",
+            "2018-02-26 02:34:24",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "500"
+    },
+    "92": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1+%28++%3Fvar2++AS++%3Fvar3++%29+%3Fvar4+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ3305213%3E+.%0A+%7B%0A+++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP195%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ28045665%3E+.%0A+%7D%0A++UNION%0A+%7B%0A+++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP195%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ18600731%3E+.%0A+%7D%0A++MINUS+++%7B%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2FP170%3E++%5B%5D+.%0A++%7D%0A++%3Fvar1++%3Chttp%3A%2F%2Fschema.org%2Fdescription%3E++%3Fvar2+.%0A+FILTER+%28++%28+%28++LANG+%28++%3Fvar2++%29++%3D++%22en%22+%29+%29+%0A%29+.%0A++%3Fvar5++%3Chttp%3A%2F%2Fschema.org%2Fdescription%3E++%3Fvar2+.%0A++%3Fvar5++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP170%3E++%3Fvar4+.%0A%7D%0AORDER+BY++DESC%28+%3Fvar2+%29%0ALIMIT+100%0A",
+            "2018-02-26 02:36:11",
+            "robotic",
+            "bot2"
+        ],
+        "status code": "500"
+    },
+    "93": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar2+%28++GROUP_CONCAT+%28++DISTINCT++%3Fvar3++%29++AS++%3Fvar4++%29%0AWHERE+%7B%0A++VALUES+%28++%3Fvar5++%29+%7B%0A+++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ11424%3E++%29%0A+++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ24862%3E++%29%0A+++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ506240%3E++%29%0A+++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ336144%3E++%29%0A++%7D%0A++BIND+%28++%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23integer%3E++%28+STRAFTER+%28++STR+%28++%3Fvar1++%29+%2C+%22Q%22+%29+%29++AS++%3Fvar2+%29.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar5+.%0A+FILTER+%28++%28+%28++%3Fvar2++%3E+%2228090000%22%5E%5E%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23integer%3E++%29+%29+%0A%29+.%0A+OPTIONAL+%7B%0A++BIND+%28++CONCAT+%28++%22%5B%22%2C+STR+%28++%3Fvar6++%29+%2C+%22+%22%2C+%3Fvar7+%2C+%22%5D%22+%29++AS++%3Fvar3+%29.%0A++%3Fvar6++%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%3Fvar1+%3B%0A+%3Chttp%3A%2F%2Fschema.org%2FinLanguage%3E++%3Fvar7+.%0A+%7D%0A%7D%0AGROUP+BY++%3Fvar1++%3Fvar2+%0AORDER+BY++DESC%28+%3Fvar2+%29%0ALIMIT+500%0A",
+            "2018-02-26 02:36:46",
+            "robotic",
+            "bot2"
+        ],
+        "status code": "500"
+    },
+    "94": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1+%0AWHERE+%7B%0A++BIND+%28++STR+%28++%3Fvar2++%29++AS++%3Fvar3+%29.%0A++%3Fvar1++%3Chttp%3A%2F%2Fschema.org%2FdateModified%3E++%3Fvar4+.%0A+FILTER+%28++%28+%28++%28++NOW+%28++%29+-+%3Fvar4++%29++%3C+%221%22%5E%5E%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23integer%3E++%29+%29+%0A%29+.%0A++%3Fvar1+%5E+%3Chttp%3A%2F%2Fschema.org%2Fabout%3E++%5B++%3Chttp%3A%2F%2Fschema.org%2FisPartOf%3E++%3Chttps%3A%2F%2Fcommons.wikimedia.org%2F%3E+%3B%0A+%3Chttp%3A%2F%2Fschema.org%2Fname%3E++%3Fvar2++%5D+.%0A+FILTER+%28++%28+%21%28+STRSTARTS+%28++%3Fvar3+%2C+%22Category%3A%22+%29+%29+%29+%0A%29+.%0A++MINUS+++%7B%0A++++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP935%3E++%5B%5D+.%0A++%7D%0A++MINUS+++%7B%0A++++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fstatement%2FP31%3E+%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ4167836%3E+.%0A++%7D%0A++MINUS+++%7B%0A++++%3Fvar3+%5E+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP935%3E++%5B%5D+.%0A++%7D%0A++MINUS+++%7B%0A++++%3Fvar1+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fstatement%2FP31%3E+%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ4167410%3E+.%0A++%7D%0A+FILTER+%28++%28+%21%28+CONTAINS+%28++%3Fvar3+%2C+%22%3A%22+%29+%29+%29+%0A%29+.%0A%7D%0A",
+            "2018-02-26 02:39:54",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "500"
+    },
+    "95": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP3373%3E++%3Fvar2+.%0A++MINUS+++%7B%0A++++%3Fvar2+%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2FP3373%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fstatement%2FP3373%3E+%2F+%3Chttp%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23sameAs%3E+%3F%29+%3Fvar1+.%0A++%7D%0A++%3Fvar2++%3Fvar3++%3Fvar4+.%0A++%3Fvar1++%3Fvar3++%3Fvar4+.%0A+FILTER+%28++%28++%3Fvar3++IN+%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP22%3E+%2C+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP25%3E++%29++%29+%0A%29+.%0A%7D%0A",
+            "2018-02-26 02:41:37",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "500"
+    },
+    "96": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1++%3Fvar2+%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ13442814%3E+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP356%3E++%3Fvar2+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP50%3E++%3Fvar3+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ5%3E+.%0A++MINUS+++%7B%0A++++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP496%3E++%5B%5D+.%0A++%7D%0A++MINUS+++%7B%0A++++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP570%3E++%5B%5D+.%0A++%7D%0A%7D%0AORDER+BY+ASC%28+RAND+%28++%29+%29%0ALIMIT+2000%0A",
+            "2018-02-26 02:53:07",
+            "robotic",
+            "orcid_bot"
+        ],
+        "status code": "500"
+    },
+    "97": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1+%0AWHERE+%7B%0A++BIND+%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2FP1082%3E++AS++%3Fvar2+%29.%0A++%3Fvar1++%3Fvar2++%3Fvar3+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fqualifier%2FP585%3E++%3Fvar4+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23rank%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23NormalRank%3E+.%0A++%3Fvar3++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23type%3E++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23BestRank%3E+.%0A++%3Fvar1++%3Fvar2++%3Fvar5+.%0A+FILTER+%28++%28+%28++%3Fvar5++%21%3D++%3Fvar3++%29+%29+%0A%29+.%0A++%3Fvar5++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fqualifier%2FP585%3E++%3Fvar6+.%0A+OPTIONAL+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP570%3E++%3Fvar7+.%0A+%7D%0A+FILTER+%28++%28+%21%28+BOUND+%28++%3Fvar7++%29+%29+%29+%0A%29+.%0A+OPTIONAL+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP576%3E++%3Fvar8+.%0A+%7D%0A+FILTER+%28++%28+%21%28+BOUND+%28++%3Fvar8++%29+%29+%29+%0A%29+.%0A++MINUS+++%7B%0A++++VALUES+%28++%3Fvar1++%29+%7B%0A+++++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ1218%3E++%29%0A+++++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ687100%3E++%29%0A+++++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ18693153%3E++%29%0A+++++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ12188195%3E++%29%0A+++++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ28648364%3E++%29%0A+++++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ430780%3E++%29%0A+++++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ3513793%3E++%29%0A+++++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ237453%3E++%29%0A+++++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ29044451%3E++%29%0A+++++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ28647579%3E++%29%0A+++++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ3424142%3E++%29%0A+++++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ29044166%3E++%29%0A+++++%28++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ1128384%3E++%29%0A++++%7D%0A++%7D%0A%7D%0ALIMIT+20%0A",
+            "2018-02-26 02:53:59",
+            "robotic",
+            "UNKNOWN"
+        ],
+        "status code": "200"
+    },
+    "98": {
+        "query_log": [
+            "SELECT+%3Fvar1++%3Fvar2+%28++CONCAT+%28++%22%7B%7BCoord%7C%22%2C+STR+%28++%3Fvar3++%29+%2C+%22%7C%22%2C+STR+%28++%3Fvar4++%29+%2C+%22string1%22+%29++AS++%3Fvar5++%29%0AWHERE+%7B%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP4102%3E++%3Fvar6+%3B%0A%28+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%3F%29+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ744099%3E+%3B%0A+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar2+%3B%0A+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP131%3E+%2B+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ25%3E+%3B%0A+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2FP625%3E++%3Fvar7+.%0A++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP131%3E+%2B+%3Fvar8+.%0A++%3Fvar8++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP131%3E++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ25%3E+.%0A+FILTER+%28++%28++EXISTS++%7B%0A+++%3Fvar7+%28+%3Chttp%3A%2F%2Fwww.w3.org%2Fns%2Fprov%23wasDerivedFrom%3E+%2F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Freference%2FP854%3E+%29+%3Fvar9+.%0A+%7D%0A+%29+%0A%29+.%0A++%3Fvar7++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fstatement%2Fvalue%2FP625%3E++%3Fvar10+.%0A++%3Fvar10++%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23geoLatitude%3E++%3Fvar3+%3B%0A+%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23geoLongitude%3E++%3Fvar4+.%0A++%3Fvar2++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+%3F+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ744099%3E+.%0A%7D%0A",
+            "2018-02-26 02:56:41",
+            "robotic",
+            "bot2"
+        ],
+        "status code": "504"
+    },
+    "99": {
+        "query_log": [
+            "SELECT+DISTINCT+%3Fvar1+%0AWHERE+%7B%0A+%7B%0A+++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar2+.%0A+++%3Fvar2++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ24354%3E+.%0A+++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP131%3E++%3Fvar3+.%0A+++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP131%3E+*+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ1284%3E+.%0A+%7D%0A++UNION%0A+%7B%0A+++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar2+.%0A+++%3Fvar2++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ33506%3E+.%0A+++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP131%3E++%3Fvar3+.%0A+++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP131%3E+*+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ1284%3E+.%0A+%7D%0A++UNION%0A+%7B%0A+++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar2+.%0A+++%3Fvar2++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ28564%3E+.%0A+++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP131%3E++%3Fvar3+.%0A+++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP131%3E+*+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ1284%3E+.%0A+%7D%0A++UNION%0A+%7B%0A+++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP31%3E++%3Fvar2+.%0A+++%3Fvar2++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP279%3E+*+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ839954%3E+.%0A+++%3Fvar1++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP131%3E++%3Fvar3+.%0A+++%3Fvar3++%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2FP131%3E+*+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2FQ1284%3E+.%0A+%7D%0A%7D%0A",
+            "2018-02-26 03:01:19",
+            "robotic",
+            "bot2"
+        ],
+        "status code": "500"
+    }
+}

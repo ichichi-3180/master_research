@@ -1,0 +1,25 @@
+SELECT DISTINCT ?var1 
+WHERE {
+  BIND (  STR (  ?var2  )  AS  ?var3 ).
+  ?var1  <http://schema.org/dateModified>  ?var4 .
+ FILTER (  ( (  (  NOW (  ) - ?var4  )  < "1"^^<http://www.w3.org/2001/XMLSchema#integer>  ) ) 
+) .
+  ?var1 ^ <http://schema.org/about>  [  <http://schema.org/isPartOf>  <https://commons.wikimedia.org/> ;
+ <http://schema.org/name>  ?var2  ] .
+ FILTER (  ( !( STRSTARTS (  ?var3 , "Category:" ) ) ) 
+) .
+  MINUS   {
+    ?var1  <http://www.wikidata.org/prop/direct/P935>  [] .
+  }
+  MINUS   {
+    ?var1 ( <http://www.wikidata.org/prop/P31> / <http://www.wikidata.org/prop/statement/P31> ) <http://www.wikidata.org/entity/Q4167836> .
+  }
+  MINUS   {
+    ?var3 ^ <http://www.wikidata.org/prop/direct/P935>  [] .
+  }
+  MINUS   {
+    ?var1 ( <http://www.wikidata.org/prop/P31> / <http://www.wikidata.org/prop/statement/P31> ) <http://www.wikidata.org/entity/Q4167410> .
+  }
+ FILTER (  ( !( CONTAINS (  ?var3 , ":" ) ) ) 
+) .
+}

@@ -1,0 +1,8 @@
+SELECT ?var1  ?var2 ( COUNT (* ) AS  ?var3  )
+WHERE {
+  BIND (  <http://www.w3.org/2001/XMLSchema#integer>  ( SUBSTR (  STR (  ?var1  ) ,"33"^^<http://www.w3.org/2001/XMLSchema#integer>  ) )  AS  ?var2 ).
+  ?var4  <http://www.wikidata.org/prop/direct/P31>  ?var1 ;
+( <http://www.wikidata.org/prop/direct/P279> / <http://www.wikidata.org/prop/direct/P279> / <http://www.wikidata.org/prop/direct/P279> / <http://www.wikidata.org/prop/direct/P279> / <http://www.wikidata.org/prop/direct/P279> / <http://www.wikidata.org/prop/direct/P279> ) ?var1 .
+}
+GROUP BY  ?var1  ?var2 
+ORDER BY  DESC( ?var3 )ASC( ?var2 )

@@ -1,0 +1,24 @@
+SELECT ?var1 ( COUNT ( DISTINCT  STR (  ?var1Label  )  ) AS  ?var2  )( COUNT ( ?var1Label  ) AS  ?var3  )(  GROUP_CONCAT (  DISTINCT  STR (  ?var1Label  ) ; SEPARATOR =  "; " )  AS  ?var4  )
+WHERE {
+  VALUES (  ?var5  ) {
+   (  <http://www.wikidata.org/entity/Q12308941>  )
+   (  <http://www.wikidata.org/entity/Q11879590>  )
+  }
+  BIND (  LANG (  ?var1Label  )  AS  ?var6 ).
+  ?var1  <http://www.wikidata.org/prop/direct/P31>  ?var5 .
+  ?var1  <http://www.w3.org/2000/01/rdf-schema#label>  ?var1Label .
+ FILTER (  (  ?var6  NOT IN (  "ru", "sr", "ja", "mk", "el", "be", "hy", "uk", "ar", "zh", "fa", "ko", "th", "pnb", "sd", "ur", "grc", "bh", "be-tarask", "ckb", "zh-hans", "zh-hant", "zh-hk", "zh-cn", "bn", "iu", "yue", "zh-sg", "zh-tw", "zh-mo", "zh-my", "arz", "os", "gu", "mai", "yi", "chr", "yue", "ka", "arc", "am", "ky", "kn", "sah", "sa", "cv", "ce", "av", "sr-ec", "he", "ba", "bg", "tt", "as", "ml", "ne", "mr", "ta", "te", "hi", "new", "kk", "kk-arab", "kk-cyrl", "kk-cn", "kk-kz" )  ) 
+) .
+  MINUS   {
+    ?var1  <http://www.wikidata.org/prop/direct/P31>  <http://www.wikidata.org/entity/Q4167410> .
+  }
+  MINUS   {
+    ?var1  <http://www.wikidata.org/prop/direct/P31>  <http://www.wikidata.org/entity/Q101352> .
+  }
+ FILTER (  (  ?var1  NOT IN (  <http://www.wikidata.org/entity/Q307378> , <http://www.wikidata.org/entity/Q317520> , <http://www.wikidata.org/entity/860239> , <http://www.wikidata.org/entity/Q860239> , <http://www.wikidata.org/entity/Q477088> , <http://www.wikidata.org/entity/Q19970288>  )  ) 
+) .
+}
+GROUP BY  ?var1 
+ HAVING  ( (  ?var2  > "1"^^<http://www.w3.org/2001/XMLSchema#integer>  ) ) 
+ ORDER BY  DESC( ?var2 )ASC( ?var1 )
+LIMIT 1200
