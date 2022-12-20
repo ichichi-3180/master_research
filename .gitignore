@@ -7,3 +7,4 @@ log_analysis/query/wikidata/*
 !log_analysis/query/wikidata/StatusCode
 log_analysis/query/wikidata/StatusCode/*
 !log_analysis/query/wikidata/StatusCode/20221215101853
+.vscode
