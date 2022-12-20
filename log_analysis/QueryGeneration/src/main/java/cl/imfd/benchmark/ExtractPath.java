@@ -49,7 +49,7 @@ public class ExtractPath {
 			for (String query : PathPatternQueries) {
 				count++;
 				pathsFile.write(Integer.toString(count));
-				pathsFile.write('	');
+				pathsFile.write(',');
 				pathsFile.write(query);
 				pathsFile.write('\n');
 			}
