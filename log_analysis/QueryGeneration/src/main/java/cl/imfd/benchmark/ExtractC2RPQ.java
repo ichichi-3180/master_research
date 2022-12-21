@@ -3,6 +3,7 @@ package cl.imfd.benchmark;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
+import java.net.URLDecoder;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.TreeSet;
@@ -27,6 +28,8 @@ public class ExtractC2RPQ {
 		QueryIterator queryIter = new QueryIterator();
 
 		for (String query : queryIter) {
+			String encoded_query = query;
+			query = URLDecoder.decode(query, "UTF-8").replaceAll("\n", " ");
 			Op op = null;
 			try {
 				op = (new AlgebraGenerator()).compile(QueryFactory.create(query));
@@ -225,13 +228,13 @@ public class ExtractC2RPQ {
 			}
 
 			// pathQueries.add(sb.toString());
-			NavigationalGraphPattenrs.add(query.toString());
+			NavigationalGraphPattenrs.add(encoded_query);
 		}
 
 		// Write Paths into file
 		try {
 		    //   FileWriter pathsFile = new FileWriter("c2rpqs.txt");
-			  FileWriter NavigatinalPathsFile = new FileWriter(OutputDirectoryName + "c2rpqs_queries.txt");
+			  FileWriter NavigatinalPathsFile = new FileWriter(OutputDirectoryName + "c2rpqs_queries.tsv");
 
 		    //   int count = 0;
 		    //   for (String query : pathQueries) {
@@ -246,7 +249,7 @@ public class ExtractC2RPQ {
 		      for (String query : NavigationalGraphPattenrs) {
 		    	  _count++;
 		    	  NavigatinalPathsFile.write(Integer.toString(_count));
-		    	  NavigatinalPathsFile.write(',');
+		    	  NavigatinalPathsFile.write('\t');
 		    	  NavigatinalPathsFile.write(query);
 		    	  NavigatinalPathsFile.write('\n');
 		      }

@@ -3,6 +3,7 @@ package cl.imfd.benchmark;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
+import java.net.URLDecoder;
 import java.util.TreeSet;
 
 import org.apache.jena.query.QueryException;
@@ -21,6 +22,8 @@ public class ExtractPath {
 		QueryIterator queryIter = new QueryIterator();
 
 		for (String query : queryIter) {
+			String encoded_query = query;
+			query = URLDecoder.decode(query, "UTF-8").replaceAll("\n", " ");
 			Op op = null;
 
 			try {
@@ -36,20 +39,20 @@ public class ExtractPath {
 			if (!visitor.hasUnsuportedOp) {
 				for (String path_str : visitor.pathsSet) {
 					// pathQueries.add(path_str);
-					PathPatternQueries.add(query.toString());
+					PathPatternQueries.add(encoded_query);
 				}
 			}
 		}
 
 		// Write Paths into file
 		try {
-			FileWriter pathsFile = new FileWriter(OutputDirectoryName + "paths_queries.txt");
+			FileWriter pathsFile = new FileWriter(OutputDirectoryName + "paths_queries.tsv");
 
 			int count = 0;
 			for (String query : PathPatternQueries) {
 				count++;
 				pathsFile.write(Integer.toString(count));
-				pathsFile.write(',');
+				pathsFile.write('\t');
 				pathsFile.write(query);
 				pathsFile.write('\n');
 			}

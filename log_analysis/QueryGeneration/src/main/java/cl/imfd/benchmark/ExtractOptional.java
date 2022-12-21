@@ -3,6 +3,7 @@ package cl.imfd.benchmark;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
+import java.net.URLDecoder;
 import java.util.TreeSet;
 
 import org.apache.jena.query.QueryException;
@@ -20,6 +21,8 @@ public class ExtractOptional {
 
 		QueryIterator queryIter = new QueryIterator();
 		for (String query : queryIter) {
+			String encoded_query = query;
+			query = URLDecoder.decode(query, "UTF-8").replaceAll("\n", " ");
 			Op op = null;
 			ExtractOptionalVisitor visitor = new ExtractOptionalVisitor();
 
@@ -40,7 +43,7 @@ public class ExtractOptional {
 				visitor.optionalNode.toString(); // sets propertly visitor.optionalNode.crossProduct
 				if (!visitor.optionalNode.crossProduct) {
 					// optQueries.add(str);
-					OptionalPatternQueries.add(query.toString());
+					OptionalPatternQueries.add(encoded_query);
 				}
 			}
 		}
@@ -48,7 +51,7 @@ public class ExtractOptional {
 		// Write queries into file
 		try {
 		    //   FileWriter optsFile = new FileWriter("opts.txt");
-		    FileWriter OptionalFile = new FileWriter(OutputDirectoryName + "optional_queries.txt");
+		    FileWriter OptionalFile = new FileWriter(OutputDirectoryName + "optional_queries.tsv");
 
 		    //   int count = 0;
 		    //   for (String query : optQueries) {
@@ -62,7 +65,7 @@ public class ExtractOptional {
 			for (String query : OptionalPatternQueries) {
 				_count++;
 				OptionalFile.write(Integer.toString(_count));
-				OptionalFile.write(',');
+				OptionalFile.write('\t');
 				OptionalFile.write(query);
 				OptionalFile.write('\n');
 			}

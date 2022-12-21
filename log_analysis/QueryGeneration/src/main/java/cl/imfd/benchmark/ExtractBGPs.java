@@ -7,6 +7,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map.Entry;
 import java.util.TreeSet;
+import java.net.URLDecoder;
 
 import org.apache.jena.graph.Node;
 import org.apache.jena.graph.Triple;
@@ -28,6 +29,8 @@ public class ExtractBGPs {
 		QueryIterator queryIter = new QueryIterator();
 
 		for (String query : queryIter) {
+			String encoded_query = query;
+			query = URLDecoder.decode(query, "UTF-8").replaceAll("\n", " ");
 			Op op = null;
 			try {
 				op = (new AlgebraGenerator()).compile(QueryFactory.create(query));
@@ -184,10 +187,10 @@ public class ExtractBGPs {
 				}
 				if (transformedBgp.size() == 1) {
 					// singleBGP.add(sb.toString());
-					singleBGPQuery.add(query.toString());
+					singleBGPQuery.add(encoded_query);
 				} else {
 					// multipleBGP.add(sb.toString());
-					multipleBGPQuery.add(query.toString());
+					multipleBGPQuery.add(encoded_query);
 				}
 			}
 		}
@@ -196,8 +199,8 @@ public class ExtractBGPs {
 		try {
 		    //   FileWriter singleBGPFile = new FileWriter("single_bgps.txt");
 		    //   FileWriter multipleBGPFile = new FileWriter("multiple_bgps.txt");
-		      FileWriter singleBGPQueryFile = new FileWriter(OutputDirectoryName + "single_bgps_queries.txt");
-		      FileWriter multipleBGPQueryFile = new FileWriter(OutputDirectoryName + "multiple_bgps_queries.txt");
+		      FileWriter singleBGPQueryFile = new FileWriter(OutputDirectoryName + "single_bgps_queries.tsv");
+		      FileWriter multipleBGPQueryFile = new FileWriter(OutputDirectoryName + "multiple_bgps_queries.tsv");
 
 		    //   int singleCount = 0;
 		    //   for (String query : singleBGP) {
@@ -221,7 +224,7 @@ public class ExtractBGPs {
 		      for (String query : singleBGPQuery) {
 		    	  singleBGPQuery_Count++;
 		    	  singleBGPQueryFile.write(Integer.toString(singleBGPQuery_Count));
-		    	  singleBGPQueryFile.write(',');
+		    	  singleBGPQueryFile.write('\t');
 		    	  singleBGPQueryFile.write(query);
 		    	  singleBGPQueryFile.write('\n');
 		      }
@@ -230,7 +233,7 @@ public class ExtractBGPs {
 		      for (String query : multipleBGPQuery) {
 		    	  multipleBGPQuery_Count++;
 		    	  multipleBGPQueryFile.write(Integer.toString(multipleBGPQuery_Count));
-		    	  multipleBGPQueryFile.write(',');
+		    	  multipleBGPQueryFile.write('\t');
 		    	  multipleBGPQueryFile.write(query);
 		    	  multipleBGPQueryFile.write('\n');
 		      }
