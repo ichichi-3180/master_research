@@ -1,0 +1,9 @@
+SELECT DISTINCT ?var1 
+WHERE {
+  ?var2  <http://www.wikidata.org/prop/direct/P921>  ?var1 ;
+ <http://www.wikidata.org/prop/direct/P31>  <http://www.wikidata.org/entity/Q13442814> .
+ SERVICE  <http://wikiba.se/ontology#label>   {
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#language>  "en".
+  }
+}
+ORDER BY  DESC( ?var3 )

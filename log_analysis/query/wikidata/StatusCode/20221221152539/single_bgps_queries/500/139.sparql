@@ -1,0 +1,14 @@
+SELECT *
+WHERE {
+ SELECT ?var1  ?var1Label  ?var2 
+ WHERE  {
+   ?var1  <http://www.wikidata.org/prop/direct/P902>  ?var2 .
+  SERVICE  <http://wikiba.se/ontology#label>    {
+     <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#language>  "de".
+ FILTER (     (  REGEX (  LCASE (  ?var1Label  ) , "^bern" )  ) 
+) .
+   }
+ }
+}
+ORDER BY ASC( ?var3Label )
+LIMIT 8

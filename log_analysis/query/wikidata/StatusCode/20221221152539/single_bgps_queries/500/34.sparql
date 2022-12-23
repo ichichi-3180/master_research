@@ -1,0 +1,10 @@
+SELECT ?var1  ?var1Label 
+WHERE {
+  <http://www.wikidata.org/entity/Q9049>  ?var1  <http://www.wikidata.org/entity/Q14467526> .
+ SERVICE  <http://wikiba.se/ontology#label>   {
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#language>  "en".
+    ?var1  <http://www.w3.org/2000/01/rdf-schema#label>  ?var1Label .
+ FILTER (    ( (  LANG (  ?var1  )  =  "en" ) ) 
+) .
+  }
+}

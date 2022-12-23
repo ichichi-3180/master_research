@@ -1,0 +1,17 @@
+SELECT ?var1  ?var2  ?var3  ?var4 
+WHERE {
+  ?var1  <http://www.wikidata.org/prop/direct/P170>  <http://www.wikidata.org/entity/Q61064> .
+ OPTIONAL {
+  ?var1  <http://www.wikidata.org/prop/direct/P18>  ?var2 .
+ }
+ OPTIONAL {
+  ?var1  <http://www.wikidata.org/prop/direct/P276>  ?var3 .
+ }
+ OPTIONAL {
+  ?var3  <http://www.wikidata.org/prop/direct/P625>  ?var4 .
+ }
+ SERVICE  <http://wikiba.se/ontology#label>   {
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#language>  "en,en".
+  }
+}
+LIMIT 100

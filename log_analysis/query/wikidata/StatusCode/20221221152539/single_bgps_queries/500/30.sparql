@@ -1,0 +1,9 @@
+SELECT ?var1 
+WHERE {
+ SERVICE  <http://wikiba.se/ontology#label>   {
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#language>  "en,en ".
+  }
+  ?var1  <http://www.wikidata.org/prop/direct/P31>  <http://www.wikidata.org/entity/Q5> .
+}
+ORDER BY ASC( ?var1 )
+LIMIT 5000

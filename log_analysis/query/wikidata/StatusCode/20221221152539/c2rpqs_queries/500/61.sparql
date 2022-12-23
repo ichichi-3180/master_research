@@ -1,0 +1,10 @@
+SELECT ?var1  ?var1Label  ?var2  ?var2Label  ?var3  ?var3Label 
+WHERE {
+  ?var2 ( <http://www.wikidata.org/prop/direct/P31> / <http://www.wikidata.org/prop/direct/P279> *) <http://www.wikidata.org/entity/Q515> ;
+ <http://www.wikidata.org/prop/direct/P17>  ?var1 ;
+ <http://www.wikidata.org/prop/direct/P1082>  ?var3 .
+ SERVICE  <http://wikiba.se/ontology#label>   {
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#language>  "fr,en".
+  }
+}
+ORDER BY ASC( ?var1 )

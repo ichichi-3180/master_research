@@ -1,0 +1,11 @@
+SELECT DISTINCT ?var1 
+WHERE {
+ {
+  SELECT ?var1 
+  WHERE   {
+    ?var1  <http://www.wikidata.org/prop/direct/P3345>  ?var2 .
+  }
+  LIMIT 10
+ }
+  ?var1  <http://www.wikidata.org/prop/direct/P31>  ?var3 .
+}

@@ -1,0 +1,5 @@
+SELECT *
+WHERE {
+  ?var1  <http://www.wikidata.org/prop/direct/P31> ? ?var2 .
+}
+LIMIT 10

@@ -1,0 +1,11 @@
+SELECT ?var1Label 
+WHERE {
+  ?var2  <http://www.wikidata.org/prop/direct/P31>  <http://www.wikidata.org/entity/Q3863> ;
+ <http://www.wikidata.org/prop/direct/P61>  ?var3 .
+  ?var3  <http://www.wikidata.org/prop/direct/P27>  ?var1 .
+ SERVICE  <http://wikiba.se/ontology#label>   {
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#language>  "en".
+  }
+}
+GROUP BY  ?var1Label  <http://www.wikidata.org/entity/Q3299754>  ( ?var4 ) 
+LIMIT 10

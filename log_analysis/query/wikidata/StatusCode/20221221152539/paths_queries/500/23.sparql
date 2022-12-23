@@ -1,0 +1,7 @@
+SELECT ?var1 
+WHERE {
+  ?var1  ?var2  ?var3 .
+  ?var3 ( <http://www.wikidata.org/prop/direct/P131> | <http://www.wikidata.org/prop/direct/P17> ) ?var4 .
+  <http://www.wikidata.org/entity/P276> (^ <http://www.wikidata.org/prop/direct/P1647> / <http://wikiba.se/ontology#claim> ) ?var2 .
+}
+LIMIT 1

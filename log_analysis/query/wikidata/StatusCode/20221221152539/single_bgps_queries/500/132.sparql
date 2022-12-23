@@ -1,0 +1,9 @@
+SELECT ?var1Label 
+WHERE {
+  ?var1  <http://www.wikidata.org/prop/direct/P31>  <http://www.wikidata.org/entity/Q5> .
+ SERVICE  <http://wikiba.se/ontology#label>   {
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#language>  "pt,en,es,it,fr,[AUTO_LANGUAGE]".
+  }
+}
+ORDER BY ASC( RAND (  ) )
+LIMIT 20

@@ -1,0 +1,11 @@
+SELECT DISTINCT ?var1 
+WHERE {
+ {
+  SELECT ?var1 
+  WHERE   {
+    ?var1 ( <http://www.wikidata.org/prop/direct/P31> / <http://www.wikidata.org/prop/direct/P279> *) <http://www.wikidata.org/entity/Q1190554> .
+  }
+  LIMIT 100
+ }
+  ?var1  <http://www.w3.org/2000/01/rdf-schema#label>  ?var2Label .
+}

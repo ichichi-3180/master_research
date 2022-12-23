@@ -1,0 +1,11 @@
+SELECT *
+WHERE {
+  <http://www.wikidata.org/entity/Q16553>  <http://www.wikidata.org/prop/direct/P625>  ?var1 .
+  <http://www.wikidata.org/entity/Q18013>  <http://www.wikidata.org/prop/direct/P625>  ?var2 .
+ SERVICE  <http://wikiba.se/ontology#box>   {
+    ?var3  <http://www.wikidata.org/prop/direct/P625>  ?var4 .
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#cornerWest>  ?var1 .
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#cornerEast>  ?var2 .
+  }
+  ?var3 ( <http://www.wikidata.org/prop/direct/P31> / <http://www.wikidata.org/prop/direct/P279> *) <http://www.wikidata.org/entity/Q3914> .
+}

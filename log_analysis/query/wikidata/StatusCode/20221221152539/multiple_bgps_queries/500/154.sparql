@@ -1,0 +1,13 @@
+SELECT ?var1  ?var2Label  ?var3  ?var4  ?var5 
+WHERE {
+  ?var2  <http://www.wikidata.org/prop/direct/P4389>  ?var3 .
+ SERVICE  <http://wikiba.se/ontology#around>   {
+    ?var1  <http://www.wikidata.org/prop/direct/P625>  ?var5 .
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#center>  ?var6 .
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#radius>  "10".
+  }
+  ?var1  <http://www.wikidata.org/prop/direct/P180>  ?var2 .
+ SERVICE  <http://wikiba.se/ontology#label>   {
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#language>  "en,en".
+  }
+}

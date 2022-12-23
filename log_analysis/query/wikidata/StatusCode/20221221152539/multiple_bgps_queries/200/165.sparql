@@ -1,0 +1,12 @@
+SELECT DISTINCT ?var1 
+WHERE {
+  ?var1  <http://www.wikidata.org/prop/direct/P141>  <http://www.wikidata.org/entity/Q219127> ;
+ <http://www.wikidata.org/prop/direct/P105>  <http://www.wikidata.org/entity/Q7432> .
+ SERVICE  <http://www.bigdata.com/rdf/gas#service>   {
+    <http://www.bigdata.com/rdf/gas#program>  <http://www.bigdata.com/rdf/gas#gasClass>  "com.bigdata.rdf.graph.analytics.BFS";
+ <http://www.bigdata.com/rdf/gas#in>  <http://www.wikidata.org/entity/Q756> ;
+ <http://www.bigdata.com/rdf/gas#out>  ?var1 ;
+ <http://www.bigdata.com/rdf/gas#linkType>  <http://www.wikidata.org/prop/direct/P171> ;
+ <http://www.bigdata.com/rdf/gas#traversalDirection>  "Reverse".
+  }
+}

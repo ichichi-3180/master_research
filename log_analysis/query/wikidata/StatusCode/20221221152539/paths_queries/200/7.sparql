@@ -1,0 +1,8 @@
+SELECT ?var1 
+WHERE {
+  ?var1 ( <http://www.wikidata.org/prop/direct/P31> / <http://www.wikidata.org/prop/direct/P279> *) <http://www.wikidata.org/entity/Q838948> .
+  ?var1  <http://www.wikidata.org/prop/P528>  ?var2 .
+  ?var2  <http://www.wikidata.org/prop/statement/P528>  ?var3 .
+  ?var2  <http://www.wikidata.org/prop/qualifier/P972>  <http://www.wikidata.org/entity/Q20678531> .
+}
+ORDER BY ASC( <http://www.w3.org/2001/XMLSchema#integer>  ( ?var3 ) )

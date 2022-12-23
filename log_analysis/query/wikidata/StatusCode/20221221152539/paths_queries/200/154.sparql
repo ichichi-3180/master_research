@@ -1,0 +1,11 @@
+SELECT ?var1  ?var2  ?var3  ?var4  ?var5 
+WHERE {
+  ?var2 ( <http://www.wikidata.org/prop/direct/P31> / <http://www.wikidata.org/prop/direct/P279> *) <http://www.wikidata.org/entity/Q101352> .
+  ?var2  <http://www.wikidata.org/prop/P1889>  [  <http://www.wikidata.org/prop/statement/P1889>  ?var4 ;
+ <http://www.wikidata.org/prop/qualifier/P1013>  <http://www.wikidata.org/entity/Q27924673>  ] .
+  ?var3  <http://schema.org/about>  ?var2 ;
+ <http://schema.org/isPartOf>  [ (^ <http://schema.org/isPartOf> /^ <http://schema.org/about> ) ?var4  ] ;
+ <http://schema.org/isPartOf>  ?var1 .
+  ?var5  <http://schema.org/about>  ?var4 ;
+ <http://schema.org/isPartOf>  ?var1 .
+}

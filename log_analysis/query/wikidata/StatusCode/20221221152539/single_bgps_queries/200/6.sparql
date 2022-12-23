@@ -1,0 +1,6 @@
+Describe
+ ?var1 WHERE {
+  ?var1  <http://www.wikidata.org/prop/direct/P1741>  ?var2 .
+}
+OFFSET 1000000
+LIMIT 1000000

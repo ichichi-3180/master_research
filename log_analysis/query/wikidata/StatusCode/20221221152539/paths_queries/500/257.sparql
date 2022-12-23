@@ -1,0 +1,15 @@
+SELECT DISTINCT ?var1  ?var2  ?var3  ?var4  ?var5 
+WHERE {
+  ?var1  <http://www.wikidata.org/prop/direct/P131> * <http://www.wikidata.org/entity/Q61> .
+  ?var1 ( <http://www.wikidata.org/prop/direct/P31> / <http://www.wikidata.org/prop/direct/P279> *) <http://www.wikidata.org/entity/Q33506> .
+  ?var1  <http://www.wikidata.org/prop/direct/P625>  ?var3 .
+  ?var1  <http://www.wikidata.org/prop/P625>  ?var6 .
+  ?var6  <http://www.wikidata.org/prop/statement/value/P625>  ?var7 .
+  ?var7  <http://wikiba.se/ontology#geoLatitude>  ?var4 .
+  ?var7  <http://wikiba.se/ontology#geoLongitude>  ?var5 .
+ SERVICE  <http://wikiba.se/ontology#label>   {
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#language>  "zh,en".
+    ?var1  <http://www.w3.org/2000/01/rdf-schema#label>  ?var2 .
+  }
+}
+ORDER BY ASC( ?var2 )

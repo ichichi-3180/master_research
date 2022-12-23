@@ -1,0 +1,8 @@
+SELECT DISTINCT ?var1  ?var2  ?var3 
+WHERE {
+  ?var1 ( <http://www.wikidata.org/prop/direct/P31> / <http://www.wikidata.org/prop/direct/P279> *) <http://www.wikidata.org/entity/Q3305213> .
+  ?var1  <http://www.wikidata.org/prop/direct/P180>  ?var2 .
+  ?var2  <http://www.wikidata.org/prop/direct/P279> * <http://www.wikidata.org/entity/Q82794> .
+  ?var1  <http://www.wikidata.org/prop/direct/P18>  ?var3 .
+}
+LIMIT 10

@@ -1,0 +1,9 @@
+Describe
+ ?var1 WHERE {
+  ?var1  <http://www.wikidata.org/prop/direct/P1741>  ?var2 .
+ SERVICE  <http://wikiba.se/ontology#label>   {
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#language>  "nl".
+  }
+}
+OFFSET 1000000
+LIMIT 1000000

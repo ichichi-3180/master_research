@@ -1,0 +1,7 @@
+CONSTRUCT {
+  <http://example.com/examples>  <http://example.com/examplep>  <http://example.com/exampleo> 
+}
+WHERE {
+  ?var1  <http://www.wikidata.org/prop/direct/P297>  ?var2 .
+}
+LIMIT 10

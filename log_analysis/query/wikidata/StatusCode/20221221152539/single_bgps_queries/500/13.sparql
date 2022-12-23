@@ -1,0 +1,7 @@
+Describe
+ ?var1 WHERE {
+  ?var1  <http://www.wikidata.org/prop/direct/P31>  <http://www.wikidata.org/entity/Q5> .
+}
+ORDER BY ASC( ?var2 )
+LIMIT 50000
+OFFSET 0

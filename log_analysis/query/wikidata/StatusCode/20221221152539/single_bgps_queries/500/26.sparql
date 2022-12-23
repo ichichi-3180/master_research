@@ -1,0 +1,8 @@
+SELECT ?var1 
+WHERE {
+ SERVICE  <http://dbpedia.org/sparql>   {
+    ?var1  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://dbpedia.org/ontology/Person> .
+  }
+  ?var1  <http://www.wikidata.org/prop/direct/P31>  <http://www.wikidata.org/entity/Q5> .
+}
+LIMIT 100

@@ -1,0 +1,10 @@
+Describe
+ ?var1 WHERE {
+  ?var2  <http://www.wikidata.org/prop/direct/P742>  ?var3 .
+ {
+  SELECT ?var2 
+  WHERE   {
+    ?var2  <http://www.wikidata.org/prop/direct/P1741>  ?var3 .
+  }
+ }
+}

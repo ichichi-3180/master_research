@@ -1,0 +1,14 @@
+SELECT ?var1  ?var1Label  ?var2Label 
+WHERE {
+ SERVICE  <http://wikiba.se/ontology#label>   {
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#language>  "fr,en".
+  }
+  ?var1  <http://www.wikidata.org/prop/direct/P106>  <http://www.wikidata.org/entity/Q484188> .
+  ?var1  <http://www.wikidata.org/prop/direct/P19>  ?var3 .
+ SERVICE  <http://wikiba.se/ontology#around>   {
+    ?var3  <http://www.wikidata.org/prop/direct/P625>  ?var4 .
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#center>  ?var5 .
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#radius>  "50".
+  }
+}
+LIMIT 100

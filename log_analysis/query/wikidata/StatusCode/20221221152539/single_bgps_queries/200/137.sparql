@@ -1,0 +1,16 @@
+SELECT *
+WHERE {
+  ?var1  <http://www.wikidata.org/prop/direct/P31>  <http://www.wikidata.org/entity/Q185441> .
+ SERVICE  <http://wikiba.se/ontology#label>   {
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#language>  "en".
+    ?var1  <http://www.w3.org/2000/01/rdf-schema#label>  ?var2 .
+  }
+ SERVICE  <http://wikiba.se/ontology#label>   {
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#language>  "de".
+    ?var1  <http://www.w3.org/2000/01/rdf-schema#label>  ?var3 .
+  }
+ SERVICE  <http://wikiba.se/ontology#label>   {
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#language>  "fr".
+    ?var1  <http://www.w3.org/2000/01/rdf-schema#label>  ?var4 .
+  }
+}

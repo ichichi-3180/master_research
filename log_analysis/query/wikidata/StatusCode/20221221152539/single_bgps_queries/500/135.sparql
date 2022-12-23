@@ -1,0 +1,6 @@
+SELECT *
+WHERE {
+  <http://www.wikidata.org/entity/Q84>  <http://www.wikidata.org/prop/direct/P17>  ?var1 .
+ SERVICE  <http://wikiba.se/ontology#label>   {
+  }
+}

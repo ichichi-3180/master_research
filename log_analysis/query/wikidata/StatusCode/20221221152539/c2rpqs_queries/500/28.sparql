@@ -1,0 +1,9 @@
+SELECT ?var1  ?var1Label 
+WHERE {
+ SERVICE  <http://wikiba.se/ontology#label>   {
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#language>  "et,en".
+  }
+  ?var1  <http://www.wikidata.org/prop/direct/P17>  <http://www.wikidata.org/entity/Q191> .
+  ?var1 ( <http://www.wikidata.org/prop/direct/P131> / <http://www.wikidata.org/prop/direct/P31> *) <http://www.wikidata.org/entity/Q532> .
+}
+LIMIT 10

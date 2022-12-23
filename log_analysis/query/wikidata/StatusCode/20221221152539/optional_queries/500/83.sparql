@@ -1,0 +1,51 @@
+SELECT ?var1  ?var1Label  ?var2Label  ?var3Label  ?var4Label  ?var5  ?var6  ?var7Label  ?var8Label  ?var9Label  ?var10Label  ?var11Label  ?var12Label  ?var13Label  ?var14Label  ?var15Label 
+WHERE {
+  ?var1  <http://www.wikidata.org/prop/direct/P31>  <http://www.wikidata.org/entity/Q5> .
+  ?var16  <http://www.wikidata.org/prop/direct/P279>  <http://www.wikidata.org/entity/Q116> .
+ OPTIONAL {
+  ?var1  <http://www.wikidata.org/prop/direct/P21>  ?var2 .
+ }
+ OPTIONAL {
+  ?var1  <http://www.wikidata.org/prop/direct/P27>  ?var3 .
+ }
+ OPTIONAL {
+  ?var1  <http://www.wikidata.org/prop/direct/P106>  ?var4 .
+ }
+ OPTIONAL {
+  ?var1  <http://www.wikidata.org/prop/direct/P569>  ?var5 .
+ }
+ OPTIONAL {
+  ?var1  <http://www.wikidata.org/prop/direct/P570>  ?var6 .
+ }
+ OPTIONAL {
+  ?var1  <http://www.wikidata.org/prop/direct/P19>  ?var7 .
+ }
+ OPTIONAL {
+  ?var1  <http://www.wikidata.org/prop/direct/P20>  ?var8 .
+ }
+ OPTIONAL {
+  ?var1  <http://www.wikidata.org/prop/direct/P119>  ?var9 .
+ }
+ OPTIONAL {
+  ?var1  <http://www.wikidata.org/prop/direct/P69>  ?var10 .
+ }
+ OPTIONAL {
+  ?var1  <http://www.wikidata.org/prop/direct/P166>  ?var11 .
+ }
+ OPTIONAL {
+  ?var1  <http://www.wikidata.org/prop/direct/P136>  ?var12 .
+ }
+ OPTIONAL {
+  ?var1  <http://www.wikidata.org/prop/direct/P39>  ?var13 .
+ }
+ OPTIONAL {
+  ?var1  <http://www.wikidata.org/prop/direct/P800>  ?var14 .
+ }
+ OPTIONAL {
+  ?var1  <http://www.wikidata.org/prop/direct/P856>  ?var15 .
+ }
+ SERVICE  <http://wikiba.se/ontology#label>   {
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#language>  "en,en".
+  }
+}
+LIMIT 150000

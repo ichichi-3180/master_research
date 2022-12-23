@@ -1,0 +1,13 @@
+SELECT ?var1 
+WHERE {
+ SERVICE  <http://wikiba.se/ontology#label>   {
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#language>  "he,en".
+  }
+  ?var2  <http://www.wikidata.org/prop/direct/P31>  <http://www.wikidata.org/entity/Q11424> .
+  ?var2  <http://www.wikidata.org/prop/direct/P495>  <http://www.wikidata.org/entity/Q801> .
+ OPTIONAL {
+  ?var2  <http://www.wikidata.org/prop/direct/P577>  ?var3 .
+ }
+}
+GROUP BY (  YEAR (  ?var3  )  AS  ?var1  )
+ORDER BY ASC( ?var1 )

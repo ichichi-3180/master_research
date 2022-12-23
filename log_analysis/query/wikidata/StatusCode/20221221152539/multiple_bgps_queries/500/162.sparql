@@ -1,0 +1,17 @@
+SELECT ?var1Label  ?var2Label  ?var3  ?var4 
+WHERE {
+  ?var2  <http://www.wikidata.org/prop/direct/P31>  <http://www.wikidata.org/entity/Q515> .
+  ?var2  <http://www.wikidata.org/prop/direct/P17>  ?var1 .
+ SERVICE  <http://wikiba.se/ontology#label>   {
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#language>  "en".
+  }
+ SERVICE  <http://dbpedia.org/sparql>   {
+    ?var5  <http://www.w3.org/2002/07/owl#sameAs>  ?var2 .
+    ?var5  <http://dbpedia.org/ontology/wikiPageID>  ?var4 .
+  }
+ SERVICE  <http://dbpedia.org/sparql>   {
+    ?var5  <http://www.w3.org/2002/07/owl#sameAs>  ?var1 .
+    ?var5  <http://dbpedia.org/ontology/wikiPageID>  ?var3 .
+  }
+}
+LIMIT 10

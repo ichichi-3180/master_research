@@ -1,0 +1,30 @@
+SELECT DISTINCT ?var1  ?var2Label  ?var3  ?var4  ?var5Label 
+WHERE {
+  ?var5  <http://www.wikidata.org/prop/direct/P1117>  ?var4 .
+ SERVICE  <http://wikiba.se/ontology#label>   {
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#language>  "en,en".
+  }
+ {
+  SELECT *
+  WHERE   {
+    ?var2  <http://www.wikidata.org/prop/direct/P1117>  ?var3 .
+   {
+    SELECT *
+    WHERE     {
+     SERVICE  <http://sparql.wikipathways.org/>       {
+        ?var6  <http://purl.org/dc/elements/1.1/identifier>  ?var7 ;
+ <http://purl.org/dc/elements/1.1/title>  ?var1 ;
+ <http://vocabularies.wikipathways.org/wp#organismName>  "string1"^^<http://www.w3.org/2001/XMLSchema#string> .
+        ?var8  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://vocabularies.wikipathways.org/wp#Interaction> ;
+ <http://vocabularies.wikipathways.org/wp#participants>  ?var9 ,  ?var10 ;
+ <http://purl.org/dc/terms/isPartOf>  ?var6 .
+        ?var9  <http://vocabularies.wikipathways.org/wp#bdbWikidata>  ?var2 .
+        ?var10  <http://vocabularies.wikipathways.org/wp#bdbWikidata>  ?var5 .
+ FILTER (        ( (  ?var9  !=  ?var10  ) ) 
+) .
+      }
+    }
+   }
+  }
+ }
+}

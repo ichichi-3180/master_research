@@ -1,0 +1,14 @@
+SELECT DISTINCT ?var1  ?var2  ?var3  ?var4Label 
+WHERE {
+  ?var4 ( <http://www.wikidata.org/prop/direct/P31> / <http://www.wikidata.org/prop/direct/P279> *) <http://www.wikidata.org/entity/Q15284> .
+  ?var4  <http://www.wikidata.org/prop/direct/P17>  <http://www.wikidata.org/entity/Q142> .
+  ?var4  <http://www.wikidata.org/prop/P625>  ?var5 .
+  ?var4  <http://www.wikidata.org/prop/direct/P1082>  ?var3 .
+  ?var5  <http://www.wikidata.org/prop/statement/value/P625>  ?var6 .
+  ?var7  <http://www.wikidata.org/prop/direct/P21>  ?var8 .
+  ?var6  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://wikiba.se/ontology#GlobecoordinateValue> .
+  ?var6  <http://wikiba.se/ontology#geoLatitude>  ?var1 .
+  ?var6  <http://wikiba.se/ontology#geoLongitude>  ?var2 .
+}
+ORDER BY  DESC( ?var3 )
+LIMIT 10

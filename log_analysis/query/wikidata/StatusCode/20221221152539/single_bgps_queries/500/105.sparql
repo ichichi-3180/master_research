@@ -1,0 +1,6 @@
+SELECT ?var1  ?var2 
+WHERE {
+  ?var1  <http://www.wikidata.org/prop/direct/P50>  ?var2 .
+}
+ORDER BY ASC( ?var1 )ASC( ?var2 )
+LIMIT 10

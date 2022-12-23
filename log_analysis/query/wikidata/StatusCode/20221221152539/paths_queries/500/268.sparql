@@ -1,0 +1,14 @@
+SELECT DISTINCT *
+WHERE {
+  ?var1 ( <http://www.wikidata.org/prop/direct/P31> / <http://www.wikidata.org/prop/direct/P279> *) <http://www.wikidata.org/entity/Q515> .
+ SERVICE  <http://wikiba.se/ontology#around>   {
+    ?var1  <http://www.wikidata.org/prop/direct/P625>  ?var2 .
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#center>  "POINT(38 127)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#radius>  "10".
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#distance>  ?var3 .
+  }
+ SERVICE  <http://wikiba.se/ontology#label>   {
+    <http://www.bigdata.com/rdf#serviceParam>  <http://wikiba.se/ontology#language>  "en".
+  }
+}
+ORDER BY ASC( ?var3 )
